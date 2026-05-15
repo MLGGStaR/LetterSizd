@@ -1,8 +1,8 @@
 {
   "version": 1,
-  "generatedAt": "2026-05-15T23:14:13.386Z",
+  "generatedAt": "2026-05-15T23:45:07.541Z",
   "dashboard": {
-    "updatedAt": 1778886848799,
+    "updatedAt": 1778888704328,
     "feed": [
       {
         "source": "serializd",
@@ -113,6 +113,18 @@
         "link": "https://www.themoviedb.org/tv/255661",
         "tmdbShowId": 255661,
         "posterPath": "/h3s0Cd2JppeWA4UjTuSRauL52P7.jpg"
+      },
+      {
+        "source": "letterboxd",
+        "kind": "movie",
+        "guid": "letterboxd-viewing-1317144508",
+        "title": "In the Grey",
+        "subtitle": "2026",
+        "watchedAt": 1778932800000,
+        "rating": 4,
+        "link": "https://letterboxd.com/film/in-the-grey-2026/",
+        "tmdbMovieId": 1122573,
+        "posterPath": "/83YeicHJqiyGGH1QRbeQdtqegvW.jpg"
       },
       {
         "source": "letterboxd",
@@ -13326,6 +13338,15 @@
         "link": "https://letterboxd.com/film/borat-cultural-learnings-of-america-for-make-benefit-glorious-nation-of-kazakhstan/"
       },
       {
+        "tmdbMovieId": 1122573,
+        "title": "In the Grey",
+        "year": 2026,
+        "rating": 4,
+        "watchedAt": 1778932800000,
+        "posterPath": "/83YeicHJqiyGGH1QRbeQdtqegvW.jpg",
+        "link": "https://letterboxd.com/film/in-the-grey-2026/"
+      },
+      {
         "tmdbMovieId": 1084577,
         "title": "Balls Up",
         "year": 2026,
@@ -18746,12 +18767,12 @@
     ],
     "stats": {
       "letterboxd": {
-        "moviesThisYear": 22,
-        "moviesAllTime": 535,
-        "minutesAllTime": 62328,
-        "minutesThisYear": 2646,
-        "avgRating": 3.8404452690166977,
-        "ratedCount": 539,
+        "moviesThisYear": 23,
+        "moviesAllTime": 536,
+        "minutesAllTime": 62426,
+        "minutesThisYear": 2744,
+        "avgRating": 3.8407407407407406,
+        "ratedCount": 540,
         "topGenres": [
           {
             "name": "Adventure",
@@ -18759,7 +18780,7 @@
           },
           {
             "name": "Action",
-            "count": 264
+            "count": 265
           },
           {
             "name": "Comedy",
@@ -18779,7 +18800,7 @@
           },
           {
             "name": "Thriller",
-            "count": 106
+            "count": 107
           },
           {
             "name": "Fantasy",
@@ -18836,9 +18857,9 @@
         ]
       },
       "combined": {
-        "activityThisYear": 36,
-        "minutesAllTime": 613115,
-        "minutesThisYear": 8766,
+        "activityThisYear": 37,
+        "minutesAllTime": 613213,
+        "minutesThisYear": 8864,
         "topGenres": [
           {
             "name": "Comedy",
@@ -18850,7 +18871,7 @@
           },
           {
             "name": "Action",
-            "count": 264
+            "count": 265
           },
           {
             "name": "Family",
@@ -18870,18 +18891,18 @@
           },
           {
             "name": "Thriller",
-            "count": 106
+            "count": 107
           }
         ]
       }
     },
     "warnings": [
-      "LB ratings backfilled: 1 (from 535 total rated films)",
-      "LB diagnostic: diary=538 (538 dated), all-films=535, undated-in-feed=hidden (1), total=539",
+      "LB ratings backfilled: 1 (from 536 total rated films)",
+      "LB diagnostic: diary=539 (539 dated), all-films=536, undated-in-feed=hidden (1), total=540",
       "LB watchlist diagnostic: 135 films",
       "Library: 128 shows · 7914 log entries · 19 dropped · 128 rated",
       "TV derived: fully-watched=103, in-progress=6",
-      "LB feed: 538 dated LB entries in feed, date range 2011-05-15 → 2026-04-26"
+      "LB feed: 539 dated LB entries in feed, date range 2011-05-15 → 2026-05-16"
     ]
   },
   "library": {
