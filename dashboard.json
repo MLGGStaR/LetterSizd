@@ -1,8 +1,8 @@
 {
   "version": 1,
-  "generatedAt": "2026-05-15T16:21:44.440Z",
+  "generatedAt": "2026-05-15T16:52:34.145Z",
   "dashboard": {
-    "updatedAt": 1778862101776,
+    "updatedAt": 1778863951468,
     "feed": [
       {
         "source": "serializd",
@@ -10625,6 +10625,12 @@
         "releaseDate": "2007-05-19",
         "posterPath": "/jGWpG4YhpQwVmjyHEGkxEkeRf0S.jpg",
         "providers": [
+          {
+            "logo_path": "/97yvRBw1GzX7fXprcF80er19ot.jpg",
+            "provider_id": 337,
+            "provider_name": "Disney Plus",
+            "display_priority": 5
+          },
           {
             "logo_path": "/76CvnJAKAPbJuiXYwQGN7PFqOci.jpg",
             "provider_id": 363,
