@@ -1,8 +1,8 @@
 {
   "version": 1,
-  "generatedAt": "2026-05-15T19:37:08.825Z",
+  "generatedAt": "2026-05-15T19:38:36.572Z",
   "dashboard": {
-    "updatedAt": 1778873826299,
+    "updatedAt": 1778873913799,
     "feed": [
       {
         "source": "serializd",
@@ -18787,8 +18787,8 @@
           }
         ],
         "topYear": {
-          "year": 2014,
-          "count": 33
+          "year": 2024,
+          "count": 59
         }
       },
       "serializd": {
