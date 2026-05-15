@@ -1,8 +1,8 @@
 {
   "version": 1,
-  "generatedAt": "2026-05-15T19:38:36.572Z",
+  "generatedAt": "2026-05-15T20:08:41.384Z",
   "dashboard": {
-    "updatedAt": 1778873913799,
+    "updatedAt": 1778875718144,
     "feed": [
       {
         "source": "serializd",
@@ -44603,15 +44603,6 @@
         "popularity": 19.6216
       },
       {
-        "id": 1032892,
-        "title": "In the Blink of an Eye",
-        "releaseDate": "2026-01-26",
-        "posterPath": "/4vWqIdoBavo1htxmxlScDniOS9C.jpg",
-        "mediaType": "movie",
-        "overview": "Three storylines, spanning thousands of years, intersect and reflect on hope, connection, and the circle of life.",
-        "popularity": 8.1953
-      },
-      {
         "id": 1290821,
         "title": "Shelter",
         "releaseDate": "2026-01-28",
@@ -45125,24 +45116,6 @@
         "popularity": 15.1096
       },
       {
-        "id": 1511057,
-        "title": "Roommates",
-        "releaseDate": "2026-04-13",
-        "posterPath": "/eW1s6omXIfVkTlmKVe9y9Dwwt4u.jpg",
-        "mediaType": "movie",
-        "overview": "When shy college freshman Devon asks cool-girl Celeste to be her roommate, a blossoming friendship quickly spirals into a war of passive aggression.",
-        "popularity": 15.1983
-      },
-      {
-        "id": 1414413,
-        "title": "Brothers Under Fire",
-        "releaseDate": "2026-04-15",
-        "posterPath": "/e5EKqk9V7N3w0WvYFhl6wSVrMp0.jpg",
-        "mediaType": "movie",
-        "overview": "Captain Jordan Wright's squadron on leave for a wedding in Mexico encounters a murderous cartel. As Jordan tries to lead survivors to safety, war erupts between his squad and the cartel, forcing him into a battle to save his men.",
-        "popularity": 67.1049
-      },
-      {
         "id": 1084577,
         "title": "Balls Up",
         "releaseDate": "2026-04-15",
@@ -45386,6 +45359,15 @@
         "popularity": 1.5042
       },
       {
+        "id": 1693287,
+        "title": "Fatal Contact",
+        "releaseDate": "2026-05-15",
+        "posterPath": "/rrYyCOI5pdmVJ4FRIw1JHTgurm.jpg",
+        "mediaType": "movie",
+        "overview": "A traumatized psychic, after receiving a vision from beyond the grave, must use her ability once again to confront a killer.",
+        "popularity": 1.5638
+      },
+      {
         "id": 1381273,
         "title": "Paper Tiger",
         "releaseDate": "2026-05-16",
@@ -45476,6 +45458,15 @@
         "popularity": 1.7811
       },
       {
+        "id": 1368881,
+        "title": "Ladies First",
+        "releaseDate": "2026-05-22",
+        "posterPath": "/59LoTc4Jck3hPX0torbk4zYpyMG.jpg",
+        "mediaType": "movie",
+        "overview": "An arrogant but charismatic ladies' man finds his life of money, power and casual flings upended when he wakes up in a parallel world dominated by women.",
+        "popularity": 1.5474
+      },
+      {
         "id": 1677645,
         "title": "When I Said I Do",
         "releaseDate": "2026-05-23",
@@ -45537,15 +45528,6 @@
         "mediaType": "movie",
         "overview": "With her husband's funeral to plan and grieving to be done, a woman reaches out to her estranged son. He refuses to come home, choosing instead to send his personal assistant to help make the arrangements. The widow is forced to process her grief in the presence of a complete stranger.",
         "popularity": 2.9773
-      },
-      {
-        "id": 1086247,
-        "title": "Moss & Freud",
-        "releaseDate": "2026-05-29",
-        "posterPath": "/yPuZtt763q3AYqqbeocGvCjTJdw.jpg",
-        "mediaType": "movie",
-        "overview": "Supermodel Kate Moss embarks on a journey of self-discovery when acclaimed artist Lucian Freud offers to paint her portrait.",
-        "popularity": 1.9648
       },
       {
         "id": 1659169,
@@ -45611,15 +45593,6 @@
         "popularity": 1.5712
       },
       {
-        "id": 1422138,
-        "title": "She's the He!",
-        "releaseDate": "2026-06-05",
-        "posterPath": "/z5zlRWl4DNrhGLB4st2Kn68HaUq.jpg",
-        "mediaType": "movie",
-        "overview": "Before graduation, Ethan and Alex pose as trans women in a last ditch effort to quell gay rumors. It's all a joke until Ethan realizes: she really is trans. The two must reckon with their changing friendship, coming out, and coming-of-age.",
-        "popularity": 1.4106
-      },
-      {
         "id": 1275779,
         "title": "Disclosure Day",
         "releaseDate": "2026-06-10",
@@ -45627,15 +45600,6 @@
         "mediaType": "movie",
         "overview": "If you found out we weren’t alone, if someone showed you, proved it to you, would that frighten you?",
         "popularity": 16.816
-      },
-      {
-        "id": 1541560,
-        "title": "Stop! That! Train!",
-        "releaseDate": "2026-06-12",
-        "posterPath": "/w90dGS6D2lVO4aO5rdQ8QECrUGY.jpg",
-        "mediaType": "movie",
-        "overview": "Two train stewardess BFFs switch from a dull railway to the luxurious Glamazonian Express. During a massive storm, they must work with snooty first-class crew and President Gagwell to prevent disaster in LA.",
-        "popularity": 1.8689
       },
       {
         "id": 1084244,
@@ -45692,6 +45656,15 @@
         "popularity": 4.2605
       },
       {
+        "id": 1397485,
+        "title": "Girls Like Girls",
+        "releaseDate": "2026-06-19",
+        "posterPath": "/lFjtAAK5jCPXdcKIgpVJ54Hm0G0.jpg",
+        "mediaType": "movie",
+        "overview": "Coley, 17, from rural Oregon, navigates intimacy after her mother's passing. Meeting Sonya sparks new feelings, but self-doubt hinders their connection. Sonya, unfamiliar with dating girls, is uncertain. They learn to embrace emotions.",
+        "popularity": 1.5524
+      },
+      {
         "id": 1315772,
         "title": "Minions & Monsters",
         "releaseDate": "2026-06-24",
@@ -45735,15 +45708,6 @@
         "mediaType": "movie",
         "overview": "On August 12, 1967, in Montana's Glacier National Park, the unthinkable happened: that same night, nine miles apart, there were not one—but two—fatal grizzly bear attacks.",
         "popularity": 6.1138
-      },
-      {
-        "id": 1308767,
-        "title": "Young Washington",
-        "releaseDate": "2026-07-03",
-        "posterPath": "/ntW9zzhDmbt3sXDyPXb7SHVuDdB.jpg",
-        "mediaType": "movie",
-        "overview": "Before he led a nation, George Washington was a young soldier thrown into a global conflict. With alliances crumbling and war closing in, he must choose who to trust and confront the leader he's becoming.",
-        "popularity": 2.2128
       },
       {
         "id": 1212763,
@@ -45836,15 +45800,6 @@
         "popularity": 1.5611
       },
       {
-        "id": 1433367,
-        "title": "One Night Only",
-        "releaseDate": "2026-08-05",
-        "posterPath": "/gzy1L7wqkFRznQPv4WrdPQ9bCJ8.jpg",
-        "mediaType": "movie",
-        "overview": "Two love-starved strangers crash into each other on the one night of the year when single people are allowed to have sex.",
-        "popularity": 2.1418
-      },
-      {
         "id": 1240889,
         "title": "Teenage Sex and Death at Camp Miasma",
         "releaseDate": "2026-08-06",
@@ -45879,15 +45834,6 @@
         "mediaType": "movie",
         "overview": "After a mysterious cosmic event rips Oak Street from suburbia and transports their neighborhood to someplace unknown, a family soon discovers that their very survival depends on them sticking together as they navigate their now unrecognizable surroundings.",
         "popularity": 3.697
-      },
-      {
-        "id": 1280015,
-        "title": "Sunny Dancer",
-        "releaseDate": "2026-08-13",
-        "posterPath": "/eQFxX09ufsOmrDdwwownxRAlqv5.jpg",
-        "mediaType": "movie",
-        "overview": "Ivy is a teenager in remission from cancer, whose mum and dad insist she attend Children Run Free Camp, a summer retreat for young adults affected by cancer. However, as Ivy is reluctantly dragged through camp experience, she discovers new feelings with new friends.",
-        "popularity": 1.5299
       },
       {
         "id": 1124142,
@@ -45944,24 +45890,6 @@
         "popularity": 3.0483
       },
       {
-        "id": 1120556,
-        "title": "Cliffhanger",
-        "releaseDate": "2026-08-26",
-        "posterPath": "/w5D1gjf4lN3hMQlua5BfVv3u6Wp.jpg",
-        "mediaType": "movie",
-        "overview": "During a weekend trip with a billionaire's son, seasoned mountaineer Ray Cooper and his daughter Sydney are targeted by a gang of kidnappers. Ray’s other daughter Naomi, still haunted by a past climbing accident, witnesses the attack and escapes. To save her family, she must confront her fears and fight for survival.",
-        "popularity": 1.4854
-      },
-      {
-        "id": 445466,
-        "title": "Idiots",
-        "releaseDate": "2026-08-27",
-        "posterPath": "/4td0HGCYFePje1PKHERyxXhp2Hf.jpg",
-        "mediaType": "movie",
-        "overview": "When two unqualified bozos are hired to transfer a rich teen to rehab, their straightforward gig quickly spirals into dangerous mayhem.",
-        "popularity": 1.4477
-      },
-      {
         "id": 1284186,
         "title": "Sacrifice",
         "releaseDate": "2026-09-03",
@@ -46016,15 +45944,6 @@
         "popularity": 2.4609
       },
       {
-        "id": 1336166,
-        "title": "Rolling Loud",
-        "releaseDate": "2026-09-17",
-        "posterPath": "/yJsGgMrE2wE1rdtu70LI6rrF3mo.jpg",
-        "mediaType": "movie",
-        "overview": "Inspired by a true story, an overprotective father makes the worst parenting decision of his life when he sneaks his 13-year-old son into Rolling Loud, the world’s biggest hip-hop festival, setting off a chaotic adventure with his reckless co-worker and an eccentric festival volunteer as they navigate wild crowds, security, and their own family dynamics.",
-        "popularity": 1.3857
-      },
-      {
         "id": 1465063,
         "title": "Forgotten Island",
         "releaseDate": "2026-09-23",
@@ -46032,15 +45951,6 @@
         "mediaType": "movie",
         "overview": "Jo and Raissa find themselves stranded in the mystical world of the forgotten island of Nakali. They discover that their only way home might come at the expense of a lifetime of shared memories.",
         "popularity": 3.0016
-      },
-      {
-        "id": 1021848,
-        "title": "Queen at Sea",
-        "releaseDate": "2026-09-24",
-        "posterPath": "/iGfTwhMYMLd1z81AO3d1MHVTCbP.jpg",
-        "mediaType": "movie",
-        "overview": "As advanced dementia erodes an older woman’s ability to communicate her inner life, her husband and daughter struggle to act in her best interests, navigating love and the fragile boundaries between care, protection and autonomy.",
-        "popularity": 1.4194
       },
       {
         "id": 1283515,
@@ -46061,6 +45971,24 @@
         "popularity": 2.3758
       },
       {
+        "id": 1433583,
+        "title": "The Weight",
+        "releaseDate": "2026-10-01",
+        "posterPath": "/x4HFddDKpla5gFUiM8mmFIirML5.jpg",
+        "mediaType": "movie",
+        "overview": "In 1933 Oregon, Samuel Murphy is torn from his daughter and sent to a brutal work camp. Warden Clancy tempts him with early release if he smuggles gold through deadly wilderness, but betrayal festers within the crew, and Murphy questions how far he’ll go to see his child again.",
+        "popularity": 1.7929
+      },
+      {
+        "id": 1281331,
+        "title": "The Social Reckoning",
+        "releaseDate": "2026-10-07",
+        "posterPath": "/sr1sLOPAdlG5XLvZ8oGW9IBre.jpg",
+        "mediaType": "movie",
+        "overview": "Frances Haugen, a young Facebook engineer, enlists the help of Jeff Horwitz, a Wall Street Journal reporter, to go on a dangerous journey that ends up blowing the whistle on the social network's most guarded secrets.",
+        "popularity": 1.6157
+      },
+      {
         "id": 1148365,
         "title": "Matchbox",
         "releaseDate": "2026-10-08",
@@ -46068,15 +45996,6 @@
         "mediaType": "movie",
         "overview": "When a group of former childhood friends reconnect, their reunion takes a wild turn as they stumble upon a dangerous international plot—and must save the world.",
         "popularity": 2.4037
-      },
-      {
-        "id": 1400837,
-        "title": "Other Mommy",
-        "releaseDate": "2026-10-08",
-        "posterPath": "/aAtsAukFvHWsQFaBn2HqR0rd3RJ.jpg",
-        "mediaType": "movie",
-        "overview": "A young girl as her family, and their home, are haunted by a sinister entity that is determined to take up residence inside her. But first, it needs to persuade her to let it in…",
-        "popularity": 1.9639
       },
       {
         "id": 980431,
@@ -46160,6 +46079,15 @@
         "popularity": 1.9806
       },
       {
+        "id": 1170600,
+        "title": "Return of the Living Dead",
+        "releaseDate": "2026-11-13",
+        "posterPath": "/6THwQPQn2TS1EAkXzmko1CBGYJV.jpg",
+        "mediaType": "movie",
+        "overview": "Eighteen months after the events at the UNEEDA Warehouse in Louisville, KY, a new Trioxin 2-4-5 leak puts a small Pennsylvania town on the brink of a zombie outbreak during Christmas 1985.",
+        "popularity": 1.5566
+      },
+      {
         "id": 1300968,
         "title": "The Hunger Games: Sunrise on the Reaping",
         "releaseDate": "2026-11-18",
@@ -46167,15 +46095,6 @@
         "mediaType": "movie",
         "overview": "Return to the world of Panem 24 years before the events of The Hunger Games, starting on the morning of the reaping of the 50th Hunger Games, also known as the Second Quarter Quell.",
         "popularity": 4.6532
-      },
-      {
-        "id": 1241478,
-        "title": "Jimmy",
-        "releaseDate": "2026-11-20",
-        "posterPath": "/c3fWnsg5VEP5EhYZ4oY2NpFrrU1.jpg",
-        "mediaType": "movie",
-        "overview": "A look into the life of American actor James Stewart, whose inspiring tale of valor, purpose and faith will win over everyone.",
-        "popularity": 1.4117
       },
       {
         "id": 1400336,
@@ -46187,15 +46106,6 @@
         "popularity": 2.7839
       },
       {
-        "id": 1538497,
-        "title": "Hexed",
-        "releaseDate": "2026-11-25",
-        "posterPath": "/5YowGwH2vvA0R0eIq5HAQODf6cG.jpg",
-        "mediaType": "movie",
-        "overview": "An impulsive and unconventional teenage girl named Billie discovers secret magical abilities which, once unleashed, hurtle her into a spectacle-filled journey out of suburbia and into a vast witch realm called Hexe. Forced to team up with her cautious mother, Alice, they uncover family mysteries that could change the world of witches forever.",
-        "popularity": 1.8358
-      },
-      {
         "id": 1131943,
         "title": "Madden",
         "releaseDate": "2026-11-26",
@@ -46203,15 +46113,6 @@
         "mediaType": "movie",
         "overview": "John Madden's remarkable journey-from a Super Bowl-winning partnership with Al Davis and the Raiders, to creating Madden NFL, and becoming one of the most iconic voices in football history.",
         "popularity": 1.8065
-      },
-      {
-        "id": 1137888,
-        "title": "The Man with the Bag",
-        "releaseDate": "2026-12-02",
-        "posterPath": null,
-        "mediaType": "movie",
-        "overview": "After Santa’s magic bag is stolen, he turns to his naughty list to find Vance, a thief, to help him get it back. Along with his daughter, Santa, and a group of misfits, Vance will have to pull off the greatest heist of his life to save Christmas.",
-        "popularity": 1.4443
       },
       {
         "id": 1003596,
@@ -46230,15 +46131,6 @@
         "mediaType": "movie",
         "overview": "As Emperor, Paul Atreides grapples with the consequences of his rise to power as political conspiracies and a galaxy-spanning holy war threaten the future he alone can foresee.",
         "popularity": 7.5911
-      },
-      {
-        "id": 1277016,
-        "title": "The Queen of Heaven",
-        "releaseDate": "2026-12-18",
-        "posterPath": "/zY2vIC5q9waeSKDrYjAQnP6CyTz.jpg",
-        "mediaType": "movie",
-        "overview": "The life of the Virgin Mary from the Crucifixion (33AD) till her miraculous departure/death (44AD). It also describes the early years of the Christian Church community.",
-        "popularity": 1.8858
       },
       {
         "id": 1300926,
@@ -46394,15 +46286,6 @@
         "mediaType": "movie",
         "overview": "12-year-old Jacob is an aspiring basketball player coping with the recent loss of his father. After he and his mother move to his dad’s childhood home in Fernfield, Jacob discovers a VHS tape of his old man playing basketball on the same court as a hoops-shooting golden retriever. Soon, Jacob begins his own adventure with a neglected golden retriever that he names Buddy.",
         "popularity": 1.2086
-      },
-      {
-        "id": 1425472,
-        "title": "The Rescue",
-        "releaseDate": "2027-01-29",
-        "posterPath": null,
-        "mediaType": "movie",
-        "overview": "A modern day western in which a rodeo cowboy's skills are put to the test outside the arena.",
-        "popularity": 0.8378
       },
       {
         "id": 1485138,
@@ -46711,24 +46594,6 @@
         "popularity": 1.0172
       },
       {
-        "id": 1548004,
-        "title": "The Summer I Turned Pretty: The Movie",
-        "releaseDate": "2027-04-27",
-        "posterPath": "/3TuA5sHwVg4Rmg0llFkZr2qdQTf.jpg",
-        "mediaType": "movie",
-        "overview": "A continuation of the events following the end of the TV series 'The Summer I Turned Pretty.\"",
-        "popularity": 0.6183
-      },
-      {
-        "id": 1177369,
-        "title": "The Legend of Zelda",
-        "releaseDate": "2027-04-30",
-        "posterPath": "/obcEXMMrwSRIloR77egWSwOjZM2.jpg",
-        "mediaType": "movie",
-        "overview": "A live-action adaptation of the Legend of Zelda video game series.",
-        "popularity": 1.9839
-      },
-      {
         "id": 1212489,
         "title": "The Resurrection of the Christ: Part Two",
         "releaseDate": "2027-05-06",
@@ -46763,15 +46628,6 @@
         "mediaType": "movie",
         "overview": "In the 1990s, the story returns to the roots of evil to reveal the secrets hidden behind the fire at Katie and Kristi’s house, and the dark bond that would mark Hunter’s destiny forever.",
         "popularity": 1.0924
-      },
-      {
-        "id": 1138528,
-        "title": "Bad Fairies",
-        "releaseDate": "2027-05-20",
-        "posterPath": "/h0JbLsPVEJModp73t2Os7a3z8Ay.jpg",
-        "mediaType": "movie",
-        "overview": "An original musical comedy that follows a delightfully subversive gang of fairies as they shake up their magical world.",
-        "popularity": 0.6274
       },
       {
         "id": 1677482,
@@ -46835,15 +46691,6 @@
         "mediaType": "movie",
         "overview": "Hunted by Miguel O'Hara's Spider Society and betrayed by his friends, Miles finds himself in the darkest corners of the Spider-Verse in search of a way home. Knowing that his family has been not only fractured but endangered by his calling, it's a race against the clock for Miles to travel across the wildest reaches of time and space to fight for and reunite everything he holds most dear.",
         "popularity": 3.9359
-      },
-      {
-        "id": 1221973,
-        "title": "Untitled Ocean's Prequel",
-        "releaseDate": "2027-06-24",
-        "posterPath": null,
-        "mediaType": "movie",
-        "overview": "Before Danny Ocean ever stepped foot in Vegas, two masterminds taught him everything he knows — his parents. And in 1962, they pull off an epic heist during the Formula One Monaco Grand Prix.",
-        "popularity": 0.752
       },
       {
         "id": 421892,
@@ -46963,15 +46810,6 @@
         "popularity": 0.9513
       },
       {
-        "id": 1544162,
-        "title": "The Conjuring: First Communion",
-        "releaseDate": "2027-09-09",
-        "posterPath": null,
-        "mediaType": "movie",
-        "overview": "A prequel in the franchise. Plot TBA.",
-        "popularity": 0.5555
-      },
-      {
         "id": 1421202,
         "title": "It Is Not Her Fault",
         "releaseDate": "2027-09-14",
@@ -47026,15 +46864,6 @@
         "popularity": 0.2318
       },
       {
-        "id": 1651152,
-        "title": "The Origin of Hide and Seek",
-        "releaseDate": "2027-11-01",
-        "posterPath": "/lkSJhMdNUoaKgYfSheRGzBUeYxI.jpg",
-        "mediaType": "movie",
-        "overview": "When a mysterious sound is heard on an exploration ship, the crew meets to discuss the problems - all while a murderer from another world picks them off one by one. Now in development.  Releases in 2027",
-        "popularity": 0.0713
-      },
-      {
         "id": 1290568,
         "title": "Margie Claus",
         "releaseDate": "2027-11-04",
@@ -47042,15 +46871,6 @@
         "mediaType": "movie",
         "overview": "When Santa goes missing Christmas Eve, his wife Margie Claus has to assemble a rag-tag team of long-retired reindeer to rescue Santa and save Christmas",
         "popularity": 0.5107
-      },
-      {
-        "id": 1413533,
-        "title": "Helldivers",
-        "releaseDate": "2027-11-10",
-        "posterPath": "/zDRwl5qTqPJgNoc8pkQkDnXRSYF.jpg",
-        "mediaType": "movie",
-        "overview": "A live-action film based on the video game. Plot TBA.",
-        "popularity": 0.9121
       },
       {
         "id": 1423577,
@@ -47208,15 +47028,6 @@
         "popularity": 0.236
       },
       {
-        "id": 1188748,
-        "title": "Murder, She Wrote",
-        "releaseDate": "2028-02-04",
-        "posterPath": null,
-        "mediaType": "movie",
-        "overview": "A feature adaptation of the classic TV series. Plot TBA.",
-        "popularity": 0.2536
-      },
-      {
         "id": 1625381,
         "title": "Heart Eyes 2",
         "releaseDate": "2028-02-10",
@@ -47260,15 +47071,6 @@
         "mediaType": "movie",
         "overview": "The eleventh and final installment in The Fast Saga. Plot TBA.",
         "popularity": 6.1057
-      },
-      {
-        "id": 748865,
-        "title": "Oh, the Places You'll Go!",
-        "releaseDate": "2028-03-16",
-        "posterPath": "/rf0EFUEN4hV41FjaQsbaB274A3g.jpg",
-        "mediaType": "movie",
-        "overview": "A globetrotting animated musical which follows a young adventurer as they journey the joys and heartaches, and the peaks and the valleys of life.",
-        "popularity": 0.2656
       },
       {
         "id": 1488743,
