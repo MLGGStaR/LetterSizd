@@ -1,8 +1,8 @@
 {
   "version": 1,
-  "generatedAt": "2026-05-15T18:55:49.679Z",
+  "generatedAt": "2026-05-15T19:25:12.838Z",
   "dashboard": {
-    "updatedAt": 1778871347020,
+    "updatedAt": 1778873110041,
     "feed": [
       {
         "source": "serializd",
@@ -2410,18 +2410,6 @@
       {
         "source": "letterboxd",
         "kind": "movie",
-        "guid": "letterboxd-viewing-1138507305",
-        "title": "The Dictator",
-        "subtitle": "2012",
-        "watchedAt": 1672833600000,
-        "rating": 5,
-        "link": "https://letterboxd.com/film/the-dictator-2012/",
-        "tmdbMovieId": 76493,
-        "posterPath": "/n0W7kajF4GFMRk2c0wWwMQqTaDM.jpg"
-      },
-      {
-        "source": "letterboxd",
-        "kind": "movie",
         "guid": "letterboxd-viewing-1138482995",
         "title": "Interstellar",
         "subtitle": "2014",
@@ -2961,6 +2949,18 @@
         "link": "https://www.themoviedb.org/tv/124010",
         "tmdbShowId": 124010,
         "posterPath": "/8psLGtFzTMYCXxUNMpMOCB6doPn.jpg"
+      },
+      {
+        "source": "letterboxd",
+        "kind": "movie",
+        "guid": "letterboxd-viewing-1316861701",
+        "title": "The Dictator",
+        "subtitle": "2012",
+        "watchedAt": 1652616000000,
+        "rating": 4,
+        "link": "https://letterboxd.com/film/the-dictator-2012/",
+        "tmdbMovieId": 76493,
+        "posterPath": "/n0W7kajF4GFMRk2c0wWwMQqTaDM.jpg"
       },
       {
         "source": "letterboxd",
@@ -4924,18 +4924,6 @@
         "link": "https://letterboxd.com/film/dumb-and-dumber/",
         "tmdbMovieId": 8467,
         "posterPath": "/4LdpBXiCyGKkR8FGHgjKlphrfUc.jpg"
-      },
-      {
-        "source": "letterboxd",
-        "kind": "movie",
-        "guid": "letterboxd-viewing-1316118152",
-        "title": "Borat: Cultural Learnings of America for Make Benefit Glorious Nation of Kazakhstan",
-        "subtitle": "2006",
-        "watchedAt": 1557921600000,
-        "rating": 4.5,
-        "link": "https://letterboxd.com/film/borat-cultural-learnings-of-america-for-make-benefit-glorious-nation-of-kazakhstan/",
-        "tmdbMovieId": 496,
-        "posterPath": "/kfkyALfD4G1mlBJI1lOt2QCra4i.jpg"
       },
       {
         "source": "letterboxd",
@@ -12502,15 +12490,6 @@
         "link": "https://letterboxd.com/film/the-wild-robot/"
       },
       {
-        "tmdbMovieId": 76493,
-        "title": "The Dictator",
-        "year": 2012,
-        "rating": 5,
-        "watchedAt": 1672833600000,
-        "posterPath": "/n0W7kajF4GFMRk2c0wWwMQqTaDM.jpg",
-        "link": "https://letterboxd.com/film/the-dictator-2012/"
-      },
-      {
         "tmdbMovieId": 447365,
         "title": "Guardians of the Galaxy Vol. 3",
         "year": 2023,
@@ -13060,15 +13039,6 @@
         "link": "https://letterboxd.com/film/ted/"
       },
       {
-        "tmdbMovieId": 496,
-        "title": "Borat: Cultural Learnings of America for Make Benefit Glorious Nation of Kazakhstan",
-        "year": 2006,
-        "rating": 4.5,
-        "watchedAt": 1557921600000,
-        "posterPath": "/kfkyALfD4G1mlBJI1lOt2QCra4i.jpg",
-        "link": "https://letterboxd.com/film/borat-cultural-learnings-of-america-for-make-benefit-glorious-nation-of-kazakhstan/"
-      },
-      {
         "tmdbMovieId": 51497,
         "title": "Fast Five",
         "year": 2011,
@@ -13346,6 +13316,14 @@
         "watchedAt": 1305460800000,
         "posterPath": "/xpFbHSkRgOxOoutKqXob9T8iBPA.jpg",
         "link": "https://letterboxd.com/film/the-adventures-of-sharkboy-and-lavagirl/"
+      },
+      {
+        "tmdbMovieId": 496,
+        "title": "Borat: Cultural Learnings of America for Make Benefit Glorious Nation of Kazakhstan",
+        "rating": 4.5,
+        "watchedAt": 0,
+        "posterPath": "/kfkyALfD4G1mlBJI1lOt2QCra4i.jpg",
+        "link": "https://letterboxd.com/film/borat-cultural-learnings-of-america-for-make-benefit-glorious-nation-of-kazakhstan/"
       },
       {
         "tmdbMovieId": 1084577,
@@ -13841,6 +13819,15 @@
         "watchedAt": 1672747200000,
         "posterPath": "/8Gxv8gSFCU0XGDykEGv7zR1n2ua.jpg",
         "link": "https://letterboxd.com/film/oppenheimer-2023/"
+      },
+      {
+        "tmdbMovieId": 76493,
+        "title": "The Dictator",
+        "year": 2012,
+        "rating": 4,
+        "watchedAt": 1652616000000,
+        "posterPath": "/n0W7kajF4GFMRk2c0wWwMQqTaDM.jpg",
+        "link": "https://letterboxd.com/film/the-dictator-2012/"
       },
       {
         "tmdbMovieId": 562,
@@ -18763,7 +18750,7 @@
         "moviesAllTime": 535,
         "minutesAllTime": 62328,
         "minutesThisYear": 2646,
-        "avgRating": 3.8423005565862707,
+        "avgRating": 3.8404452690166977,
         "ratedCount": 539,
         "topGenres": [
           {
@@ -18889,12 +18876,12 @@
       }
     },
     "warnings": [
-      "LB ratings backfilled: 0 (from 535 total rated films)",
-      "LB diagnostic: diary=539 (539 dated), all-films=535, undated-in-feed=hidden (0), total=539",
+      "LB ratings backfilled: 1 (from 535 total rated films)",
+      "LB diagnostic: diary=538 (538 dated), all-films=535, undated-in-feed=hidden (1), total=539",
       "LB watchlist diagnostic: 135 films",
       "Library: 128 shows · 7914 log entries · 19 dropped · 128 rated",
       "TV derived: fully-watched=103, in-progress=6",
-      "LB feed: 539 dated LB entries in feed, date range 2011-05-15 → 2026-04-26"
+      "LB feed: 538 dated LB entries in feed, date range 2011-05-15 → 2026-04-26"
     ]
   },
   "library": {
