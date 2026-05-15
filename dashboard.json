@@ -1,8 +1,8 @@
 {
   "version": 1,
-  "generatedAt": "2026-05-15T15:50:53.715Z",
+  "generatedAt": "2026-05-15T16:21:44.440Z",
   "dashboard": {
-    "updatedAt": 1778860251112,
+    "updatedAt": 1778862101776,
     "feed": [
       {
         "source": "serializd",
@@ -10902,6 +10902,21 @@
         "hitsMyProviders": true
       },
       {
+        "title": "Pirates of the Caribbean: The Curse of the Black Pearl",
+        "tmdbMovieId": 22,
+        "releaseDate": "2003-07-09",
+        "posterPath": "/kvDwL2gTf6yxujbsWbsGQB3Z9Wa.jpg",
+        "providers": [
+          {
+            "logo_path": "/97yvRBw1GzX7fXprcF80er19ot.jpg",
+            "provider_id": 337,
+            "provider_name": "Disney Plus",
+            "display_priority": 5
+          }
+        ],
+        "hitsMyProviders": true
+      },
+      {
         "title": "Daredevil",
         "tmdbMovieId": 9480,
         "releaseDate": "2003-02-14",
@@ -11936,14 +11951,6 @@
         "tmdbMovieId": 8961,
         "releaseDate": "2003-07-18",
         "posterPath": "/yCvB5fG5aEPqa1St7ihY6KEAsHD.jpg",
-        "providers": [],
-        "hitsMyProviders": false
-      },
-      {
-        "title": "Pirates of the Caribbean: The Curse of the Black Pearl",
-        "tmdbMovieId": 22,
-        "releaseDate": "2003-07-09",
-        "posterPath": "/kvDwL2gTf6yxujbsWbsGQB3Z9Wa.jpg",
         "providers": [],
         "hitsMyProviders": false
       },
