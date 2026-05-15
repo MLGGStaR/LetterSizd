@@ -1,8 +1,8 @@
 {
   "version": 1,
-  "generatedAt": "2026-05-15T17:23:24.470Z",
+  "generatedAt": "2026-05-15T17:54:12.516Z",
   "dashboard": {
-    "updatedAt": 1778865801870,
+    "updatedAt": 1778867649913,
     "feed": [
       {
         "source": "serializd",
@@ -9423,6 +9423,21 @@
         "hitsMyProviders": true
       },
       {
+        "title": "Indiana Jones and the Dial of Destiny",
+        "tmdbMovieId": 335977,
+        "releaseDate": "2023-06-25",
+        "posterPath": "/Af4bXE63pVsb2FtbW8uYIyPBadD.jpg",
+        "providers": [
+          {
+            "logo_path": "/97yvRBw1GzX7fXprcF80er19ot.jpg",
+            "provider_id": 337,
+            "provider_name": "Disney Plus",
+            "display_priority": 5
+          }
+        ],
+        "hitsMyProviders": true
+      },
+      {
         "title": "The Menu",
         "tmdbMovieId": 593643,
         "releaseDate": "2022-11-17",
@@ -11819,14 +11834,6 @@
         "tmdbMovieId": 1327819,
         "releaseDate": "2026-03-04",
         "posterPath": "/xjtWQ2CL1mpmMNwuU5HeS4Iuwuu.jpg",
-        "providers": [],
-        "hitsMyProviders": false
-      },
-      {
-        "title": "Indiana Jones and the Dial of Destiny",
-        "tmdbMovieId": 335977,
-        "releaseDate": "2023-06-25",
-        "posterPath": "/Af4bXE63pVsb2FtbW8uYIyPBadD.jpg",
         "providers": [],
         "hitsMyProviders": false
       },
