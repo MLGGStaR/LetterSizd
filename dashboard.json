@@ -1,8 +1,8 @@
 {
   "version": 1,
-  "generatedAt": "2026-05-15T20:08:41.384Z",
+  "generatedAt": "2026-05-15T20:39:31.214Z",
   "dashboard": {
-    "updatedAt": 1778875718144,
+    "updatedAt": 1778877567663,
     "feed": [
       {
         "source": "serializd",
@@ -44513,15 +44513,6 @@
         "popularity": 9.9069
       },
       {
-        "id": 1263012,
-        "title": "Dead Man's Wire",
-        "releaseDate": "2026-01-09",
-        "posterPath": "/dgSoeebklY0IGKWbp36r9FwRXlv.jpg",
-        "mediaType": "movie",
-        "overview": "In 1977, former real estate developer Tony Kiritsis puts a dead man's switch on himself and the mortgage banker who did him wrong, demanding $5 million and a personal apology.",
-        "popularity": 4.8123
-      },
-      {
         "id": 1306368,
         "title": "The Rip",
         "releaseDate": "2026-01-13",
@@ -44603,6 +44594,15 @@
         "popularity": 19.6216
       },
       {
+        "id": 1032892,
+        "title": "In the Blink of an Eye",
+        "releaseDate": "2026-01-26",
+        "posterPath": "/4vWqIdoBavo1htxmxlScDniOS9C.jpg",
+        "mediaType": "movie",
+        "overview": "Three storylines, spanning thousands of years, intersect and reflect on hope, connection, and the circle of life.",
+        "popularity": 8.1953
+      },
+      {
         "id": 1290821,
         "title": "Shelter",
         "releaseDate": "2026-01-28",
@@ -44628,15 +44628,6 @@
         "mediaType": "movie",
         "overview": "The stars are gone. The planets have disappeared. Only individuals aboard space stations or starships were left to give the end a name -- The Quiet Rapture. After decades of decay and crumbling infrastructure, the Consolidation of Iron has made a discovery on a barren moon designated AT-5. An ocean of blood. Hoping to discover desperately needed resources they immediately launch an expedition. A submarine is crafted and a convict is welded inside. Due to the pressure and depth of the ocean the forward viewport has been encased in metal. If successful, they will earn their freedom. If not, another will follow. This will be the 13th expedition.",
         "popularity": 6.2062
-      },
-      {
-        "id": 1422562,
-        "title": "The Moment",
-        "releaseDate": "2026-01-30",
-        "posterPath": "/dYgCgTqqMnWdsnP2XirdcFB28ch.jpg",
-        "mediaType": "movie",
-        "overview": "A rising pop sensation navigates fame and industry pressures while preparing for her arena tour debut, revealing the transformation of underground culture into mainstream success.",
-        "popularity": 5.0784
       },
       {
         "id": 1010755,
@@ -44736,15 +44727,6 @@
         "mediaType": "movie",
         "overview": "When her tranquil life on a remote island is shattered by the return of her vengeful former captain, a skilled ex-pirate must confront her bloody past and unleash her deadly talents to save her family from a ruthless siege.",
         "popularity": 6.4666
-      },
-      {
-        "id": 669356,
-        "title": "You Can't Win",
-        "releaseDate": "2026-02-17",
-        "posterPath": "/h4MibstPDRiwot9A5324UBLZJoW.jpg",
-        "mediaType": "movie",
-        "overview": "The true-crime story of legendary outlaw Jack Black, whose 1926 memoir became an unlikely bestseller upon its release and later inspired generations of counter-cultural writing.",
-        "popularity": 5.3169
       },
       {
         "id": 467905,
@@ -45116,6 +45098,24 @@
         "popularity": 15.1096
       },
       {
+        "id": 1511057,
+        "title": "Roommates",
+        "releaseDate": "2026-04-13",
+        "posterPath": "/eW1s6omXIfVkTlmKVe9y9Dwwt4u.jpg",
+        "mediaType": "movie",
+        "overview": "When shy college freshman Devon asks cool-girl Celeste to be her roommate, a blossoming friendship quickly spirals into a war of passive aggression.",
+        "popularity": 15.1983
+      },
+      {
+        "id": 1414413,
+        "title": "Brothers Under Fire",
+        "releaseDate": "2026-04-15",
+        "posterPath": "/e5EKqk9V7N3w0WvYFhl6wSVrMp0.jpg",
+        "mediaType": "movie",
+        "overview": "Captain Jordan Wright's squadron on leave for a wedding in Mexico encounters a murderous cartel. As Jordan tries to lead survivors to safety, war erupts between his squad and the cartel, forcing him into a battle to save his men.",
+        "popularity": 67.1049
+      },
+      {
         "id": 1084577,
         "title": "Balls Up",
         "releaseDate": "2026-04-15",
@@ -45287,6 +45287,15 @@
         "popularity": 137.3646
       },
       {
+        "id": 1642859,
+        "title": "Iron Maiden: Burning Ambition",
+        "releaseDate": "2026-05-07",
+        "posterPath": "/yZqhFJDenLfgF1VygOOCNmAdS1P.jpg",
+        "mediaType": "movie",
+        "overview": "With unprecedented access to the official archives and intimate recollections from the band, both current and past,  Iron Maiden: Burning Ambition invites fans to experience one of the most iconic journeys in music history.  Spanning five decades, this electrifying documentary charts the band’s rise from the pubs of East London to the world’s biggest stadiums. Featuring exclusive interviews with band members and contributors such as Javier Bardem, Lars Ulrich and Chuck D, as well as all-new animated sequences of the band's legendary mascot, Eddie, the film offers a rare and intimate look at Iron Maiden’s uncompromising vision and unwavering connection with their truly global army of fans.",
+        "popularity": 7.3275
+      },
+      {
         "id": 1257868,
         "title": "Couples Weekend",
         "releaseDate": "2026-05-08",
@@ -45314,10 +45323,19 @@
         "popularity": 439.5502
       },
       {
+        "id": 1684240,
+        "title": "Untold UK: Jamie Vardy",
+        "releaseDate": "2026-05-12",
+        "posterPath": "/d0pODTh6FOwn87iOeXGb7nKOdNT.jpg",
+        "mediaType": "movie",
+        "overview": "From part-time footballer to prime league legends, this is the story of Jamie Vardy's unprecedented path and his rise to the top against all odds.",
+        "popularity": 6.6273
+      },
+      {
         "id": 1122573,
         "title": "In the Grey",
         "releaseDate": "2026-05-13",
-        "posterPath": "/83YeicHJqiyGGH1QRbeQdtqegvW.jpg",
+        "posterPath": "/dQgIcW6Th08kMRf2HBoYWoFE6OD.jpg",
         "mediaType": "movie",
         "overview": "A covert team of elite operatives are living in the shadows. When a ruthless despot steals a billion-dollar fortune, they're sent to take it back—an impossible heist that erupts into a deadly game of strategy, deception and survival.",
         "popularity": 22.3842
@@ -45330,6 +45348,15 @@
         "mediaType": "movie",
         "overview": "This documentary revisits the French football team's controversial 2010 World Cup and the bus strike that sparked global headlines and national outrage.",
         "popularity": 8.233
+      },
+      {
+        "id": 1380316,
+        "title": "Is God Is",
+        "releaseDate": "2026-05-14",
+        "posterPath": "/5rY8gGfI2TnncJLkb8z0YpMhzSV.jpg",
+        "mediaType": "movie",
+        "overview": "Two sisters embark on an epic quest for revenge, confronting a charged family history that pushes them to extraordinary lengths.",
+        "popularity": 5.4227
       },
       {
         "id": 1242876,
@@ -46162,15 +46189,6 @@
         "popularity": 0.8854
       },
       {
-        "id": 1505506,
-        "title": "Rocky Wake",
-        "releaseDate": "2027-01-01",
-        "posterPath": "/pGv6LSJKgu1gs5oXJN5u7QwQvix.jpg",
-        "mediaType": "movie",
-        "overview": "Elise, long estranged from her mother Megan, visits her as she lies on her deathbed. Her mother recounts a life-changing moment from the early 80s, her father’s devastating diagnosis and a serial killer stalking the town. Elise reconstructs her mother’s memories, drawing them closer as the night unfolds.",
-        "popularity": 0.0482
-      },
-      {
         "id": 1659742,
         "title": "All Legs",
         "releaseDate": "2027-01-01",
@@ -46180,15 +46198,6 @@
         "popularity": 0.1015
       },
       {
-        "id": 1507840,
-        "title": "The Suffering Tenants",
-        "releaseDate": "2027-01-01",
-        "posterPath": "/xgh62bec7m7VuTMNxmh0mP42g2K.jpg",
-        "mediaType": "movie",
-        "overview": "The enemy, the lover and the brother of a missing landlady all become entangled in this Hitchcockian chamber play, set in the mid-70s.",
-        "popularity": 0.0621
-      },
-      {
         "id": 1604417,
         "title": "Get to That Place",
         "releaseDate": "2027-01-01",
@@ -46196,6 +46205,33 @@
         "mediaType": "movie",
         "overview": "A group of kids navigate their lives and interpersonal relationships while a rumor about the end of the world spreads around town.",
         "popularity": 0.0878
+      },
+      {
+        "id": 1658606,
+        "title": "The Heavy End",
+        "releaseDate": "2027-01-01",
+        "posterPath": null,
+        "mediaType": "movie",
+        "overview": "Following the sudden passing of his wife, a devout church warden comes to question his lifelong devotion to the cause.",
+        "popularity": 0.0714
+      },
+      {
+        "id": 1584437,
+        "title": "The Curse of the Silver Chain",
+        "releaseDate": "2027-01-01",
+        "posterPath": "/qE2ZNYzoCph6daOWXx7IFP5MjkA.jpg",
+        "mediaType": "movie",
+        "overview": "A silver chain that appears for centuries made by warlocks in the 15th century.",
+        "popularity": 0.0701
+      },
+      {
+        "id": 1507840,
+        "title": "The Suffering Tenants",
+        "releaseDate": "2027-01-01",
+        "posterPath": "/xgh62bec7m7VuTMNxmh0mP42g2K.jpg",
+        "mediaType": "movie",
+        "overview": "The enemy, the lover and the brother of a missing landlady all become entangled in this Hitchcockian chamber play, set in the mid-70s.",
+        "popularity": 0.0621
       },
       {
         "id": 1566727,
@@ -46241,15 +46277,6 @@
         "mediaType": "movie",
         "overview": "Zelie and her older brother Tzain form an alliance with the king’s daughter, Princess Amari, and son, Prince Inan, to fight back against his brutal rule.",
         "popularity": 1.2164
-      },
-      {
-        "id": 1671591,
-        "title": "Perrydox",
-        "releaseDate": "2027-01-15",
-        "posterPath": "/yx4mV6jXfXaYQIKTdNIqvn03UA4.jpg",
-        "mediaType": "movie",
-        "overview": "A college student’s life is turned upside down when he wakes up to discover he has swapped places with an alternate version of himself from another universe",
-        "popularity": 0.0521
       },
       {
         "id": 1115030,
@@ -46340,15 +46367,6 @@
         "mediaType": "movie",
         "overview": "A CG-animated film inspired by the blockbuster children’s show of the same name. Plot TBA.",
         "popularity": 1.9059
-      },
-      {
-        "id": 1612048,
-        "title": "S/H/V",
-        "releaseDate": "2027-02-04",
-        "posterPath": "/cE5XBDB6KkpgyDWslKgZFx8SvTn.jpg",
-        "mediaType": "movie",
-        "overview": "Four students, who make money by putting stolen school items online, are hired to steal a VHS tape from their Physical Education Teacher’s Office. However, things take a turn for the worse, when they find dozens of tapes, and being kids, they dare each other to partake in watching them.",
-        "popularity": 0.0541
       },
       {
         "id": 458896,
@@ -46450,6 +46468,15 @@
         "popularity": 1.1105
       },
       {
+        "id": 1189974,
+        "title": "Nemesis",
+        "releaseDate": "2027-03-05",
+        "posterPath": "/eZCCTCHl9e3nNizJjlqao5ovusN.jpg",
+        "mediaType": "movie",
+        "overview": "20 years after meeting his identical twin with no explanation, a man finds that his brother is not all he seems.",
+        "popularity": 0.0812
+      },
+      {
         "id": 1636855,
         "title": "Fish in a Barrel",
         "releaseDate": "2027-03-05",
@@ -46522,15 +46549,6 @@
         "popularity": 1.9252
       },
       {
-        "id": 1636411,
-        "title": "Roadie (Or The Inevitable and Ridiculous Fall of Danny And The Renaissances)",
-        "releaseDate": "2027-03-31",
-        "posterPath": null,
-        "mediaType": "movie",
-        "overview": "Coen, an unpaid roadie financed solely by his belief in a quixotic guitarist, Danny, has his commitment strained to the elastic limit when the visionary continues to fail. Complicating things even more, he meets a bemusing young pregnant woman, Veronica, whose pursuit of happiness makes him question his own fulfillment and values.",
-        "popularity": 0.0561
-      },
-      {
         "id": 1208917,
         "title": "Wings of Freedom",
         "releaseDate": "2027-04-07",
@@ -46565,15 +46583,6 @@
         "mediaType": "movie",
         "overview": "Álvaro and his ex-wife Saffron attempt to set aside the drama of their messy divorce for the sake of their daughter Rose.",
         "popularity": 0.2078
-      },
-      {
-        "id": 1655014,
-        "title": "The 08' Club",
-        "releaseDate": "2027-04-17",
-        "posterPath": "/mH0zj2zFGDyBVimYJ0QpM9Av0qR.jpg",
-        "mediaType": "movie",
-        "overview": "Dick Negroni begins as a composed bartender at the '08 Club who trades his mixing tins for a life of crime after catching the eye of the powerful mob boss Don Gog. Alongside his volatile partners, Dick must navigate a treacherous path of betrayal and escalating madness where the line between professional \"cleanup\" and total lunacy begins to blur.",
-        "popularity": 0.0482
       },
       {
         "id": 556682,
@@ -46729,6 +46738,15 @@
         "popularity": 0.0596
       },
       {
+        "id": 1597138,
+        "title": "The Fields of Abbottsville",
+        "releaseDate": "2027-07-11",
+        "posterPath": "/24j5pP9jz05CPyCuzD8ptvZ6IEf.jpg",
+        "mediaType": "movie",
+        "overview": "In Ohio, late 2004, after a young religious fanatic Joshua Tinsman (Brennan Abbott) celebrates his 18th birthday. He is then forced into committing crimes by his preacher Ron Tinsman Jr. (Aaron Hickman) that he doesn't want to follow through on. Years of indoctrination and influence from his friends discourages him from leaving. After all, it's the ideology that he and his childhood friend Stephen grew up with since birth. How can you leave something you spent your whole life working towards? Loosely based on a true story.",
+        "popularity": 0.0646
+      },
+      {
         "id": 1461519,
         "title": "A Minecraft Sequel",
         "releaseDate": "2027-07-22",
@@ -46828,15 +46846,6 @@
         "popularity": 1.1406
       },
       {
-        "id": 1068401,
-        "title": "Terra: Reckoning",
-        "releaseDate": "2027-09-24",
-        "posterPath": null,
-        "mediaType": "movie",
-        "overview": "The second part in the Terra trilogy.",
-        "popularity": 0.0495
-      },
-      {
         "id": 806704,
         "title": "Untitled The Batman Sequel",
         "releaseDate": "2027-09-30",
@@ -46862,6 +46871,15 @@
         "mediaType": "movie",
         "overview": "A student researching sleep paralysis slips into a lucid nightmare.",
         "popularity": 0.2318
+      },
+      {
+        "id": 1651152,
+        "title": "The Origin of Hide and Seek",
+        "releaseDate": "2027-11-01",
+        "posterPath": "/lkSJhMdNUoaKgYfSheRGzBUeYxI.jpg",
+        "mediaType": "movie",
+        "overview": "When a mysterious sound is heard on an exploration ship, the crew meets to discuss the problems - all while a murderer from another world picks them off one by one. Now in development.  Releases in 2027",
+        "popularity": 0.0713
       },
       {
         "id": 1290568,
@@ -46900,6 +46918,15 @@
         "popularity": 2.0262
       },
       {
+        "id": 1586888,
+        "title": "Hungry Creatures",
+        "releaseDate": "2027-11-26",
+        "posterPath": "/iLnZS8bnLc9KOai0iho0pUIjb4a.jpg",
+        "mediaType": "movie",
+        "overview": "After a traumatic event, Tess relocates to Brooklyn for the summer and starts working in her aunt and uncle's restaurant.",
+        "popularity": 0.0652
+      },
+      {
         "id": 1090869,
         "title": "The Lord of the Rings: The Hunt for Gollum",
         "releaseDate": "2027-12-15",
@@ -46925,15 +46952,6 @@
         "mediaType": "movie",
         "overview": "Millie Calloway takes a job keeping house for a woman she's never allowed to see — only to discover the truth behind the locked door that threatens to expose secrets far darker than her own.",
         "popularity": 0.9968
-      },
-      {
-        "id": 1189041,
-        "title": "Esther's Comet",
-        "releaseDate": "2027-12-17",
-        "posterPath": "/3UC0GtGwxVZyY8rPJ2MFwiNX9sv.jpg",
-        "mediaType": "movie",
-        "overview": "In dreams, Anthony is a villager who enjoys a fruitful lifestyle, helping his neighbourhood and creating unique friendships with the townsfolk. When he suddenly sees his long lost biological parents in one of his dreams, he journeys through his subconscious in an attempt to find them and potentially reconnect. However, throughout his journey, he crosses from his own dreamworld into an astral plane, of which he cannot return from.",
-        "popularity": 0.0453
       },
       {
         "id": 1670080,
@@ -46970,6 +46988,24 @@
         "mediaType": "movie",
         "overview": "Reese finds herself in the desert after a party when her drunken girlfriend hurts someone. When she wakes up, they are preparing for the same party. The time is ticking to solve the time loop, while those around her become increasingly beaten and broken, mentally and physically.",
         "popularity": 0.1795
+      },
+      {
+        "id": 1417592,
+        "title": "A World Without Trees",
+        "releaseDate": "2027-12-31",
+        "posterPath": null,
+        "mediaType": "movie",
+        "overview": "A group of pirates spend their nights and days at the sea. They are children of famous architects. To kill time, they sleep, play games, take Benadryl and snort amphetamine",
+        "popularity": 0.0746
+      },
+      {
+        "id": 1685754,
+        "title": "The Beauty in Boredom",
+        "releaseDate": "2027-12-31",
+        "posterPath": "/1JZo0PgrdlHZ3NBYNVEc8sevKaZ.jpg",
+        "mediaType": "movie",
+        "overview": "Subject: 2010. Young, naive, and horrifyingly bored.",
+        "popularity": 0.0669
       }
     ],
     "2028": [
@@ -47134,15 +47170,6 @@
         "mediaType": "movie",
         "overview": "Upcoming spin-off of the Super Mario Bros Movie.",
         "popularity": 0.2455
-      },
-      {
-        "id": 1597786,
-        "title": "Untitled Illumination Film",
-        "releaseDate": "2028-04-18",
-        "posterPath": null,
-        "mediaType": "movie",
-        "overview": "An upcoming animated feature film from Illumination Entertainment. Plot TBA.",
-        "popularity": 0.0698
       },
       {
         "id": 1566914,
