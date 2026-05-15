@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512">
+  <rect width="512" height="512" rx="96" fill="#0d1117"/>
+  <text x="256" y="230"
+        font-family="Inter, system-ui, -apple-system, Segoe UI, Roboto, sans-serif"
+        font-size="140"
+        font-weight="800"
+        fill="#00d735"
+        text-anchor="middle"
+        letter-spacing="-4">letter</text>
+  <text x="256" y="380"
+        font-family="Inter, system-ui, -apple-system, Segoe UI, Roboto, sans-serif"
+        font-size="140"
+        font-weight="800"
+        fill="#ff8000"
+        text-anchor="middle"
+        letter-spacing="-4">Sizd</text>
+</svg>
