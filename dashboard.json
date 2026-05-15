@@ -1,8 +1,8 @@
 {
   "version": 1,
-  "generatedAt": "2026-05-15T14:49:20.211Z",
+  "generatedAt": "2026-05-15T15:16:56.638Z",
   "dashboard": {
-    "updatedAt": 1778856557473,
+    "updatedAt": 1778858214073,
     "feed": [
       {
         "source": "serializd",
@@ -113,18 +113,6 @@
         "link": "https://www.themoviedb.org/tv/255661",
         "tmdbShowId": 255661,
         "posterPath": "/h3s0Cd2JppeWA4UjTuSRauL52P7.jpg"
-      },
-      {
-        "source": "serializd",
-        "kind": "show",
-        "guid": "letterboxd-viewing-1316103391",
-        "title": "Wonder Man",
-        "subtitle": "2026",
-        "watchedAt": 1778846400000,
-        "rating": 4,
-        "link": "https://www.themoviedb.org/tv/198178",
-        "tmdbShowId": 198178,
-        "posterPath": "/6yy9nQlFt2l6UVWzrfhszFCaZ5C.jpg"
       },
       {
         "source": "letterboxd",
@@ -1176,18 +1164,6 @@
         "posterPath": "/lbBWwxBht4JFP5PsuJ5onpMqugW.jpg"
       },
       {
-        "source": "serializd",
-        "kind": "show",
-        "guid": "letterboxd-viewing-1138339236",
-        "title": "Marvel Zombies",
-        "subtitle": "2025",
-        "watchedAt": 1735992000000,
-        "rating": 4,
-        "link": "https://www.themoviedb.org/tv/138505",
-        "tmdbShowId": 138505,
-        "posterPath": "/mwKj9ERGFXsWot0nXgQ5yMQf9I7.jpg"
-      },
-      {
         "source": "letterboxd",
         "kind": "movie",
         "guid": "letterboxd-viewing-1138338930",
@@ -1210,18 +1186,6 @@
         "link": "https://letterboxd.com/film/zootopia-2/",
         "tmdbMovieId": 1084242,
         "posterPath": "/oJ7g2CifqpStmoYQyaLQgEU32qO.jpg"
-      },
-      {
-        "source": "serializd",
-        "kind": "show",
-        "guid": "letterboxd-viewing-1138344115",
-        "title": "Ironheart",
-        "subtitle": "2025",
-        "watchedAt": 1735905600000,
-        "rating": 2,
-        "link": "https://www.themoviedb.org/tv/114471",
-        "tmdbShowId": 114471,
-        "posterPath": "/dOh6MJpdlQhYpLBhzhNQeYGKTZ5.jpg"
       },
       {
         "source": "serializd",
@@ -2077,30 +2041,6 @@
       {
         "source": "serializd",
         "kind": "show",
-        "guid": "letterboxd-viewing-1138356354",
-        "title": "Echo",
-        "subtitle": "2024",
-        "watchedAt": 1704283200000,
-        "rating": 0.5,
-        "link": "https://www.themoviedb.org/tv/122226",
-        "tmdbShowId": 122226,
-        "posterPath": "/vFyJH630cF68LohVYjQW49074Sy.jpg"
-      },
-      {
-        "source": "serializd",
-        "kind": "show",
-        "guid": "letterboxd-viewing-1138351416",
-        "title": "Agatha All Along",
-        "subtitle": "2024",
-        "watchedAt": 1704283200000,
-        "rating": 3.5,
-        "link": "https://www.themoviedb.org/tv/138501",
-        "tmdbShowId": 138501,
-        "posterPath": "/mGsxKwXUjojitRv2E9qMTbxbBRd.jpg"
-      },
-      {
-        "source": "serializd",
-        "kind": "show",
         "guid": "show:1434:2023",
         "title": "Family Guy",
         "subtitle": "1 seasons + 15 eps",
@@ -2791,30 +2731,6 @@
         "posterPath": "/7lTnXOy0iNtBAdRP3TZvaKJ77F6.jpg"
       },
       {
-        "source": "serializd",
-        "kind": "show",
-        "guid": "letterboxd-viewing-1138397870",
-        "title": "The Queen's Gambit",
-        "subtitle": "2020",
-        "watchedAt": 1672747200000,
-        "rating": 4,
-        "link": "https://www.themoviedb.org/tv/87739",
-        "tmdbShowId": 87739,
-        "posterPath": "/zU0htwkhNvBQdVSIKB9s6hgVeFK.jpg"
-      },
-      {
-        "source": "serializd",
-        "kind": "show",
-        "guid": "letterboxd-viewing-1138359260",
-        "title": "Secret Invasion",
-        "subtitle": "2023",
-        "watchedAt": 1672747200000,
-        "rating": 3,
-        "link": "https://www.themoviedb.org/tv/114472",
-        "tmdbShowId": 114472,
-        "posterPath": "/f5ZMzzCvt2IzVDxr54gHPv9jlC9.jpg"
-      },
-      {
         "source": "letterboxd",
         "kind": "movie",
         "guid": "letterboxd-viewing-1138359006",
@@ -2825,18 +2741,6 @@
         "link": "https://letterboxd.com/film/oppenheimer-2023/",
         "tmdbMovieId": 872585,
         "posterPath": "/8Gxv8gSFCU0XGDykEGv7zR1n2ua.jpg"
-      },
-      {
-        "source": "serializd",
-        "kind": "show",
-        "guid": "letterboxd-viewing-1138358399",
-        "title": "Ahsoka",
-        "subtitle": "2023",
-        "watchedAt": 1672747200000,
-        "rating": 3.5,
-        "link": "https://www.themoviedb.org/tv/114461",
-        "tmdbShowId": 114461,
-        "posterPath": "/eiJeWeCAEZAmRppnXHiTWDcCd3Q.jpg"
       },
       {
         "source": "serializd",
@@ -3585,54 +3489,6 @@
         "link": "https://letterboxd.com/film/zack-snyders-justice-league/",
         "tmdbMovieId": 791373,
         "posterPath": "/tnAuB8q5vv7Ax9UAEje5Xi4BXik.jpg"
-      },
-      {
-        "source": "serializd",
-        "kind": "show",
-        "guid": "letterboxd-viewing-1138374238",
-        "title": "Moon Knight",
-        "subtitle": "2022",
-        "watchedAt": 1641211200000,
-        "rating": 5,
-        "link": "https://www.themoviedb.org/tv/92749",
-        "tmdbShowId": 92749,
-        "posterPath": "/YksR65as1ppF2N48TJAh2PLamX.jpg"
-      },
-      {
-        "source": "serializd",
-        "kind": "show",
-        "guid": "letterboxd-viewing-1138370840",
-        "title": "Obi-Wan Kenobi",
-        "subtitle": "2022",
-        "watchedAt": 1641211200000,
-        "rating": 4,
-        "link": "https://www.themoviedb.org/tv/92830",
-        "tmdbShowId": 92830,
-        "posterPath": "/4Lok3HBSfbQxibQZBygoVCwKKrZ.jpg"
-      },
-      {
-        "source": "serializd",
-        "kind": "show",
-        "guid": "letterboxd-viewing-1138369538",
-        "title": "Ms. Marvel",
-        "subtitle": "2022",
-        "watchedAt": 1641211200000,
-        "rating": 2.5,
-        "link": "https://www.themoviedb.org/tv/92782",
-        "tmdbShowId": 92782,
-        "posterPath": "/3HWWh92kZbD7odwJX7nKmXNZsYo.jpg"
-      },
-      {
-        "source": "serializd",
-        "kind": "show",
-        "guid": "letterboxd-viewing-1138366535",
-        "title": "She-Hulk: Attorney at Law",
-        "subtitle": "2022",
-        "watchedAt": 1641211200000,
-        "rating": 0.5,
-        "link": "https://www.themoviedb.org/tv/92783",
-        "tmdbShowId": 92783,
-        "posterPath": "/5xz2orV8f0usyrfGNshcoXHmiaV.jpg"
       },
       {
         "source": "letterboxd",
@@ -4463,66 +4319,6 @@
         "link": "https://letterboxd.com/film/spider-man-no-way-home/",
         "tmdbMovieId": 634649,
         "posterPath": "/1g0dhYtq4irTY1GPXvft6k4YLjm.jpg"
-      },
-      {
-        "source": "serializd",
-        "kind": "show",
-        "guid": "letterboxd-viewing-1138395368",
-        "title": "WandaVision",
-        "subtitle": "2021",
-        "watchedAt": 1609675200000,
-        "rating": 2.5,
-        "link": "https://www.themoviedb.org/tv/85271",
-        "tmdbShowId": 85271,
-        "posterPath": "/frobUz2X5Pc8OiVZU8Oo5K3NKMM.jpg"
-      },
-      {
-        "source": "serializd",
-        "kind": "show",
-        "guid": "letterboxd-viewing-1138393810",
-        "title": "The Falcon and the Winter Soldier",
-        "subtitle": "2021",
-        "watchedAt": 1609675200000,
-        "rating": 3.5,
-        "link": "https://www.themoviedb.org/tv/88396",
-        "tmdbShowId": 88396,
-        "posterPath": "/6kbAMLteGO8yyewYau6bJ683sw7.jpg"
-      },
-      {
-        "source": "serializd",
-        "kind": "show",
-        "guid": "letterboxd-viewing-1138392063",
-        "title": "Loki",
-        "subtitle": "2021",
-        "watchedAt": 1609675200000,
-        "rating": 5,
-        "link": "https://www.themoviedb.org/tv/84958",
-        "tmdbShowId": 84958,
-        "posterPath": "/kEl2t3OhXc3Zb9FBh1AuYzRTgZp.jpg"
-      },
-      {
-        "source": "serializd",
-        "kind": "show",
-        "guid": "letterboxd-viewing-1138387074",
-        "title": "Squid Game",
-        "subtitle": "2021",
-        "watchedAt": 1609675200000,
-        "rating": 3.5,
-        "link": "https://www.themoviedb.org/tv/93405",
-        "tmdbShowId": 93405,
-        "posterPath": "/1QdXdRYfktUSONkl1oD5gc6Be0s.jpg"
-      },
-      {
-        "source": "serializd",
-        "kind": "show",
-        "guid": "letterboxd-viewing-1138385125",
-        "title": "The Book of Boba Fett",
-        "subtitle": "2021",
-        "watchedAt": 1609675200000,
-        "rating": 3,
-        "link": "https://www.themoviedb.org/tv/115036",
-        "tmdbShowId": 115036,
-        "posterPath": "/gNbdjDi1HamTCrfvM9JeA94bNi2.jpg"
       },
       {
         "source": "serializd",
@@ -9030,6 +8826,21 @@
         "hitsMyProviders": true
       },
       {
+        "title": "TRON: Ares",
+        "tmdbMovieId": 533533,
+        "releaseDate": "2025-10-08",
+        "posterPath": "/chpWmskl3aKm1aTZqUHRCtviwPy.jpg",
+        "providers": [
+          {
+            "logo_path": "/97yvRBw1GzX7fXprcF80er19ot.jpg",
+            "provider_id": 337,
+            "provider_name": "Disney Plus",
+            "display_priority": 5
+          }
+        ],
+        "hitsMyProviders": true
+      },
+      {
         "title": "Happy Gilmore 2",
         "tmdbMovieId": 1263256,
         "releaseDate": "2025-07-25",
@@ -9280,6 +9091,21 @@
             "provider_id": 1825,
             "provider_name": "HBO Max Amazon Channel",
             "display_priority": 12
+          }
+        ],
+        "hitsMyProviders": true
+      },
+      {
+        "title": "Moana 2",
+        "tmdbMovieId": 1241982,
+        "releaseDate": "2024-11-21",
+        "posterPath": "/aLVkiINlIeCkcZIzb7XHzPYgO6L.jpg",
+        "providers": [
+          {
+            "logo_path": "/97yvRBw1GzX7fXprcF80er19ot.jpg",
+            "provider_id": 337,
+            "provider_name": "Disney Plus",
+            "display_priority": 5
           }
         ],
         "hitsMyProviders": true
@@ -10641,6 +10467,21 @@
         "hitsMyProviders": true
       },
       {
+        "title": "TRON: Legacy",
+        "tmdbMovieId": 20526,
+        "releaseDate": "2010-12-14",
+        "posterPath": "/8Nc6R8k7bG8frSiDJo0oLucF7dN.jpg",
+        "providers": [
+          {
+            "logo_path": "/97yvRBw1GzX7fXprcF80er19ot.jpg",
+            "provider_id": 337,
+            "provider_name": "Disney Plus",
+            "display_priority": 5
+          }
+        ],
+        "hitsMyProviders": true
+      },
+      {
         "title": "Shutter Island",
         "tmdbMovieId": 11324,
         "releaseDate": "2010-02-14",
@@ -11961,22 +11802,6 @@
         "hitsMyProviders": false
       },
       {
-        "title": "TRON: Ares",
-        "tmdbMovieId": 533533,
-        "releaseDate": "2025-10-08",
-        "posterPath": "/chpWmskl3aKm1aTZqUHRCtviwPy.jpg",
-        "providers": [],
-        "hitsMyProviders": false
-      },
-      {
-        "title": "Moana 2",
-        "tmdbMovieId": 1241982,
-        "releaseDate": "2024-11-21",
-        "posterPath": "/aLVkiINlIeCkcZIzb7XHzPYgO6L.jpg",
-        "providers": [],
-        "hitsMyProviders": false
-      },
-      {
         "title": "Indiana Jones and the Dial of Destiny",
         "tmdbMovieId": 335977,
         "releaseDate": "2023-06-25",
@@ -12069,14 +11894,6 @@
         "tmdbMovieId": 37724,
         "releaseDate": "2012-10-24",
         "posterPath": "/d0IVecFQvsGdSbnMAHqiYsNYaJT.jpg",
-        "providers": [],
-        "hitsMyProviders": false
-      },
-      {
-        "title": "TRON: Legacy",
-        "tmdbMovieId": 20526,
-        "releaseDate": "2010-12-14",
-        "posterPath": "/8Nc6R8k7bG8frSiDJo0oLucF7dN.jpg",
         "providers": [],
         "hitsMyProviders": false
       },
@@ -12692,15 +12509,6 @@
         "link": "https://letterboxd.com/film/spider-man-across-the-spider-verse/"
       },
       {
-        "tmdbMovieId": 964943,
-        "title": "Moon Knight",
-        "year": 2022,
-        "rating": 5,
-        "watchedAt": 1641211200000,
-        "posterPath": "/YksR65as1ppF2N48TJAh2PLamX.jpg",
-        "link": "https://letterboxd.com/film/moon-knight-2022/"
-      },
-      {
         "tmdbMovieId": 566525,
         "title": "Shang-Chi and the Legend of the Ten Rings",
         "year": 2021,
@@ -12708,15 +12516,6 @@
         "watchedAt": 1609761600000,
         "posterPath": "/9f2Q0U3IOsLgrI2HkvldwSABZy5.jpg",
         "link": "https://letterboxd.com/film/shang-chi-and-the-legend-of-the-ten-rings/"
-      },
-      {
-        "tmdbMovieId": 846214,
-        "title": "Loki",
-        "year": 2021,
-        "rating": 5,
-        "watchedAt": 1609675200000,
-        "posterPath": "/kEl2t3OhXc3Zb9FBh1AuYzRTgZp.jpg",
-        "link": "https://letterboxd.com/film/loki-2021/"
       },
       {
         "tmdbMovieId": 333339,
@@ -13529,15 +13328,6 @@
         "link": "https://letterboxd.com/film/the-adventures-of-sharkboy-and-lavagirl/"
       },
       {
-        "tmdbMovieId": 34127,
-        "title": "Wonder Man",
-        "year": 2026,
-        "rating": 4,
-        "watchedAt": 1778846400000,
-        "posterPath": "/6yy9nQlFt2l6UVWzrfhszFCaZ5C.jpg",
-        "link": "https://letterboxd.com/film/wonder-man-2026/"
-      },
-      {
         "tmdbMovieId": 1084577,
         "title": "Balls Up",
         "year": 2026,
@@ -13689,14 +13479,6 @@
         "watchedAt": 1735992000000,
         "posterPath": "/rwla9vqzrKVVKVKiOuROTIXGsxj.jpg",
         "link": "https://letterboxd.com/film/the-naked-gun/"
-      },
-      {
-        "title": "Marvel Zombies",
-        "year": 2025,
-        "rating": 4,
-        "watchedAt": 1735992000000,
-        "posterPath": "/mwKj9ERGFXsWot0nXgQ5yMQf9I7.jpg",
-        "link": "https://letterboxd.com/film/marvel-zombies/"
       },
       {
         "tmdbMovieId": 425274,
@@ -14032,14 +13814,6 @@
         "link": "https://letterboxd.com/film/the-equalizer-3/"
       },
       {
-        "title": "The Queen's Gambit",
-        "year": 2020,
-        "rating": 4,
-        "watchedAt": 1672747200000,
-        "posterPath": "/zU0htwkhNvBQdVSIKB9s6hgVeFK.jpg",
-        "link": "https://letterboxd.com/film/the-queens-gambit/"
-      },
-      {
         "tmdbMovieId": 872585,
         "title": "Oppenheimer",
         "year": 2023,
@@ -14245,15 +14019,6 @@
         "watchedAt": 1641211200000,
         "posterPath": "/tnAuB8q5vv7Ax9UAEje5Xi4BXik.jpg",
         "link": "https://letterboxd.com/film/zack-snyders-justice-league/"
-      },
-      {
-        "tmdbMovieId": 1015606,
-        "title": "Obi-Wan Kenobi",
-        "year": 2022,
-        "rating": 4,
-        "watchedAt": 1641211200000,
-        "posterPath": "/4Lok3HBSfbQxibQZBygoVCwKKrZ.jpg",
-        "link": "https://letterboxd.com/film/obi-wan-kenobi/"
       },
       {
         "tmdbMovieId": 105,
@@ -15794,15 +15559,6 @@
         "link": "https://letterboxd.com/film/sonic-the-hedgehog-3/"
       },
       {
-        "tmdbMovieId": 1387507,
-        "title": "Agatha All Along",
-        "year": 2024,
-        "rating": 3.5,
-        "watchedAt": 1704283200000,
-        "posterPath": "/mGsxKwXUjojitRv2E9qMTbxbBRd.jpg",
-        "link": "https://letterboxd.com/film/agatha-all-along-2024/"
-      },
-      {
         "tmdbMovieId": 218,
         "title": "The Terminator",
         "year": 1984,
@@ -15881,15 +15637,6 @@
         "watchedAt": 1672833600000,
         "posterPath": "/7lTnXOy0iNtBAdRP3TZvaKJ77F6.jpg",
         "link": "https://letterboxd.com/film/aquaman-and-the-lost-kingdom/"
-      },
-      {
-        "tmdbMovieId": 1221254,
-        "title": "Ahsoka",
-        "year": 2023,
-        "rating": 3.5,
-        "watchedAt": 1672747200000,
-        "posterPath": "/eiJeWeCAEZAmRppnXHiTWDcCd3Q.jpg",
-        "link": "https://letterboxd.com/film/ahsoka/"
       },
       {
         "tmdbMovieId": 7512,
@@ -16088,23 +15835,6 @@
         "watchedAt": 1609761600000,
         "posterPath": "/lAXONuqg41NwUMuzMiFvicDET9Y.jpg",
         "link": "https://letterboxd.com/film/red-notice/"
-      },
-      {
-        "title": "The Falcon and the Winter Soldier",
-        "year": 2021,
-        "rating": 3.5,
-        "watchedAt": 1609675200000,
-        "posterPath": "/6kbAMLteGO8yyewYau6bJ683sw7.jpg",
-        "link": "https://letterboxd.com/film/the-falcon-and-the-winter-soldier/"
-      },
-      {
-        "tmdbMovieId": 912073,
-        "title": "Squid Game",
-        "year": 2021,
-        "rating": 3.5,
-        "watchedAt": 1609675200000,
-        "posterPath": "/1QdXdRYfktUSONkl1oD5gc6Be0s.jpg",
-        "link": "https://letterboxd.com/film/squid-game/"
       },
       {
         "tmdbMovieId": 331,
@@ -17070,15 +16800,6 @@
         "link": "https://letterboxd.com/film/the-flash/"
       },
       {
-        "tmdbMovieId": 1165500,
-        "title": "Secret Invasion",
-        "year": 2023,
-        "rating": 3,
-        "watchedAt": 1672747200000,
-        "posterPath": "/f5ZMzzCvt2IzVDxr54gHPv9jlC9.jpg",
-        "link": "https://letterboxd.com/film/secret-invasion/"
-      },
-      {
         "tmdbMovieId": 71880,
         "title": "Jack and Jill",
         "year": 2011,
@@ -17140,14 +16861,6 @@
         "watchedAt": 1609761600000,
         "posterPath": "/pzKsRuKLFmYrW5Q0q8E8G78Tcgo.jpg",
         "link": "https://letterboxd.com/film/venom-let-there-be-carnage/"
-      },
-      {
-        "title": "The Book of Boba Fett",
-        "year": 2021,
-        "rating": 3,
-        "watchedAt": 1609675200000,
-        "posterPath": "/gNbdjDi1HamTCrfvM9JeA94bNi2.jpg",
-        "link": "https://letterboxd.com/film/the-book-of-boba-fett/"
       },
       {
         "tmdbMovieId": 400160,
@@ -17402,15 +17115,6 @@
         "link": "https://letterboxd.com/film/thor-love-and-thunder/"
       },
       {
-        "tmdbMovieId": 1001912,
-        "title": "Ms. Marvel",
-        "year": 2022,
-        "rating": 2.5,
-        "watchedAt": 1641211200000,
-        "posterPath": "/3HWWh92kZbD7odwJX7nKmXNZsYo.jpg",
-        "link": "https://letterboxd.com/film/ms-marvel/"
-      },
-      {
         "tmdbMovieId": 76600,
         "title": "Avatar: The Way of Water",
         "year": 2022,
@@ -17418,14 +17122,6 @@
         "watchedAt": 1641211200000,
         "posterPath": "/t6HIqrRAclMCA60NsSmeqe9RmNV.jpg",
         "link": "https://letterboxd.com/film/avatar-the-way-of-water/"
-      },
-      {
-        "title": "WandaVision",
-        "year": 2021,
-        "rating": 2.5,
-        "watchedAt": 1609675200000,
-        "posterPath": "/frobUz2X5Pc8OiVZU8Oo5K3NKMM.jpg",
-        "link": "https://letterboxd.com/film/wandavision/"
       },
       {
         "tmdbMovieId": 464052,
@@ -17453,14 +17149,6 @@
         "watchedAt": 1483531200000,
         "posterPath": "/60bTx5z9zL1AqCjZ0gmWoRMJ6Bb.jpg",
         "link": "https://letterboxd.com/film/the-emoji-movie/"
-      },
-      {
-        "title": "Ironheart",
-        "year": 2025,
-        "rating": 2,
-        "watchedAt": 1735905600000,
-        "posterPath": "/dOh6MJpdlQhYpLBhzhNQeYGKTZ5.jpg",
-        "link": "https://letterboxd.com/film/ironheart-2025/"
       },
       {
         "tmdbMovieId": 561,
@@ -17524,24 +17212,6 @@
         "watchedAt": 1704369600000,
         "posterPath": "/aciP8Km0waTLXEYf5ybFK5CSUxl.jpg",
         "link": "https://letterboxd.com/film/joker-folie-a-deux/"
-      },
-      {
-        "tmdbMovieId": 1187349,
-        "title": "Echo",
-        "year": 2024,
-        "rating": 0.5,
-        "watchedAt": 1704283200000,
-        "posterPath": "/vFyJH630cF68LohVYjQW49074Sy.jpg",
-        "link": "https://letterboxd.com/film/echo-2024-1/"
-      },
-      {
-        "tmdbMovieId": 1026208,
-        "title": "She-Hulk: Attorney at Law",
-        "year": 2022,
-        "rating": 0.5,
-        "watchedAt": 1641211200000,
-        "posterPath": "/5xz2orV8f0usyrfGNshcoXHmiaV.jpg",
-        "link": "https://letterboxd.com/film/she-hulk-attorney-at-law/"
       }
     ],
     "rankedShows": [
@@ -19069,12 +18739,12 @@
     ],
     "stats": {
       "letterboxd": {
-        "moviesThisYear": 23,
-        "moviesAllTime": 552,
-        "minutesAllTime": 62990,
-        "minutesThisYear": 2744,
-        "avgRating": 3.8219424460431655,
-        "ratedCount": 556,
+        "moviesThisYear": 22,
+        "moviesAllTime": 535,
+        "minutesAllTime": 62328,
+        "minutesThisYear": 2646,
+        "avgRating": 3.8423005565862707,
+        "ratedCount": 539,
         "topGenres": [
           {
             "name": "Adventure",
@@ -19086,27 +18756,27 @@
           },
           {
             "name": "Comedy",
-            "count": 231
+            "count": 229
           },
           {
             "name": "Family",
-            "count": 170
+            "count": 168
           },
           {
             "name": "Science Fiction",
-            "count": 165
+            "count": 164
           },
           {
             "name": "Animation",
-            "count": 109
-          },
-          {
-            "name": "Fantasy",
-            "count": 106
+            "count": 108
           },
           {
             "name": "Thriller",
             "count": 106
+          },
+          {
+            "name": "Fantasy",
+            "count": 105
           }
         ],
         "topYear": {
@@ -19159,13 +18829,13 @@
         ]
       },
       "combined": {
-        "activityThisYear": 37,
-        "minutesAllTime": 613777,
-        "minutesThisYear": 8864,
+        "activityThisYear": 36,
+        "minutesAllTime": 613115,
+        "minutesThisYear": 8766,
         "topGenres": [
           {
             "name": "Comedy",
-            "count": 283
+            "count": 281
           },
           {
             "name": "Adventure",
@@ -19177,11 +18847,11 @@
           },
           {
             "name": "Family",
-            "count": 186
+            "count": 184
           },
           {
             "name": "Science Fiction",
-            "count": 165
+            "count": 164
           },
           {
             "name": "Drama",
@@ -19189,22 +18859,22 @@
           },
           {
             "name": "Animation",
-            "count": 125
+            "count": 124
           },
           {
-            "name": "Fantasy",
+            "name": "Thriller",
             "count": 106
           }
         ]
       }
     },
     "warnings": [
-      "LB ratings backfilled: 0 (from 552 total rated films)",
-      "LB diagnostic: diary=556 (556 dated), all-films=552, undated-in-feed=hidden (0), total=556",
+      "LB ratings backfilled: 0 (from 535 total rated films)",
+      "LB diagnostic: diary=539 (539 dated), all-films=535, undated-in-feed=hidden (0), total=539",
       "LB watchlist diagnostic: 135 films",
       "Library: 128 shows · 7914 log entries · 19 dropped · 128 rated",
       "TV derived: fully-watched=103, in-progress=6",
-      "LB feed: 556 dated LB entries in feed, date range 2011-05-15 → 2026-05-15"
+      "LB feed: 539 dated LB entries in feed, date range 2011-05-15 → 2026-04-26"
     ]
   },
   "library": {
