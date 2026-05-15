@@ -1,8 +1,8 @@
 {
   "version": 1,
-  "generatedAt": "2026-05-15T01:02:36.590Z",
+  "generatedAt": "2026-05-15T01:04:28.776Z",
   "dashboard": {
-    "updatedAt": 1778806954002,
+    "updatedAt": 1778807066381,
     "feed": [
       {
         "source": "serializd",
@@ -43532,6 +43532,14 @@
     }
   ],
   "franchiseTv": [
+    {
+      "id": 220102,
+      "title": "Spider-Noir",
+      "releaseDate": "2026-05-25",
+      "posterPath": "/cRAzL6mmdM6Q6UuQgc335UMgcfd.jpg",
+      "mediaType": "tv",
+      "overview": "Ben Reilly, an aging and down on his luck private investigator in 1930s New York, is forced to grapple with his past life as the city's one and only superhero."
+    },
     {
       "id": 95350,
       "title": "Lanterns",
