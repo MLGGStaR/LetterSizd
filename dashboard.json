@@ -1,8 +1,8 @@
 {
   "version": 1,
-  "generatedAt": "2026-05-15T16:52:34.145Z",
+  "generatedAt": "2026-05-15T17:23:24.470Z",
   "dashboard": {
-    "updatedAt": 1778863951468,
+    "updatedAt": 1778865801870,
     "feed": [
       {
         "source": "serializd",
@@ -8531,7 +8531,7 @@
         "title": "Supergirl",
         "tmdbMovieId": 1081003,
         "releaseDate": "2026-06-24",
-        "posterPath": "/niSvU02l2BONH9ivubV6K1a5QiK.jpg",
+        "posterPath": "/lV8Yuhz36hds5dvEIwB7DThixH.jpg",
         "providers": [],
         "hitsMyProviders": false
       },
@@ -9797,6 +9797,12 @@
         "releaseDate": "2018-05-15",
         "posterPath": "/4oD6VEccFkorEBTEDXtpLAaz0Rl.jpg",
         "providers": [
+          {
+            "logo_path": "/97yvRBw1GzX7fXprcF80er19ot.jpg",
+            "provider_id": 337,
+            "provider_name": "Disney Plus",
+            "display_priority": 5
+          },
           {
             "logo_path": "/9BgaNQRMDvVlji1JBZi6tcfxpKx.jpg",
             "provider_id": 257,
@@ -44345,7 +44351,7 @@
       "id": 1081003,
       "title": "Supergirl",
       "releaseDate": "2026-06-24",
-      "posterPath": "/niSvU02l2BONH9ivubV6K1a5QiK.jpg",
+      "posterPath": "/lV8Yuhz36hds5dvEIwB7DThixH.jpg",
       "mediaType": "movie",
       "overview": "When an unexpected and ruthless adversary strikes too close to home, Kara Zor-El, aka Supergirl, reluctantly joins forces with an unlikely companion on an epic, interstellar journey of vengeance and justice."
     },
