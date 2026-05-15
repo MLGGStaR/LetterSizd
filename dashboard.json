@@ -1,8 +1,8 @@
 {
   "version": 1,
-  "generatedAt": "2026-05-15T21:10:20.529Z",
+  "generatedAt": "2026-05-15T21:41:09.957Z",
   "dashboard": {
-    "updatedAt": 1778879417206,
+    "updatedAt": 1778881266920,
     "feed": [
       {
         "source": "serializd",
@@ -45368,6 +45368,15 @@
         "popularity": 6.9701
       },
       {
+        "id": 1679751,
+        "title": "Gregg Allman: The Music of My Soul",
+        "releaseDate": "2026-05-15",
+        "posterPath": "/l4gVDiwzpg2GlApqqQkhVgmptEk.jpg",
+        "mediaType": "movie",
+        "overview": "This visionary music documentary traces the turbulent, transcendent life of Gregg Allman — from a childhood ruptured by his father’s murder to the soulful emergence that reshaped American music. Through archival recordings, candid interviews, and electric performances, the film follows Gregg’s musical awakening amid the blues he worshipped, the creation of the Allman Brothers Band with his brother.",
+        "popularity": 3.1029
+      },
+      {
         "id": 1285669,
         "title": "LifeHack",
         "releaseDate": "2026-05-15",
@@ -45539,6 +45548,15 @@
         "popularity": 2.7215
       },
       {
+        "id": 1232667,
+        "title": "Miss You, Love You",
+        "releaseDate": "2026-05-29",
+        "posterPath": "/odnel7VLYHTdW3OdgRl7N5nSlpM.jpg",
+        "mediaType": "movie",
+        "overview": "With her husband's funeral to plan and grieving to be done, a woman reaches out to her estranged son. He refuses to come home, choosing instead to send his personal assistant to help make the arrangements. The widow is forced to process her grief in the presence of a complete stranger.",
+        "popularity": 2.9773
+      },
+      {
         "id": 1086247,
         "title": "Moss & Freud",
         "releaseDate": "2026-05-29",
@@ -45560,7 +45578,7 @@
         "id": 454639,
         "title": "Masters of the Universe",
         "releaseDate": "2026-06-03",
-        "posterPath": "/nm2ianYVp7OXElUZVeeAbNTqBLr.jpg",
+        "posterPath": "/1iaoDCWAM5C1kvlmIiCrLUE16uM.jpg",
         "mediaType": "movie",
         "overview": "After being separated for 15 years, the Sword of Power leads Prince Adam back to Eternia, where he discovers his home shattered under the fiendish rule of Skeletor. To save his family and his world, Adam must join forces with his closest allies, Teela and Duncan/Man-At-Arms, and embrace his true destiny as He-Man — the most powerful man in the universe.",
         "popularity": 19.5965
@@ -45569,7 +45587,7 @@
         "id": 1273221,
         "title": "Scary Movie",
         "releaseDate": "2026-06-03",
-        "posterPath": "/2OHkZEqQL4OjYXIqWopJu0BijTD.jpg",
+        "posterPath": "/v8yQEv19hkVrcyktO281fC7VTnl.jpg",
         "mediaType": "movie",
         "overview": "Twenty-six years after outrunning a suspiciously familiar masked killer, the Core Four are back in the killer's crosshairs and no horror movie IP is safe.",
         "popularity": 14.9352
@@ -45713,7 +45731,7 @@
         "id": 1081003,
         "title": "Supergirl",
         "releaseDate": "2026-06-24",
-        "posterPath": "/niSvU02l2BONH9ivubV6K1a5QiK.jpg",
+        "posterPath": "/lV8Yuhz36hds5dvEIwB7DThixH.jpg",
         "mediaType": "movie",
         "overview": "When an unexpected and ruthless adversary strikes too close to home, Kara Zor-El, aka Supergirl, reluctantly joins forces with an unlikely companion on an epic, interstellar journey of vengeance and justice.",
         "popularity": 9.4317
@@ -45764,6 +45782,15 @@
         "popularity": 9.9041
       },
       {
+        "id": 1108427,
+        "title": "Moana",
+        "releaseDate": "2026-07-08",
+        "posterPath": "/zKVgiv5qHCvCLT4A2ymJi5QeXDH.jpg",
+        "mediaType": "movie",
+        "overview": "Moana answers the Ocean's call and, for the first time, voyages beyond the reef of her island of Motunui with the infamous demigod Maui on an unforgettable journey to restore prosperity to her people.",
+        "popularity": 7.231
+      },
+      {
         "id": 1368337,
         "title": "The Odyssey",
         "releaseDate": "2026-07-15",
@@ -45780,6 +45807,24 @@
         "mediaType": "movie",
         "overview": "Now that the Queen of Hearts is nice and Cinderella is safe, things seem perfect for Red and Chloe… But little do they know that changing the past created a new villain - Maddox Hatter. When Maddox captures the Queen of Hearts, Red and Chloe must work with Red’s new sister Pink, Luisa Madrigal’s son Luis and Maddox’s son Max to save her and Wonderland.",
         "popularity": 1.9126
+      },
+      {
+        "id": 1185806,
+        "title": "PAW Patrol: The Dino Movie",
+        "releaseDate": "2026-07-24",
+        "posterPath": "/3US9zyWBUbLTASwNwMSuZ0fO6hC.jpg",
+        "mediaType": "movie",
+        "overview": "The PAW Patrol pups crash land on an uncharted tropical island filled with dinosaurs after their ship gets caught in a mysterious storm. They meet Rex, a pup who has been stranded on the island for years and has become an expert in all things dino-related. When the Patrol’s archrival, Mayor Humdinger, begins recklessly mining in hopes of exploiting the island for its natural resources, he inadvertently causes a huge, dormant volcano to erupt. The pups are thrown into a series of high-stakes, dino-sized rescues bigger than anything they’ve done before, as they must stop Humdinger before everything on the island goes extinct.",
+        "popularity": 2.7715
+      },
+      {
+        "id": 87513,
+        "title": "Motor City",
+        "releaseDate": "2026-07-24",
+        "posterPath": "/2r4X5RmpKxVr1yQ8hhF6rbgypfj.jpg",
+        "mediaType": "movie",
+        "overview": "In 1970s Detroit, John Miller falls in love with the girlfriend of a local gangster. To get revenge, the gangster sets up a frame-up to send the innocent man to prison. With his life ruined, Miller plots revenge against the man who took his girlfriend away from him.",
+        "popularity": 2.5511
       },
       {
         "id": 1469342,
@@ -45908,15 +45953,6 @@
         "popularity": 1.8145
       },
       {
-        "id": 1204680,
-        "title": "Coyote vs ACME",
-        "releaseDate": "2026-08-26",
-        "posterPath": "/7zNmJP6z6mDAp4LouacYkGSBUQv.jpg",
-        "mediaType": "movie",
-        "overview": "After Acme products fail him one too many times in his dogged pursuit of the Roadrunner, Wile E. Coyote decides to hire a billboard lawyer to sue the Acme Corporation.",
-        "popularity": 2.7633
-      },
-      {
         "id": 1384216,
         "title": "The Dog Stars",
         "releaseDate": "2026-08-26",
@@ -45924,6 +45960,15 @@
         "mediaType": "movie",
         "overview": "After the world's population has been ravaged by a pandemic, a man lives a lonesome existence in a Colorado airplane hangar with his dog and a dour gunman he has befriended. When a mysterious transmission comes through on the radio while he’s flying his old Cessna, it sparks a hunt for the provenance of the sound.",
         "popularity": 3.0483
+      },
+      {
+        "id": 1204680,
+        "title": "Coyote vs ACME",
+        "releaseDate": "2026-08-26",
+        "posterPath": "/7zNmJP6z6mDAp4LouacYkGSBUQv.jpg",
+        "mediaType": "movie",
+        "overview": "After Acme products fail him one too many times in his dogged pursuit of the Roadrunner, Wile E. Coyote decides to hire a billboard lawyer to sue the Acme Corporation.",
+        "popularity": 2.7633
       },
       {
         "id": 1284186,
@@ -45953,6 +45998,15 @@
         "popularity": 2.9693
       },
       {
+        "id": 1302904,
+        "title": "Practical Magic 2",
+        "releaseDate": "2026-09-09",
+        "posterPath": "/uA8ytJv17alSiREcUthbYAdiPCX.jpg",
+        "mediaType": "movie",
+        "overview": "The Owens sisters must confront the dark curse that threatens to unravel their family once and for all.",
+        "popularity": 2.4836
+      },
+      {
         "id": 1260649,
         "title": "Jumanji: Open World",
         "releaseDate": "2026-09-11",
@@ -45965,7 +46019,7 @@
         "id": 1523553,
         "title": "Dark Horse",
         "releaseDate": "2026-09-11",
-        "posterPath": "/5NHecYZchMZ18GSSgcVhoY5wEqX.jpg",
+        "posterPath": "/g4Y549p7dZpgO9kCg9lQvD2MF7k.jpg",
         "mediaType": "movie",
         "overview": "Follows Jair Messias Bolsonaro, a man driven by his political career after disappointment with the direction of his country, in the journey to become the 38th president of Brazil.",
         "popularity": 2.4609
@@ -46172,7 +46226,7 @@
         "id": 1170608,
         "title": "Dune: Part Three",
         "releaseDate": "2026-12-16",
-        "posterPath": "/b4wekkUaxExzOeGe7hKXzhnyXHt.jpg",
+        "posterPath": "/4mTXkCtz75P4VjbaxRJzTVZkUxK.jpg",
         "mediaType": "movie",
         "overview": "As Emperor, Paul Atreides grapples with the consequences of his rise to power as political conspiracies and a galaxy-spanning holy war threaten the future he alone can foresee.",
         "popularity": 7.5911
@@ -46340,6 +46394,15 @@
         "mediaType": "movie",
         "overview": "12-year-old Jacob is an aspiring basketball player coping with the recent loss of his father. After he and his mother move to his dad’s childhood home in Fernfield, Jacob discovers a VHS tape of his old man playing basketball on the same court as a hoops-shooting golden retriever. Soon, Jacob begins his own adventure with a neglected golden retriever that he names Buddy.",
         "popularity": 1.2086
+      },
+      {
+        "id": 1425472,
+        "title": "The Rescue",
+        "releaseDate": "2027-01-29",
+        "posterPath": null,
+        "mediaType": "movie",
+        "overview": "A modern day western in which a rodeo cowboy's skills are put to the test outside the arena.",
+        "popularity": 0.8378
       },
       {
         "id": 1485138,
@@ -46630,6 +46693,15 @@
         "popularity": 1.0172
       },
       {
+        "id": 1548004,
+        "title": "The Summer I Turned Pretty: The Movie",
+        "releaseDate": "2027-04-27",
+        "posterPath": "/3TuA5sHwVg4Rmg0llFkZr2qdQTf.jpg",
+        "mediaType": "movie",
+        "overview": "A continuation of the events following the end of the TV series 'The Summer I Turned Pretty.\"",
+        "popularity": 0.6183
+      },
+      {
         "id": 1177369,
         "title": "The Legend of Zelda",
         "releaseDate": "2027-04-30",
@@ -46673,6 +46745,15 @@
         "mediaType": "movie",
         "overview": "In the 1990s, the story returns to the roots of evil to reveal the secrets hidden behind the fire at Katie and Kristi’s house, and the dark bond that would mark Hunter’s destiny forever.",
         "popularity": 1.0924
+      },
+      {
+        "id": 1138528,
+        "title": "Bad Fairies",
+        "releaseDate": "2027-05-20",
+        "posterPath": "/h0JbLsPVEJModp73t2Os7a3z8Ay.jpg",
+        "mediaType": "movie",
+        "overview": "An original musical comedy that follows a delightfully subversive gang of fairies as they shake up their magical world.",
+        "popularity": 0.6274
       },
       {
         "id": 1677482,
@@ -46736,6 +46817,15 @@
         "mediaType": "movie",
         "overview": "Hunted by Miguel O'Hara's Spider Society and betrayed by his friends, Miles finds himself in the darkest corners of the Spider-Verse in search of a way home. Knowing that his family has been not only fractured but endangered by his calling, it's a race against the clock for Miles to travel across the wildest reaches of time and space to fight for and reunite everything he holds most dear.",
         "popularity": 3.9359
+      },
+      {
+        "id": 1221973,
+        "title": "Untitled Ocean's Prequel",
+        "releaseDate": "2027-06-24",
+        "posterPath": null,
+        "mediaType": "movie",
+        "overview": "Before Danny Ocean ever stepped foot in Vegas, two masterminds taught him everything he knows — his parents. And in 1962, they pull off an epic heist during the Formula One Monaco Grand Prix.",
+        "popularity": 0.752
       },
       {
         "id": 421892,
@@ -46864,6 +46954,15 @@
         "popularity": 0.9513
       },
       {
+        "id": 1544162,
+        "title": "The Conjuring: First Communion",
+        "releaseDate": "2027-09-09",
+        "posterPath": null,
+        "mediaType": "movie",
+        "overview": "A prequel in the franchise. Plot TBA.",
+        "popularity": 0.5555
+      },
+      {
         "id": 1421202,
         "title": "It Is Not Her Fault",
         "releaseDate": "2027-09-14",
@@ -46925,6 +47024,15 @@
         "mediaType": "movie",
         "overview": "When Santa goes missing Christmas Eve, his wife Margie Claus has to assemble a rag-tag team of long-retired reindeer to rescue Santa and save Christmas",
         "popularity": 0.5107
+      },
+      {
+        "id": 1413533,
+        "title": "Helldivers",
+        "releaseDate": "2027-11-10",
+        "posterPath": "/zDRwl5qTqPJgNoc8pkQkDnXRSYF.jpg",
+        "mediaType": "movie",
+        "overview": "A live-action film based on the video game. Plot TBA.",
+        "popularity": 0.9121
       },
       {
         "id": 1423577,
