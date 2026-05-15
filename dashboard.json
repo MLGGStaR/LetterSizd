@@ -1,8 +1,8 @@
 {
   "version": 1,
-  "generatedAt": "2026-05-15T15:20:07.068Z",
+  "generatedAt": "2026-05-15T15:50:53.715Z",
   "dashboard": {
-    "updatedAt": 1778858404582,
+    "updatedAt": 1778860251112,
     "feed": [
       {
         "source": "serializd",
@@ -10228,12 +10228,6 @@
             "provider_id": 15,
             "provider_name": "Hulu",
             "display_priority": 6
-          },
-          {
-            "logo_path": "/oTQdXIqM9iewlN4MC2nhKB0gHw.jpg",
-            "provider_id": 1854,
-            "provider_name": "AMC Plus Apple TV Channel ",
-            "display_priority": 22
           },
           {
             "logo_path": "/2ino0WmHA4GROB7NYKzT6PGqLcb.jpg",
