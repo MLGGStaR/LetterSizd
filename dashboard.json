@@ -1,8 +1,8 @@
 {
   "version": 1,
-  "generatedAt": "2026-05-15T20:39:31.214Z",
+  "generatedAt": "2026-05-15T21:10:20.529Z",
   "dashboard": {
-    "updatedAt": 1778877567663,
+    "updatedAt": 1778879417206,
     "feed": [
       {
         "source": "serializd",
@@ -45377,15 +45377,6 @@
         "popularity": 2.2668
       },
       {
-        "id": 1662414,
-        "title": "Propeller One-Way Night Coach",
-        "releaseDate": "2026-05-15",
-        "posterPath": "/joal4OSVC4T1yFb3kph91tkNNFf.jpg",
-        "mediaType": "movie",
-        "overview": "During the golden age of aviation, a young airplane enthusiast and his mother embark on a cross-country journey to Hollywood—and their simple flight transforms into the trip of a lifetime.",
-        "popularity": 1.5042
-      },
-      {
         "id": 1693287,
         "title": "Fatal Contact",
         "releaseDate": "2026-05-15",
@@ -45548,13 +45539,13 @@
         "popularity": 2.7215
       },
       {
-        "id": 1232667,
-        "title": "Miss You, Love You",
+        "id": 1086247,
+        "title": "Moss & Freud",
         "releaseDate": "2026-05-29",
-        "posterPath": "/odnel7VLYHTdW3OdgRl7N5nSlpM.jpg",
+        "posterPath": "/yPuZtt763q3AYqqbeocGvCjTJdw.jpg",
         "mediaType": "movie",
-        "overview": "With her husband's funeral to plan and grieving to be done, a woman reaches out to her estranged son. He refuses to come home, choosing instead to send his personal assistant to help make the arrangements. The widow is forced to process her grief in the presence of a complete stranger.",
-        "popularity": 2.9773
+        "overview": "Supermodel Kate Moss embarks on a journey of self-discovery when acclaimed artist Lucian Freud offers to paint her portrait.",
+        "popularity": 1.9648
       },
       {
         "id": 1659169,
@@ -45593,6 +45584,15 @@
         "popularity": 5.6789
       },
       {
+        "id": 1284465,
+        "title": "The Death of Robin Hood",
+        "releaseDate": "2026-06-04",
+        "posterPath": "/4cD7KeABHyzeJmzdA6QKe36fp2d.jpg",
+        "mediaType": "movie",
+        "overview": "Grappling with his past after a life of crime and murder, Robin Hood finds himself gravely injured after a battle he thought would be his last. In the hands of a mysterious woman, he is offered a chance at salvation.",
+        "popularity": 1.8779
+      },
+      {
         "id": 1280738,
         "title": "The Furious",
         "releaseDate": "2026-06-05",
@@ -45629,6 +45629,15 @@
         "popularity": 16.816
       },
       {
+        "id": 1541560,
+        "title": "Stop! That! Train!",
+        "releaseDate": "2026-06-12",
+        "posterPath": "/w90dGS6D2lVO4aO5rdQ8QECrUGY.jpg",
+        "mediaType": "movie",
+        "overview": "Two train stewardess BFFs switch from a dull railway to the luxurious Glamazonian Express. During a massive storm, they must work with snooty first-class crew and President Gagwell to prevent disaster in LA.",
+        "popularity": 1.8689
+      },
+      {
         "id": 1084244,
         "title": "Toy Story 5",
         "releaseDate": "2026-06-17",
@@ -45656,6 +45665,15 @@
         "popularity": 2.1948
       },
       {
+        "id": 1517868,
+        "title": "Maddie's Secret",
+        "releaseDate": "2026-06-19",
+        "posterPath": "/yw8VSkJyiqFMWdqIp8I1v7EbniT.jpg",
+        "mediaType": "movie",
+        "overview": "Maddie is a plucky dishwasher who leaps to viral superstardom at a trendy food content creation company. While her life seems picturesque — complete with an adoring husband, ride-or-die best friend and a cupboard full of woman-owned ethically-sourced chili crisp to boot — mounting professional pressures threaten to reawaken a hidden secret from her troubled past.",
+        "popularity": 4.2605
+      },
+      {
         "id": 1437696,
         "title": "Fatherland",
         "releaseDate": "2026-06-19",
@@ -45672,15 +45690,6 @@
         "mediaType": "movie",
         "overview": "A young woman copes with her sister’s death by leaving her voicemails chronicling her chaotic life in San Francisco. When the number is unknowingly reassigned, an elusive Austin real estate agent begins receiving the hilariously confessional messages.",
         "popularity": 1.8968
-      },
-      {
-        "id": 1517868,
-        "title": "Maddie's Secret",
-        "releaseDate": "2026-06-19",
-        "posterPath": "/yw8VSkJyiqFMWdqIp8I1v7EbniT.jpg",
-        "mediaType": "movie",
-        "overview": "Maddie is a plucky dishwasher who leaps to viral superstardom at a trendy food content creation company. While her life seems picturesque — complete with an adoring husband, ride-or-die best friend and a cupboard full of woman-owned ethically-sourced chili crisp to boot — mounting professional pressures threaten to reawaken a hidden secret from her troubled past.",
-        "popularity": 4.2605
       },
       {
         "id": 1397485,
@@ -45737,6 +45746,15 @@
         "popularity": 6.1138
       },
       {
+        "id": 1308767,
+        "title": "Young Washington",
+        "releaseDate": "2026-07-03",
+        "posterPath": "/ntW9zzhDmbt3sXDyPXb7SHVuDdB.jpg",
+        "mediaType": "movie",
+        "overview": "Before he led a nation, George Washington was a young soldier thrown into a global conflict. With alliances crumbling and war closing in, he must choose who to trust and confront the leader he's becoming.",
+        "popularity": 2.2128
+      },
+      {
         "id": 1212763,
         "title": "Evil Dead Burn",
         "releaseDate": "2026-07-08",
@@ -45744,15 +45762,6 @@
         "mediaType": "movie",
         "overview": "After the loss of her husband, a woman seeks solace with her in-laws in their secluded family home. As one by one they are transformed into Deadites—turning the gathering into a family reunion from hell—she comes to discover that the vows she took in life... live on even in death.",
         "popularity": 9.9041
-      },
-      {
-        "id": 1108427,
-        "title": "Moana",
-        "releaseDate": "2026-07-08",
-        "posterPath": "/zKVgiv5qHCvCLT4A2ymJi5QeXDH.jpg",
-        "mediaType": "movie",
-        "overview": "Moana answers the Ocean's call and, for the first time, voyages beyond the reef of her island of Motunui with the infamous demigod Maui on an unforgettable journey to restore prosperity to her people.",
-        "popularity": 7.231
       },
       {
         "id": 1368337,
@@ -45771,24 +45780,6 @@
         "mediaType": "movie",
         "overview": "Now that the Queen of Hearts is nice and Cinderella is safe, things seem perfect for Red and Chloe… But little do they know that changing the past created a new villain - Maddox Hatter. When Maddox captures the Queen of Hearts, Red and Chloe must work with Red’s new sister Pink, Luisa Madrigal’s son Luis and Maddox’s son Max to save her and Wonderland.",
         "popularity": 1.9126
-      },
-      {
-        "id": 87513,
-        "title": "Motor City",
-        "releaseDate": "2026-07-24",
-        "posterPath": "/2r4X5RmpKxVr1yQ8hhF6rbgypfj.jpg",
-        "mediaType": "movie",
-        "overview": "In 1970s Detroit, John Miller falls in love with the girlfriend of a local gangster. To get revenge, the gangster sets up a frame-up to send the innocent man to prison. With his life ruined, Miller plots revenge against the man who took his girlfriend away from him.",
-        "popularity": 2.5511
-      },
-      {
-        "id": 1185806,
-        "title": "PAW Patrol: The Dino Movie",
-        "releaseDate": "2026-07-24",
-        "posterPath": "/3US9zyWBUbLTASwNwMSuZ0fO6hC.jpg",
-        "mediaType": "movie",
-        "overview": "The PAW Patrol pups crash land on an uncharted tropical island filled with dinosaurs after their ship gets caught in a mysterious storm. They meet Rex, a pup who has been stranded on the island for years and has become an expert in all things dino-related. When the Patrol’s archrival, Mayor Humdinger, begins recklessly mining in hopes of exploiting the island for its natural resources, he inadvertently causes a huge, dormant volcano to erupt. The pups are thrown into a series of high-stakes, dino-sized rescues bigger than anything they’ve done before, as they must stop Humdinger before everything on the island goes extinct.",
-        "popularity": 2.7715
       },
       {
         "id": 1469342,
@@ -45816,6 +45807,15 @@
         "mediaType": "movie",
         "overview": "When fresh-faced Elliot lands an exciting job for renowned artist, icon and provocateur Erika Tracy, his fantasies come true as Erika taps him to become her sexual muse. But Elliot soon finds himself out of his depth as Erika takes him on a journey more profound than he ever could have imagined, into a world of sex, obsession, power, betrayal and murder.",
         "popularity": 2.7102
+      },
+      {
+        "id": 1433367,
+        "title": "One Night Only",
+        "releaseDate": "2026-08-05",
+        "posterPath": "/gzy1L7wqkFRznQPv4WrdPQ9bCJ8.jpg",
+        "mediaType": "movie",
+        "overview": "Two love-starved strangers crash into each other on the one night of the year when single people are allowed to have sex.",
+        "popularity": 2.1418
       },
       {
         "id": 814795,
@@ -45861,6 +45861,15 @@
         "mediaType": "movie",
         "overview": "After a mysterious cosmic event rips Oak Street from suburbia and transports their neighborhood to someplace unknown, a family soon discovers that their very survival depends on them sticking together as they navigate their now unrecognizable surroundings.",
         "popularity": 3.697
+      },
+      {
+        "id": 1477654,
+        "title": "The Crystal Planet",
+        "releaseDate": "2026-08-13",
+        "posterPath": "/zNp8vhG9EHGQtre0BOX0Oa1A1sh.jpg",
+        "mediaType": "movie",
+        "overview": "11-year-old Rea has recently moved to a distant planet in an outer-space colony where she discovers a mysterious animal cub while her father works in a factory that builds robotic creatures. With the help of her new friend Andy, she must protect the real cub from the factory’s ruthless owner, who intends to turn it into a robotic prototype.",
+        "popularity": 3.1266
       },
       {
         "id": 1124142,
@@ -45944,15 +45953,6 @@
         "popularity": 2.9693
       },
       {
-        "id": 1302904,
-        "title": "Practical Magic 2",
-        "releaseDate": "2026-09-09",
-        "posterPath": "/uA8ytJv17alSiREcUthbYAdiPCX.jpg",
-        "mediaType": "movie",
-        "overview": "The Owens sisters must confront the dark curse that threatens to unravel their family once and for all.",
-        "popularity": 2.4836
-      },
-      {
         "id": 1260649,
         "title": "Jumanji: Open World",
         "releaseDate": "2026-09-11",
@@ -46025,6 +46025,15 @@
         "popularity": 2.4037
       },
       {
+        "id": 1400837,
+        "title": "Other Mommy",
+        "releaseDate": "2026-10-08",
+        "posterPath": "/aAtsAukFvHWsQFaBn2HqR0rd3RJ.jpg",
+        "mediaType": "movie",
+        "overview": "A young girl as her family, and their home, are haunted by a sinister entity that is determined to take up residence inside her. But first, it needs to persuade her to let it in…",
+        "popularity": 1.9639
+      },
+      {
         "id": 980431,
         "title": "Avatar Aang: The Last Airbender",
         "releaseDate": "2026-10-09",
@@ -46061,15 +46070,6 @@
         "popularity": 7.2118
       },
       {
-        "id": 1290000,
-        "title": "Wife & Dog",
-        "releaseDate": "2026-10-23",
-        "posterPath": "/eoyLMVeP1cuQRTU74W5NAFJBvsu.jpg",
-        "mediaType": "movie",
-        "overview": "A \"return to the colourful, back-stabbing world of the British aristocracy\", this pic follows the relentless greed of the Fairbank family and their associates who fuel betrayal and murder in the battle for succession.",
-        "popularity": 1.5535
-      },
-      {
         "id": 858035,
         "title": "Klara and the Sun",
         "releaseDate": "2026-10-23",
@@ -46077,6 +46077,15 @@
         "mediaType": "movie",
         "overview": "Klara, an Artificial Friend designed to prevent loneliness, is purchased by a mother and her bright teen daughter, Josie. Josie, who suffers from a mysterious illness, adores her new robot companion. On a quest to save Josie and those who love her from heartbreak, Klara learns the power of human love.",
         "popularity": 1.7201
+      },
+      {
+        "id": 1290000,
+        "title": "Wife & Dog",
+        "releaseDate": "2026-10-23",
+        "posterPath": "/eoyLMVeP1cuQRTU74W5NAFJBvsu.jpg",
+        "mediaType": "movie",
+        "overview": "A \"return to the colourful, back-stabbing world of the British aristocracy\", this pic follows the relentless greed of the Fairbank family and their associates who fuel betrayal and murder in the battle for succession.",
+        "popularity": 1.5535
       },
       {
         "id": 891621,
@@ -46133,6 +46142,15 @@
         "popularity": 2.7839
       },
       {
+        "id": 1538497,
+        "title": "Hexed",
+        "releaseDate": "2026-11-25",
+        "posterPath": "/5YowGwH2vvA0R0eIq5HAQODf6cG.jpg",
+        "mediaType": "movie",
+        "overview": "An impulsive and unconventional teenage girl named Billie discovers secret magical abilities which, once unleashed, hurtle her into a spectacle-filled journey out of suburbia and into a vast witch realm called Hexe. Forced to team up with her cautious mother, Alice, they uncover family mysteries that could change the world of witches forever.",
+        "popularity": 1.8358
+      },
+      {
         "id": 1131943,
         "title": "Madden",
         "releaseDate": "2026-11-26",
@@ -46158,6 +46176,15 @@
         "mediaType": "movie",
         "overview": "As Emperor, Paul Atreides grapples with the consequences of his rise to power as political conspiracies and a galaxy-spanning holy war threaten the future he alone can foresee.",
         "popularity": 7.5911
+      },
+      {
+        "id": 1277016,
+        "title": "The Queen of Heaven",
+        "releaseDate": "2026-12-18",
+        "posterPath": "/zY2vIC5q9waeSKDrYjAQnP6CyTz.jpg",
+        "mediaType": "movie",
+        "overview": "The life of the Virgin Mary from the Crucifixion (33AD) till her miraculous departure/death (44AD). It also describes the early years of the Christian Church community.",
+        "popularity": 1.8858
       },
       {
         "id": 1300926,
@@ -46351,15 +46378,6 @@
         "popularity": 2.9264
       },
       {
-        "id": 1425859,
-        "title": "Remain",
-        "releaseDate": "2027-02-04",
-        "posterPath": "/ayaZ9kKsmdk1EaH99qxpp6SEpIU.jpg",
-        "mediaType": "movie",
-        "overview": "Architect Tate Donovan arrives in Cape Cod to design a client’s summer home. Struggling with the loss of his family, he moves into a historic home where he meets Wren, a mysterious young woman who challenges Tate’s perception of the world.",
-        "popularity": 1.4851
-      },
-      {
         "id": 1480503,
         "title": "CoComelon: The Movie",
         "releaseDate": "2027-02-04",
@@ -46367,6 +46385,15 @@
         "mediaType": "movie",
         "overview": "A CG-animated film inspired by the blockbuster children’s show of the same name. Plot TBA.",
         "popularity": 1.9059
+      },
+      {
+        "id": 1425859,
+        "title": "Remain",
+        "releaseDate": "2027-02-04",
+        "posterPath": "/ayaZ9kKsmdk1EaH99qxpp6SEpIU.jpg",
+        "mediaType": "movie",
+        "overview": "Architect Tate Donovan arrives in Cape Cod to design a client’s summer home. Struggling with the loss of his family, he moves into a historic home where he meets Wren, a mysterious young woman who challenges Tate’s perception of the world.",
+        "popularity": 1.4851
       },
       {
         "id": 458896,
@@ -46601,6 +46628,15 @@
         "mediaType": "movie",
         "overview": "Described as \"a non-prequel non-reboot sequel part two but with reboot elements franchise expansion film\". Plot TBA.",
         "popularity": 1.0172
+      },
+      {
+        "id": 1177369,
+        "title": "The Legend of Zelda",
+        "releaseDate": "2027-04-30",
+        "posterPath": "/obcEXMMrwSRIloR77egWSwOjZM2.jpg",
+        "mediaType": "movie",
+        "overview": "A live-action adaptation of the Legend of Zelda video game series.",
+        "popularity": 1.9839
       },
       {
         "id": 1212489,
@@ -47064,6 +47100,15 @@
         "popularity": 0.236
       },
       {
+        "id": 1188748,
+        "title": "Murder, She Wrote",
+        "releaseDate": "2028-02-04",
+        "posterPath": null,
+        "mediaType": "movie",
+        "overview": "A feature adaptation of the classic TV series. Plot TBA.",
+        "popularity": 0.2536
+      },
+      {
         "id": 1625381,
         "title": "Heart Eyes 2",
         "releaseDate": "2028-02-10",
@@ -47107,6 +47152,15 @@
         "mediaType": "movie",
         "overview": "The eleventh and final installment in The Fast Saga. Plot TBA.",
         "popularity": 6.1057
+      },
+      {
+        "id": 748865,
+        "title": "Oh, the Places You'll Go!",
+        "releaseDate": "2028-03-16",
+        "posterPath": "/rf0EFUEN4hV41FjaQsbaB274A3g.jpg",
+        "mediaType": "movie",
+        "overview": "A globetrotting animated musical which follows a young adventurer as they journey the joys and heartaches, and the peaks and the valleys of life.",
+        "popularity": 0.2656
       },
       {
         "id": 1488743,
@@ -47170,6 +47224,15 @@
         "mediaType": "movie",
         "overview": "Upcoming spin-off of the Super Mario Bros Movie.",
         "popularity": 0.2455
+      },
+      {
+        "id": 1597786,
+        "title": "Untitled Illumination Film",
+        "releaseDate": "2028-04-18",
+        "posterPath": null,
+        "mediaType": "movie",
+        "overview": "An upcoming animated feature film from Illumination Entertainment. Plot TBA.",
+        "popularity": 0.0698
       },
       {
         "id": 1566914,
