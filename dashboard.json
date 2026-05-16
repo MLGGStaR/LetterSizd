@@ -1,8 +1,8 @@
 {
   "version": 1,
-  "generatedAt": "2026-05-15T23:45:07.541Z",
+  "generatedAt": "2026-05-16T00:15:58.668Z",
   "dashboard": {
-    "updatedAt": 1778888704328,
+    "updatedAt": 1778890554694,
     "feed": [
       {
         "source": "serializd",
@@ -45380,42 +45380,6 @@
         "popularity": 5.4227
       },
       {
-        "id": 1242876,
-        "title": "500 Miles",
-        "releaseDate": "2026-05-15",
-        "posterPath": "/FhRosui9MSdxdyD3h0skOFhqED.jpg",
-        "mediaType": "movie",
-        "overview": "A broken family is forced to come together when 16-year-old Finn and his livewire younger brother Charlie run away from trouble at home in England to reach their estranged grandfather on Ireland’s stunning and wild west coast.",
-        "popularity": 6.9701
-      },
-      {
-        "id": 1679751,
-        "title": "Gregg Allman: The Music of My Soul",
-        "releaseDate": "2026-05-15",
-        "posterPath": "/l4gVDiwzpg2GlApqqQkhVgmptEk.jpg",
-        "mediaType": "movie",
-        "overview": "This visionary music documentary traces the turbulent, transcendent life of Gregg Allman — from a childhood ruptured by his father’s murder to the soulful emergence that reshaped American music. Through archival recordings, candid interviews, and electric performances, the film follows Gregg’s musical awakening amid the blues he worshipped, the creation of the Allman Brothers Band with his brother.",
-        "popularity": 3.1029
-      },
-      {
-        "id": 1285669,
-        "title": "LifeHack",
-        "releaseDate": "2026-05-15",
-        "posterPath": "/85kGYFbW1rfxSITAEDtZ4yqVNgl.jpg",
-        "mediaType": "movie",
-        "overview": "Four teenage slackers attempt a multi-million-dollar Bitcoin heist from their bedrooms, only to spiral into the darkest corners of the internet-and a danger beyond their computer screens.",
-        "popularity": 2.2668
-      },
-      {
-        "id": 1693287,
-        "title": "Fatal Contact",
-        "releaseDate": "2026-05-15",
-        "posterPath": "/rrYyCOI5pdmVJ4FRIw1JHTgurm.jpg",
-        "mediaType": "movie",
-        "overview": "A traumatized psychic, after receiving a vision from beyond the grave, must use her ability once again to confront a killer.",
-        "popularity": 1.5638
-      },
-      {
         "id": 1381273,
         "title": "Paper Tiger",
         "releaseDate": "2026-05-16",
@@ -45657,6 +45621,15 @@
         "mediaType": "movie",
         "overview": "A computer scientist is invited by a tech billionaire to join his private facility on a Caribbean island to investigate extraterrestrial matter on Earth. When they make contact beyond our world, chaos erupts as we’re left to wonder: do they come in peace?",
         "popularity": 1.5712
+      },
+      {
+        "id": 1245859,
+        "title": "Savage House",
+        "releaseDate": "2026-06-05",
+        "posterPath": "/tFWewN33etDjCiteqEkgORNnqcF.jpg",
+        "mediaType": "movie",
+        "overview": "Against the backdrop of 18th century England, a massive pox outbreak, and Jacobite uprising – Sir Chauncey Savage and Lady Savage blindly pursue a better life. It's not without a tinge of irony that their family name is the Savages, for this is a Savage House indeed, filled with duels, decadence, and bloodshed.",
+        "popularity": 1.4814
       },
       {
         "id": 1275779,
@@ -45938,6 +45911,15 @@
         "popularity": 3.1266
       },
       {
+        "id": 1280015,
+        "title": "Sunny Dancer",
+        "releaseDate": "2026-08-13",
+        "posterPath": "/eQFxX09ufsOmrDdwwownxRAlqv5.jpg",
+        "mediaType": "movie",
+        "overview": "Ivy is a teenager in remission from cancer, whose mum and dad insist she attend Children Run Free Camp, a summer retreat for young adults affected by cancer. However, as Ivy is reluctantly dragged through camp experience, she discovers new feelings with new friends.",
+        "popularity": 1.5299
+      },
+      {
         "id": 1124142,
         "title": "The Rivals of Amziah King",
         "releaseDate": "2026-08-14",
@@ -45992,6 +45974,15 @@
         "popularity": 2.7633
       },
       {
+        "id": 1120556,
+        "title": "Cliffhanger",
+        "releaseDate": "2026-08-26",
+        "posterPath": "/w5D1gjf4lN3hMQlua5BfVv3u6Wp.jpg",
+        "mediaType": "movie",
+        "overview": "During a weekend trip with a billionaire's son, seasoned mountaineer Ray Cooper and his daughter Sydney are targeted by a gang of kidnappers. Ray’s other daughter Naomi, still haunted by a past climbing accident, witnesses the attack and escapes. To save her family, she must confront her fears and fight for survival.",
+        "popularity": 1.4854
+      },
+      {
         "id": 1284186,
         "title": "Sacrifice",
         "releaseDate": "2026-09-03",
@@ -46008,6 +45999,15 @@
         "mediaType": "movie",
         "overview": "Smart bank robbers share their heists on social media while evading police.",
         "popularity": 1.7222
+      },
+      {
+        "id": 1380417,
+        "title": "By Any Means",
+        "releaseDate": "2026-09-04",
+        "posterPath": "/lVp3xrC9NHWYJ9pcfRfvjKWutSD.jpg",
+        "mediaType": "movie",
+        "overview": "A volatile partnership between a hardened mafia hitman and a young Black FBI agent are forced into an uneasy alliance to track down those responsible for the killing of civil rights leaders — uncovering a conspiracy that tests the limits of justice, loyalty and survival.",
+        "popularity": 1.5232
       },
       {
         "id": 1423191,
@@ -46040,7 +46040,7 @@
         "id": 1523553,
         "title": "Dark Horse",
         "releaseDate": "2026-09-11",
-        "posterPath": "/g4Y549p7dZpgO9kCg9lQvD2MF7k.jpg",
+        "posterPath": "/jBK8cQzKLDaeqZKftB4SHFrpYco.jpg",
         "mediaType": "movie",
         "overview": "Follows Jair Messias Bolsonaro, a man driven by his political career after disappointment with the direction of his country, in the journey to become the 38th president of Brazil.",
         "popularity": 2.4609
