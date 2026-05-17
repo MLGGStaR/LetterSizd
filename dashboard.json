@@ -1,8 +1,8 @@
 {
   "version": 1,
-  "generatedAt": "2026-05-17T17:05:30.896Z",
+  "generatedAt": "2026-05-17T17:21:40.061Z",
   "dashboard": {
-    "updatedAt": 1779037526388,
+    "updatedAt": 1779038497387,
     "feed": [
       {
         "source": "serializd",
@@ -17267,7 +17267,8 @@
         "posterPath": "/an3uTx1P0XgHPylgfPV6W7yxKAo.jpg",
         "link": "https://www.serializd.com/show/1418",
         "status": "Ended",
-        "isDropped": false
+        "isDropped": false,
+        "isWatchlist": false
       },
       {
         "tmdbShowId": 46952,
@@ -17279,7 +17280,8 @@
         "posterPath": "/4HTfd1PhgFUenJxVuBDNdLmdr0c.jpg",
         "link": "https://www.serializd.com/show/46952",
         "status": "Ended",
-        "isDropped": false
+        "isDropped": false,
+        "isWatchlist": false
       },
       {
         "tmdbShowId": 1100,
@@ -17291,7 +17293,8 @@
         "posterPath": "/b34jPzmB0wZy7EjUZoleXOl2RRI.jpg",
         "link": "https://www.serializd.com/show/1100",
         "status": "Ended",
-        "isDropped": false
+        "isDropped": false,
+        "isWatchlist": false
       },
       {
         "tmdbShowId": 60735,
@@ -17303,7 +17306,8 @@
         "posterPath": "/yZevl2vHQgmosfwUdVNzviIfaWS.jpg",
         "link": "https://www.serializd.com/show/60735",
         "status": "Ended",
-        "isDropped": false
+        "isDropped": false,
+        "isWatchlist": false
       },
       {
         "tmdbShowId": 1402,
@@ -17315,7 +17319,8 @@
         "posterPath": "/s3OIDrCErUjthsnPPreY7XktQXB.jpg",
         "link": "https://www.serializd.com/show/1402",
         "status": "Ended",
-        "isDropped": false
+        "isDropped": false,
+        "isWatchlist": false
       },
       {
         "tmdbShowId": 48891,
@@ -17327,7 +17332,8 @@
         "posterPath": "/A3SymGlOHefSKbz1bCOz56moupS.jpg",
         "link": "https://www.serializd.com/show/48891",
         "status": "Ended",
-        "isDropped": false
+        "isDropped": false,
+        "isWatchlist": false
       },
       {
         "tmdbShowId": 1403,
@@ -17339,7 +17345,8 @@
         "posterPath": "/gHUCCMy1vvj58tzE3dZqeC9SXus.jpg",
         "link": "https://www.serializd.com/show/1403",
         "status": "Ended",
-        "isDropped": false
+        "isDropped": false,
+        "isWatchlist": false
       },
       {
         "tmdbShowId": 48866,
@@ -17351,7 +17358,8 @@
         "posterPath": "/wcaDIAG1QdXQLRaj4vC1EFdBT2.jpg",
         "link": "https://www.serializd.com/show/48866",
         "status": "Ended",
-        "isDropped": false
+        "isDropped": false,
+        "isWatchlist": false
       },
       {
         "tmdbShowId": 2288,
@@ -17363,7 +17371,8 @@
         "posterPath": "/wnmNPaLvhnMeOqnWlhNkYCZxtda.jpg",
         "link": "https://www.serializd.com/show/2288",
         "status": "Ended",
-        "isDropped": false
+        "isDropped": false,
+        "isWatchlist": false
       },
       {
         "tmdbShowId": 78191,
@@ -17375,7 +17384,8 @@
         "posterPath": "/oANi0vEE92nuijiZQgPZ88FSxqQ.jpg",
         "link": "https://www.serializd.com/show/78191",
         "status": "Ended",
-        "isDropped": false
+        "isDropped": false,
+        "isWatchlist": false
       },
       {
         "tmdbShowId": 100757,
@@ -17387,7 +17397,8 @@
         "posterPath": "/ovDgO2LPfwdVRfvScAqo9aMiIW.jpg",
         "link": "https://www.serializd.com/show/100757",
         "status": "Returning Series",
-        "isDropped": false
+        "isDropped": false,
+        "isWatchlist": false
       },
       {
         "tmdbShowId": 76479,
@@ -17399,7 +17410,8 @@
         "posterPath": "/in1R2dDc421JxsoRWaIIAqVI2KE.jpg",
         "link": "https://www.serializd.com/show/76479",
         "status": "Returning Series",
-        "isDropped": false
+        "isDropped": false,
+        "isWatchlist": false
       },
       {
         "tmdbShowId": 61889,
@@ -17411,7 +17423,8 @@
         "posterPath": "/QWbPaDxiB6LW2LjASknzYBvjMj.jpg",
         "link": "https://www.serializd.com/show/61889",
         "status": "Canceled",
-        "isDropped": false
+        "isDropped": false,
+        "isWatchlist": false
       },
       {
         "tmdbShowId": 95557,
@@ -17423,7 +17436,8 @@
         "posterPath": "/4tblBrslcKSifMVZ3TmtT2ukMor.jpg",
         "link": "https://www.serializd.com/show/95557",
         "status": "Returning Series",
-        "isDropped": false
+        "isDropped": false,
+        "isWatchlist": false
       },
       {
         "tmdbShowId": 84958,
@@ -17435,7 +17449,8 @@
         "posterPath": "/kEl2t3OhXc3Zb9FBh1AuYzRTgZp.jpg",
         "link": "https://www.serializd.com/show/84958",
         "status": "Ended",
-        "isDropped": false
+        "isDropped": false,
+        "isWatchlist": false
       },
       {
         "tmdbShowId": 1421,
@@ -17447,7 +17462,8 @@
         "posterPath": "/k5Qg5rgPoKdh3yTJJrLtyoyYGwC.jpg",
         "link": "https://www.serializd.com/show/1421",
         "status": "Ended",
-        "isDropped": false
+        "isDropped": false,
+        "isWatchlist": false
       },
       {
         "tmdbShowId": 2316,
@@ -17459,7 +17475,8 @@
         "posterPath": "/7DJKHzAi83BmQrWLrYYOqcoKfhR.jpg",
         "link": "https://www.serializd.com/show/2316",
         "status": "Ended",
-        "isDropped": false
+        "isDropped": false,
+        "isWatchlist": false
       },
       {
         "tmdbShowId": 1412,
@@ -17471,7 +17488,8 @@
         "posterPath": "/u8ZHFj1jC384JEkTt3vNg1DfWEb.jpg",
         "link": "https://www.serializd.com/show/1412",
         "status": "Ended",
-        "isDropped": false
+        "isDropped": false,
+        "isWatchlist": false
       },
       {
         "tmdbShowId": 37680,
@@ -17483,7 +17501,8 @@
         "posterPath": "/fO0nFvGcbTHpwZGLkr98xuZ5hFs.jpg",
         "link": "https://www.serializd.com/show/37680",
         "status": "Ended",
-        "isDropped": false
+        "isDropped": false,
+        "isWatchlist": false
       },
       {
         "tmdbShowId": 62643,
@@ -17495,7 +17514,8 @@
         "posterPath": "/AcEFDh272YVTR6B6zrrusk8BjJG.jpg",
         "link": "https://www.serializd.com/show/62643",
         "status": "Canceled",
-        "isDropped": false
+        "isDropped": false,
+        "isWatchlist": false
       },
       {
         "tmdbShowId": 1405,
@@ -17507,7 +17527,8 @@
         "posterPath": "/q8dWfc4JwQuv3HayIZeO84jAXED.jpg",
         "link": "https://www.serializd.com/show/1405",
         "status": "Ended",
-        "isDropped": false
+        "isDropped": false,
+        "isWatchlist": false
       },
       {
         "tmdbShowId": 129552,
@@ -17519,7 +17540,8 @@
         "posterPath": "/4c5yUNcaff4W4aPrkXE6zr7papX.jpg",
         "link": "https://www.serializd.com/show/129552",
         "status": "Returning Series",
-        "isDropped": false
+        "isDropped": false,
+        "isWatchlist": false
       },
       {
         "tmdbShowId": 75758,
@@ -17531,7 +17553,8 @@
         "posterPath": "/y8NJnTXzb4rio9uvVYFVrXEMofU.jpg",
         "link": "https://www.serializd.com/show/75758",
         "status": "Ended",
-        "isDropped": false
+        "isDropped": false,
+        "isWatchlist": false
       },
       {
         "tmdbShowId": 67178,
@@ -17543,7 +17566,8 @@
         "posterPath": "/y6wYElX5HaPZItVGJcYGdQO7k8g.jpg",
         "link": "https://www.serializd.com/show/67178",
         "status": "Canceled",
-        "isDropped": false
+        "isDropped": false,
+        "isWatchlist": false
       },
       {
         "tmdbShowId": 91363,
@@ -17555,7 +17579,8 @@
         "posterPath": "/lztz5XBMG1x6Y5ubz7CxfPFsAcW.jpg",
         "link": "https://www.serializd.com/show/91363",
         "status": "Ended",
-        "isDropped": false
+        "isDropped": false,
+        "isWatchlist": false
       },
       {
         "tmdbShowId": 127532,
@@ -17567,7 +17592,8 @@
         "posterPath": "/geCRueV3ElhRTr0xtJuEWJt6dJ1.jpg",
         "link": "https://www.serializd.com/show/127532",
         "status": "Ended",
-        "isDropped": false
+        "isDropped": false,
+        "isWatchlist": false
       },
       {
         "tmdbShowId": 202555,
@@ -17579,7 +17605,8 @@
         "posterPath": "/xDUoAsU8lQHOOoRkFiBuarmACDN.jpg",
         "link": "https://www.serializd.com/show/202555",
         "status": "Returning Series",
-        "isDropped": false
+        "isDropped": false,
+        "isWatchlist": false
       },
       {
         "tmdbShowId": 110492,
@@ -17591,7 +17618,8 @@
         "posterPath": "/eYzbGcYnOUlvj2fa76pTgIXogd7.jpg",
         "link": "https://www.serializd.com/show/110492",
         "status": "Ended",
-        "isDropped": false
+        "isDropped": false,
+        "isWatchlist": false
       },
       {
         "tmdbShowId": 205715,
@@ -17603,7 +17631,8 @@
         "posterPath": "/uuot1N5AgZ7xRCKgm4ZCwOhgIJu.jpg",
         "link": "https://www.serializd.com/show/205715",
         "status": "Canceled",
-        "isDropped": false
+        "isDropped": false,
+        "isWatchlist": false
       },
       {
         "tmdbShowId": 19885,
@@ -17615,7 +17644,8 @@
         "posterPath": "/7WTsnHkbA0FaG6R9twfFde0I9hl.jpg",
         "link": "https://www.serializd.com/show/19885",
         "status": "Ended",
-        "isDropped": false
+        "isDropped": false,
+        "isWatchlist": false
       },
       {
         "tmdbShowId": 83478,
@@ -17627,7 +17657,8 @@
         "posterPath": "/AbnOGmAe7harXNwRAz7XywpHr8F.jpg",
         "link": "https://www.serializd.com/show/83478",
         "status": "Canceled",
-        "isDropped": false
+        "isDropped": false,
+        "isWatchlist": false
       },
       {
         "tmdbShowId": 92749,
@@ -17639,7 +17670,8 @@
         "posterPath": "/YksR65as1ppF2N48TJAh2PLamX.jpg",
         "link": "https://www.serializd.com/show/92749",
         "status": "Ended",
-        "isDropped": false
+        "isDropped": false,
+        "isWatchlist": false
       },
       {
         "tmdbShowId": 1434,
@@ -17651,7 +17683,8 @@
         "posterPath": "/3PFsEuAiyLkWsP4GG6dIV37Q6gu.jpg",
         "link": "https://www.serializd.com/show/1434",
         "status": "Returning Series",
-        "isDropped": false
+        "isDropped": false,
+        "isWatchlist": false
       },
       {
         "tmdbShowId": 1668,
@@ -17663,7 +17696,8 @@
         "posterPath": "/2koX1xLkpTQM4IZebYvKysFW1Nh.jpg",
         "link": "https://www.serializd.com/show/1668",
         "status": "Ended",
-        "isDropped": false
+        "isDropped": false,
+        "isWatchlist": false
       },
       {
         "tmdbShowId": 1408,
@@ -17675,7 +17709,8 @@
         "posterPath": "/3Cz7ySOQJmqiuTdrc6CY0r65yDI.jpg",
         "link": "https://www.serializd.com/show/1408",
         "status": "Ended",
-        "isDropped": false
+        "isDropped": false,
+        "isWatchlist": false
       },
       {
         "tmdbShowId": 60572,
@@ -17687,7 +17722,8 @@
         "posterPath": "/rOuGm07PxBhEsK9TaGPRQVJQm1X.jpg",
         "link": "https://www.serializd.com/show/60572",
         "status": "Ended",
-        "isDropped": false
+        "isDropped": false,
+        "isWatchlist": false
       },
       {
         "tmdbShowId": 34524,
@@ -17699,7 +17735,8 @@
         "posterPath": "/8Ij1O2nU8exLgwPXU8Eo6PZdCDC.jpg",
         "link": "https://www.serializd.com/show/34524",
         "status": "Ended",
-        "isDropped": false
+        "isDropped": false,
+        "isWatchlist": false
       },
       {
         "tmdbShowId": 38974,
@@ -17711,7 +17748,8 @@
         "posterPath": "/tspQe0FuiaUj0U1R1norNbiYTe4.jpg",
         "link": "https://www.serializd.com/show/38974",
         "status": "Ended",
-        "isDropped": false
+        "isDropped": false,
+        "isWatchlist": false
       },
       {
         "tmdbShowId": 38867,
@@ -17723,7 +17761,8 @@
         "posterPath": "/lcQMvn9ZptPd3dxn0a17viRfi7Y.jpg",
         "link": "https://www.serializd.com/show/38867",
         "status": "Ended",
-        "isDropped": false
+        "isDropped": false,
+        "isWatchlist": false
       },
       {
         "tmdbShowId": 59375,
@@ -17735,7 +17774,8 @@
         "posterPath": "/j5iGTENbOfCHjZJ6cCrhBVdxER5.jpg",
         "link": "https://www.serializd.com/show/59375",
         "status": "Ended",
-        "isDropped": false
+        "isDropped": false,
+        "isWatchlist": false
       },
       {
         "tmdbShowId": 77169,
@@ -17747,7 +17787,8 @@
         "posterPath": "/6POBWybSBDBKjSs1VAQcnQC1qyt.jpg",
         "link": "https://www.serializd.com/show/77169",
         "status": "Ended",
-        "isDropped": false
+        "isDropped": false,
+        "isWatchlist": false
       },
       {
         "tmdbShowId": 95057,
@@ -17759,7 +17800,8 @@
         "posterPath": "/vlv1gn98GqMnKHLSh0dNciqGfBl.jpg",
         "link": "https://www.serializd.com/show/95057",
         "status": "Ended",
-        "isDropped": false
+        "isDropped": false,
+        "isWatchlist": false
       },
       {
         "tmdbShowId": 60059,
@@ -17771,7 +17813,8 @@
         "posterPath": "/zjg4jpK1Wp2kiRvtt5ND0kznako.jpg",
         "link": "https://www.serializd.com/show/60059",
         "status": "Ended",
-        "isDropped": false
+        "isDropped": false,
+        "isWatchlist": false
       },
       {
         "tmdbShowId": 40075,
@@ -17783,7 +17826,8 @@
         "posterPath": "/qwi3p6PzKfQZ4YXBzv3CP5pO2dE.jpg",
         "link": "https://www.serializd.com/show/40075",
         "status": "Ended",
-        "isDropped": false
+        "isDropped": false,
+        "isWatchlist": false
       },
       {
         "tmdbShowId": 75006,
@@ -17795,7 +17839,8 @@
         "posterPath": "/qhcwrnnCnN8NE1N6XXKHFmveJR9.jpg",
         "link": "https://www.serializd.com/show/75006",
         "status": "Ended",
-        "isDropped": false
+        "isDropped": false,
+        "isWatchlist": false
       },
       {
         "tmdbShowId": 97546,
@@ -17807,7 +17852,8 @@
         "posterPath": "/5fhZdwP1DVJ0FyVH6vrFdHwpXIn.jpg",
         "link": "https://www.serializd.com/show/97546",
         "status": "Returning Series",
-        "isDropped": false
+        "isDropped": false,
+        "isWatchlist": false
       },
       {
         "tmdbShowId": 73375,
@@ -17819,7 +17865,8 @@
         "posterPath": "/cO4py3L3q5GNPrA0qr1wVDrosK1.jpg",
         "link": "https://www.serializd.com/show/73375",
         "status": "Ended",
-        "isDropped": false
+        "isDropped": false,
+        "isWatchlist": false
       },
       {
         "tmdbShowId": 82856,
@@ -17831,7 +17878,8 @@
         "posterPath": "/sWgBv7LV2PRoQgkxwlibdGXKz1S.jpg",
         "link": "https://www.serializd.com/show/82856",
         "status": "Ended",
-        "isDropped": false
+        "isDropped": false,
+        "isWatchlist": false
       },
       {
         "tmdbShowId": 108978,
@@ -17843,7 +17891,8 @@
         "posterPath": "/31GlRQMiDunO8cl3NxTz34U64rf.jpg",
         "link": "https://www.serializd.com/show/108978",
         "status": "Returning Series",
-        "isDropped": false
+        "isDropped": false,
+        "isWatchlist": false
       },
       {
         "tmdbShowId": 110316,
@@ -17855,7 +17904,8 @@
         "posterPath": "/Ac8ruycRXzgcsndTZFK6ouGA0FA.jpg",
         "link": "https://www.serializd.com/show/110316",
         "status": "Ended",
-        "isDropped": false
+        "isDropped": false,
+        "isWatchlist": false
       },
       {
         "tmdbShowId": 106454,
@@ -17867,7 +17917,8 @@
         "posterPath": "/9iAxAxeX5RjB39ckhxPMDCJPpG9.jpg",
         "link": "https://www.serializd.com/show/106454",
         "status": "Canceled",
-        "isDropped": false
+        "isDropped": false,
+        "isWatchlist": false
       },
       {
         "tmdbShowId": 85922,
@@ -17879,7 +17930,8 @@
         "posterPath": "/zgu3p4NvisS8CI68cUfBKbvAvu8.jpg",
         "link": "https://www.serializd.com/show/85922",
         "status": "Canceled",
-        "isDropped": false
+        "isDropped": false,
+        "isWatchlist": false
       },
       {
         "tmdbShowId": 198102,
@@ -17891,7 +17943,8 @@
         "posterPath": "/2C51clnxQdiqPDeqQlXcUx70hse.jpg",
         "link": "https://www.serializd.com/show/198102",
         "status": "Returning Series",
-        "isDropped": false
+        "isDropped": false,
+        "isWatchlist": false
       },
       {
         "tmdbShowId": 4327,
@@ -17903,7 +17956,8 @@
         "posterPath": "/pUNQV35kDaKuejnXGNiUeEBurNE.jpg",
         "link": "https://www.serializd.com/show/4327",
         "status": "Ended",
-        "isDropped": false
+        "isDropped": false,
+        "isWatchlist": false
       },
       {
         "tmdbShowId": 123625,
@@ -17915,7 +17969,8 @@
         "posterPath": "/3qzBCXJLifxund1QMa8BiXmH3xp.jpg",
         "link": "https://www.serializd.com/show/123625",
         "status": "Returning Series",
-        "isDropped": false
+        "isDropped": false,
+        "isWatchlist": false
       },
       {
         "tmdbShowId": 93811,
@@ -17927,7 +17982,8 @@
         "posterPath": "/na6fk6WculNrUPCPPQSPNjNyjvX.jpg",
         "link": "https://www.serializd.com/show/93811",
         "status": "Canceled",
-        "isDropped": false
+        "isDropped": false,
+        "isWatchlist": false
       },
       {
         "tmdbShowId": 95171,
@@ -17939,7 +17995,8 @@
         "posterPath": "/9yjWMmYWQSDY2eelHECQcwSL816.jpg",
         "link": "https://www.serializd.com/show/95171",
         "status": "Returning Series",
-        "isDropped": false
+        "isDropped": false,
+        "isWatchlist": false
       },
       {
         "tmdbShowId": 113988,
@@ -17951,7 +18008,8 @@
         "posterPath": "/f2PVrphK0u81ES256lw3oAZuF3x.jpg",
         "link": "https://www.serializd.com/show/113988",
         "status": "Ended",
-        "isDropped": false
+        "isDropped": false,
+        "isWatchlist": false
       },
       {
         "tmdbShowId": 198178,
@@ -17963,7 +18021,8 @@
         "posterPath": "/6yy9nQlFt2l6UVWzrfhszFCaZ5C.jpg",
         "link": "https://www.serializd.com/show/198178",
         "status": "Returning Series",
-        "isDropped": false
+        "isDropped": false,
+        "isWatchlist": false
       },
       {
         "tmdbShowId": 87739,
@@ -17975,7 +18034,8 @@
         "posterPath": "/zU0htwkhNvBQdVSIKB9s6hgVeFK.jpg",
         "link": "https://www.serializd.com/show/87739",
         "status": "Ended",
-        "isDropped": false
+        "isDropped": false,
+        "isWatchlist": false
       },
       {
         "tmdbShowId": 92830,
@@ -17987,7 +18047,8 @@
         "posterPath": "/4Lok3HBSfbQxibQZBygoVCwKKrZ.jpg",
         "link": "https://www.serializd.com/show/92830",
         "status": "Ended",
-        "isDropped": false
+        "isDropped": false,
+        "isWatchlist": false
       },
       {
         "tmdbShowId": 138505,
@@ -17999,7 +18060,8 @@
         "posterPath": "/mwKj9ERGFXsWot0nXgQ5yMQf9I7.jpg",
         "link": "https://www.serializd.com/show/138505",
         "status": "Returning Series",
-        "isDropped": false
+        "isDropped": false,
+        "isWatchlist": false
       },
       {
         "tmdbShowId": 387,
@@ -18011,7 +18073,8 @@
         "posterPath": "/5h0EU2lqBb03dp5vtRuUHJwqzem.jpg",
         "link": "https://www.serializd.com/show/387",
         "status": "Returning Series",
-        "isDropped": true
+        "isDropped": true,
+        "isWatchlist": false
       },
       {
         "tmdbShowId": 1877,
@@ -18022,7 +18085,8 @@
         "posterPath": "/g6TidT7be954rrzPPBTIXkSmfXj.jpg",
         "link": "https://www.serializd.com/show/1877",
         "status": "Returning Series",
-        "isDropped": true
+        "isDropped": true,
+        "isWatchlist": false
       },
       {
         "tmdbShowId": 62688,
@@ -18034,7 +18098,8 @@
         "posterPath": "/cFO65xb0xiXKqk5BmgHawCXB1i0.jpg",
         "link": "https://www.serializd.com/show/62688",
         "status": "Ended",
-        "isDropped": false
+        "isDropped": false,
+        "isWatchlist": false
       },
       {
         "tmdbShowId": 71728,
@@ -18046,7 +18111,8 @@
         "posterPath": "/kidkbZRBGbsEIrX7pODRSKi9ipl.jpg",
         "link": "https://www.serializd.com/show/71728",
         "status": "Ended",
-        "isDropped": true
+        "isDropped": true,
+        "isWatchlist": false
       },
       {
         "tmdbShowId": 2530,
@@ -18057,7 +18123,8 @@
         "posterPath": "/1V2PSez4pNZ9a4Bbomm7KZiQJ44.jpg",
         "link": "https://www.serializd.com/show/2530",
         "status": "Returning Series",
-        "isDropped": true
+        "isDropped": true,
+        "isWatchlist": false
       },
       {
         "tmdbShowId": 35279,
@@ -18069,7 +18136,8 @@
         "posterPath": "/73LDHDdvpKNc8RXNPciTWFTEDIV.jpg",
         "link": "https://www.serializd.com/show/35279",
         "status": "Ended",
-        "isDropped": false
+        "isDropped": false,
+        "isWatchlist": false
       },
       {
         "tmdbShowId": 32716,
@@ -18081,7 +18149,8 @@
         "posterPath": "/40qRQPoUnCx6g50NIyQBS0OdxaP.jpg",
         "link": "https://www.serializd.com/show/32716",
         "status": "Ended",
-        "isDropped": false
+        "isDropped": false,
+        "isWatchlist": false
       },
       {
         "tmdbShowId": 3498,
@@ -18092,7 +18161,8 @@
         "posterPath": "/spVI8Zns4Ep30zzxcoO7f7nwfck.jpg",
         "link": "https://www.serializd.com/show/3498",
         "status": "Ended",
-        "isDropped": true
+        "isDropped": true,
+        "isWatchlist": false
       },
       {
         "tmdbShowId": 4602,
@@ -18103,7 +18173,8 @@
         "posterPath": "/8pSH9b3XKKLBhdlsK9bz0AWYc7C.jpg",
         "link": "https://www.serializd.com/show/4602",
         "status": "Ended",
-        "isDropped": true
+        "isDropped": true,
+        "isWatchlist": false
       },
       {
         "tmdbShowId": 61915,
@@ -18115,7 +18186,8 @@
         "posterPath": "/52iv1yPKYR4nezoX7lMLcK9yt6q.jpg",
         "link": "https://www.serializd.com/show/61915",
         "status": "Ended",
-        "isDropped": false
+        "isDropped": false,
+        "isWatchlist": false
       },
       {
         "tmdbShowId": 34573,
@@ -18127,7 +18199,8 @@
         "posterPath": "/rnO9xtMhfudmd4LBiXoYWb4ckog.jpg",
         "link": "https://www.serializd.com/show/34573",
         "status": "Ended",
-        "isDropped": false
+        "isDropped": false,
+        "isWatchlist": false
       },
       {
         "tmdbShowId": 61852,
@@ -18138,7 +18211,8 @@
         "posterPath": "/f3TEP5SROTpL6e520ohhSNbUv1E.jpg",
         "link": "https://www.serializd.com/show/61852",
         "status": "Ended",
-        "isDropped": true
+        "isDropped": true,
+        "isWatchlist": false
       },
       {
         "tmdbShowId": 62875,
@@ -18149,7 +18223,8 @@
         "posterPath": "/tfgcSe8o0HTuMJaMWSD5vdF8hMa.jpg",
         "link": "https://www.serializd.com/show/62875",
         "status": "Ended",
-        "isDropped": true
+        "isDropped": true,
+        "isWatchlist": false
       },
       {
         "tmdbShowId": 71663,
@@ -18161,7 +18236,8 @@
         "posterPath": "/h1xbvvO6oqchfLe6xh0yLNnQxeM.jpg",
         "link": "https://www.serializd.com/show/71663",
         "status": "Ended",
-        "isDropped": false
+        "isDropped": false,
+        "isWatchlist": false
       },
       {
         "tmdbShowId": 65334,
@@ -18172,7 +18248,8 @@
         "posterPath": "/acrtAy8gmxcsEvrDP09MpMSCeDZ.jpg",
         "link": "https://www.serializd.com/show/65334",
         "status": "Returning Series",
-        "isDropped": true
+        "isDropped": true,
+        "isWatchlist": false
       },
       {
         "tmdbShowId": 61854,
@@ -18183,7 +18260,8 @@
         "posterPath": "/nBkA2uXAaySBmlrinn5KroFZn94.jpg",
         "link": "https://www.serializd.com/show/61854",
         "status": "Ended",
-        "isDropped": true
+        "isDropped": true,
+        "isWatchlist": false
       },
       {
         "tmdbShowId": 64264,
@@ -18194,7 +18272,8 @@
         "posterPath": "/7TMp3RMf9DCZaaR9XeAQ1N6tby4.jpg",
         "link": "https://www.serializd.com/show/64264",
         "status": "Ended",
-        "isDropped": true
+        "isDropped": true,
+        "isWatchlist": false
       },
       {
         "tmdbShowId": 80986,
@@ -18206,7 +18285,8 @@
         "posterPath": "/JJxVsQPPiuLcArALotMHsCubeo.jpg",
         "link": "https://www.serializd.com/show/80986",
         "status": "Canceled",
-        "isDropped": false
+        "isDropped": false,
+        "isWatchlist": false
       },
       {
         "tmdbShowId": 63007,
@@ -18218,7 +18298,8 @@
         "posterPath": "/y3llxLK0DgkaOMGpjeqBe5qhIDy.jpg",
         "link": "https://www.serializd.com/show/63007",
         "status": "Canceled",
-        "isDropped": false
+        "isDropped": false,
+        "isWatchlist": false
       },
       {
         "tmdbShowId": 65291,
@@ -18229,7 +18310,8 @@
         "posterPath": "/phquU470KPL2XvWX0D6he5xwK3P.jpg",
         "link": "https://www.serializd.com/show/65291",
         "status": "Ended",
-        "isDropped": true
+        "isDropped": true,
+        "isWatchlist": false
       },
       {
         "tmdbShowId": 124010,
@@ -18241,7 +18323,8 @@
         "posterPath": "/8psLGtFzTMYCXxUNMpMOCB6doPn.jpg",
         "link": "https://www.serializd.com/show/124010",
         "status": "Canceled",
-        "isDropped": false
+        "isDropped": false,
+        "isWatchlist": false
       },
       {
         "tmdbShowId": 57961,
@@ -18252,7 +18335,8 @@
         "posterPath": "/hCUPAY96rZdKTiwMM2JRsTTtdk5.jpg",
         "link": "https://www.serializd.com/show/57961",
         "status": "Ended",
-        "isDropped": true
+        "isDropped": true,
+        "isWatchlist": false
       },
       {
         "tmdbShowId": 86833,
@@ -18263,7 +18347,8 @@
         "posterPath": "/aa34y9dNmEULV3UmXyyPY9Q6dRb.jpg",
         "link": "https://www.serializd.com/show/86833",
         "status": "Ended",
-        "isDropped": true
+        "isDropped": true,
+        "isWatchlist": false
       },
       {
         "tmdbShowId": 61851,
@@ -18275,7 +18360,8 @@
         "posterPath": "/9ILkE0uWtM8Liqv7VvT15MIT6zt.jpg",
         "link": "https://www.serializd.com/show/61851",
         "status": "Ended",
-        "isDropped": false
+        "isDropped": false,
+        "isWatchlist": false
       },
       {
         "tmdbShowId": 62127,
@@ -18287,7 +18373,8 @@
         "posterPath": "/4l6KD9HhtD6nCDEfg10Lp6C6zah.jpg",
         "link": "https://www.serializd.com/show/62127",
         "status": "Canceled",
-        "isDropped": false
+        "isDropped": false,
+        "isWatchlist": false
       },
       {
         "tmdbShowId": 93405,
@@ -18299,7 +18386,8 @@
         "posterPath": "/1QdXdRYfktUSONkl1oD5gc6Be0s.jpg",
         "link": "https://www.serializd.com/show/93405",
         "status": "Ended",
-        "isDropped": false
+        "isDropped": false,
+        "isWatchlist": false
       },
       {
         "tmdbShowId": 88378,
@@ -18311,7 +18399,8 @@
         "posterPath": "/nRLuPKk3hKD5fiZGi5WGNdssox8.jpg",
         "link": "https://www.serializd.com/show/88378",
         "status": "Canceled",
-        "isDropped": false
+        "isDropped": false,
+        "isWatchlist": false
       },
       {
         "tmdbShowId": 211684,
@@ -18323,7 +18412,8 @@
         "posterPath": "/sP5QdW9FN18XWcA4ROz3MPAQBTx.jpg",
         "link": "https://www.serializd.com/show/211684",
         "status": "Returning Series",
-        "isDropped": false
+        "isDropped": false,
+        "isWatchlist": false
       },
       {
         "tmdbShowId": 61550,
@@ -18335,7 +18425,8 @@
         "posterPath": "/7kqIsjjDMZA5GRMH5VCdQYZJqc6.jpg",
         "link": "https://www.serializd.com/show/61550",
         "status": "Canceled",
-        "isDropped": false
+        "isDropped": false,
+        "isWatchlist": false
       },
       {
         "tmdbShowId": 88110,
@@ -18347,7 +18438,8 @@
         "posterPath": "/xOTbJN5xHXNpxZknnJUKHK6EGK4.jpg",
         "link": "https://www.serializd.com/show/88110",
         "status": "Ended",
-        "isDropped": false
+        "isDropped": false,
+        "isWatchlist": false
       },
       {
         "tmdbShowId": 195927,
@@ -18359,7 +18451,8 @@
         "posterPath": "/t1Il2y9l08M4JK3yB9EQiHb73rJ.jpg",
         "link": "https://www.serializd.com/show/195927",
         "status": "Canceled",
-        "isDropped": false
+        "isDropped": false,
+        "isWatchlist": false
       },
       {
         "tmdbShowId": 138501,
@@ -18371,7 +18464,8 @@
         "posterPath": "/mGsxKwXUjojitRv2E9qMTbxbBRd.jpg",
         "link": "https://www.serializd.com/show/138501",
         "status": "Ended",
-        "isDropped": false
+        "isDropped": false,
+        "isWatchlist": false
       },
       {
         "tmdbShowId": 114461,
@@ -18383,7 +18477,8 @@
         "posterPath": "/eiJeWeCAEZAmRppnXHiTWDcCd3Q.jpg",
         "link": "https://www.serializd.com/show/114461",
         "status": "Returning Series",
-        "isDropped": false
+        "isDropped": false,
+        "isWatchlist": false
       },
       {
         "tmdbShowId": 219543,
@@ -18395,7 +18490,8 @@
         "posterPath": "/bB3G6Ug1jfsOUptb0RJsqrgMVta.jpg",
         "link": "https://www.serializd.com/show/219543",
         "status": "Returning Series",
-        "isDropped": false
+        "isDropped": false,
+        "isWatchlist": false
       },
       {
         "tmdbShowId": 255661,
@@ -18407,7 +18503,8 @@
         "posterPath": "/h3s0Cd2JppeWA4UjTuSRauL52P7.jpg",
         "link": "https://www.serializd.com/show/255661",
         "status": "Returning Series",
-        "isDropped": false
+        "isDropped": false,
+        "isWatchlist": false
       },
       {
         "tmdbShowId": 88329,
@@ -18419,7 +18516,8 @@
         "posterPath": "/ct5pNE5dDHryHLDnxyZPYcqO1sz.jpg",
         "link": "https://www.serializd.com/show/88329",
         "status": "Ended",
-        "isDropped": false
+        "isDropped": false,
+        "isWatchlist": false
       },
       {
         "tmdbShowId": 88396,
@@ -18431,7 +18529,8 @@
         "posterPath": "/6kbAMLteGO8yyewYau6bJ683sw7.jpg",
         "link": "https://www.serializd.com/show/88396",
         "status": "Ended",
-        "isDropped": false
+        "isDropped": false,
+        "isWatchlist": false
       },
       {
         "tmdbShowId": 114922,
@@ -18443,7 +18542,8 @@
         "posterPath": "/5MHtxPEfmN4b0rHzfEZRcm6v9WI.jpg",
         "link": "https://www.serializd.com/show/114922",
         "status": "Returning Series",
-        "isDropped": false
+        "isDropped": false,
+        "isWatchlist": false
       },
       {
         "tmdbShowId": 206586,
@@ -18455,7 +18555,8 @@
         "posterPath": "/ywbacot78IuNhGW4uVZPxxxVTkm.jpg",
         "link": "https://www.serializd.com/show/206586",
         "status": "Ended",
-        "isDropped": false
+        "isDropped": false,
+        "isWatchlist": false
       },
       {
         "tmdbShowId": 74866,
@@ -18466,7 +18567,8 @@
         "posterPath": "/nx2OyMPYJZlgvK29mjovqy4WYnJ.jpg",
         "link": "https://www.serializd.com/show/74866",
         "status": "Ended",
-        "isDropped": true
+        "isDropped": true,
+        "isWatchlist": false
       },
       {
         "tmdbShowId": 66456,
@@ -18478,7 +18580,8 @@
         "posterPath": "/r3zf9m6nvK55KhMukTqAg5rVEW7.jpg",
         "link": "https://www.serializd.com/show/66456",
         "status": "Canceled",
-        "isDropped": false
+        "isDropped": false,
+        "isWatchlist": false
       },
       {
         "tmdbShowId": 1396,
@@ -18490,7 +18593,8 @@
         "posterPath": "/ztkUQFLlC19CCMYHW9o1zWhJRNq.jpg",
         "link": "https://www.serializd.com/show/1396",
         "status": "Ended",
-        "isDropped": false
+        "isDropped": false,
+        "isWatchlist": false
       },
       {
         "tmdbShowId": 33213,
@@ -18501,7 +18605,8 @@
         "posterPath": "/oD7B9qrgqT7tUZNi3pk2onk5C2D.jpg",
         "link": "https://www.serializd.com/show/33213",
         "status": "Ended",
-        "isDropped": true
+        "isDropped": true,
+        "isWatchlist": false
       },
       {
         "tmdbShowId": 89247,
@@ -18513,7 +18618,8 @@
         "posterPath": "/pBpxKiitMuYXvtsXNSzya8DKKzV.jpg",
         "link": "https://www.serializd.com/show/89247",
         "status": "Canceled",
-        "isDropped": false
+        "isDropped": false,
+        "isWatchlist": false
       },
       {
         "tmdbShowId": 46028,
@@ -18524,7 +18630,8 @@
         "posterPath": "/xhU1KkPtM9fpE1HKpdghX0VlyYF.jpg",
         "link": "https://www.serializd.com/show/46028",
         "status": "Canceled",
-        "isDropped": true
+        "isDropped": true,
+        "isWatchlist": false
       },
       {
         "tmdbShowId": 38472,
@@ -18536,7 +18643,8 @@
         "posterPath": "/1ghmaDw650NuUpGI7mYq6xE2QE2.jpg",
         "link": "https://www.serializd.com/show/38472",
         "status": "Ended",
-        "isDropped": false
+        "isDropped": false,
+        "isWatchlist": false
       },
       {
         "tmdbShowId": 81983,
@@ -18548,7 +18656,8 @@
         "posterPath": "/desSj4kx0y9p61vm9QBE3Wm8GxK.jpg",
         "link": "https://www.serializd.com/show/81983",
         "status": "Ended",
-        "isDropped": true
+        "isDropped": true,
+        "isWatchlist": false
       },
       {
         "tmdbShowId": 1417,
@@ -18560,7 +18669,8 @@
         "posterPath": "/62T2vsZYTje3KhdCsiLR1K1RFJW.jpg",
         "link": "https://www.serializd.com/show/1417",
         "status": "Ended",
-        "isDropped": true
+        "isDropped": true,
+        "isWatchlist": false
       },
       {
         "tmdbShowId": 80743,
@@ -18572,7 +18682,8 @@
         "posterPath": "/lHZ4xqGQlmyiFTOVtwnNpTcZgkd.jpg",
         "link": "https://www.serializd.com/show/80743",
         "status": "Canceled",
-        "isDropped": false
+        "isDropped": false,
+        "isWatchlist": false
       },
       {
         "tmdbShowId": 66190,
@@ -18584,7 +18695,8 @@
         "posterPath": "/pYnRJuBPEqZO1o4fcxBTgmKNHfy.jpg",
         "link": "https://www.serializd.com/show/66190",
         "status": "Canceled",
-        "isDropped": false
+        "isDropped": false,
+        "isWatchlist": false
       },
       {
         "tmdbShowId": 87689,
@@ -18596,7 +18708,8 @@
         "posterPath": "/fLP0mA7FiERZhDP1NJUaHpm6XM8.jpg",
         "link": "https://www.serializd.com/show/87689",
         "status": "Canceled",
-        "isDropped": false
+        "isDropped": false,
+        "isWatchlist": false
       },
       {
         "tmdbShowId": 65766,
@@ -18608,7 +18721,8 @@
         "posterPath": "/g5zm08nb0SRS7Pra4iImrQiROzk.jpg",
         "link": "https://www.serializd.com/show/65766",
         "status": "Canceled",
-        "isDropped": false
+        "isDropped": false,
+        "isWatchlist": false
       },
       {
         "tmdbShowId": 194583,
@@ -18620,7 +18734,8 @@
         "posterPath": "/wq3vuQzQgbS83zX3malAFWMsSwX.jpg",
         "link": "https://www.serializd.com/show/194583",
         "status": "Returning Series",
-        "isDropped": false
+        "isDropped": false,
+        "isWatchlist": false
       },
       {
         "tmdbShowId": 62126,
@@ -18632,7 +18747,8 @@
         "posterPath": "/yzM1hMB3PUJqbISX0f421b3xOjB.jpg",
         "link": "https://www.serializd.com/show/62126",
         "status": "Canceled",
-        "isDropped": false
+        "isDropped": false,
+        "isWatchlist": false
       },
       {
         "tmdbShowId": 95670,
@@ -18644,7 +18760,8 @@
         "posterPath": "/6Zy5AtrKJOMnVWgDqHtnogOfI40.jpg",
         "link": "https://www.serializd.com/show/95670",
         "status": "Canceled",
-        "isDropped": false
+        "isDropped": false,
+        "isWatchlist": false
       },
       {
         "tmdbShowId": 85271,
@@ -18656,7 +18773,8 @@
         "posterPath": "/frobUz2X5Pc8OiVZU8Oo5K3NKMM.jpg",
         "link": "https://www.serializd.com/show/85271",
         "status": "Ended",
-        "isDropped": false
+        "isDropped": false,
+        "isWatchlist": false
       },
       {
         "tmdbShowId": 62285,
@@ -18668,7 +18786,8 @@
         "posterPath": "/49XzINhH4LFsgz7cx6TOPcHUJUL.jpg",
         "link": "https://www.serializd.com/show/62285",
         "status": "Ended",
-        "isDropped": false
+        "isDropped": false,
+        "isWatchlist": false
       },
       {
         "tmdbShowId": 68716,
@@ -18680,7 +18799,8 @@
         "posterPath": "/zKfGip55oJ9tdzhyd9ayGyFFhuo.jpg",
         "link": "https://www.serializd.com/show/68716",
         "status": "Canceled",
-        "isDropped": false
+        "isDropped": false,
+        "isWatchlist": false
       },
       {
         "tmdbShowId": 115036,
@@ -18692,7 +18812,8 @@
         "posterPath": "/gNbdjDi1HamTCrfvM9JeA94bNi2.jpg",
         "link": "https://www.serializd.com/show/115036",
         "status": "Ended",
-        "isDropped": false
+        "isDropped": false,
+        "isWatchlist": false
       },
       {
         "tmdbShowId": 114472,
@@ -18704,7 +18825,8 @@
         "posterPath": "/f5ZMzzCvt2IzVDxr54gHPv9jlC9.jpg",
         "link": "https://www.serializd.com/show/114472",
         "status": "Ended",
-        "isDropped": false
+        "isDropped": false,
+        "isWatchlist": false
       },
       {
         "tmdbShowId": 87108,
@@ -18716,7 +18838,8 @@
         "posterPath": "/hlLXt2tOPT6RRnjiUmoxyG1LTFi.jpg",
         "link": "https://www.serializd.com/show/87108",
         "status": "Ended",
-        "isDropped": false
+        "isDropped": false,
+        "isWatchlist": false
       },
       {
         "tmdbShowId": 106238,
@@ -18728,7 +18851,8 @@
         "posterPath": "/3umUQ5DcZe7mSZGImCAStl2FRbm.jpg",
         "link": "https://www.serializd.com/show/106238",
         "status": "Canceled",
-        "isDropped": false
+        "isDropped": false,
+        "isWatchlist": false
       },
       {
         "tmdbShowId": 92782,
@@ -18740,7 +18864,8 @@
         "posterPath": "/3HWWh92kZbD7odwJX7nKmXNZsYo.jpg",
         "link": "https://www.serializd.com/show/92782",
         "status": "Ended",
-        "isDropped": false
+        "isDropped": false,
+        "isWatchlist": false
       },
       {
         "tmdbShowId": 114471,
@@ -18752,7 +18877,8 @@
         "posterPath": "/dOh6MJpdlQhYpLBhzhNQeYGKTZ5.jpg",
         "link": "https://www.serializd.com/show/114471",
         "status": "Ended",
-        "isDropped": false
+        "isDropped": false,
+        "isWatchlist": false
       },
       {
         "tmdbShowId": 122226,
@@ -18764,7 +18890,8 @@
         "posterPath": "/vFyJH630cF68LohVYjQW49074Sy.jpg",
         "link": "https://www.serializd.com/show/122226",
         "status": "Ended",
-        "isDropped": false
+        "isDropped": false,
+        "isWatchlist": false
       },
       {
         "tmdbShowId": 92783,
@@ -18776,7 +18903,8 @@
         "posterPath": "/5xz2orV8f0usyrfGNshcoXHmiaV.jpg",
         "link": "https://www.serializd.com/show/92783",
         "status": "Ended",
-        "isDropped": false
+        "isDropped": false,
+        "isWatchlist": false
       }
     ],
     "stats": {
