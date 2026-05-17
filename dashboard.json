@@ -1,8 +1,8 @@
 {
   "version": 1,
-  "generatedAt": "2026-05-17T17:21:40.061Z",
+  "generatedAt": "2026-05-17T17:25:11.177Z",
   "dashboard": {
-    "updatedAt": 1779038497387,
+    "updatedAt": 1779038708640,
     "feed": [
       {
         "source": "serializd",
@@ -113,6 +113,17 @@
         "link": "https://www.themoviedb.org/tv/255661",
         "tmdbShowId": 255661,
         "posterPath": "/h3s0Cd2JppeWA4UjTuSRauL52P7.jpg"
+      },
+      {
+        "source": "serializd",
+        "kind": "show",
+        "guid": "show:259453",
+        "title": "Suits LA",
+        "subtitle": "1 seasons + 13 eps",
+        "watchedAt": 1781481600000,
+        "link": "https://www.themoviedb.org/tv/259453",
+        "tmdbShowId": 259453,
+        "posterPath": "/3hYiNPkcLoI3QWDokOHQJIfn55O.jpg"
       },
       {
         "source": "letterboxd",
@@ -8431,6 +8442,15 @@
         "posterPath": "/ovDgO2LPfwdVRfvScAqo9aMiIW.jpg"
       },
       {
+        "showTitle": "Percy Jackson and the Olympians",
+        "tmdbShowId": 103540,
+        "seasonNumber": 2,
+        "episodeNumber": 1,
+        "episodeName": "TBA",
+        "airDate": "",
+        "posterPath": "/40eFcTzZier3DWLqldsP5VHxeoD.jpg"
+      },
+      {
         "showTitle": "Prehistoric Planet",
         "tmdbShowId": 95171,
         "seasonNumber": 3,
@@ -8474,6 +8494,15 @@
         "episodeName": "TBA",
         "airDate": "",
         "posterPath": "/wq3vuQzQgbS83zX3malAFWMsSwX.jpg"
+      },
+      {
+        "showTitle": "True Detective",
+        "tmdbShowId": 46648,
+        "seasonNumber": 4,
+        "episodeNumber": 1,
+        "episodeName": "TBA",
+        "airDate": "",
+        "posterPath": "/zYqVTiHK5ZajYcNzAW7qWte5NWS.jpg"
       },
       {
         "showTitle": "Wonder Man",
@@ -12251,6 +12280,15 @@
         "posterPath": "/ovDgO2LPfwdVRfvScAqo9aMiIW.jpg"
       },
       {
+        "showTitle": "Outer Range",
+        "tmdbShowId": 113985,
+        "status": "Canceled",
+        "inProduction": false,
+        "lastAired": "2024-05-16",
+        "group": "canceled",
+        "posterPath": "/9leGmIDamsWJELYz0pZkr2EXUFf.jpg"
+      },
+      {
         "showTitle": "Paradise PD",
         "tmdbShowId": 81983,
         "status": "Dropped",
@@ -12267,6 +12305,15 @@
         "lastAired": "2020-03-09",
         "group": "dropped",
         "posterPath": "/aa34y9dNmEULV3UmXyyPY9Q6dRb.jpg"
+      },
+      {
+        "showTitle": "Percy Jackson and the Olympians",
+        "tmdbShowId": 103540,
+        "status": "Returning Series",
+        "inProduction": true,
+        "lastAired": "2026-01-21",
+        "group": "returning",
+        "posterPath": "/40eFcTzZier3DWLqldsP5VHxeoD.jpg"
       },
       {
         "showTitle": "Phineas and Ferb",
@@ -12322,6 +12369,15 @@
         "lastAired": "2018-07-23",
         "group": "dropped",
         "posterPath": "/phquU470KPL2XvWX0D6he5xwK3P.jpg"
+      },
+      {
+        "showTitle": "Suits LA",
+        "tmdbShowId": 259453,
+        "status": "Canceled",
+        "inProduction": false,
+        "lastAired": "2025-05-18",
+        "group": "canceled",
+        "posterPath": "/3hYiNPkcLoI3QWDokOHQJIfn55O.jpg"
       },
       {
         "showTitle": "Supa Strikas",
@@ -12387,6 +12443,15 @@
         "lastAired": "2025-06-22",
         "group": "returning",
         "posterPath": "/wq3vuQzQgbS83zX3malAFWMsSwX.jpg"
+      },
+      {
+        "showTitle": "True Detective",
+        "tmdbShowId": 46648,
+        "status": "Returning Series",
+        "inProduction": true,
+        "lastAired": "2024-02-18",
+        "group": "returning",
+        "posterPath": "/zYqVTiHK5ZajYcNzAW7qWte5NWS.jpg"
       },
       {
         "showTitle": "Wizards of Waverly Place",
@@ -18905,6 +18970,205 @@
         "status": "Ended",
         "isDropped": false,
         "isWatchlist": false
+      },
+      {
+        "tmdbShowId": 259453,
+        "showTitle": "Suits LA",
+        "ratedEpisodes": 0,
+        "totalEpisodes": 13,
+        "timesWatched": 1,
+        "posterPath": "/3hYiNPkcLoI3QWDokOHQJIfn55O.jpg",
+        "link": "https://www.serializd.com/show/259453",
+        "status": "Canceled",
+        "isDropped": false,
+        "isWatchlist": false
+      },
+      {
+        "tmdbShowId": 1399,
+        "showTitle": "Game of Thrones",
+        "ratedEpisodes": 0,
+        "totalEpisodes": 0,
+        "posterPath": "/1XS1oqL89opfnbLl8WnZY1O1uJx.jpg",
+        "link": "https://www.serializd.com/show/1399",
+        "status": "Ended",
+        "isDropped": false,
+        "isWatchlist": true
+      },
+      {
+        "tmdbShowId": 1425,
+        "showTitle": "House of Cards",
+        "ratedEpisodes": 0,
+        "totalEpisodes": 0,
+        "posterPath": "/hKWxWjFwnMvkWQawbhvC0Y7ygQ8.jpg",
+        "link": "https://www.serializd.com/show/1425",
+        "status": "Ended",
+        "isDropped": false,
+        "isWatchlist": true
+      },
+      {
+        "tmdbShowId": 1437,
+        "showTitle": "Firefly",
+        "ratedEpisodes": 0,
+        "totalEpisodes": 0,
+        "posterPath": "/vZcKsy4sGAvWMVqLluwYuoi11Kj.jpg",
+        "link": "https://www.serializd.com/show/1437",
+        "status": "Canceled",
+        "isDropped": false,
+        "isWatchlist": true
+      },
+      {
+        "tmdbShowId": 1438,
+        "showTitle": "The Wire",
+        "ratedEpisodes": 0,
+        "totalEpisodes": 0,
+        "posterPath": "/4lbclFySvugI51fwsyxBTOm4DqK.jpg",
+        "link": "https://www.serializd.com/show/1438",
+        "status": "Ended",
+        "isDropped": false,
+        "isWatchlist": true
+      },
+      {
+        "tmdbShowId": 1622,
+        "showTitle": "Supernatural",
+        "ratedEpisodes": 0,
+        "totalEpisodes": 0,
+        "posterPath": "/u40gJarLPlIkwouKlzGdobQOV9k.jpg",
+        "link": "https://www.serializd.com/show/1622",
+        "status": "Ended",
+        "isDropped": false,
+        "isWatchlist": true
+      },
+      {
+        "tmdbShowId": 1973,
+        "showTitle": "24",
+        "ratedEpisodes": 0,
+        "totalEpisodes": 0,
+        "posterPath": "/iq6yrZ5LEDXf1ArCOYLq8PIUBpV.jpg",
+        "link": "https://www.serializd.com/show/1973",
+        "status": "Ended",
+        "isDropped": false,
+        "isWatchlist": true
+      },
+      {
+        "tmdbShowId": 4087,
+        "showTitle": "The X-Files",
+        "ratedEpisodes": 0,
+        "totalEpisodes": 0,
+        "posterPath": "/rcBx0p8h51LHceyhquYMxbspJQu.jpg",
+        "link": "https://www.serializd.com/show/4087",
+        "status": "Ended",
+        "isDropped": false,
+        "isWatchlist": true
+      },
+      {
+        "tmdbShowId": 4194,
+        "showTitle": "Star Wars: The Clone Wars",
+        "ratedEpisodes": 0,
+        "totalEpisodes": 0,
+        "posterPath": "/e1nWfnnCVqxS2LeTO3dwGyAsG2V.jpg",
+        "link": "https://www.serializd.com/show/4194",
+        "status": "Ended",
+        "isDropped": false,
+        "isWatchlist": true
+      },
+      {
+        "tmdbShowId": 4607,
+        "showTitle": "Lost",
+        "ratedEpisodes": 0,
+        "totalEpisodes": 0,
+        "posterPath": "/og6S0aTZU6YUJAbqxeKjCa3kY1E.jpg",
+        "link": "https://www.serializd.com/show/4607",
+        "status": "Ended",
+        "isDropped": false,
+        "isWatchlist": true
+      },
+      {
+        "tmdbShowId": 46648,
+        "showTitle": "True Detective",
+        "ratedEpisodes": 0,
+        "totalEpisodes": 0,
+        "posterPath": "/zYqVTiHK5ZajYcNzAW7qWte5NWS.jpg",
+        "link": "https://www.serializd.com/show/46648",
+        "status": "Returning Series",
+        "isDropped": false,
+        "isWatchlist": true
+      },
+      {
+        "tmdbShowId": 60574,
+        "showTitle": "Peaky Blinders",
+        "ratedEpisodes": 0,
+        "totalEpisodes": 0,
+        "posterPath": "/vUUqzWa2LnHIVqkaKVlVGkVcZIW.jpg",
+        "link": "https://www.serializd.com/show/60574",
+        "status": "Ended",
+        "isDropped": false,
+        "isWatchlist": true
+      },
+      {
+        "tmdbShowId": 62560,
+        "showTitle": "Mr. Robot",
+        "ratedEpisodes": 0,
+        "totalEpisodes": 0,
+        "posterPath": "/kv1nRqgebSsREnd7vdC2pSGjpLo.jpg",
+        "link": "https://www.serializd.com/show/62560",
+        "status": "Ended",
+        "isDropped": false,
+        "isWatchlist": true
+      },
+      {
+        "tmdbShowId": 67466,
+        "showTitle": "Marvel's Runaways",
+        "ratedEpisodes": 0,
+        "totalEpisodes": 0,
+        "posterPath": "/hnHEhbzh0F7kN3Ah1lzRjtQuW16.jpg",
+        "link": "https://www.serializd.com/show/67466",
+        "status": "Ended",
+        "isDropped": false,
+        "isWatchlist": true
+      },
+      {
+        "tmdbShowId": 79696,
+        "showTitle": "Manifest",
+        "ratedEpisodes": 0,
+        "totalEpisodes": 0,
+        "posterPath": "/eTemCphrglLKrXOsNRhYezHA7H9.jpg",
+        "link": "https://www.serializd.com/show/79696",
+        "status": "Ended",
+        "isDropped": false,
+        "isWatchlist": true
+      },
+      {
+        "tmdbShowId": 79788,
+        "showTitle": "Watchmen",
+        "ratedEpisodes": 0,
+        "totalEpisodes": 0,
+        "posterPath": "/m8rWq3j73ZGhDuSCZWMMoE9ePH1.jpg",
+        "link": "https://www.serializd.com/show/79788",
+        "status": "Ended",
+        "isDropped": false,
+        "isWatchlist": true
+      },
+      {
+        "tmdbShowId": 103540,
+        "showTitle": "Percy Jackson and the Olympians",
+        "ratedEpisodes": 0,
+        "totalEpisodes": 0,
+        "posterPath": "/40eFcTzZier3DWLqldsP5VHxeoD.jpg",
+        "link": "https://www.serializd.com/show/103540",
+        "status": "Returning Series",
+        "isDropped": false,
+        "isWatchlist": true
+      },
+      {
+        "tmdbShowId": 113985,
+        "showTitle": "Outer Range",
+        "ratedEpisodes": 0,
+        "totalEpisodes": 0,
+        "posterPath": "/9leGmIDamsWJELYz0pZkr2EXUFf.jpg",
+        "link": "https://www.serializd.com/show/113985",
+        "status": "Canceled",
+        "isDropped": false,
+        "isWatchlist": true
       }
     ],
     "stats": {
@@ -18955,26 +19219,26 @@
         }
       },
       "serializd": {
-        "episodesThisYear": 136,
-        "episodesAllTime": 13959,
-        "showsWatching": 25,
-        "showsWatched": 103,
-        "minutesAllTime": 550787,
-        "minutesThisYear": 6120,
+        "episodesThisYear": 149,
+        "episodesAllTime": 13972,
+        "showsWatching": 42,
+        "showsWatched": 104,
+        "minutesAllTime": 551372,
+        "minutesThisYear": 6705,
         "avgRating": 3.765625,
         "ratedCount": 128,
         "topGenres": [
           {
             "name": "Drama",
+            "count": 84
+          },
+          {
+            "name": "Sci-Fi & Fantasy",
             "count": 68
           },
           {
             "name": "Action & Adventure",
-            "count": 58
-          },
-          {
-            "name": "Sci-Fi & Fantasy",
-            "count": 58
+            "count": 66
           },
           {
             "name": "Comedy",
@@ -18982,26 +19246,26 @@
           },
           {
             "name": "Crime",
+            "count": 27
+          },
+          {
+            "name": "Mystery",
             "count": 21
           },
           {
             "name": "Animation",
-            "count": 16
+            "count": 17
           },
           {
             "name": "Family",
-            "count": 16
-          },
-          {
-            "name": "Mystery",
-            "count": 14
+            "count": 17
           }
         ]
       },
       "combined": {
-        "activityThisYear": 37,
-        "minutesAllTime": 613318,
-        "minutesThisYear": 8864,
+        "activityThisYear": 38,
+        "minutesAllTime": 613903,
+        "minutesThisYear": 9449,
         "topGenres": [
           {
             "name": "Comedy",
@@ -19017,7 +19281,7 @@
           },
           {
             "name": "Family",
-            "count": 185
+            "count": 186
           },
           {
             "name": "Science Fiction",
@@ -19025,11 +19289,11 @@
           },
           {
             "name": "Drama",
-            "count": 148
+            "count": 164
           },
           {
             "name": "Animation",
-            "count": 124
+            "count": 125
           },
           {
             "name": "Thriller",
@@ -19042,8 +19306,8 @@
       "LB ratings backfilled: 2 (from 537 total rated films)",
       "LB diagnostic: diary=539 (539 dated), all-films=537, undated-in-feed=hidden (2), total=541",
       "LB watchlist diagnostic: 135 films",
-      "Library: 128 shows · 7914 log entries · 19 dropped · 128 rated",
-      "TV derived: fully-watched=103, in-progress=6",
+      "Library: 146 shows · 7928 log entries · 19 dropped · 128 rated",
+      "TV derived: fully-watched=104, in-progress=6",
       "LB feed: 539 dated LB entries in feed, date range 2011-05-15 → 2026-05-16"
     ]
   },
@@ -20839,6 +21103,16 @@
         "name": "Breaking Bad",
         "posterPath": "/ztkUQFLlC19CCMYHW9o1zWhJRNq.jpg",
         "rating": 3
+      },
+      "1399": {
+        "tmdbShowId": 1399,
+        "status": "watchlist",
+        "seasons": {},
+        "episodes": {},
+        "addedAt": 1779038543840,
+        "updatedAt": 1779038543918,
+        "name": "Game of Thrones",
+        "posterPath": "/1XS1oqL89opfnbLl8WnZY1O1uJx.jpg"
       },
       "1402": {
         "tmdbShowId": 1402,
@@ -25065,6 +25339,16 @@
         "rating": 4.5,
         "timesWatched": 3
       },
+      "1425": {
+        "tmdbShowId": 1425,
+        "status": "watchlist",
+        "seasons": {},
+        "episodes": {},
+        "addedAt": 1779038561937,
+        "updatedAt": 1779038562008,
+        "name": "House of Cards",
+        "posterPath": "/hKWxWjFwnMvkWQawbhvC0Y7ygQ8.jpg"
+      },
       "1434": {
         "tmdbShowId": 1434,
         "status": "watched",
@@ -26470,6 +26754,36 @@
         "posterPath": "/3PFsEuAiyLkWsP4GG6dIV37Q6gu.jpg",
         "timesWatched": 3,
         "rating": 4
+      },
+      "1437": {
+        "tmdbShowId": 1437,
+        "status": "watchlist",
+        "seasons": {},
+        "episodes": {},
+        "addedAt": 1779038579134,
+        "updatedAt": 1779038579205,
+        "name": "Firefly",
+        "posterPath": "/vZcKsy4sGAvWMVqLluwYuoi11Kj.jpg"
+      },
+      "1438": {
+        "tmdbShowId": 1438,
+        "status": "watchlist",
+        "seasons": {},
+        "episodes": {},
+        "addedAt": 1779038551165,
+        "updatedAt": 1779038551235,
+        "name": "The Wire",
+        "posterPath": "/4lbclFySvugI51fwsyxBTOm4DqK.jpg"
+      },
+      "1622": {
+        "tmdbShowId": 1622,
+        "status": "watchlist",
+        "seasons": {},
+        "episodes": {},
+        "addedAt": 1779038587789,
+        "updatedAt": 1779038587863,
+        "name": "Supernatural",
+        "posterPath": "/u40gJarLPlIkwouKlzGdobQOV9k.jpg"
       },
       "1668": {
         "tmdbShowId": 1668,
@@ -27892,6 +28206,16 @@
         "name": "Phineas and Ferb",
         "posterPath": "/g6TidT7be954rrzPPBTIXkSmfXj.jpg",
         "rating": 3.5
+      },
+      "1973": {
+        "tmdbShowId": 1973,
+        "status": "watchlist",
+        "seasons": {},
+        "episodes": {},
+        "addedAt": 1779038649081,
+        "updatedAt": 1779038649155,
+        "name": "24",
+        "posterPath": "/iq6yrZ5LEDXf1ArCOYLq8PIUBpV.jpg"
       },
       "2288": {
         "tmdbShowId": 2288,
@@ -29380,6 +29704,26 @@
         "posterPath": "/spVI8Zns4Ep30zzxcoO7f7nwfck.jpg",
         "rating": 3.5
       },
+      "4087": {
+        "tmdbShowId": 4087,
+        "status": "watchlist",
+        "seasons": {},
+        "episodes": {},
+        "addedAt": 1779038573841,
+        "updatedAt": 1779038573914,
+        "name": "The X-Files",
+        "posterPath": "/rcBx0p8h51LHceyhquYMxbspJQu.jpg"
+      },
+      "4194": {
+        "tmdbShowId": 4194,
+        "status": "watchlist",
+        "seasons": {},
+        "episodes": {},
+        "addedAt": 1779038633120,
+        "updatedAt": 1779038633204,
+        "name": "Star Wars: The Clone Wars",
+        "posterPath": "/e1nWfnnCVqxS2LeTO3dwGyAsG2V.jpg"
+      },
       "4327": {
         "tmdbShowId": 4327,
         "status": "watched",
@@ -29693,6 +30037,16 @@
         "name": "That's So Raven",
         "posterPath": "/8pSH9b3XKKLBhdlsK9bz0AWYc7C.jpg",
         "rating": 3.5
+      },
+      "4607": {
+        "tmdbShowId": 4607,
+        "status": "watchlist",
+        "seasons": {},
+        "episodes": {},
+        "addedAt": 1779038555742,
+        "updatedAt": 1779038555818,
+        "name": "Lost",
+        "posterPath": "/og6S0aTZU6YUJAbqxeKjCa3kY1E.jpg"
       },
       "19885": {
         "tmdbShowId": 19885,
@@ -32565,6 +32919,16 @@
         "posterPath": "/xhU1KkPtM9fpE1HKpdghX0VlyYF.jpg",
         "rating": 3
       },
+      "46648": {
+        "tmdbShowId": 46648,
+        "status": "watchlist",
+        "seasons": {},
+        "episodes": {},
+        "addedAt": 1779038567767,
+        "updatedAt": 1779038567839,
+        "name": "True Detective",
+        "posterPath": "/zYqVTiHK5ZajYcNzAW7qWte5NWS.jpg"
+      },
       "46952": {
         "tmdbShowId": 46952,
         "status": "watched",
@@ -35129,6 +35493,16 @@
         "rating": 4,
         "timesWatched": 1
       },
+      "60574": {
+        "tmdbShowId": 60574,
+        "status": "watchlist",
+        "seasons": {},
+        "episodes": {},
+        "addedAt": 1779038657935,
+        "updatedAt": 1779038658006,
+        "name": "Peaky Blinders",
+        "posterPath": "/vUUqzWa2LnHIVqkaKVlVGkVcZIW.jpg"
+      },
       "60735": {
         "tmdbShowId": 60735,
         "status": "watched",
@@ -36816,6 +37190,16 @@
         "name": "Marvel's The Defenders",
         "posterPath": "/49XzINhH4LFsgz7cx6TOPcHUJUL.jpg",
         "rating": 3
+      },
+      "62560": {
+        "tmdbShowId": 62560,
+        "status": "watchlist",
+        "seasons": {},
+        "episodes": {},
+        "addedAt": 1779038641520,
+        "updatedAt": 1779038641589,
+        "name": "Mr. Robot",
+        "posterPath": "/kv1nRqgebSsREnd7vdC2pSGjpLo.jpg"
       },
       "62643": {
         "tmdbShowId": 62643,
@@ -38825,6 +39209,16 @@
         "posterPath": "/y6wYElX5HaPZItVGJcYGdQO7k8g.jpg",
         "rating": 4.5
       },
+      "67466": {
+        "tmdbShowId": 67466,
+        "status": "watchlist",
+        "seasons": {},
+        "episodes": {},
+        "addedAt": 1779038613967,
+        "updatedAt": 1779038614051,
+        "name": "Marvel's Runaways",
+        "posterPath": "/hnHEhbzh0F7kN3Ah1lzRjtQuW16.jpg"
+      },
       "68716": {
         "tmdbShowId": 68716,
         "status": "watched",
@@ -40540,6 +40934,26 @@
         "name": "You",
         "posterPath": "/oANi0vEE92nuijiZQgPZ88FSxqQ.jpg",
         "rating": 5
+      },
+      "79696": {
+        "tmdbShowId": 79696,
+        "status": "watchlist",
+        "seasons": {},
+        "episodes": {},
+        "addedAt": 1779038605778,
+        "updatedAt": 1779038605851,
+        "name": "Manifest",
+        "posterPath": "/eTemCphrglLKrXOsNRhYezHA7H9.jpg"
+      },
+      "79788": {
+        "tmdbShowId": 79788,
+        "status": "watchlist",
+        "seasons": {},
+        "episodes": {},
+        "addedAt": 1779038622201,
+        "updatedAt": 1779038622271,
+        "name": "Watchmen",
+        "posterPath": "/m8rWq3j73ZGhDuSCZWMMoE9ePH1.jpg"
       },
       "80743": {
         "tmdbShowId": 80743,
@@ -42877,6 +43291,16 @@
         "timesWatched": 3,
         "rating": 5
       },
+      "103540": {
+        "tmdbShowId": 103540,
+        "status": "watchlist",
+        "seasons": {},
+        "episodes": {},
+        "addedAt": 1779038535050,
+        "updatedAt": 1779038535121,
+        "name": "Percy Jackson and the Olympians",
+        "posterPath": "/40eFcTzZier3DWLqldsP5VHxeoD.jpg"
+      },
       "106238": {
         "tmdbShowId": 106238,
         "status": "watched",
@@ -43245,6 +43669,16 @@
         "name": "Peacemaker",
         "posterPath": "/eYzbGcYnOUlvj2fa76pTgIXogd7.jpg",
         "rating": 4.5
+      },
+      "113985": {
+        "tmdbShowId": 113985,
+        "status": "watchlist",
+        "seasons": {},
+        "episodes": {},
+        "addedAt": 1779038599321,
+        "updatedAt": 1779038599396,
+        "name": "Outer Range",
+        "posterPath": "/9leGmIDamsWJELYz0pZkr2EXUFf.jpg"
       },
       "113988": {
         "tmdbShowId": 113988,
@@ -44492,6 +44926,60 @@
         "name": "Young Sherlock",
         "posterPath": "/h3s0Cd2JppeWA4UjTuSRauL52P7.jpg",
         "rating": 3.5
+      },
+      "259453": {
+        "tmdbShowId": 259453,
+        "status": "watched",
+        "seasons": {
+          "1": {
+            "watchedAt": 1781481600000
+          }
+        },
+        "episodes": {
+          "1-1": {
+            "watchedAt": 1781481600000
+          },
+          "1-2": {
+            "watchedAt": 1781481600000
+          },
+          "1-3": {
+            "watchedAt": 1781481600000
+          },
+          "1-4": {
+            "watchedAt": 1781481600000
+          },
+          "1-5": {
+            "watchedAt": 1781481600000
+          },
+          "1-6": {
+            "watchedAt": 1781481600000
+          },
+          "1-7": {
+            "watchedAt": 1781481600000
+          },
+          "1-8": {
+            "watchedAt": 1781481600000
+          },
+          "1-9": {
+            "watchedAt": 1781481600000
+          },
+          "1-10": {
+            "watchedAt": 1781481600000
+          },
+          "1-11": {
+            "watchedAt": 1781481600000
+          },
+          "1-12": {
+            "watchedAt": 1781481600000
+          },
+          "1-13": {
+            "watchedAt": 1781481600000
+          }
+        },
+        "addedAt": 1779038594443,
+        "updatedAt": 1779038594813,
+        "name": "Suits LA",
+        "posterPath": "/3hYiNPkcLoI3QWDokOHQJIfn55O.jpg"
       }
     }
   },
