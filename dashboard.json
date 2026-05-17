@@ -1,8 +1,8 @@
 {
   "version": 1,
-  "generatedAt": "2026-05-17T17:51:41.538Z",
+  "generatedAt": "2026-05-17T18:22:29.688Z",
   "dashboard": {
-    "updatedAt": 1779040299125,
+    "updatedAt": 1779042147049,
     "feed": [
       {
         "source": "serializd",
@@ -124,6 +124,18 @@
         "link": "https://www.themoviedb.org/tv/259453",
         "tmdbShowId": 259453,
         "posterPath": "/3hYiNPkcLoI3QWDokOHQJIfn55O.jpg"
+      },
+      {
+        "source": "letterboxd",
+        "kind": "movie",
+        "guid": "letterboxd-viewing-1319508741",
+        "title": "The Punisher: One Last Kill",
+        "subtitle": "2026",
+        "watchedAt": 1779019200000,
+        "rating": 3.5,
+        "link": "https://letterboxd.com/film/the-punisher-one-last-kill/",
+        "tmdbMovieId": 1439930,
+        "posterPath": "/qQclTgLMDvGBuUBFGHRipxkEwWR.jpg"
       },
       {
         "source": "letterboxd",
@@ -15414,6 +15426,15 @@
         "link": "https://letterboxd.com/film/the-lion-king-2019/"
       },
       {
+        "tmdbMovieId": 1439930,
+        "title": "The Punisher: One Last Kill",
+        "year": 2026,
+        "rating": 3.5,
+        "watchedAt": 1779019200000,
+        "posterPath": "/qQclTgLMDvGBuUBFGHRipxkEwWR.jpg",
+        "link": "https://letterboxd.com/film/the-punisher-one-last-kill/"
+      },
+      {
         "tmdbMovieId": 1290821,
         "title": "Shelter",
         "year": 2026,
@@ -19173,12 +19194,12 @@
     ],
     "stats": {
       "letterboxd": {
-        "moviesThisYear": 23,
-        "moviesAllTime": 537,
-        "minutesAllTime": 62531,
-        "minutesThisYear": 2744,
-        "avgRating": 3.8391866913123844,
-        "ratedCount": 541,
+        "moviesThisYear": 24,
+        "moviesAllTime": 538,
+        "minutesAllTime": 62582,
+        "minutesThisYear": 2795,
+        "avgRating": 3.838560885608856,
+        "ratedCount": 542,
         "topGenres": [
           {
             "name": "Adventure",
@@ -19186,7 +19207,7 @@
           },
           {
             "name": "Action",
-            "count": 265
+            "count": 266
           },
           {
             "name": "Comedy",
@@ -19263,9 +19284,9 @@
         ]
       },
       "combined": {
-        "activityThisYear": 38,
-        "minutesAllTime": 613903,
-        "minutesThisYear": 9449,
+        "activityThisYear": 39,
+        "minutesAllTime": 613954,
+        "minutesThisYear": 9500,
         "topGenres": [
           {
             "name": "Comedy",
@@ -19277,18 +19298,18 @@
           },
           {
             "name": "Action",
-            "count": 265
+            "count": 266
           },
           {
             "name": "Family",
             "count": 186
           },
           {
-            "name": "Science Fiction",
-            "count": 164
+            "name": "Drama",
+            "count": 165
           },
           {
-            "name": "Drama",
+            "name": "Science Fiction",
             "count": 164
           },
           {
@@ -19303,12 +19324,12 @@
       }
     },
     "warnings": [
-      "LB ratings backfilled: 2 (from 537 total rated films)",
-      "LB diagnostic: diary=539 (539 dated), all-films=537, undated-in-feed=hidden (2), total=541",
+      "LB ratings backfilled: 2 (from 538 total rated films)",
+      "LB diagnostic: diary=540 (540 dated), all-films=538, undated-in-feed=hidden (2), total=542",
       "LB watchlist diagnostic: 135 films",
       "Library: 146 shows · 7928 log entries · 19 dropped · 128 rated",
       "TV derived: fully-watched=104, in-progress=6",
-      "LB feed: 539 dated LB entries in feed, date range 2011-05-15 → 2026-05-16"
+      "LB feed: 540 dated LB entries in feed, date range 2011-05-15 → 2026-05-17"
     ]
   },
   "library": {
