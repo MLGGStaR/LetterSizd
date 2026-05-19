@@ -1,8 +1,8 @@
 {
   "version": 1,
-  "generatedAt": "2026-05-19T04:11:58.949Z",
+  "generatedAt": "2026-05-19T04:15:37.744Z",
   "dashboard": {
-    "updatedAt": 1779163916305,
+    "updatedAt": 1779164135235,
     "feed": [
       {
         "source": "serializd",
@@ -45026,8 +45026,18 @@
     }
   },
   "favorites": {
-    "movies": [],
-    "shows": []
+    "movies": [
+      333339,
+      117251,
+      299536,
+      1895,
+      687163
+    ],
+    "shows": [
+      2288,
+      48866,
+      1418
+    ]
   },
   "franchiseMovies": [
     {
