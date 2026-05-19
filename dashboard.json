@@ -1,8 +1,8 @@
 {
   "version": 1,
-  "generatedAt": "2026-05-19T03:54:26.716Z",
+  "generatedAt": "2026-05-19T04:11:58.949Z",
   "dashboard": {
-    "updatedAt": 1779162861983,
+    "updatedAt": 1779163916305,
     "feed": [
       {
         "source": "serializd",
@@ -45024,6 +45024,10 @@
         "posterPath": "/3hYiNPkcLoI3QWDokOHQJIfn55O.jpg"
       }
     }
+  },
+  "favorites": {
+    "movies": [],
+    "shows": []
   },
   "franchiseMovies": [
     {
