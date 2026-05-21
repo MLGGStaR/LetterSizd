@@ -1,8 +1,8 @@
 {
   "version": 1,
-  "generatedAt": "2026-05-20T23:58:58.928Z",
+  "generatedAt": "2026-05-21T00:28:29.493Z",
   "dashboard": {
-    "updatedAt": 1779321534077,
+    "updatedAt": 1779323306020,
     "feed": [
       {
         "source": "serializd",
@@ -45083,14 +45083,6 @@
   },
   "franchiseMovies": [
     {
-      "id": 1228710,
-      "title": "Star Wars: The Mandalorian and Grogu",
-      "releaseDate": "2026-05-20",
-      "posterPath": "/5Vi8dSauVwH1HOsiZceDMbRr1Ca.jpg",
-      "mediaType": "movie",
-      "overview": "The evil Empire has fallen, and Imperial warlords remain scattered throughout the galaxy. As the fledgling New Republic works to protect everything the Rebellion fought for, they have enlisted the help of legendary Mandalorian bounty hunter Din Djarin and his young apprentice Grogu."
-    },
-    {
       "id": 1081003,
       "title": "Supergirl",
       "releaseDate": "2026-06-24",
@@ -46099,15 +46091,6 @@
         "popularity": 59.2025
       },
       {
-        "id": 1368314,
-        "title": "Passenger",
-        "releaseDate": "2026-05-20",
-        "posterPath": "/2sOEJzhPzjTkZSlPbGxOJ7xgIyS.jpg",
-        "mediaType": "movie",
-        "overview": "After a young couple witnesses a gruesome highway accident, they soon realize they did not leave the crash scene alone, as a demonic presence called the Passenger that won't stop until it claims them both turns their van life adventure into a nightmare.",
-        "popularity": 23.913
-      },
-      {
         "id": 1380291,
         "title": "Tom Clancy's Jack Ryan: Ghost War",
         "releaseDate": "2026-05-20",
@@ -46115,15 +46098,6 @@
         "mediaType": "movie",
         "overview": "When an international covert mission unravels a deadly conspiracy, Ryan is forced back into the world of espionage to confront a rogue black-ops unit.",
         "popularity": 11.3652
-      },
-      {
-        "id": 1458914,
-        "title": "The Man I Love",
-        "releaseDate": "2026-05-20",
-        "posterPath": "/qIZ8pQ5nQjRKDtmsl0DYGO1nCQ.jpg",
-        "mediaType": "movie",
-        "overview": "In late 1980s New York, a theater artist living with AIDS takes on one possibly last great role.",
-        "popularity": 2.4186
       },
       {
         "id": 1340206,
@@ -46585,6 +46559,15 @@
         "popularity": 1.7635
       },
       {
+        "id": 1101412,
+        "title": "Fall 2",
+        "releaseDate": "2026-08-07",
+        "posterPath": null,
+        "mediaType": "movie",
+        "overview": "Overwhelmed by her sister Hunter’s death, Jax connects with Luce, Hunter’s fearless friend. To heal, they attempt the infamous plank walk of Mount Kwan in Thailand. After a sudden rockslide leaves them stranded on a fragile plank 3000 feet in the air, Jax must confront her deepest fears and fight for survival to find closure.",
+        "popularity": 1.5667
+      },
+      {
         "id": 1101383,
         "title": "The End of Oak Street",
         "releaseDate": "2026-08-12",
@@ -46837,6 +46820,15 @@
         "popularity": 8.2781
       },
       {
+        "id": 1287520,
+        "title": "November 1963",
+        "releaseDate": "2026-10-15",
+        "posterPath": "/sao264XXHRni4pmYnCTPirD67Qc.jpg",
+        "mediaType": "movie",
+        "overview": "Unfolds within the intense 48-hour period surrounding the assassination of President John F. Kennedy. The film sheds light on crime group the Chicago Outfit’s alleged involvement in the assassination and draws directly from first-hand accounts, including insights from the family of crime boss Sam Giancana.",
+        "popularity": 1.567
+      },
+      {
         "id": 1400940,
         "title": "Clayface",
         "releaseDate": "2026-10-21",
@@ -46936,6 +46928,15 @@
         "popularity": 1.6968
       },
       {
+        "id": 1137888,
+        "title": "The Man with the Bag",
+        "releaseDate": "2026-12-02",
+        "posterPath": null,
+        "mediaType": "movie",
+        "overview": "After Santa’s magic bag is stolen, he turns to his naughty list to find Vance, a thief, to help him get it back. Along with his daughter, Santa, and a group of misfits, Vance will have to pull off the greatest heist of his life to save Christmas.",
+        "popularity": 1.6129
+      },
+      {
         "id": 1382782,
         "title": "Chili Finger",
         "releaseDate": "2026-12-03",
@@ -46970,6 +46971,15 @@
         "mediaType": "movie",
         "overview": "In a world teetering on chaos, elite assassin John Rico is the go-to solution when the government wants threats removed-quietly and permanently. But when a mission goes sideways, he's given one last shot at redemption: track down and eliminate Mason Ryker, the final ghost of the feared underground unit known as The Order of the Dragon. As Rico's mission leads him to a small, danger-ridden town in Serbia, the lines between good and evil begin to blur. Is Ryker the monster he's made out to be, or is there a deeper conspiracy at play? What begins as a black-and-white hit spirals into a moral storm-and time is running out.",
         "popularity": 1.6392
+      },
+      {
+        "id": 1277016,
+        "title": "The Queen of Heaven",
+        "releaseDate": "2026-12-18",
+        "posterPath": "/zY2vIC5q9waeSKDrYjAQnP6CyTz.jpg",
+        "mediaType": "movie",
+        "overview": "The life of the Virgin Mary from the Crucifixion (33AD) till her miraculous departure/death (44AD). It also describes the early years of the Christian Church community.",
+        "popularity": 1.6186
       },
       {
         "id": 1300926,
