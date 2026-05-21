@@ -1,8 +1,8 @@
 {
   "version": 1,
-  "generatedAt": "2026-05-21T00:28:29.493Z",
+  "generatedAt": "2026-05-21T00:44:20.423Z",
   "dashboard": {
-    "updatedAt": 1779323306020,
+    "updatedAt": 1779324257699,
     "feed": [
       {
         "source": "serializd",
@@ -113,17 +113,6 @@
         "link": "https://www.themoviedb.org/tv/255661",
         "tmdbShowId": 255661,
         "posterPath": "/h3s0Cd2JppeWA4UjTuSRauL52P7.jpg"
-      },
-      {
-        "source": "serializd",
-        "kind": "show",
-        "guid": "show:259453",
-        "title": "Suits LA",
-        "subtitle": "1 seasons + 13 eps",
-        "watchedAt": 1781481600000,
-        "link": "https://www.themoviedb.org/tv/259453",
-        "tmdbShowId": 259453,
-        "posterPath": "/3hYiNPkcLoI3QWDokOHQJIfn55O.jpg"
       },
       {
         "source": "letterboxd",
@@ -19044,18 +19033,6 @@
         "isWatchlist": false
       },
       {
-        "tmdbShowId": 259453,
-        "showTitle": "Suits LA",
-        "ratedEpisodes": 0,
-        "totalEpisodes": 13,
-        "timesWatched": 1,
-        "posterPath": "/3hYiNPkcLoI3QWDokOHQJIfn55O.jpg",
-        "link": "https://www.serializd.com/show/259453",
-        "status": "Canceled",
-        "isDropped": false,
-        "isWatchlist": false
-      },
-      {
         "tmdbShowId": 1399,
         "showTitle": "Game of Thrones",
         "ratedEpisodes": 0,
@@ -19241,6 +19218,17 @@
         "status": "Canceled",
         "isDropped": false,
         "isWatchlist": true
+      },
+      {
+        "tmdbShowId": 259453,
+        "showTitle": "Suits LA",
+        "ratedEpisodes": 0,
+        "totalEpisodes": 0,
+        "posterPath": "/3hYiNPkcLoI3QWDokOHQJIfn55O.jpg",
+        "link": "https://www.serializd.com/show/259453",
+        "status": "Canceled",
+        "isDropped": false,
+        "isWatchlist": true
       }
     ],
     "stats": {
@@ -19291,12 +19279,12 @@
         }
       },
       "serializd": {
-        "episodesThisYear": 149,
-        "episodesAllTime": 13972,
-        "showsWatching": 42,
-        "showsWatched": 104,
-        "minutesAllTime": 551372,
-        "minutesThisYear": 6705,
+        "episodesThisYear": 136,
+        "episodesAllTime": 13959,
+        "showsWatching": 43,
+        "showsWatched": 103,
+        "minutesAllTime": 550787,
+        "minutesThisYear": 6120,
         "avgRating": 3.765625,
         "ratedCount": 128,
         "topGenres": [
@@ -19335,9 +19323,9 @@
         ]
       },
       "combined": {
-        "activityThisYear": 39,
-        "minutesAllTime": 613954,
-        "minutesThisYear": 9500,
+        "activityThisYear": 38,
+        "minutesAllTime": 613369,
+        "minutesThisYear": 8915,
         "topGenres": [
           {
             "name": "Comedy",
@@ -19378,8 +19366,8 @@
       "LB ratings backfilled: 2 (from 538 total rated films)",
       "LB diagnostic: diary=540 (540 dated), all-films=538, undated-in-feed=hidden (2), total=542",
       "LB watchlist diagnostic: 135 films",
-      "Library: 146 shows · 7928 log entries · 19 dropped · 128 rated",
-      "TV derived: fully-watched=104, in-progress=6",
+      "Library: 146 shows · 7914 log entries · 19 dropped · 128 rated",
+      "TV derived: fully-watched=103, in-progress=6",
       "LB feed: 540 dated LB entries in feed, date range 2011-05-15 → 2026-05-17"
     ]
   },
@@ -45001,55 +44989,11 @@
       },
       "259453": {
         "tmdbShowId": 259453,
-        "status": "watched",
-        "seasons": {
-          "1": {
-            "watchedAt": 1781481600000
-          }
-        },
-        "episodes": {
-          "1-1": {
-            "watchedAt": 1781481600000
-          },
-          "1-2": {
-            "watchedAt": 1781481600000
-          },
-          "1-3": {
-            "watchedAt": 1781481600000
-          },
-          "1-4": {
-            "watchedAt": 1781481600000
-          },
-          "1-5": {
-            "watchedAt": 1781481600000
-          },
-          "1-6": {
-            "watchedAt": 1781481600000
-          },
-          "1-7": {
-            "watchedAt": 1781481600000
-          },
-          "1-8": {
-            "watchedAt": 1781481600000
-          },
-          "1-9": {
-            "watchedAt": 1781481600000
-          },
-          "1-10": {
-            "watchedAt": 1781481600000
-          },
-          "1-11": {
-            "watchedAt": 1781481600000
-          },
-          "1-12": {
-            "watchedAt": 1781481600000
-          },
-          "1-13": {
-            "watchedAt": 1781481600000
-          }
-        },
+        "status": "watchlist",
+        "seasons": {},
+        "episodes": {},
         "addedAt": 1779038594443,
-        "updatedAt": 1779038594813,
+        "updatedAt": 1779324201692,
         "name": "Suits LA",
         "posterPath": "/3hYiNPkcLoI3QWDokOHQJIfn55O.jpg"
       }
