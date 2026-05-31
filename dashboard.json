@@ -1,8 +1,8 @@
 {
   "version": 1,
-  "generatedAt": "2026-05-29T21:45:44.699Z",
+  "generatedAt": "2026-05-31T00:37:23.308Z",
   "dashboard": {
-    "updatedAt": 1780091139961,
+    "updatedAt": 1780187838387,
     "feed": [
       {
         "source": "serializd",
@@ -8572,7 +8572,7 @@
         "title": "Spider-Man: Brand New Day",
         "tmdbMovieId": 969681,
         "releaseDate": "2026-07-29",
-        "posterPath": "/yyB2VJEW3an2xCdcYCPQhn9QERR.jpg",
+        "posterPath": "/pspkSVP39NGa6G2rvK5KlMjvYUe.jpg",
         "providers": [],
         "hitsMyProviders": false
       },
@@ -8905,7 +8905,7 @@
         "title": "Sinners",
         "tmdbMovieId": 1233413,
         "releaseDate": "2025-04-16",
-        "posterPath": "/fWPgbnt2LSqkQ6cdQc0SZN9CpLm.jpg",
+        "posterPath": "/q6ghYZEHqItvzsxhlp9GykM7fOH.jpg",
         "providers": [
           {
             "logo_path": "/pvske1MyAoymrs5bguRfVqYiM9a.jpg",
@@ -10307,6 +10307,12 @@
             "provider_id": 2100,
             "provider_name": "Amazon Prime Video with Ads",
             "display_priority": 204
+          },
+          {
+            "logo_path": "/xfKqqWYYIyvjECOFOaYtJdD7gl3.jpg",
+            "provider_id": 1963,
+            "provider_name": "Xumo Play",
+            "display_priority": 168
           }
         ],
         "hitsMyProviders": true
@@ -11773,7 +11779,7 @@
         "title": "The Mandalorian and Grogu",
         "tmdbMovieId": 1228710,
         "releaseDate": "2026-05-20",
-        "posterPath": "/cE9LAdexd9ju0yIkmCJBOKZg9JR.jpg",
+        "posterPath": "/5Vi8dSauVwH1HOsiZceDMbRr1Ca.jpg",
         "providers": [],
         "hitsMyProviders": false
       },
@@ -44932,7 +44938,7 @@
       "id": 969681,
       "title": "Spider-Man: Brand New Day",
       "releaseDate": "2026-07-29",
-      "posterPath": "/yyB2VJEW3an2xCdcYCPQhn9QERR.jpg",
+      "posterPath": "/pspkSVP39NGa6G2rvK5KlMjvYUe.jpg",
       "mediaType": "movie",
       "overview": "Four years have passed since the events of No Way Home, and Peter is now an adult living entirely alone, having voluntarily erased himself from the lives and memories of those he loves. Crime-fighting in a New York that no longer knows his name, he's devoted himself entirely to protecting his city — a full-time Spider-Man — but as the demands on him intensify, the pressure sparks a surprising physical evolution that threatens his existence, even as a strange new pattern of crimes gives rise to one of the most powerful threats he has ever faced."
     },
@@ -44956,7 +44962,7 @@
       "id": 1417668,
       "title": "Star Wars: Starfighter",
       "releaseDate": "2027-05-26",
-      "posterPath": "/dwvXFWUQzivh6mizZGKQhYOPV83.jpg",
+      "posterPath": "/aUSQtKgQ0GNKJzXXJ6fY0auadjo.jpg",
       "mediaType": "movie",
       "overview": "An original story set approximately five years after the events of Star Wars: The Rise of Skywalker."
     },
@@ -45036,7 +45042,7 @@
         "posterPath": "/rKleYiEj4pFqxedTRWfujLooi84.jpg",
         "mediaType": "movie",
         "overview": "College student Lucy and her friends spend their vacation at her family's home in Hawaii, which includes her pet chimpanzee, Ben. However, when Ben contracts rabies after being bitten by a rabid animal, the group must fight for their lives in order to avoid the now-violent chimp.",
-        "popularity": 15.0349
+        "popularity": 14.9695
       },
       {
         "id": 1198984,
@@ -45045,7 +45051,7 @@
         "posterPath": "/xZqo0yPARmyF8TACVNyaOACkYWG.jpg",
         "mediaType": "movie",
         "overview": "After a catastrophic military disaster, the dead don't just rise - they hunt. Ava searches for her missing husband, but what she finds is far more terrifying.",
-        "popularity": 14.6607
+        "popularity": 14.2855
       },
       {
         "id": 1034716,
@@ -45054,7 +45060,7 @@
         "posterPath": "/peG6482ALJQ9Tbvv2P38BquVk0f.jpg",
         "mediaType": "movie",
         "overview": "Poppy's a free spirit. Alex loves a plan. After years of summer vacations, these polar-opposite pals wonder if they could be a perfect romantic match.",
-        "popularity": 6.4744
+        "popularity": 6.7649
       },
       {
         "id": 840464,
@@ -45063,7 +45069,7 @@
         "posterPath": "/z2tqCJLsw6uEJ8nJV8BsQXGa3dr.jpg",
         "mediaType": "movie",
         "overview": "Having found the safety of the Greenland bunker after the comet Clarke decimated the Earth, the Garrity family must now risk everything to embark on a perilous journey across the wasteland of Europe to find a new home.",
-        "popularity": 64.0131
+        "popularity": 62.8621
       },
       {
         "id": 1601243,
@@ -45072,7 +45078,7 @@
         "posterPath": "/tsE3nySukwrfUjouz8vzvKTcXNC.jpg",
         "mediaType": "movie",
         "overview": "After retiring from the police force, a relentless detective haunted by the tragic loss of his closest friend sets out on a perilous quest for vengeance, seeking redemption and fighting to restore justice to the streets he once swore to protect.",
-        "popularity": 11.2958
+        "popularity": 10.9524
       },
       {
         "id": 1610418,
@@ -45081,7 +45087,7 @@
         "posterPath": "/750RNSHr25GQcCr2Ws8iSGrHJA9.jpg",
         "mediaType": "movie",
         "overview": "What begins as a routine investigation into a house slated for demolition turns into a nightmare when the team faces an evil force, leaving behind only the recovered footage.",
-        "popularity": 8.9482
+        "popularity": 8.2001
       },
       {
         "id": 1306368,
@@ -45090,7 +45096,7 @@
         "posterPath": "/eZo31Dhl5BQ6GfbMNf3oU0tUvPZ.jpg",
         "mediaType": "movie",
         "overview": "Trust frays when a team of Miami cops discovers millions in cash inside a run-down stash house, calling everyone — and everything — into question.",
-        "popularity": 28.6573
+        "popularity": 30.2695
       },
       {
         "id": 1584215,
@@ -45099,7 +45105,7 @@
         "posterPath": "/fYqSOkix4rbDiZW0ACNnvZCpT6X.jpg",
         "mediaType": "movie",
         "overview": "A CIA-trained assassin recruits other graduates from her secret childhood program, The Internship, to violently destroy the organization. The CIA fights back with deadly force.",
-        "popularity": 10.7863
+        "popularity": 11.0825
       },
       {
         "id": 1272837,
@@ -45108,7 +45114,7 @@
         "posterPath": "/kK1BGkG3KAvWB0WMV1DfOx9yTMZ.jpg",
         "mediaType": "movie",
         "overview": "Dr. Kelson finds himself in a shocking new relationship - with consequences that could change the world as they know it - and Spike's encounter with Jimmy Crystal becomes a nightmare he can't escape.",
-        "popularity": 35.6622
+        "popularity": 34.7847
       },
       {
         "id": 1412598,
@@ -45117,7 +45123,7 @@
         "posterPath": "/xC6zdIoIHjhOIFmjNyGgtzhuhiF.jpg",
         "mediaType": "movie",
         "overview": "Follows best friends Maddie and Trish as they find themselves trapped in a remote lagoon with the dangerous killer whale named Ceto.",
-        "popularity": 11.265
+        "popularity": 10.4914
       },
       {
         "id": 1236153,
@@ -45126,7 +45132,7 @@
         "posterPath": "/pyok1kZJCfyuFapYXzHcy7BLlQa.jpg",
         "mediaType": "movie",
         "overview": "In the near future, a detective stands on trial accused of murdering his wife. He has ninety minutes to prove his innocence to the advanced AI Judge he once championed, before it determines his fate.",
-        "popularity": 22.0301
+        "popularity": 23.2293
       },
       {
         "id": 1193501,
@@ -45135,7 +45141,7 @@
         "posterPath": "/vgonf5kGsiijUBjzxKTvechhT28.jpg",
         "mediaType": "movie",
         "overview": "A misfit group of unwitting high school students stumble upon a cursed object, an ancient Aztec Death Whistle. They discover that blowing the whistle and the terrifying sound it emits will summon their future deaths to hunt them down.",
-        "popularity": 19.0911
+        "popularity": 17.6878
       },
       {
         "id": 680493,
@@ -45144,16 +45150,16 @@
         "posterPath": "/mdw7bSnE11WpwWf3ViXtnavuqiT.jpg",
         "mediaType": "movie",
         "overview": "When James receives a mysterious letter from his lost love Mary, he is drawn to Silent Hill—a once-familiar town now consumed by darkness. As he searches for her, James faces monstrous creatures and unravels a terrifying truth that will push him to the edge of his sanity.",
-        "popularity": 19.2149
+        "popularity": 19.8281
       },
       {
         "id": 1198994,
         "title": "Send Help",
         "releaseDate": "2026-01-22",
-        "posterPath": "/mjkS2iAgWj3ik1DTjvI15nHZ7yl.jpg",
+        "posterPath": "/zbJWVHOtj3ljBzWgL1P8pxP03Up.jpg",
         "mediaType": "movie",
         "overview": "Two colleagues become stranded on a deserted island, the only survivors of a plane crash. On the island, they must overcome past grievances and work together to survive, but ultimately, it's a battle of wills and wits to make it out alive.",
-        "popularity": 46.9643
+        "popularity": 48.8952
       },
       {
         "id": 696393,
@@ -45162,7 +45168,7 @@
         "posterPath": "/3HA2iiq982e01EKXJvPFyfMADVM.jpg",
         "mediaType": "movie",
         "overview": "When a mutating, highly contagious fungus escapes a sealed facility, two employees – joined by a grizzled bioterror operative – must survive the wildest night shift ever to save humanity from extinction.",
-        "popularity": 14.1706
+        "popularity": 13.5273
       },
       {
         "id": 1032892,
@@ -45171,7 +45177,7 @@
         "posterPath": "/4vWqIdoBavo1htxmxlScDniOS9C.jpg",
         "mediaType": "movie",
         "overview": "Three storylines, spanning thousands of years, intersect and reflect on hope, connection, and the circle of life.",
-        "popularity": 8.6135
+        "popularity": 7.3779
       },
       {
         "id": 1290821,
@@ -45180,7 +45186,7 @@
         "posterPath": "/buPFnHZ3xQy6vZEHxbHgL1Pc6CR.jpg",
         "mediaType": "movie",
         "overview": "A man living in self-imposed exile on a remote island rescues a young girl from a violent storm, setting off a chain of events that forces him out of seclusion to protect her from enemies tied to his past.",
-        "popularity": 69.536
+        "popularity": 67.2798
       },
       {
         "id": 1168190,
@@ -45189,7 +45195,16 @@
         "posterPath": "/gbVwHl4YPSq6BcC92TQpe7qUTh6.jpg",
         "mediaType": "movie",
         "overview": "Estranged half-brothers Jonny and James reunite after their father's mysterious death. As they search for the truth, buried secrets reveal a conspiracy threatening to tear their family apart.",
-        "popularity": 33.9069
+        "popularity": 32.35
+      },
+      {
+        "id": 1116201,
+        "title": "Iron Lung",
+        "releaseDate": "2026-01-30",
+        "posterPath": "/sIwakdbMGS1krtgendTWpxTY9Hw.jpg",
+        "mediaType": "movie",
+        "overview": "In a post-apocalyptic future where an event known as \"The Quiet Rapture\" caused all known stars and habitable planets in the universe to disappear, a convict is sent to search an ocean of blood discovered on a desolate moon, using a small submarine nicknamed the \"Iron Lung\".",
+        "popularity": 9.5283
       },
       {
         "id": 1249508,
@@ -45198,25 +45213,7 @@
         "posterPath": "/4NESS9cK1CVBrmI87GS2JtJG28q.jpg",
         "mediaType": "movie",
         "overview": "On August 12, 1967, in Montana's Glacier National Park, the unthinkable happened: that same night, nine miles apart, there were not one—but two—fatal grizzly bear attacks.",
-        "popularity": 7.9086
-      },
-      {
-        "id": 1116201,
-        "title": "Iron Lung",
-        "releaseDate": "2026-01-30",
-        "posterPath": "/sIwakdbMGS1krtgendTWpxTY9Hw.jpg",
-        "mediaType": "movie",
-        "overview": "The stars are gone. The planets have disappeared. Only individuals aboard space stations or starships were left to give the end a name -- The Quiet Rapture. After decades of decay and crumbling infrastructure, the Consolidation of Iron has made a discovery on a barren moon designated AT-5. An ocean of blood. Hoping to discover desperately needed resources they immediately launch an expedition. A submarine is crafted and a convict is welded inside. Due to the pressure and depth of the ocean the forward viewport has been encased in metal. If successful, they will earn their freedom. If not, another will follow. This will be the 13th expedition.",
-        "popularity": 6.7188
-      },
-      {
-        "id": 1154538,
-        "title": "Nirvanna the Band the Show the Movie",
-        "releaseDate": "2026-02-02",
-        "posterPath": "/sm5TGX8WbnCd9Uo26cLyTxVwA1n.jpg",
-        "mediaType": "movie",
-        "overview": "When their plan to book a show at the Rivoli goes horribly wrong, Matt and Jay accidentally travel back to the year 2008.",
-        "popularity": 6.7246
+        "popularity": 7.9459
       },
       {
         "id": 1010755,
@@ -45225,7 +45222,7 @@
         "posterPath": "/yPHwX78mcwJw3I6YOJ9qh2wQBFr.jpg",
         "mediaType": "movie",
         "overview": "Tethered by a frightening conclusion, Maya and the Strangers are locked on an unavoidable, unforgiving collision course — a showdown that proves they’re far from strangers now.",
-        "popularity": 20.0787
+        "popularity": 23.9567
       },
       {
         "id": 1291335,
@@ -45234,7 +45231,7 @@
         "posterPath": "/efSsZJaddeq0LOABZqpCXdMxv9P.jpg",
         "mediaType": "movie",
         "overview": "After Matt's dreams of a picturesque Italian wedding are shattered when his fiancée leaves him at the altar, he embarks on his planned honeymoon across Italy alone, immersing himself in the country's vibrant culture, food, and beauty, meeting Gia along the way.",
-        "popularity": 8.436
+        "popularity": 8.1846
       },
       {
         "id": 1297842,
@@ -45243,7 +45240,7 @@
         "posterPath": "/wfuqMlaExcoYiUEvKfVpUTt1v4u.jpg",
         "mediaType": "movie",
         "overview": "A small goat with big dreams gets a once-in-a-lifetime shot to join the pros and play roarball, a high-intensity, co-ed, full-contact sport dominated by the fastest, fiercest animals in the world.",
-        "popularity": 114.5223
+        "popularity": 114.0037
       },
       {
         "id": 1171145,
@@ -45252,7 +45249,7 @@
         "posterPath": "/tVvpFIoteRHNnoZMhdnwIVwJpCA.jpg",
         "mediaType": "movie",
         "overview": "When an elusive thief whose high-stakes heists unfold along the iconic 101 freeway in Los Angeles eyes the score of a lifetime, with hopes of this being his final job, his path collides with a disillusioned insurance broker who is facing her own crossroads. Determined to crack the case, a relentless detective closes in on the operation, raising the stakes even higher.",
-        "popularity": 46.0203
+        "popularity": 44.9876
       },
       {
         "id": 1316092,
@@ -45261,7 +45258,7 @@
         "posterPath": "/3YBce6dTh1D5oCMITXk2S5QhPt.jpg",
         "mediaType": "movie",
         "overview": "Tragedy strikes when Heathcliff falls in love with Catherine Earnshaw, a woman from a wealthy family in 18th-century England.",
-        "popularity": 31.7456
+        "popularity": 32.0293
       },
       {
         "id": 1265609,
@@ -45270,7 +45267,7 @@
         "posterPath": "/ril8yx5SOmj0KjNlftsdfIp00fr.jpg",
         "mediaType": "movie",
         "overview": "On one last grueling mission during Army Ranger training, a combat engineer must lead his unit in a fight against a giant otherworldly killing machine.",
-        "popularity": 45.6525
+        "popularity": 45.7325
       },
       {
         "id": 1317672,
@@ -45279,7 +45276,7 @@
         "posterPath": "/jfwHKRHRE2X4NTexdzblaioHH51.jpg",
         "mediaType": "movie",
         "overview": "After her brother's death, June moves to Milan for a fresh start, finding comfort in Will, the perfect honor student at her new international school. But when his troubled best friend James—hiding a dangerous life in clandestine MMA fights—sparks a rivalry that quickly turns into irresistible attraction, June must choose between safety and a love that upends everything she thought she wanted.",
-        "popularity": 18.7321
+        "popularity": 19.1757
       },
       {
         "id": 1470130,
@@ -45288,7 +45285,7 @@
         "posterPath": "/72AoFPC5TY4DfJwXXS9rPwPeReD.jpg",
         "mediaType": "movie",
         "overview": "Rebecca Owens, a recent mortuary science graduate takes a night shift job at River Fields Mortuary. Initially, the job seems straightforward — embalming bodies, completing paperwork, and keeping things tidy. But once Rebecca starts working the night shift, things take a dark turn.",
-        "popularity": 35.9703
+        "popularity": 36.3525
       },
       {
         "id": 1119449,
@@ -45297,7 +45294,7 @@
         "posterPath": "/rWcfOdY7TU6lTdazWj0ebDZnAfO.jpg",
         "mediaType": "movie",
         "overview": "A 'Man from the Future' arrives at an LA diner where he must recruit the precise combination of disgruntled patrons to join him on a one-night quest to save the world from the terminal threat of a rogue artificial intelligence.",
-        "popularity": 19.1299
+        "popularity": 18.9458
       },
       {
         "id": 467905,
@@ -45306,7 +45303,7 @@
         "posterPath": "/vxMeKC7o5Gi8IHMi6lUgsdprTqv.jpg",
         "mediaType": "movie",
         "overview": "Disowned at birth by his obscenely wealthy family, blue-collar Becket Redfellow will stop at nothing to reclaim his inheritance, no matter how many relatives stand in his way.",
-        "popularity": 15.338
+        "popularity": 14.8273
       },
       {
         "id": 799882,
@@ -45315,7 +45312,7 @@
         "posterPath": "/dl1cA7wdwePc9QU2Rc24EPqlcyJ.jpg",
         "mediaType": "movie",
         "overview": "When her tranquil life on a remote island is shattered by the return of her vengeful former captain, a skilled ex-pirate must confront her bloody past and unleash her deadly talents to save her family from a ruthless siege.",
-        "popularity": 7.4116
+        "popularity": 7.491
       },
       {
         "id": 1107166,
@@ -45324,7 +45321,7 @@
         "posterPath": "/5xgxxmLivJXL8aF0HdZfpx8aAIo.jpg",
         "mediaType": "movie",
         "overview": "Following the brutal murder of her husband, a Kansas highway patrol officer sets out on a journey to track down the perpetrator. As the hunt progresses, she comes to realize the man responsible is a sadistic serial killer, and the depth of his mental depravity and his sinister agenda is more twisted than anyone could have imagined.",
-        "popularity": 8.0315
+        "popularity": 8.4068
       },
       {
         "id": 1383731,
@@ -45333,7 +45330,7 @@
         "posterPath": "/icOZpnGuH9YrEaW3wrw5GJaXGih.jpg",
         "mediaType": "movie",
         "overview": "Nikki's life is shattered when her daughter is kidnapped. Thrust into the criminal underworld while hunted by cops and military, she must fight to rescue her child.",
-        "popularity": 28.7328
+        "popularity": 33.0797
       },
       {
         "id": 1159559,
@@ -45342,7 +45339,7 @@
         "posterPath": "/jjyuk0edLiW8vOSnlfwWCCLpbh5.jpg",
         "mediaType": "movie",
         "overview": "When a new Ghostface killer emerges in the quiet town where Sidney Prescott has built a new life, her darkest fears are realized as her daughter becomes the next target. Determined to protect her family, Sidney must face the horrors of her past to put an end to the bloodshed once and for all.",
-        "popularity": 55.4637
+        "popularity": 50.952
       },
       {
         "id": 1199193,
@@ -45351,7 +45348,7 @@
         "posterPath": "/qhyyyWrHUbl6QG4udAJj17CBa5.jpg",
         "mediaType": "movie",
         "overview": "Isolated in a grand country manor, a reclusive artist spends a passionate and paranoid weekend with his ex-lover, an obsessive fan, and a potential muse. Hoping to spark a new wave of artistic brilliance over the course of a few tumultuous days, filled with chaos and revelation not all of them will make it out alive.",
-        "popularity": 8.015
+        "popularity": 8.4365
       },
       {
         "id": 662707,
@@ -45360,7 +45357,7 @@
         "posterPath": "/m1Zl07DNYeSyNcz9hf8hDsS2oB5.jpg",
         "mediaType": "movie",
         "overview": "A young woman becomes the guardian of a fallen star, which she must protect from dangerous forces with the help of a brave stranger.",
-        "popularity": 23.3963
+        "popularity": 23.2701
       },
       {
         "id": 1627824,
@@ -45369,7 +45366,7 @@
         "posterPath": "/pqfkJh0CyF00GvR4NIdvJYkJb2F.jpg",
         "mediaType": "movie",
         "overview": "When one of Humdinger's schemes goes awry, a Junkyard Kitten's home is destroyed and Rocky bites off more than he can chew when he invites the kitten to stay at the Lookout overnight. While the kitten causes more trouble than expected, Rocky learns that even heroes need help.",
-        "popularity": 17.2719
+        "popularity": 17.6004
       },
       {
         "id": 1428857,
@@ -45378,7 +45375,7 @@
         "posterPath": "/gkscqnZZrCT5lLsniw1KNL9iiJ0.jpg",
         "mediaType": "movie",
         "overview": "An ex-special forces operative discovers her daughter has been abducted by a ruthless human trafficking ring. She launches 'hunt mode', an all-out mission to bring her home. Aided by a former military comrade, she navigates the criminal underworld, unearthing a web of corruption extending from the streets of Los Angeles to high-powered officials.",
-        "popularity": 8.2659
+        "popularity": 8.2691
       },
       {
         "id": 1327819,
@@ -45387,7 +45384,7 @@
         "posterPath": "/xjtWQ2CL1mpmMNwuU5HeS4Iuwuu.jpg",
         "mediaType": "movie",
         "overview": "Scientists have discovered how to 'hop' human consciousness into lifelike robotic animals, allowing people to communicate with animals as animals. Animal lover Mabel seizes an opportunity to use the technology, uncovering mysteries within the animal world beyond anything she could have imagined.",
-        "popularity": 147.212
+        "popularity": 142.3815
       },
       {
         "id": 1159831,
@@ -45396,7 +45393,7 @@
         "posterPath": "/lV8YHwGkYZsm6EfIqnhaSz2avKt.jpg",
         "mediaType": "movie",
         "overview": "A lonely Frankenstein travels to 1930s Chicago to ask groundbreaking scientist Dr. Euphronious to create a companion for him. The two revive a murdered young woman and The Bride is born. But what ensues is beyond what either of them imagined.",
-        "popularity": 27.1647
+        "popularity": 27.6153
       },
       {
         "id": 938150,
@@ -45405,7 +45402,7 @@
         "posterPath": "/rBZA12Hf4yZZgud6iPuFU49L7zk.jpg",
         "mediaType": "movie",
         "overview": "He’s a Wardriver: a hacker who steals from banks, not people—until he’s noticed. Now the money turns violent, and the woman caught in it could save him or kill them both.",
-        "popularity": 6.8464
+        "popularity": 6.8959
       },
       {
         "id": 875828,
@@ -45414,7 +45411,7 @@
         "posterPath": "/gRMalasZEzsZi4w2VFuYusfSfqf.jpg",
         "mediaType": "movie",
         "overview": "After his estranged son gets embroiled in a Nazi plot, self-exiled gangster Tommy Shelby must return to Birmingham to save his family — and his nation.",
-        "popularity": 25.5323
+        "popularity": 26.3076
       },
       {
         "id": 1381027,
@@ -45423,7 +45420,7 @@
         "posterPath": "/nXWewAZxRAr9jYNe2uypLlyPehl.jpg",
         "mediaType": "movie",
         "overview": "Tommy, a volatile 19-year-old, revels in drugs, parties and violence. After getting separated from his friends on a drunken bender, he is abducted by a shadowy figure. He wakes to find himself imprisoned in the basement of a remote Yorkshire house, inhabited by a very strange family. But what unfolds is not what he could possibly expect.",
-        "popularity": 16.2937
+        "popularity": 17.3517
       },
       {
         "id": 1572073,
@@ -45432,16 +45429,7 @@
         "posterPath": "/uye25uG7k8r3NNPLyPiKOiRnFRF.jpg",
         "mediaType": "movie",
         "overview": "Some secrets are better left at the bottom of the ocean. Once she's in your house, there is no escape. When a struggling artist pulls a beautiful, unconscious woman from the freezing coastal waters, he thinks he’s performed a miracle. But as she recovers within the walls of his secluded home, a series of unsettling events leads him to a terrifying realization: her presence is no coincidence. She is inextricably linked to the same watery grave that claimed his family years ago.",
-        "popularity": 9.4403
-      },
-      {
-        "id": 1309083,
-        "title": "Dolly",
-        "releaseDate": "2026-03-06",
-        "posterPath": "/sTPUg3XtdcKRAS5Vwsi1GYPFhNZ.jpg",
-        "mediaType": "movie",
-        "overview": "Young Macy is abducted by a deranged, monstrous figure who wants to raise her as its child.",
-        "popularity": 6.7978
+        "popularity": 9.6595
       },
       {
         "id": 1367642,
@@ -45450,7 +45438,7 @@
         "posterPath": "/7L6rceYgzQ0NeHD7PRDNrRoQ291.jpg",
         "mediaType": "movie",
         "overview": "When Diem's custodial grandparents adamantly refuse Kenna's attempts to see her daughter, Kenna discovers unexpected compassion, and then something truer and deeper, with former NFL player and local bar owner Ledger. As their secret romance develops, so do the dangers for both of them, leading Kenna toward heartbreak and, ultimately, the hope for a second chance.",
-        "popularity": 22.5812
+        "popularity": 23.0463
       },
       {
         "id": 1510745,
@@ -45459,7 +45447,7 @@
         "posterPath": "/xFpBNcG3Dlr8mYF5Kz9Tizs3Pxn.jpg",
         "mediaType": "movie",
         "overview": "A call to a quiet suburban home unleashes unthinkable carnage when two officers mistakenly shoot a man and his infant child, spiraling the tragedy into a fierce, unrelenting fall into the unknown.",
-        "popularity": 20.8226
+        "popularity": 18.8484
       },
       {
         "id": 1480387,
@@ -45468,7 +45456,7 @@
         "posterPath": "/2PFgFMnrdCPXWiZl1PUvky7Mo9D.jpg",
         "mediaType": "movie",
         "overview": "The host of a popular paranormal podcast becomes haunted by terrifying recordings mysteriously sent her way.",
-        "popularity": 14.1385
+        "popularity": 11.9901
       },
       {
         "id": 1084187,
@@ -45477,7 +45465,16 @@
         "posterPath": "/znTPnXCK3lEQJgqXCvP7e5FUz6f.jpg",
         "mediaType": "movie",
         "overview": "A troupe of ballerinas find themselves fighting for survival as they attempt to escape from a remote inn after their bus breaks down on the way to a dance competition.",
-        "popularity": 26.375
+        "popularity": 26.9637
+      },
+      {
+        "id": 1493859,
+        "title": "Pizza Movie",
+        "releaseDate": "2026-03-13",
+        "posterPath": "/3rovbwvxJ5eQrWrQnF1VfJoPcMD.jpg",
+        "mediaType": "movie",
+        "overview": "A group of college students go downstairs to their dorm lobby to get a delivery pizza. There's only one issue: They're insanely high on a homemade drug, turning their simple journey down two sets of stairs into a mind-bendingly transformative quest.",
+        "popularity": 6.3104
       },
       {
         "id": 1115544,
@@ -45486,7 +45483,7 @@
         "posterPath": "/7F0jc75HrSkLVcvOXR2FXAIwuEv.jpg",
         "mediaType": "movie",
         "overview": "Two gangsters and the woman they love try to survive the most dangerous night of their lives. As if that wasn’t enough, there’s one wild ingredient added to the mix: a time machine.",
-        "popularity": 23.2001
+        "popularity": 23.3006
       },
       {
         "id": 687163,
@@ -45495,7 +45492,7 @@
         "posterPath": "/yihdXomYb5kTeSivtFndMy5iDmf.jpg",
         "mediaType": "movie",
         "overview": "Science teacher Ryland Grace wakes up on a spaceship light years from home with no recollection of who he is or how he got there. As his memory returns, he begins to uncover his mission: solve the riddle of the mysterious substance causing the sun to die out. He must call on his scientific knowledge and unorthodox ideas to save everything on Earth from extinction.",
-        "popularity": 327.5173
+        "popularity": 270.6206
       },
       {
         "id": 1266127,
@@ -45504,7 +45501,7 @@
         "posterPath": "/13ZcJzSGEqVgDSqsS9U5EkQwPkV.jpg",
         "mediaType": "movie",
         "overview": "Moments after surviving an all-out attack from the Le Domas family, Grace discovers she’s reached the next level of the nightmarish game — and this time with her estranged sister Faith at her side. Grace has one chance to survive, keep her sister alive, and claim the High Seat of the Council that controls the world. Four rival families are hunting her for the throne, and whoever wins rules it all.",
-        "popularity": 78.0149
+        "popularity": 68.4055
       },
       {
         "id": 999136,
@@ -45513,7 +45510,7 @@
         "posterPath": "/stM9N7eJmHKLmFR59JG4tLdN7Wk.jpg",
         "mediaType": "movie",
         "overview": "A group of young explorers investigates an old abandoned hotel, only to encounter a strange supernatural being and a competing group looking for a legendary hidden treasure.",
-        "popularity": 11.023
+        "popularity": 10.0721
       },
       {
         "id": 1242265,
@@ -45522,7 +45519,7 @@
         "posterPath": "/oMFdQE5hMJ9JjhNORegwTo0GKmh.jpg",
         "mediaType": "movie",
         "overview": "An unexploded WWII bomb is discovered on a busy construction site in the centre of London. Chaos ensues as the military and police begin a mass evacuation against a ticking clock.",
-        "popularity": 61.3675
+        "popularity": 56.9949
       },
       {
         "id": 1292695,
@@ -45531,7 +45528,7 @@
         "posterPath": "/6oI4oQKTWMVUlr8Ivqydp28Ruu6.jpg",
         "mediaType": "movie",
         "overview": "A woman answers a help wanted ad to be a housekeeper in a mysterious New York City high-rise, unaware that she is entering a community that has seen a number of disappearances over the years and may be under the grip of a Satanic cult.",
-        "popularity": 52.2451
+        "popularity": 50.7565
       },
       {
         "id": 1325734,
@@ -45540,7 +45537,7 @@
         "posterPath": "/89Dw1ujPlIPRLddhzNuJM4F401D.jpg",
         "mediaType": "movie",
         "overview": "A happily engaged couple is put to the test when an unexpected turn sends their wedding week off the rails.",
-        "popularity": 33.1067
+        "popularity": 39.7516
       },
       {
         "id": 1140521,
@@ -45549,7 +45546,7 @@
         "posterPath": "/udXvLxC5gAqN8SinemyFBEcHpTf.jpg",
         "mediaType": "movie",
         "overview": "A modern family relocates to the countryside where the children discover a magical tree with eccentric residents. They're transported to fantastical lands, rekindling their family bond through adventures.",
-        "popularity": 9.0754
+        "popularity": 9.0347
       },
       {
         "id": 1400357,
@@ -45558,7 +45555,7 @@
         "posterPath": "/s6oUrGMNl8hVh7fn0O8oF2rHwrM.jpg",
         "mediaType": "movie",
         "overview": "The estranged children of a once-famous artist hire a forger to complete his unfinished works so they can be \"discovered\" and sold after his death.",
-        "popularity": 11.7653
+        "popularity": 11.2349
       },
       {
         "id": 1226863,
@@ -45567,7 +45564,7 @@
         "posterPath": "/eJGWx219ZcEMVQJhAgMiqo8tYY.jpg",
         "mediaType": "movie",
         "overview": "Having thwarted Bowser's previous plot to marry Princess Peach, Mario and Luigi now face a fresh threat in Bowser Jr., who is determined to liberate his father from captivity and restore the family legacy. Alongside companions new and old, the brothers travel across the stars to stop the young heir's crusade.",
-        "popularity": 310.5304
+        "popularity": 291.6036
       },
       {
         "id": 1418657,
@@ -45576,7 +45573,7 @@
         "posterPath": "/zaqEfoKcWkVni2eONhJ7DRhMO8Q.jpg",
         "mediaType": "movie",
         "overview": "When an oil tycoon and a famous adventurer vanish into the harsh winter of remote northern Alaska, a hand-picked rescue team endeavors to bring them home. What they don’t know is that they are trespassing on The Yeti’s territory, and the elements are the least of their worries.",
-        "popularity": 8.6603
+        "popularity": 8.3079
       },
       {
         "id": 1049471,
@@ -45585,7 +45582,7 @@
         "posterPath": "/kSzcpfbTy2pXHGvrVU2WhQTo6oU.jpg",
         "mediaType": "movie",
         "overview": "Reef Hawk, Hollywood's poster child since age six, is not okay. When he learns about an extortion plot tied to a mysterious video, Reef preemptively sets out on a redemption tour to make amends, confront his demons, and avoid getting canceled.",
-        "popularity": 10.6453
+        "popularity": 10.9658
       },
       {
         "id": 1641319,
@@ -45594,7 +45591,7 @@
         "posterPath": "/tUmARo0TZEK1EaSuS6dU35FhDyU.jpg",
         "mediaType": "movie",
         "overview": "Brandon Beckett and Agent Zero lead a rescue mission in Costa Verde when their friends are taken hostage.",
-        "popularity": 31.5389
+        "popularity": 32.4329
       },
       {
         "id": 1207162,
@@ -45603,7 +45600,7 @@
         "posterPath": "/9cRE0DsM6CNIiY9Ah3cd8oc3n1Y.jpg",
         "mediaType": "movie",
         "overview": "In the 14th-century, as the Silk Road crumbles and rival factions tear the land apart, fearless warrior Timur emerges from exile. Stripped of everything, he fights to unite the fractured kingdoms, using strategy and sheer will to carve an empire from chaos. Undefeated in battle and widely regarded as one of history’s greatest military leaders and tacticians, not to mention one of its most brutal, Timur would found the Timurid Empire, which ruled over modern-day Afghanistan, Iran and Central Asia.",
-        "popularity": 38.2799
+        "popularity": 37.7118
       },
       {
         "id": 1455079,
@@ -45612,7 +45609,7 @@
         "posterPath": "/mJS0IF7Af3WpPRhSTDT6rGpiLzw.jpg",
         "mediaType": "movie",
         "overview": "When a woman crashes at an empty Italian villa, posing as the owner's fiancée, she discovers an unexpected romance that could transform her life.",
-        "popularity": 9.453
+        "popularity": 8.9959
       },
       {
         "id": 1292415,
@@ -45621,7 +45618,7 @@
         "posterPath": "/7NrvUI3vnW8H3rD7ExKcTL7KRcQ.jpg",
         "mediaType": "movie",
         "overview": "MMA legend Patton James, now a commercial fisherman, is pulled back into the cage when his brother is in danger. Reuniting with his old coach Sammy, he commits to one final fight in one championship against the brutal champion Xavier Grau.",
-        "popularity": 110.8428
+        "popularity": 100.6622
       },
       {
         "id": 1472951,
@@ -45630,7 +45627,7 @@
         "posterPath": "/8Cw8GF9wG63kF8pRRXwOx2kXGt.jpg",
         "mediaType": "movie",
         "overview": "In a city overrun by crime, government Agent Lily Chen is forced to choose between her duty and her family when her husband is kidnapped, and she’s blackmailed into assassinating high-level criminals to save him. As she delves deeper into the criminal underworld, Lily’s relentless pursuit of justice unravels a web of corruption, leading to a final, life-altering decision that will change her world forever.",
-        "popularity": 64.8746
+        "popularity": 70.927
       },
       {
         "id": 855435,
@@ -45639,7 +45636,7 @@
         "posterPath": "/vPVY3S57lEooBLJCg6KGdMHkUxm.jpg",
         "mediaType": "movie",
         "overview": "A woman, employed as a website content moderator, comes across a series of violent videos reproducing death scenes from a film.",
-        "popularity": 30.0093
+        "popularity": 27.2321
       },
       {
         "id": 1290417,
@@ -45648,7 +45645,7 @@
         "posterPath": "/adk8weka3O5648g3de4z3y4aE7G.jpg",
         "mediaType": "movie",
         "overview": "When a Category 5 hurricane decimates a coastal town, the storm surge brings devastation, chaos, and something far more frightening onto shore: hungry sharks.",
-        "popularity": 22.5897
+        "popularity": 20.6798
       },
       {
         "id": 1511057,
@@ -45657,7 +45654,7 @@
         "posterPath": "/2rqcNmdsTgcXyf59IRduKN4nt8z.jpg",
         "mediaType": "movie",
         "overview": "When shy college freshman Devon asks cool-girl Celeste to be her roommate, a blossoming friendship quickly spirals into a war of passive aggression.",
-        "popularity": 9.8557
+        "popularity": 10.1898
       },
       {
         "id": 1304313,
@@ -45666,7 +45663,7 @@
         "posterPath": "/uIb9Tvae5haF0XcQBaPyufmxbb0.jpg",
         "mediaType": "movie",
         "overview": "The young daughter of a journalist disappears into the desert without a trace—eight years later, the broken family is shocked when she is returned to them, as what should be a joyful reunion turns into a living nightmare.",
-        "popularity": 650.4146
+        "popularity": 594.6636
       },
       {
         "id": 1414413,
@@ -45675,7 +45672,7 @@
         "posterPath": "/e5EKqk9V7N3w0WvYFhl6wSVrMp0.jpg",
         "mediaType": "movie",
         "overview": "Captain Jordan Wright's squadron on leave for a wedding in Mexico encounters a murderous cartel. As Jordan tries to lead survivors to safety, war erupts between his squad and the cartel, forcing him into a battle to save his men.",
-        "popularity": 39.9007
+        "popularity": 39.9147
       },
       {
         "id": 1084577,
@@ -45684,7 +45681,7 @@
         "posterPath": "/xwvJ3WzdJ1OCuDoY8LAxBUlQyig.jpg",
         "mediaType": "movie",
         "overview": "Two marketing executives go \"balls out\" and pitch a bold full‑coverage condom sponsorship with the World Cup. After their drunken celebration in Brazil sparks a global scandal, they must outrun furious fans, criminals, and power-hungry officials to salvage their careers and make it home alive.",
-        "popularity": 31.0136
+        "popularity": 31.3273
       },
       {
         "id": 1242332,
@@ -45693,7 +45690,7 @@
         "posterPath": "/rsNdDcCKjCZm9RBMAxL3vMUokKU.jpg",
         "mediaType": "movie",
         "overview": "An unassuming substitute sheriff with a troubled past responds to a bank robbery in a small, sleepy town and unknowingly uncovers something far more explosive.",
-        "popularity": 48.6927
+        "popularity": 42.1897
       },
       {
         "id": 1102883,
@@ -45702,7 +45699,7 @@
         "posterPath": "/qMgUI6pxkPtIuoXX4DcJ6X7bdt2.jpg",
         "mediaType": "movie",
         "overview": "Long-buried wounds rise to the surface when iconic pop star Mother Mary reunites with her estranged best friend and former costume designer Sam Anselm on the eve of her comeback performance.",
-        "popularity": 28.936
+        "popularity": 25.9087
       },
       {
         "id": 1659087,
@@ -45711,7 +45708,7 @@
         "posterPath": "/9ISjrhA38HpSSGtfiCk8lpziC3K.jpg",
         "mediaType": "movie",
         "overview": "When an unexpected road rage incident puts his son in critical condition, an enraged father spirals down a dark path of emotional turmoil and vengeance.",
-        "popularity": 13.9079
+        "popularity": 12.7322
       },
       {
         "id": 936075,
@@ -45720,7 +45717,7 @@
         "posterPath": "/3Qud19bBUrrJAzy0Ilm8gRJlJXP.jpg",
         "mediaType": "movie",
         "overview": "The story of Michael Jackson, one of the most influential artists the world has ever known, and his life beyond the music. His journey from the discovery of his extraordinary talent as the lead of the Jackson Five, to the visionary artist whose creative ambition fueled a relentless pursuit to become the biggest entertainer in the world, highlighting both his life off-stage and some of the most iconic performances from his early solo career.",
-        "popularity": 126.1419
+        "popularity": 137.957
       },
       {
         "id": 898704,
@@ -45729,7 +45726,7 @@
         "posterPath": "/waxnw1NpzTPY5JkqWvu0muSopRJ.jpg",
         "mediaType": "movie",
         "overview": "In 7th-century Arabia, Princess Hind becomes a warrior to defy the ruthless Emperor Kisra. Forged into a warrior and aided by legendary bandit Hanzala, Hind unites warring tribes for a last stand—the historic Battle of Dhi Qar—that will change history.",
-        "popularity": 24.1947
+        "popularity": 19.8152
       },
       {
         "id": 1318447,
@@ -45738,7 +45735,7 @@
         "posterPath": "/eTp7gSPkSF3Aw79mNx1NkBP1PZT.jpg",
         "mediaType": "movie",
         "overview": "A grieving woman pushing her limits on a solo adventure in the Australian wild is ensnared in a twisted game with a cunning killer who thinks she's prey.",
-        "popularity": 141.4298
+        "popularity": 128.5984
       },
       {
         "id": 1390300,
@@ -45747,7 +45744,7 @@
         "posterPath": "/fqXIk1BY0tJvlqwiTw2HL9gegqE.jpg",
         "mediaType": "movie",
         "overview": "A dysfunctional couple head to a remote cabin to \"reconnect\", but each has secret intentions to kill the other.",
-        "popularity": 89.3768
+        "popularity": 182.1351
       },
       {
         "id": 1314481,
@@ -45756,7 +45753,7 @@
         "posterPath": "/xTI42pmsP5EDnvsNJPEDubwWBQO.jpg",
         "mediaType": "movie",
         "overview": "Andy Sachs returns to Runway as Miranda Priestly navigates a new media landscape and Runway's position within. The duo reconnect with former assistant Emily Charlton, now the head of a luxury brand that possesses funding which could ensure Runway's survival.",
-        "popularity": 50.5329
+        "popularity": 51.202
       },
       {
         "id": 1430077,
@@ -45765,7 +45762,7 @@
         "posterPath": "/jKPWwsbAM6HKURPYQ1eG8DmKMKn.jpg",
         "mediaType": "movie",
         "overview": "When novelist Ohm Bauman retreats to a remote inn to scatter his parents' ashes, he is consumed by tales of a witch haunting the honeymoon suite. Disturbing visions and a shocking disappearance forces him to confront dark corners of his past.",
-        "popularity": 14.1969
+        "popularity": 14.1773
       },
       {
         "id": 1301421,
@@ -45774,7 +45771,7 @@
         "posterPath": "/6QtL9rl3Zb4d8qW6EJ4qO5hSSfU.jpg",
         "mediaType": "movie",
         "overview": "George Hardy is a shepherd who reads detective novels to his beloved sheep every night, assuming they can't possibly understand. But when a mysterious incident disrupts life on the farm, the sheep realize they must become the detectives. As they follow the clues and investigate human suspects, they prove that even sheep can be brilliant crime-solvers.",
-        "popularity": 69.5499
+        "popularity": 66.7341
       },
       {
         "id": 539745,
@@ -45783,7 +45780,7 @@
         "posterPath": "/6pzI1DIlxwAFffw9OZcG6cr031U.jpg",
         "mediaType": "movie",
         "overview": "A group of farm animals rise up against their neglectful owner, dreaming of equality and freedom. But as the pigs take control, the revolution turns into tyranny, with truth rewritten and dissent crushed.",
-        "popularity": 34.8783
+        "popularity": 35.8435
       },
       {
         "id": 1007757,
@@ -45792,7 +45789,7 @@
         "posterPath": "/tHhxWxge06goXU6ZQH1hj7vK8Hd.jpg",
         "mediaType": "movie",
         "overview": "A small woodland creature and a majestic bird, two natural sworn enemies of the Valley, magically trade places and set off on an adventure of a lifetime to switch back. Their journey soon uncovers a greater threat—one that could endanger not only their species, but the entire valley they call home.",
-        "popularity": 286.049
+        "popularity": 270.0947
       },
       {
         "id": 1688652,
@@ -45801,7 +45798,7 @@
         "posterPath": "/jtMuKwlOl4IzpB5fWn9RT9uyy6E.jpg",
         "mediaType": "movie",
         "overview": "Two friends go on a work trip and encounter unexpected challenges and local personalities as they navigate their assignment. Their efforts to adapt to unfamiliar surroundings highlights moments of humor, small-town culture and the unpredictable nature of work travel. As they troubleshoot problems, their experience leaves a lasting impression and offers new perspectives on their friendship.",
-        "popularity": 13.4641
+        "popularity": 12.3886
       },
       {
         "id": 931285,
@@ -45810,7 +45807,7 @@
         "posterPath": "/lIsMeDbwntNXSUVHmWMMRXEZOVc.jpg",
         "mediaType": "movie",
         "overview": "The fan favorite champions—now joined by Johnny Cage himself—are pitted against one another in the ultimate, no-holds barred, gory battle to defeat the dark rule of Shao Kahn that threatens the very existence of the Earthrealm and its defenders.",
-        "popularity": 180.3119
+        "popularity": 164.3456
       },
       {
         "id": 1330021,
@@ -45819,7 +45816,7 @@
         "posterPath": "/9HcEqn3D4J6b2Z0jK54id9nA0fr.jpg",
         "mediaType": "movie",
         "overview": "Through unlikely bonds formed during night shifts at a local aquarium, Tova, an elderly widow, learns of a life-changing discovery that may bring her joy and wonder once again.",
-        "popularity": 80.417
+        "popularity": 77.8666
       },
       {
         "id": 1340206,
@@ -45828,7 +45825,7 @@
         "posterPath": "/kyM60vcgf7lfofmZB4F5Rj7OrHW.jpg",
         "mediaType": "movie",
         "overview": "A talented piano tuner's life is turned upside down when he discovers that his meticulous skills for tuning pianos can equally be applied to cracking safes.",
-        "popularity": 15.3314
+        "popularity": 17.8294
       },
       {
         "id": 1439930,
@@ -45837,7 +45834,7 @@
         "posterPath": "/qQclTgLMDvGBuUBFGHRipxkEwWR.jpg",
         "mediaType": "movie",
         "overview": "As Frank Castle searches for meaning beyond revenge, an unexpected force pulls him back into the fight.",
-        "popularity": 346.099
+        "popularity": 319.3487
       },
       {
         "id": 1339713,
@@ -45846,7 +45843,7 @@
         "posterPath": "/6X4qFYBsG3bpWDG2XIKqr04kFJa.jpg",
         "mediaType": "movie",
         "overview": "After breaking the mysterious \"One Wish Willow\" to win his crush's heart, a hopeless romantic finds himself getting exactly what he asked for but soon discovers that some desires come at a dark, sinister price.",
-        "popularity": 370.8027
+        "popularity": 399.8813
       },
       {
         "id": 1122573,
@@ -45855,7 +45852,7 @@
         "posterPath": "/dQgIcW6Th08kMRf2HBoYWoFE6OD.jpg",
         "mediaType": "movie",
         "overview": "A covert team of elite operatives are living in the shadows. When a ruthless despot steals a billion-dollar fortune, they're sent to take it back—an impossible heist that erupts into a deadly game of strategy, deception and survival.",
-        "popularity": 23.8299
+        "popularity": 19.685
       },
       {
         "id": 1662317,
@@ -45864,7 +45861,7 @@
         "posterPath": "/veskdPx4YUTmkrFrTs6zRJ8VV4E.jpg",
         "mediaType": "movie",
         "overview": "A teen slams her car into a building, killing her boyfriend and his friend. What seems like a tragic accident becomes a murder case.",
-        "popularity": 31.6111
+        "popularity": 28.1162
       },
       {
         "id": 1693346,
@@ -45873,7 +45870,7 @@
         "posterPath": "/5qJgfeZRcz6EOi6zUb9tpSlmDni.jpg",
         "mediaType": "movie",
         "overview": "For Apple Music Live, Gaga presents MAYHEM Requiem, a celebration and musical reimagining of MAYHEM.",
-        "popularity": 7.8772
+        "popularity": 7.0197
       },
       {
         "id": 1380291,
@@ -45882,16 +45879,16 @@
         "posterPath": "/8ehYxUh5MWE41AeE9gkHE8DKzvB.jpg",
         "mediaType": "movie",
         "overview": "Jack Ryan is reluctantly pulled back into espionage when an international covert mission unravels a deadly conspiracy. Racing against time, he joins CIA allies Mike November & James Greer and sharp MI6 officer Emma Marlowe to battle a rogue black-ops unit in a high-stakes, deeply personal fight.",
-        "popularity": 442.1085
+        "popularity": 399.0769
       },
       {
         "id": 1228710,
         "title": "The Mandalorian and Grogu",
         "releaseDate": "2026-05-20",
-        "posterPath": "/cE9LAdexd9ju0yIkmCJBOKZg9JR.jpg",
+        "posterPath": "/5Vi8dSauVwH1HOsiZceDMbRr1Ca.jpg",
         "mediaType": "movie",
         "overview": "The evil Empire has fallen, and Imperial warlords remain scattered throughout the galaxy. As the fledgling New Republic works to protect everything the Rebellion fought for, they have enlisted the help of legendary Mandalorian bounty hunter Din Djarin and his young apprentice Grogu.",
-        "popularity": 179.1196
+        "popularity": 179.8917
       },
       {
         "id": 1368314,
@@ -45900,7 +45897,7 @@
         "posterPath": "/2sOEJzhPzjTkZSlPbGxOJ7xgIyS.jpg",
         "mediaType": "movie",
         "overview": "After a young couple witnesses a gruesome highway accident, they soon realize they did not leave the crash scene alone, as a demonic presence called the Passenger that won't stop until it claims them both turns their van life adventure into a nightmare.",
-        "popularity": 37.0171
+        "popularity": 32.0362
       },
       {
         "id": 1368881,
@@ -45909,7 +45906,7 @@
         "posterPath": "/kjR56Yv17pbjTVBTMjqepvcus4f.jpg",
         "mediaType": "movie",
         "overview": "An arrogant but charismatic ladies' man finds his life of money, power and casual flings upended when he wakes up in a parallel world dominated by women.",
-        "popularity": 118.3731
+        "popularity": 104.2757
       },
       {
         "id": 1227877,
@@ -45918,7 +45915,7 @@
         "posterPath": "/4pNKIUFy7tkZiBx0rnSmG9ysRy.jpg",
         "mediaType": "movie",
         "overview": "A fearless crew of inventive young women turn shoplifting into a radical act of defiance.",
-        "popularity": 10.6965
+        "popularity": 10.6817
       },
       {
         "id": 1083381,
@@ -45927,52 +45924,16 @@
         "posterPath": "/vpkNMkbisv5cTaIfCzUduYzXnjb.jpg",
         "mediaType": "movie",
         "overview": "A strange doorway appears in the basement of a furniture showroom.",
-        "popularity": 132.9603
-      },
-      {
-        "id": 1596278,
-        "title": "Time and Water",
-        "releaseDate": "2026-05-29",
-        "posterPath": "/1hksIYHtsHCG70nZKbnrYBPk600.jpg",
-        "mediaType": "movie",
-        "overview": "Facing the death of his country’s glaciers and the loss of his beloved grandparents, Icelandic writer Andri Snær Magnason turns his archives into a time capsule to hold what is slipping away — family, memory, time, and water.",
-        "popularity": 1.5331
-      },
-      {
-        "id": 1338972,
-        "title": "Pitfall",
-        "releaseDate": "2026-05-29",
-        "posterPath": "/kIwc4DgHpAQwEKBB6bPEsCRHnNB.jpg",
-        "mediaType": "movie",
-        "overview": "After a young man is separated from his friends in the woods, he falls into a ten-foot deep pit of spikes, impaling him through his leg and leaving him trapped. He quickly learns that his fall was not an accident.",
-        "popularity": 1.4975
-      },
-      {
-        "id": 1464773,
-        "title": "Borley Rectory: The Awakening",
-        "releaseDate": "2026-05-30",
-        "posterPath": "/vutdW9lp7XbqlWwKknVN2k3JW7R.jpg",
-        "mediaType": "movie",
-        "overview": "In 1900, young Reverend Henry Bull and his sister, Kitty, are tasked with taking over the duties of their family home in Essex, a majestic Victorian mansion built on the site of an old monastery. Unaware of the sinister forces that lurk within, the pair are soon confronted by terrifying paranormal activities that threaten their loved ones. Desperate to protect themselves from the demonic intrusion, they call upon the services of a trusted family friend to investigate the origins of the vengeful ghosts which haunt their property. But these are spirits who will not rest, and Borley Rectory is doomed to gain a chilling reputation, as the most haunted house in all of Britain.",
-        "popularity": 1.5126
-      },
-      {
-        "id": 1484708,
-        "title": "Sugar Beach",
-        "releaseDate": "2026-06-01",
-        "posterPath": "/124NpWl1ic6RLpJgPkJeKGJ6m6r.jpg",
-        "mediaType": "movie",
-        "overview": "A brilliant yet haunted valedictorian seeks refuge in a passionate throuple, but when their intoxicating world unravels, she must confront her past before it destroys her.",
-        "popularity": 1.4311
+        "popularity": 187.0112
       },
       {
         "id": 454639,
         "title": "Masters of the Universe",
         "releaseDate": "2026-06-03",
-        "posterPath": "/nm2ianYVp7OXElUZVeeAbNTqBLr.jpg",
+        "posterPath": "/y4xNd1eWv1ea5qoPO6JmLvzHZf0.jpg",
         "mediaType": "movie",
         "overview": "After being separated for 15 years, the Sword of Power leads Prince Adam back to Eternia, where he discovers his home shattered under the fiendish rule of Skeletor. To save his family and his world, Adam must join forces with his closest allies, Teela and Duncan/Man-At-Arms, and embrace his true destiny as He-Man — the most powerful man in the universe.",
-        "popularity": 36.7647
+        "popularity": 39.3325
       },
       {
         "id": 1273221,
@@ -45981,7 +45942,7 @@
         "posterPath": "/2OHkZEqQL4OjYXIqWopJu0BijTD.jpg",
         "mediaType": "movie",
         "overview": "Twenty-six years after outrunning a suspiciously familiar masked killer, the Core Four are back in the killer's crosshairs and no horror movie IP is safe.",
-        "popularity": 25.8503
+        "popularity": 30.6136
       },
       {
         "id": 1361071,
@@ -45990,7 +45951,7 @@
         "posterPath": "/5ITjp8Z9k2gRqnD8oUjx55Mpwja.jpg",
         "mediaType": "movie",
         "overview": "Examines the legacy, cultural impact, and body of work of American R&B/punk/jazz/soul/disco band Earth, Wind & Fire, and will feature exclusive access to the band’s archives of visual, audio, and written material, as well as the support of the estate of Maurice White and the band.",
-        "popularity": 2.2326
+        "popularity": 1.9495
       },
       {
         "id": 1358005,
@@ -45999,7 +45960,7 @@
         "posterPath": "/1HRUTqEVDmJC4L6tp6zd85MI6uH.jpg",
         "mediaType": "movie",
         "overview": "Jackie, President and CEO of Air Cruz, runs a tight ship in her business, including a rigid anti-fraternization policy for all her employees. When a new sexy lawyer begins working for her, that policy becomes very tested.",
-        "popularity": 4.0151
+        "popularity": 5.3437
       },
       {
         "id": 1329471,
@@ -46008,7 +45969,7 @@
         "posterPath": "/261JCZPzy6299oy4xK9pX7wo6MH.jpg",
         "mediaType": "movie",
         "overview": "A young woman skips her small town — in search of her estranged mother — alongside a charismatic con man on the run from the law. The duo leave a wave of crime and passion behind them as they hustle their way through the Southeast.",
-        "popularity": 2.6354
+        "popularity": 2.503
       },
       {
         "id": 1245859,
@@ -46017,7 +45978,7 @@
         "posterPath": "/tFWewN33etDjCiteqEkgORNnqcF.jpg",
         "mediaType": "movie",
         "overview": "Against the backdrop of 18th century England, a massive pox outbreak, and Jacobite uprising – Sir Chauncey Savage and Lady Savage blindly pursue a better life. It's not without a tinge of irony that their family name is the Savages, for this is a Savage House indeed, filled with duels, decadence, and bloodshed.",
-        "popularity": 2.5244
+        "popularity": 2.0081
       },
       {
         "id": 1083884,
@@ -46026,7 +45987,7 @@
         "posterPath": "/dINJlQVlDCpsEVqhjFyOjpymxsg.jpg",
         "mediaType": "movie",
         "overview": "A computer scientist is invited by a tech billionaire to join his private facility on a Caribbean island to investigate extraterrestrial matter on Earth. When they make contact beyond our world, chaos erupts as we’re left to wonder: do they come in peace?",
-        "popularity": 1.9229
+        "popularity": 1.8225
       },
       {
         "id": 1275779,
@@ -46035,7 +45996,7 @@
         "posterPath": "/3o5YPjDGDTcTDL5ftDA9NwN9dLd.jpg",
         "mediaType": "movie",
         "overview": "If you found out we weren’t alone, if someone showed you, proved it to you, would that frighten you?",
-        "popularity": 47.6357
+        "popularity": 49.7004
       },
       {
         "id": 1280738,
@@ -46044,16 +46005,25 @@
         "posterPath": "/zP19YO60jwEsfKd5Qf1UvA5uJu8.jpg",
         "mediaType": "movie",
         "overview": "After Wang Wei's daughter is kidnapped by a criminal network and he receives no help from the corrupt police, Wei sets out to find her himself. His only ally is Navin, a relentless journalist whose wife has mysteriously disappeared. Fueled by a furious vengeance, the unlikely duo ruthlessly battle the kidnappers in this explosive martial arts showdown.",
-        "popularity": 31.3248
+        "popularity": 34.9121
+      },
+      {
+        "id": 1676477,
+        "title": "How to Feed a Dictator",
+        "releaseDate": "2026-06-10",
+        "posterPath": null,
+        "mediaType": "movie",
+        "overview": "Five private chefs to fearsome dictators all over the world share their experiences of the kitchens and circumstances that led them to these sometimes dangerous and often morally compromising workplaces.",
+        "popularity": 2.0622
       },
       {
         "id": 1020047,
         "title": "In the Hand of Dante",
         "releaseDate": "2026-06-12",
-        "posterPath": "/FVyNH1Y7Zro3kukCtwhyw1J0o2.jpg",
+        "posterPath": "/uoLxTyH6LZOGUzShvOm4GcJv70p.jpg",
         "mediaType": "movie",
         "overview": "A writer helps a mob boss steal Dante's handwritten \"Divine Comedy\" manuscript as a parallel tale follows the 14th-century poet creating his masterpiece.",
-        "popularity": 4.7166
+        "popularity": 5.8045
       },
       {
         "id": 1541560,
@@ -46062,7 +46032,7 @@
         "posterPath": "/w90dGS6D2lVO4aO5rdQ8QECrUGY.jpg",
         "mediaType": "movie",
         "overview": "Best friends Tess and DeeDee, train stewardesses, trade their dreary shifts on the Stank Rail for the glitzy Glamazonian Express. When a catastrophic “Stormaganza” threatens to derail the high-speed train and crash it into Los Angeles, the duo in coach must join forces with the snobby first-class attendants and President Gagwell to save the day.",
-        "popularity": 3.4427
+        "popularity": 3.234
       },
       {
         "id": 1426940,
@@ -46071,7 +46041,25 @@
         "posterPath": "/8MUeQysvrFpAVmT8eotD81Kq78Y.jpg",
         "mediaType": "movie",
         "overview": "Described as combining the world of Swingers with the sensibility of Pulp Fiction, the L.A.-based comedy follows six Hollywood hopefuls who are roped into a harebrained plan to steal the Best Picture awards of a despised producer who has screwed each of them over as they struggle to make it big.",
-        "popularity": 1.5263
+        "popularity": 1.5867
+      },
+      {
+        "id": 1471672,
+        "title": "The Fall of Sir Douglas Weatherford",
+        "releaseDate": "2026-06-12",
+        "posterPath": "/d9Eti9mnMqacTxQheQufD5gdXdf.jpg",
+        "mediaType": "movie",
+        "overview": "In the Scottish village of Arberloch, Kenneth, a grieving tour guide, is devoted to preserving the legacy of the town's sole historical figure—eighteenth-century inventor Sir Douglas Weatherford. But when a fantasy series chooses Arberloch as its filming location, and the town turns its back on Weatherford in favour of fan culture, Kenneth descends into madness.",
+        "popularity": 1.5317
+      },
+      {
+        "id": 1431804,
+        "title": "40 Dates and 40 Nights",
+        "releaseDate": "2026-06-16",
+        "posterPath": "/gFXDIugnwKen1xgkJAxRtRjzIkT.jpg",
+        "mediaType": "movie",
+        "overview": "A struggling romantic accepts her aunt's wager: go on 40 dates in 40 nights to find true love. If she fails, her aunt will cover her rent and student debt. But the journey proves more challenging than expected.",
+        "popularity": 1.9249
       },
       {
         "id": 1084244,
@@ -46080,7 +46068,7 @@
         "posterPath": "/dWIAOC9EKFehGs3CYvDQih3hxaG.jpg",
         "mediaType": "movie",
         "overview": "When Bonnie receives a Lilypad tablet as a gift and becomes obsessed, Buzz, Woody, Jessie and the rest of the gang's jobs become exponentially harder when they have to go head to head with the all-new threat to playtime.",
-        "popularity": 38.9285
+        "popularity": 44.1777
       },
       {
         "id": 1477317,
@@ -46089,16 +46077,7 @@
         "posterPath": "/71K5KFtqK514ALejimxXgf25j9p.jpg",
         "mediaType": "movie",
         "overview": "Nick and Noah are both embarking on life-changing adventures that are threatening to pull them apart—Nick in business with his father and Noah starting a fresh chapter at Oxford University. Now living separate lives, and meeting new people, they find themselves entangled in temptations, rivalries, and betrayals and their bond is tested like never before. As secrets unravel and temptation rises, they must fight to hold onto each other—or risk losing everything.",
-        "popularity": 2.3353
-      },
-      {
-        "id": 1284465,
-        "title": "The Death of Robin Hood",
-        "releaseDate": "2026-06-18",
-        "posterPath": "/4cD7KeABHyzeJmzdA6QKe36fp2d.jpg",
-        "mediaType": "movie",
-        "overview": "Grappling with his past after a life of crime and murder, Robin Hood finds himself gravely injured after a battle he thought would be his last. In the hands of a mysterious woman, he is offered a chance at salvation.",
-        "popularity": 4.3016
+        "popularity": 2.3191
       },
       {
         "id": 1564614,
@@ -46107,7 +46086,16 @@
         "posterPath": "/cu0XnXLzJGPeI0msCoJKgnEecKz.jpg",
         "mediaType": "movie",
         "overview": "Two teenage boys must escape a violent entity that takes the form of the person they desire most — each other.",
-        "popularity": 3.752
+        "popularity": 5.6958
+      },
+      {
+        "id": 1284465,
+        "title": "The Death of Robin Hood",
+        "releaseDate": "2026-06-18",
+        "posterPath": "/4cD7KeABHyzeJmzdA6QKe36fp2d.jpg",
+        "mediaType": "movie",
+        "overview": "Grappling with his past after a life of crime and murder, Robin Hood finds himself gravely injured after a battle he thought would be his last. In the hands of a mysterious woman, he is offered a chance at salvation.",
+        "popularity": 4.5535
       },
       {
         "id": 1279493,
@@ -46116,7 +46104,7 @@
         "posterPath": "/bQsaWkoexJHq8vVzxyJMkdZSChR.jpg",
         "mediaType": "movie",
         "overview": "Manco Kapak has been robbed by a masked gunman. Now, his aspirations of selling his club and riding off into the sunset alongside his girlfriend appear more distant than ever. Cartel bosses are breathing down his neck and a young upstart has been posing as the new guy in town eager to purchase the club.",
-        "popularity": 1.762
+        "popularity": 2.0007
       },
       {
         "id": 1437696,
@@ -46125,7 +46113,7 @@
         "posterPath": "/oNejN1l69nBF8LdQwy5FkAQZT44.jpg",
         "mediaType": "movie",
         "overview": "In 1949, German writer Thomas Mann and his daughter Erika embark on a road trip across a Germany in ruins, from US-dominated Frankfurt to Soviet-controlled Weimar.",
-        "popularity": 4.9387
+        "popularity": 5.2393
       },
       {
         "id": 614945,
@@ -46134,7 +46122,7 @@
         "posterPath": "/nmGIRyuMH72WHJengMo8LQjnZQn.jpg",
         "mediaType": "movie",
         "overview": "A young woman's hilariously confessional voicemails to her late sister are unknowingly redirected to a stranger, who begins to fall in love from afar.",
-        "popularity": 2.6153
+        "popularity": 2.2812
       },
       {
         "id": 1397485,
@@ -46143,7 +46131,7 @@
         "posterPath": "/lFjtAAK5jCPXdcKIgpVJ54Hm0G0.jpg",
         "mediaType": "movie",
         "overview": "Coley, 17, from rural Oregon, navigates intimacy after her mother's passing. Meeting Sonya sparks new feelings, but self-doubt hinders their connection. Sonya, unfamiliar with dating girls, is uncertain. They learn to embrace emotions.",
-        "popularity": 2.0011
+        "popularity": 2.121
       },
       {
         "id": 1081003,
@@ -46152,7 +46140,7 @@
         "posterPath": "/niSvU02l2BONH9ivubV6K1a5QiK.jpg",
         "mediaType": "movie",
         "overview": "When an unexpected and ruthless adversary strikes too close to home, Kara Zor-El, aka Supergirl, reluctantly joins forces with an unlikely companion on an epic, interstellar journey of vengeance and justice.",
-        "popularity": 15.7287
+        "popularity": 18.6991
       },
       {
         "id": 1315772,
@@ -46161,7 +46149,7 @@
         "posterPath": "/nz7i42yhLIJ4ve9JKgM6NthoLHO.jpg",
         "mediaType": "movie",
         "overview": "This is the rambunctious, ridiculous and totally true story of how the Minions conquered Hollywood, became movie stars, lost everything, unleashed monsters onto the world and then banded together to try and save the planet from the mayhem they had just created.",
-        "popularity": 8.8603
+        "popularity": 9.5048
       },
       {
         "id": 950028,
@@ -46170,7 +46158,7 @@
         "posterPath": "/amxSk5CAVZ907gDEdgyiRZNjiwU.jpg",
         "mediaType": "movie",
         "overview": "Joe and Angela’s marriage is on thin ice. When they invite their enigmatic upstairs neighbors for a dinner party, the night spirals into unexpected places.",
-        "popularity": 3.3378
+        "popularity": 3.0542
       },
       {
         "id": 1612018,
@@ -46179,16 +46167,7 @@
         "posterPath": "/tfgccePxnswMqhmtxafliLlcCVR.jpg",
         "mediaType": "movie",
         "overview": "The 5th and final installment to Jackass franchise where the crew go on one last insane crusade.",
-        "popularity": 2.6085
-      },
-      {
-        "id": 1594914,
-        "title": "Lucky Strike",
-        "releaseDate": "2026-06-26",
-        "posterPath": "/kzRAd7mj39ZY3FGNrDdZjqx56tn.jpg",
-        "mediaType": "movie",
-        "overview": "A wounded American soldier fights to survive behind enemy lines during WWII's Battle of the Bulge against the Germans, relying on his instinct, spy craft and a hand-radio to evade capture and find his way back to his unit.",
-        "popularity": 1.6504
+        "popularity": 2.5263
       },
       {
         "id": 1397385,
@@ -46197,16 +46176,16 @@
         "posterPath": "/hIJpXb7Xaje2mebN9ylsS7blQzP.jpg",
         "mediaType": "movie",
         "overview": "A famous real estate agent's carefully curated world is upended when his eccentric “little brother” unexpectedly reappears.",
-        "popularity": 1.4904
+        "popularity": 1.7152
       },
       {
         "id": 1202033,
         "title": "Enola Holmes 3",
         "releaseDate": "2026-07-01",
-        "posterPath": "/tvq1uc0RHsoHh8hhhjek9ph6ihJ.jpg",
+        "posterPath": "/thzeOvTcdqz14h4CZnw93SrTTKn.jpg",
         "mediaType": "movie",
         "overview": "Adventure leads detective Enola Holmes to Malta as personal and professional dreams collide on a case more perilous than any she's faced before.",
-        "popularity": 5.9358
+        "popularity": 6.5454
       },
       {
         "id": 1308767,
@@ -46215,7 +46194,7 @@
         "posterPath": "/ntW9zzhDmbt3sXDyPXb7SHVuDdB.jpg",
         "mediaType": "movie",
         "overview": "Before he led a nation, George Washington was a young soldier thrown into a global conflict. With alliances crumbling and war closing in, he must choose who to trust and confront the leader he's becoming.",
-        "popularity": 2.6047
+        "popularity": 2.9245
       },
       {
         "id": 1108427,
@@ -46224,16 +46203,16 @@
         "posterPath": "/zKVgiv5qHCvCLT4A2ymJi5QeXDH.jpg",
         "mediaType": "movie",
         "overview": "Moana answers the Ocean's call and, for the first time, voyages beyond the reef of her island of Motunui with the infamous demigod Maui on an unforgettable journey to restore prosperity to her people.",
-        "popularity": 7.4628
+        "popularity": 8.4907
       },
       {
         "id": 1212763,
         "title": "Evil Dead Burn",
         "releaseDate": "2026-07-08",
-        "posterPath": "/adIqLHiZcqyugzGFBx5pmtmMkxD.jpg",
+        "posterPath": "/ztadKzIIR0ERYqpHteaPFtk7inP.jpg",
         "mediaType": "movie",
         "overview": "After the loss of her husband, a woman seeks solace with her in-laws in their secluded family home. As one by one they are transformed into Deadites—turning the gathering into a family reunion from hell—she comes to discover that the vows she took in life... live on even in death.",
-        "popularity": 6.6106
+        "popularity": 8.0518
       },
       {
         "id": 1476682,
@@ -46242,7 +46221,7 @@
         "posterPath": "/98T4bnMjJs71WOVZoeY8edZhfgZ.jpg",
         "mediaType": "movie",
         "overview": "A Midwestern bride-to-be, Gail Daughtry, has a celebrity hall pass agreement with her fiancé… who uses it. Their relationship in crisis, Gail sets out on an epic journey through Hollywood to even the scales.",
-        "popularity": 2.5956
+        "popularity": 2.5813
       },
       {
         "id": 1368337,
@@ -46251,7 +46230,7 @@
         "posterPath": "/krVa7rKCQb4OBfsr2LTJv4rTz5q.jpg",
         "mediaType": "movie",
         "overview": "Odysseus, the legendary King of Ithaca, embarks on a long and perilous journey home following the Trojan War. Throughout his voyage, he is forced to confront the whims of gods, mythological monsters, and trials that stretch both his cunning and his humanity to the breaking point.",
-        "popularity": 25.3663
+        "popularity": 25.4681
       },
       {
         "id": 1318621,
@@ -46260,7 +46239,7 @@
         "posterPath": "/4Vg3YAFakfbnDs7ubWeokcDEueP.jpg",
         "mediaType": "movie",
         "overview": "Now that the Queen of Hearts is nice and Cinderella is safe, things seem perfect for Red and Chloe… But little do they know that changing the past created a new villain - Maddox Hatter. When Maddox captures the Queen of Hearts, Red and Chloe must work with Red’s new sister Pink, Luisa Madrigal’s son Luis and Maddox’s son Max to save her and Wonderland.",
-        "popularity": 1.7457
+        "popularity": 2.0888
       },
       {
         "id": 1516698,
@@ -46269,16 +46248,7 @@
         "posterPath": null,
         "mediaType": "movie",
         "overview": "A young American woman with health challenges finds unexpected romance with a charismatic local during her summer in Majorca, forcing her to weigh her heart's desires against family obligations and her planned return home.",
-        "popularity": 3.3593
-      },
-      {
-        "id": 1667772,
-        "title": "The Dendrill",
-        "releaseDate": "2026-07-17",
-        "posterPath": "/39xrj8X72YnYONw7H5R1NIyKdj5.jpg",
-        "mediaType": "movie",
-        "overview": "While preparing their childhood home for sale, Mark reunites with his estranged stepbrother, Francis, who insists the forest never forgot them.",
-        "popularity": 2.0584
+        "popularity": 3.128
       },
       {
         "id": 1468683,
@@ -46287,7 +46257,7 @@
         "posterPath": "/1gMmAaswn0BnCKZHKGfSgqzi8WN.jpg",
         "mediaType": "movie",
         "overview": "It's a new school year for the Truham-Higgs gang. As Nick and Charlie's relationship deepens, their thoughts turn to life after the last bell rings.",
-        "popularity": 1.8142
+        "popularity": 2.1048
       },
       {
         "id": 1232569,
@@ -46296,16 +46266,7 @@
         "posterPath": "/sqhfUrPEeAlFf684FsVa8v1GYCD.jpg",
         "mediaType": "movie",
         "overview": "A chilling reimagining of the familiar fable, ‘Pinocchio Unstrung’ unfolds inside an elite London prep school. Influenced by a sinister Cricket and created by Geppetto, Pinocchio launches a violent crusade to carve himself into a real boy like his brother James, one piece at a time.",
-        "popularity": 5.8501
-      },
-      {
-        "id": 1469342,
-        "title": "Her Private Hell",
-        "releaseDate": "2026-07-24",
-        "posterPath": "/kncKYCe4stYQ1YPAmIcvtjpF1Bc.jpg",
-        "mediaType": "movie",
-        "overview": "When a mysterious mist engulfs a futuristic metropolis, unleashing a deadly and elusive entity, a troubled young woman searches for her father. Her quest collides with an American GI on a harrowing odyssey to rescue his daughter from Hell.",
-        "popularity": 2.8876
+        "popularity": 6.6964
       },
       {
         "id": 1185806,
@@ -46314,7 +46275,16 @@
         "posterPath": "/3US9zyWBUbLTASwNwMSuZ0fO6hC.jpg",
         "mediaType": "movie",
         "overview": "The PAW Patrol pups crash land on an uncharted tropical island filled with dinosaurs after their ship gets caught in a mysterious storm. They meet Rex, a pup who has been stranded on the island for years and has become an expert in all things dino-related. When the Patrol’s archrival, Mayor Humdinger, begins recklessly mining in hopes of exploiting the island for its natural resources, he inadvertently causes a huge, dormant volcano to erupt. The pups are thrown into a series of high-stakes, dino-sized rescues bigger than anything they’ve done before, as they must stop Humdinger before everything on the island goes extinct.",
-        "popularity": 2.8106
+        "popularity": 3.1698
+      },
+      {
+        "id": 1469342,
+        "title": "Her Private Hell",
+        "releaseDate": "2026-07-24",
+        "posterPath": "/kncKYCe4stYQ1YPAmIcvtjpF1Bc.jpg",
+        "mediaType": "movie",
+        "overview": "When a mysterious mist engulfs a futuristic metropolis, unleashing a deadly and elusive entity, a troubled young woman searches for her father. Her quest collides with an American GI on a harrowing odyssey to rescue his daughter from Hell.",
+        "popularity": 2.689
       },
       {
         "id": 87513,
@@ -46323,16 +46293,16 @@
         "posterPath": "/2r4X5RmpKxVr1yQ8hhF6rbgypfj.jpg",
         "mediaType": "movie",
         "overview": "In 1970s Detroit, John Miller falls in love with the girlfriend of a local gangster. To get revenge, the gangster sets up a frame-up to send the innocent man to prison. With his life ruined, Miller plots revenge against the man who took his girlfriend away from him.",
-        "popularity": 1.606
+        "popularity": 1.6557
       },
       {
         "id": 969681,
         "title": "Spider-Man: Brand New Day",
         "releaseDate": "2026-07-29",
-        "posterPath": "/yyB2VJEW3an2xCdcYCPQhn9QERR.jpg",
+        "posterPath": "/pspkSVP39NGa6G2rvK5KlMjvYUe.jpg",
         "mediaType": "movie",
         "overview": "Four years have passed since the events of No Way Home, and Peter is now an adult living entirely alone, having voluntarily erased himself from the lives and memories of those he loves. Crime-fighting in a New York that no longer knows his name, he's devoted himself entirely to protecting his city — a full-time Spider-Man — but as the demands on him intensify, the pressure sparks a surprising physical evolution that threatens his existence, even as a strange new pattern of crimes gives rise to one of the most powerful threats he has ever faced.",
-        "popularity": 27.0496
+        "popularity": 29.704
       },
       {
         "id": 1288059,
@@ -46341,7 +46311,16 @@
         "posterPath": "/8qLjMLuni7prIhO7GIwiYIJJcO5.jpg",
         "mediaType": "movie",
         "overview": "When fresh-faced Elliot lands an exciting job for renowned artist, icon and provocateur Erika Tracy, his fantasies come true as Erika taps him to become her sexual muse. But Elliot soon finds himself out of his depth as Erika takes him on a journey more profound than he ever could have imagined, into a world of sex, obsession, power, betrayal and murder.",
-        "popularity": 2.9506
+        "popularity": 3.6146
+      },
+      {
+        "id": 1477712,
+        "title": "Ice Cream Man",
+        "releaseDate": "2026-08-05",
+        "posterPath": "/uuQv2MDvfym1UluVyC5mRE86eFJ.jpg",
+        "mediaType": "movie",
+        "overview": "An idyllic summer town descends into madness when an ice cream man serves kids sweet delights with horrifying results.",
+        "popularity": 1.9864
       },
       {
         "id": 1433367,
@@ -46350,7 +46329,7 @@
         "posterPath": "/gzy1L7wqkFRznQPv4WrdPQ9bCJ8.jpg",
         "mediaType": "movie",
         "overview": "Two love-starved strangers crash into each other on the one night of the year when single people are allowed to have sex.",
-        "popularity": 1.7481
+        "popularity": 1.8566
       },
       {
         "id": 1240889,
@@ -46359,7 +46338,7 @@
         "posterPath": "/nLsFnXifieSTqSeWxjXSS8RvaUZ.jpg",
         "mediaType": "movie",
         "overview": "After years of slapdash sequels and waning fandom, the Camp Miasma slasher franchise is handed over to an enthusiastic young director for resurrection. But when she visits the original's star, a now-reclusive actress shrouded in mystery, the two women fall into a blood-soaked world of desire, fear, and delirium.",
-        "popularity": 5.4043
+        "popularity": 6.058
       },
       {
         "id": 1101412,
@@ -46368,7 +46347,7 @@
         "posterPath": "/k2mBRpVmIuxJO9WpXMOIp6AiRBA.jpg",
         "mediaType": "movie",
         "overview": "Overwhelmed by her sister Hunter’s death, Jax connects with Luce, Hunter’s fearless friend. To heal, they attempt the infamous plank walk of Mount Kwan in Thailand. After a sudden rockslide leaves them stranded on a fragile plank 3000 feet in the air, Jax must confront her deepest fears and fight for survival to find closure.",
-        "popularity": 1.4844
+        "popularity": 1.8838
       },
       {
         "id": 1101383,
@@ -46377,7 +46356,7 @@
         "posterPath": "/u9jha7bkttIrc5RO1TWeSn7QVyI.jpg",
         "mediaType": "movie",
         "overview": "After a mysterious cosmic event rips Oak Street from suburbia and transports their neighborhood to someplace unknown, a family soon discovers that their very survival depends on them sticking together as they navigate their now unrecognizable surroundings.",
-        "popularity": 3.7829
+        "popularity": 4.6
       },
       {
         "id": 1424965,
@@ -46386,7 +46365,7 @@
         "posterPath": "/m93BKabB7Je8WQACed58BXeHNNR.jpg",
         "mediaType": "movie",
         "overview": "A survival drama about an ice skater stranded on an ice floe at the Arctic Sea. When the ice floe starts to float towards south and melt, the ice skater must use all means necessary to survive.",
-        "popularity": 11.5697
+        "popularity": 12.2168
       },
       {
         "id": 1280015,
@@ -46395,7 +46374,7 @@
         "posterPath": "/d7yOPcBc099HHhmZGS9eMzMruAL.jpg",
         "mediaType": "movie",
         "overview": "Ivy is a teenager in remission from cancer, whose mum and dad insist she attend Children Run Free Camp, a summer retreat for young adults affected by cancer. However, as Ivy is reluctantly dragged through camp experience, she discovers new feelings with new friends.",
-        "popularity": 1.5298
+        "popularity": 1.6389
       },
       {
         "id": 1493400,
@@ -46404,16 +46383,7 @@
         "posterPath": "/b0fqynwXBahk9ohFH3BXc2x4Ae0.jpg",
         "mediaType": "movie",
         "overview": "When Connect 3’s opening act bails out at the last minute, the band heads back to Camp Rock to find fresh talent for their national tour. The competition heats up as an ambitious newcomer Sage goes all in, even if it means clashing with her brother Desi. Sage plus bad-boy guitarist Fetch, cello prodigy Rosie, and energetic drummer Cliff make the quest for the spotlight emotional and intense. But as friendships form and feelings build, the campers must decide if there’s more to life than winning.",
-        "popularity": 1.4867
-      },
-      {
-        "id": 1401459,
-        "title": "Fjord",
-        "releaseDate": "2026-08-19",
-        "posterPath": "/ttCNqwbCoHnfbuQyrlMdr4QG6c0.jpg",
-        "mediaType": "movie",
-        "overview": "After the deaths of Mihai's parents, Mihai and Lisbeth Gheorghiu leave everything behind and move with their children to a remote village in Norway, hoping to rebuild their lives near Lisbeth's family. There, they grow close to their neighbors, the Halbergs, whose warmth offers the promise of a fresh start. But the fragile peace begins to unravel when the Gheorghius' young daughter, Elia, arrives at school covered in bruises.",
-        "popularity": 9.1305
+        "popularity": 1.5164
       },
       {
         "id": 1288445,
@@ -46422,7 +46392,16 @@
         "posterPath": "/aAnTt6KpmbbHbd6xH3FQFlppZjc.jpg",
         "mediaType": "movie",
         "overview": "After witnessing his billionaire boss' murder and being framed for the crime, Cole Reed boards a cargo ship on a one-man crusade to avenge his boss' death only to discover an international conspiracy.",
-        "popularity": 6.9413
+        "popularity": 8.082
+      },
+      {
+        "id": 1401459,
+        "title": "Fjord",
+        "releaseDate": "2026-08-19",
+        "posterPath": "/ttCNqwbCoHnfbuQyrlMdr4QG6c0.jpg",
+        "mediaType": "movie",
+        "overview": "After the deaths of Mihai's parents, Mihai and Lisbeth Gheorghiu leave everything behind and move with their children to a remote village in Norway, hoping to rebuild their lives near Lisbeth's family. There, they grow close to their neighbors, the Halbergs, whose warmth offers the promise of a fresh start. But the fragile peace begins to unravel when the Gheorghius' young daughter, Elia, arrives at school covered in bruises.",
+        "popularity": 8.0108
       },
       {
         "id": 1291595,
@@ -46431,7 +46410,7 @@
         "posterPath": "/4tTrW9dXCByS5wt2pXVWb58zNjz.jpg",
         "mediaType": "movie",
         "overview": "Gemma, a young mother raising her daughter in the house she grew up in, discovers she can travel into The Further, where she possesses an ability to bring what lives there back to the real world.",
-        "popularity": 3.6164
+        "popularity": 4.3159
       },
       {
         "id": 1341138,
@@ -46440,7 +46419,7 @@
         "posterPath": "/zS3apCL6ME3dWLHi5qV2qWmbucC.jpg",
         "mediaType": "movie",
         "overview": "Four lifelong friends realize that somewhere between careers, relationships, families and everyday responsibilities, they have forgotten how to take care of themselves and each other. Burned out and overdue for a break, the women escape to a luxury spa retreat for what turns out to be an unforgettable weekend dedicated to fun, laughter, and a lot of really bad decisions.",
-        "popularity": 2.972
+        "popularity": 2.8434
       },
       {
         "id": 1384216,
@@ -46449,7 +46428,7 @@
         "posterPath": "/ePWFnyCQQr4fvBOD1lgKtcvfnCd.jpg",
         "mediaType": "movie",
         "overview": "After the world's population has been ravaged by a pandemic, a man lives a lonesome existence in a Colorado airplane hangar with his dog and a dour gunman he has befriended. When a mysterious transmission comes through on the radio while he’s flying his old Cessna, it sparks a hunt for the provenance of the sound.",
-        "popularity": 4.8094
+        "popularity": 5.2642
       },
       {
         "id": 1204680,
@@ -46458,7 +46437,7 @@
         "posterPath": "/7zNmJP6z6mDAp4LouacYkGSBUQv.jpg",
         "mediaType": "movie",
         "overview": "After Acme products fail him one too many times in his dogged pursuit of the Roadrunner, Wile E. Coyote decides to hire a billboard lawyer to sue the Acme Corporation.",
-        "popularity": 3.2417
+        "popularity": 3.3769
       },
       {
         "id": 445466,
@@ -46467,7 +46446,7 @@
         "posterPath": "/4td0HGCYFePje1PKHERyxXhp2Hf.jpg",
         "mediaType": "movie",
         "overview": "When two unqualified bozos are hired to transfer a rich teen to rehab, their straightforward gig quickly spirals into dangerous mayhem.",
-        "popularity": 1.5455
+        "popularity": 1.6448
       },
       {
         "id": 1383750,
@@ -46476,7 +46455,7 @@
         "posterPath": "/c7uKqCPe3Boi0w2YRqdh5dohN5j.jpg",
         "mediaType": "movie",
         "overview": "TATE heads to Ibiza track down the villains responsible for a friend’s murder.",
-        "popularity": 1.8118
+        "popularity": 1.5313
       },
       {
         "id": 860508,
@@ -46485,16 +46464,7 @@
         "posterPath": "/yNkLRFmy6yblMHYjht77Hbd9qsp.jpg",
         "mediaType": "movie",
         "overview": "When his 8-year-old son is abducted, a widowed crime writer looks to his estranged father, a retired former police detective, for help, only to discover a connection with the decades-old case of a convicted serial killer known as \"The Whisper Man.\"",
-        "popularity": 1.5379
-      },
-      {
-        "id": 1284186,
-        "title": "Sacrifice",
-        "releaseDate": "2026-09-03",
-        "posterPath": "/n7KgiuuGO6AX1EeLA7c8K6RQ1T5.jpg",
-        "mediaType": "movie",
-        "overview": "During a star-studded charity gala brimming with celebrities, billionaires and empty speeches, a movie star in the midst of an existential crisis is taken hostage by a radical warrior and her devoted followers. As the night descends into chaos, both an inward journey and an outward adventure ensue, where the line between performance and belief, salvation and sacrifice, begins to blur.",
-        "popularity": 2.6246
+        "popularity": 1.5964
       },
       {
         "id": 1137844,
@@ -46503,7 +46473,16 @@
         "posterPath": "/u7awR1pOiXkxXt692nRAbS2Pqdg.jpg",
         "mediaType": "movie",
         "overview": "When a U.S. Navy pilot on a top-secret mission during the Cold War gets trapped behind enemy lines, his only chance at survival is to form an alliance with an eccentric ex-KGB agent.",
-        "popularity": 1.9507
+        "popularity": 2.3386
+      },
+      {
+        "id": 1284186,
+        "title": "Sacrifice",
+        "releaseDate": "2026-09-03",
+        "posterPath": "/n7KgiuuGO6AX1EeLA7c8K6RQ1T5.jpg",
+        "mediaType": "movie",
+        "overview": "During a star-studded charity gala brimming with celebrities, billionaires and empty speeches, a movie star in the midst of an existential crisis is taken hostage by a radical warrior and her devoted followers. As the night descends into chaos, both an inward journey and an outward adventure ensue, where the line between performance and belief, salvation and sacrifice, begins to blur.",
+        "popularity": 2.1634
       },
       {
         "id": 1341341,
@@ -46512,7 +46491,7 @@
         "posterPath": "/lQXsh3LCs7NjLPMCkWvI0xV4r0I.jpg",
         "mediaType": "movie",
         "overview": "After losing her mother, Paige's grandfather steps into to become a more responsible guardian. But when a group of criminals show up at their door demanding that Paige's grandpa join them for one last job, she's faced with a decision: let her newly reformed grandpa dip back into his criminal ways, or enlist her three best friends to do the job first.",
-        "popularity": 1.7678
+        "popularity": 2.0026
       },
       {
         "id": 1437511,
@@ -46521,7 +46500,7 @@
         "posterPath": null,
         "mediaType": "movie",
         "overview": "Smart bank robbers share their heists on social media while evading police.",
-        "popularity": 1.6277
+        "popularity": 1.988
       },
       {
         "id": 1198654,
@@ -46530,7 +46509,7 @@
         "posterPath": "/9hwBNpCArXXUuHNbZnVcYwgyMcM.jpg",
         "mediaType": "movie",
         "overview": "A struggling primary school teacher begins to make some questionable decisions after one of her students is injured.",
-        "popularity": 1.5854
+        "popularity": 1.6159
       },
       {
         "id": 1423191,
@@ -46539,7 +46518,7 @@
         "posterPath": "/guq5cJ43v0qcMtLqrYHe5P9fgFM.jpg",
         "mediaType": "movie",
         "overview": "Bryan, a medical courier, is in the process of making a delivery when a sudden outbreak occurs, forcing him to fight for survival.",
-        "popularity": 4.3818
+        "popularity": 4.9517
       },
       {
         "id": 1302904,
@@ -46548,16 +46527,25 @@
         "posterPath": "/uA8ytJv17alSiREcUthbYAdiPCX.jpg",
         "mediaType": "movie",
         "overview": "The Owens sisters must confront the dark curse that threatens to unravel their family once and for all.",
-        "popularity": 2.2942
+        "popularity": 2.7374
       },
       {
         "id": 1375441,
         "title": "Primetime",
         "releaseDate": "2026-09-11",
-        "posterPath": "/51VDtNQFuD2I86hrT4ekytg9Dq3.jpg",
+        "posterPath": "/f79TzZ113lrN5HaBrD07IgvFzcQ.jpg",
         "mediaType": "movie",
         "overview": "In 2006, To Catch a Predator host Chris Hansen sets out to make television history.",
-        "popularity": 5.3871
+        "popularity": 5.2655
+      },
+      {
+        "id": 1377237,
+        "title": "Runner",
+        "releaseDate": "2026-09-11",
+        "posterPath": "/gA1UBGxQp0xRaewFF5AE7Xdy1b3.jpg",
+        "mediaType": "movie",
+        "overview": "A former soldier is thrown into a brutal race against time when a critical medical delivery makes him the target of a ruthless cartel. With betrayal closing in from every side, he must survive the chase and deliver his cargo before an innocent child runs out of time.",
+        "popularity": 1.6127
       },
       {
         "id": 1465063,
@@ -46566,7 +46554,7 @@
         "posterPath": "/44RMjgvpZmHU3aGmX3IQAaHtEw9.jpg",
         "mediaType": "movie",
         "overview": "Jo and Raissa find themselves stranded in the mystical world of the forgotten island of Nakali. They discover that their only way home might come at the expense of a lifetime of shared memories.",
-        "popularity": 3.0922
+        "popularity": 3.3828
       },
       {
         "id": 1379486,
@@ -46575,7 +46563,7 @@
         "posterPath": "/dZ25ve1QeX0JliOh24kqevZzKFi.jpg",
         "mediaType": "movie",
         "overview": "In 1858, an eccentric young governess named Winifred Notty arrives at the remote gothic manor known as Ensor House. As Winifred assimilates into life at Ensor House, staff members begin to inexplicably disappear, and the owners of the estate begin to wonder if there is something amiss about their new governess.",
-        "popularity": 2.8174
+        "popularity": 2.6729
       },
       {
         "id": 1283515,
@@ -46584,7 +46572,7 @@
         "posterPath": "/dGSsPovyUW5XVekXcy7F2GyhTEh.jpg",
         "mediaType": "movie",
         "overview": "Lowen Ashleigh gets hired by Jeremy Crawford to ghostwrite novels for his bestselling author wife Verity, who's unable to finish after an accident. Lowen uncovers Verity's disturbing truths while residing at the Crawfords' home to work.",
-        "popularity": 3.6246
+        "popularity": 3.5026
       },
       {
         "id": 1248832,
@@ -46593,7 +46581,7 @@
         "posterPath": "/1ATXKrIPJyKNwnJ6lcG088Sa6zi.jpg",
         "mediaType": "movie",
         "overview": "The most powerful man in the world embarks on a frantic mission to prove he is humanity's saviour before the disaster he’s unleashed destroys everything.",
-        "popularity": 3.2443
+        "popularity": 2.7873
       },
       {
         "id": 1433583,
@@ -46602,7 +46590,7 @@
         "posterPath": "/x4HFddDKpla5gFUiM8mmFIirML5.jpg",
         "mediaType": "movie",
         "overview": "In 1933 Oregon, Samuel Murphy is torn from his daughter and sent to a brutal work camp. Warden Clancy tempts him with early release if he smuggles gold through deadly wilderness, but betrayal festers within the crew, and Murphy questions how far he’ll go to see his child again.",
-        "popularity": 1.898
+        "popularity": 2.0015
       },
       {
         "id": 1281331,
@@ -46611,7 +46599,7 @@
         "posterPath": "/sr1sLOPAdlG5XLvZ8oGW9IBre.jpg",
         "mediaType": "movie",
         "overview": "Frances Haugen, a young Facebook engineer, enlists the help of Jeff Horwitz, a Wall Street Journal reporter, to go on a dangerous journey that ends up blowing the whistle on the social network's most guarded secrets.",
-        "popularity": 1.9151
+        "popularity": 2.2768
       },
       {
         "id": 1148365,
@@ -46620,7 +46608,7 @@
         "posterPath": "/nR6GyhyS1skt36VM4TKyqtUyQN3.jpg",
         "mediaType": "movie",
         "overview": "When a group of former childhood friends reconnect, their reunion takes a wild turn as they stumble upon a dangerous international plot—and must save the world.",
-        "popularity": 3.4034
+        "popularity": 3.4776
       },
       {
         "id": 1400837,
@@ -46629,7 +46617,7 @@
         "posterPath": "/aAtsAukFvHWsQFaBn2HqR0rd3RJ.jpg",
         "mediaType": "movie",
         "overview": "A young girl, her family and their home are haunted by a sinister entity that is determined to take up residence inside her. But first, it needs to persuade her to let it in…",
-        "popularity": 2.832
+        "popularity": 2.8628
       },
       {
         "id": 980431,
@@ -46638,7 +46626,7 @@
         "posterPath": "/29Jdsak3SrwGds5k1t43kH6Khed.jpg",
         "mediaType": "movie",
         "overview": "Avatar Aang, the world's last Airbender, learns of an ancient power that could save his culture from extinction. With the help of his friends, he embarks on a global quest to find it before it falls into the wrong hands and threatens to upend the peace they sacrificed everything to achieve.",
-        "popularity": 72.1426
+        "popularity": 71.3202
       },
       {
         "id": 1153576,
@@ -46647,7 +46635,7 @@
         "posterPath": "/rOH0hMRFJZCMzf6zTUldrbjAmSO.jpg",
         "mediaType": "movie",
         "overview": "In 1993, estranged Street Fighters Ryu and Ken Masters are thrown back into combat when the mysterious Chun-Li recruits them for the next World Warrior Tournament: a brutal clash of fists, fate, and fury. But behind this battle royale lies a deadly conspiracy that forces them to face off against each other and the demons of their past. And if they don't, it's GAME OVER!",
-        "popularity": 4.5957
+        "popularity": 4.9815
       },
       {
         "id": 1287520,
@@ -46656,7 +46644,7 @@
         "posterPath": "/sao264XXHRni4pmYnCTPirD67Qc.jpg",
         "mediaType": "movie",
         "overview": "Unfolds within the intense 48-hour period surrounding the assassination of President John F. Kennedy. The film sheds light on crime group the Chicago Outfit’s alleged involvement in the assassination and draws directly from first-hand accounts, including insights from the family of crime boss Sam Giancana.",
-        "popularity": 1.5167
+        "popularity": 1.743
       },
       {
         "id": 1400940,
@@ -46665,16 +46653,16 @@
         "posterPath": "/5jCpQnWPikggmQZoDp1eAi6BI6w.jpg",
         "mediaType": "movie",
         "overview": "Follow the terrifying descent into hell of a promising Hollywood actor who has become a monster driven by revenge, exploring the loss of identity and humanity, the ravages of toxic love and the dark side of scientific ambition.",
-        "popularity": 3.7559
+        "popularity": 4.7213
       },
       {
         "id": 791523,
         "title": "Wildwood",
         "releaseDate": "2026-10-22",
-        "posterPath": "/lUW6l9N9YVSCy2kSEHuyINrTR2h.jpg",
+        "posterPath": "/feyEk59rpGXZHKqej9HkUHOnIg2.jpg",
         "mediaType": "movie",
         "overview": "Prue and her classmate Curtis are drawn into a forbidden magical forest filled with enchanted creatures, loyal allies, and formidable adversaries as they embark on a desperate quest to save Prue’s kidnapped baby brother, Mac, from the crows led by a mysterious woman named Alexandra.",
-        "popularity": 2.7021
+        "popularity": 2.544
       },
       {
         "id": 1290000,
@@ -46683,16 +46671,7 @@
         "posterPath": "/eoyLMVeP1cuQRTU74W5NAFJBvsu.jpg",
         "mediaType": "movie",
         "overview": "A \"return to the colourful, back-stabbing world of the British aristocracy\", this pic follows the relentless greed of the Fairbank family and their associates who fuel betrayal and murder in the battle for succession.",
-        "popularity": 2.0167
-      },
-      {
-        "id": 858035,
-        "title": "Klara and the Sun",
-        "releaseDate": "2026-10-23",
-        "posterPath": "/k8T3CHeykqrRVNCmYSgz4kacP9K.jpg",
-        "mediaType": "movie",
-        "overview": "Klara, an Artificial Friend designed to prevent loneliness, is purchased by a mother and her bright teen daughter, Josie. Josie, who suffers from a mysterious illness, adores her new robot companion. On a quest to save Josie and those who love her from heartbreak, Klara learns the power of human love.",
-        "popularity": 1.487
+        "popularity": 2.197
       },
       {
         "id": 891621,
@@ -46701,7 +46680,7 @@
         "posterPath": "/dNJFRtVg3xLQ7dbNIQ55cmmIniD.jpg",
         "mediaType": "movie",
         "overview": "Shortly before the 1973 Chilean coup, CIA agents Chris and Lee are dispatched from Santiago to Easter Island by their bureau chief, MJ. Amongst the Island's iconic statues, and as the longtime partners wrestle with their dark pasts and present conspiracies, Chris's newfound bond with a pair of rebellious students threatens to send everyone’s trip to this remote paradise sideways.",
-        "popularity": 2.2544
+        "popularity": 2.3892
       },
       {
         "id": 1117898,
@@ -46710,7 +46689,7 @@
         "posterPath": "/tYH4rQZlHtuFSeDS0bsV17khvJC.jpg",
         "mediaType": "movie",
         "overview": "Doing what he does best, the Cat spreads joy to kids in his hilarious, signature, and singularly irreverent way, transporting them and audiences on a fantastical journey through a world they've never seen before. Our hero takes on his toughest assignment yet for the I.I.I.I. (Institute for the Institution of Imagination and Inspiration, LLC) to cheer up Gabby and Sebastian, a pair of siblings struggling to move to a new town. Known for taking things too far, this could be this agent of chaos' last chance to prove himself...or lose his magical hat!",
-        "popularity": 2.5524
+        "popularity": 2.7508
       },
       {
         "id": 1288211,
@@ -46719,7 +46698,7 @@
         "posterPath": "/qq3Ynsokc1AtmExfeYoOnUclk3k.jpg",
         "mediaType": "movie",
         "overview": "An author of popular fantasy novels discovers that the mythical world he’s known for creating is actually real.",
-        "popularity": 2.2766
+        "popularity": 2.532
       },
       {
         "id": 1300968,
@@ -46728,7 +46707,16 @@
         "posterPath": "/ffJaYMtB6v1TrvkyhCOqwqCKm0o.jpg",
         "mediaType": "movie",
         "overview": "Return to the world of Panem 24 years before the events of The Hunger Games, starting on the morning of the reaping of the 50th Hunger Games, also known as the Second Quarter Quell.",
-        "popularity": 4.5168
+        "popularity": 5.6866
+      },
+      {
+        "id": 1280115,
+        "title": "Way of the Warrior Kid",
+        "releaseDate": "2026-11-19",
+        "posterPath": "/onZIFslULiG6aKgGFMZkAAWy2QV.jpg",
+        "mediaType": "movie",
+        "overview": "Jake is an injured Navy SEAL who becomes a mentor for his shy, struggling nephew Marc. Using the principles of his military training, Jake teaches Marc how to be a Warrior Kid as he enters high school.",
+        "popularity": 1.6232
       },
       {
         "id": 1241478,
@@ -46737,16 +46725,16 @@
         "posterPath": "/c3fWnsg5VEP5EhYZ4oY2NpFrrU1.jpg",
         "mediaType": "movie",
         "overview": "A look into the life of American actor James Stewart, whose inspiring tale of valor, purpose and faith will win over everyone.",
-        "popularity": 1.7583
+        "popularity": 1.7788
       },
       {
         "id": 1457866,
         "title": "The Adventures of Cliff Booth",
         "releaseDate": "2026-11-24",
-        "posterPath": "/607EspNdPdnae8gqhlymtfPN0HH.jpg",
+        "posterPath": null,
         "mediaType": "movie",
         "overview": "Eight years after the events of Once Upon a Time in... Hollywood, Cliff Booth returns to a changing Los Angeles. Now working as a fixer in the shadows of the Hollywood studio system, Cliff finds himself entangled in a dangerous web of secrets, crimes and betrayals that will test everything he knows about loyalty and survival.",
-        "popularity": 3.0587
+        "popularity": 3.5251
       },
       {
         "id": 1400336,
@@ -46755,7 +46743,7 @@
         "posterPath": "/gPdzdeehaoaYqxH2rA6yayEDSsS.jpg",
         "mediaType": "movie",
         "overview": "Henry, son of Greg and Pam Focker, faces family chaos when he decides to marry a strong-willed woman who appears to be his complete mismatch.",
-        "popularity": 2.293
+        "popularity": 2.9571
       },
       {
         "id": 1538497,
@@ -46764,7 +46752,7 @@
         "posterPath": "/5YowGwH2vvA0R0eIq5HAQODf6cG.jpg",
         "mediaType": "movie",
         "overview": "An impulsive and unconventional teenage girl named Billie discovers secret magical abilities which, once unleashed, hurtle her into a spectacle-filled journey out of suburbia and into a vast witch realm called Hexe. Forced to team up with her cautious mother, Alice, they uncover family mysteries that could change the world of witches forever.",
-        "popularity": 1.9298
+        "popularity": 2.2291
       },
       {
         "id": 1131943,
@@ -46773,7 +46761,16 @@
         "posterPath": null,
         "mediaType": "movie",
         "overview": "John Madden's remarkable journey-from a Super Bowl-winning partnership with Al Davis and the Raiders, to creating Madden NFL, and becoming one of the most iconic voices in football history.",
-        "popularity": 2.3178
+        "popularity": 2.1519
+      },
+      {
+        "id": 1382782,
+        "title": "Chili Finger",
+        "releaseDate": "2026-12-03",
+        "posterPath": "/oVveFRcntkk5GINa745IU2px1hE.jpg",
+        "mediaType": "movie",
+        "overview": "When a small town lawyer discovers a severed finger in her chili, she blackmails the restaurant for a cash payout in an effort to regain control over her mundane life. The situation quickly spirals out of control, and her life descends into chaos.",
+        "popularity": 1.593
       },
       {
         "id": 1260649,
@@ -46782,7 +46779,7 @@
         "posterPath": "/sHVsgvoaDOXx3B8OFg0sqewEmF8.jpg",
         "mediaType": "movie",
         "overview": "Our heroes have escaped the ever-changing jungles of Jumanji before, but this time the game comes to us - as Jumanji breaks free of its console, unleashing its chaos into our world.",
-        "popularity": 3.9339
+        "popularity": 4.6667
       },
       {
         "id": 1003596,
@@ -46791,7 +46788,7 @@
         "posterPath": "/8HkIe2i4ScpCkcX9SzZ9IPasqWV.jpg",
         "mediaType": "movie",
         "overview": "Beloved heroes from three distinct universes are set on a deadly collision course and face an existential threat unlike anything they've ever encountered.",
-        "popularity": 15.4697
+        "popularity": 16.2538
       },
       {
         "id": 1170608,
@@ -46800,7 +46797,7 @@
         "posterPath": "/b4wekkUaxExzOeGe7hKXzhnyXHt.jpg",
         "mediaType": "movie",
         "overview": "As Emperor, Paul Atreides grapples with the consequences of his rise to power as political conspiracies and a galaxy-spanning holy war threaten the future he alone can foresee.",
-        "popularity": 7.3843
+        "popularity": 7.6435
       },
       {
         "id": 1530062,
@@ -46809,7 +46806,7 @@
         "posterPath": "/a6weZybzg0JKUYT7zfrV9pWK8iH.jpg",
         "mediaType": "movie",
         "overview": "In a world teetering on chaos, elite assassin John Rico is the go-to solution when the government wants threats removed-quietly and permanently. But when a mission goes sideways, he's given one last shot at redemption: track down and eliminate Mason Ryker, the final ghost of the feared underground unit known as The Order of the Dragon. As Rico's mission leads him to a small, danger-ridden town in Serbia, the lines between good and evil begin to blur. Is Ryker the monster he's made out to be, or is there a deeper conspiracy at play? What begins as a black-and-white hit spirals into a moral storm-and time is running out.",
-        "popularity": 1.7093
+        "popularity": 1.8896
       },
       {
         "id": 1300926,
@@ -46818,7 +46815,7 @@
         "posterPath": "/5WT2fuN2jExUWIATKjP4zvF1Dey.jpg",
         "mediaType": "movie",
         "overview": "The third installment in The Angry Birds Movie franchise. Plot TBA",
-        "popularity": 5.3399
+        "popularity": 5.3906
       },
       {
         "id": 1421903,
@@ -46827,7 +46824,7 @@
         "posterPath": "/80dcSFTyC97dkgvskEb4fJvlfrl.jpg",
         "mediaType": "movie",
         "overview": "In medieval Britain, a mysterious creature lurks in the misty landscape, bringing ancient legends to life and transforming them into a terrifying reality, forcing the villagers to confront an ancient, supernatural threat.",
-        "popularity": 2.2674
+        "popularity": 3.0147
       }
     ],
     "2027": [
@@ -46838,7 +46835,7 @@
         "posterPath": "/oAjHDlaGHHWVZ0OcnadHPm8YIE.jpg",
         "mediaType": "movie",
         "overview": "Young couple Patrick and Abigail journey to a new-age retreat in New Mexico, drawn by the possibility of healing after a traumatic event. Patrick is willing to do anything to help his wife but becomes distrustful of the retreat’s enigmatic leader even as Abigail falls under her spell. As paranoia builds, the couple must determine if the group’s unconventional spiritual practices offer genuine healing or mask a terrifying truth that threatens to consume them both.",
-        "popularity": 0.6897
+        "popularity": 0.8048
       },
       {
         "id": 1604417,
@@ -46847,7 +46844,16 @@
         "posterPath": "/7aW2ao05IEmvIrOODDe3MwUXLUg.jpg",
         "mediaType": "movie",
         "overview": "A group of kids navigate their lives and interpersonal relationships while a rumor about the end of the world spreads around town.",
-        "popularity": 0.1762
+        "popularity": 0.2826
+      },
+      {
+        "id": 1557738,
+        "title": "'The Wokinator'",
+        "releaseDate": "2027-01-01",
+        "posterPath": null,
+        "mediaType": "movie",
+        "overview": "Working title. Sci-Fi action film by Kirsten Paltzat.",
+        "popularity": 0.1668
       },
       {
         "id": 1566727,
@@ -46856,7 +46862,7 @@
         "posterPath": "/z64ZWd9vMKTCWpVH5EfPJBTDWnn.jpg",
         "mediaType": "movie",
         "overview": "Zac Power’s position as the top teenage spy is compromised after a brilliant new agent arrives. When his recklessness allows an ostentatious supervillain to steal a high-tech weapon, Zac is forced to confront his own flaws and team up with his rival.",
-        "popularity": 0.888
+        "popularity": 0.847
       },
       {
         "id": 1440769,
@@ -46865,7 +46871,7 @@
         "posterPath": null,
         "mediaType": "movie",
         "overview": "The second installment in the franchise. Plot TBA.",
-        "popularity": 2.5649
+        "popularity": 3.156
       },
       {
         "id": 621304,
@@ -46874,7 +46880,7 @@
         "posterPath": "/pCzdQJzDuHgYjVpmVJXsOXPZ11r.jpg",
         "mediaType": "movie",
         "overview": "Zelie and her older brother Tzain form an alliance with the king’s daughter, Princess Amari, and son, Prince Inan, to fight back against his brutal rule.",
-        "popularity": 1.6497
+        "popularity": 2.0372
       },
       {
         "id": 1115030,
@@ -46883,7 +46889,7 @@
         "posterPath": "/I65yQ8p6VqDK96JH5tpNZ0Q3DS.jpg",
         "mediaType": "movie",
         "overview": "Two fugitive animals embark on an adventure across America to find the ranch that was once their home, healing their friendship while pursued by an equally \"odd-couple\" DEA agent and Fish and Wildlife ranger with something to prove.",
-        "popularity": 0.985
+        "popularity": 1.3613
       },
       {
         "id": 1263040,
@@ -46892,7 +46898,7 @@
         "posterPath": "/A4DaAilEzMr9FqNdgPz0KHrakK3.jpg",
         "mediaType": "movie",
         "overview": "Chhatrapati Shivaji Maharaj",
-        "popularity": 0.3016
+        "popularity": 0.4731
       },
       {
         "id": 1206628,
@@ -46901,7 +46907,7 @@
         "posterPath": "/p8o3dtzoN5pkkm0oWxu4PuAzOjp.jpg",
         "mediaType": "movie",
         "overview": "A neighborhood Fourth of July celebration is interrupted by a ferociously bizarre anomaly who overpowers a family in order to teach them how to become better people and more compliant citizens.",
-        "popularity": 1.2803
+        "popularity": 1.6423
       },
       {
         "id": 1518403,
@@ -46910,7 +46916,7 @@
         "posterPath": "/jn9IycsqyLsLluBPVkcHDyWHdGb.jpg",
         "mediaType": "movie",
         "overview": "12-year-old Jacob is an aspiring basketball player coping with the recent loss of his father. After he and his mother move to his dad’s childhood home in Fernfield, Jacob discovers a VHS tape of his old man playing basketball on the same court as a hoops-shooting golden retriever. Soon, Jacob begins his own adventure with a neglected golden retriever that he names Buddy.",
-        "popularity": 0.9083
+        "popularity": 1.3721
       },
       {
         "id": 1425472,
@@ -46919,7 +46925,7 @@
         "posterPath": null,
         "mediaType": "movie",
         "overview": "A modern day western in which a rodeo cowboy's skills are put to the test outside the arena.",
-        "popularity": 0.877
+        "popularity": 1.0158
       },
       {
         "id": 1485138,
@@ -46928,7 +46934,7 @@
         "posterPath": "/wGN0bq0yJoKSex6WJiUzMOKRkeF.jpg",
         "mediaType": "movie",
         "overview": "After a number of strange disappearances have been reported in the area, Andrew and Jason, two brothers who received a drone for graduation, decide to film around their town to learn more about them, but then become distracted by a new girl in school who lives nearby. The two boys devise a plan to sneak their drone through an open window of her home, only to discover a terrible, dark secret.",
-        "popularity": 0.7738
+        "popularity": 0.9423
       },
       {
         "id": 1466228,
@@ -46937,7 +46943,7 @@
         "posterPath": "/eulMF0veRTe7jtDHEqaCAjrO6jY.jpg",
         "mediaType": "movie",
         "overview": "A country western star experiences a dramatic downfall and must navigate their career in free fall.",
-        "popularity": 0.8041
+        "popularity": 0.9379
       },
       {
         "id": 1384758,
@@ -46946,7 +46952,7 @@
         "posterPath": "/yga4pd5kMH7Zpto8biCjEKVkLAh.jpg",
         "mediaType": "movie",
         "overview": "A dinosaur-and-lava-filled madcap adventure that takes Manny, Sid, Diego, Ellie, Scrat and the rest of the herd to visit never-before-seen corners of the treacherous Lost World.",
-        "popularity": 3.2164
+        "popularity": 3.7053
       },
       {
         "id": 1425859,
@@ -46955,7 +46961,7 @@
         "posterPath": "/ayaZ9kKsmdk1EaH99qxpp6SEpIU.jpg",
         "mediaType": "movie",
         "overview": "Architect Tate Donovan arrives in Cape Cod to design a client’s summer home. Struggling with the loss of his family, he moves into a historic home where he meets Wren, a mysterious young woman who challenges Tate’s perception of the world.",
-        "popularity": 1.2761
+        "popularity": 2.0018
       },
       {
         "id": 1480503,
@@ -46964,7 +46970,16 @@
         "posterPath": "/79pBhQn9N5yjbCFb4e1JtFm8BfR.jpg",
         "mediaType": "movie",
         "overview": "A CG-animated film inspired by the blockbuster children’s show of the same name. Plot TBA.",
-        "popularity": 1.154
+        "popularity": 1.4047
+      },
+      {
+        "id": 1124006,
+        "title": "Lords of War",
+        "releaseDate": "2027-02-05",
+        "posterPath": "/w1nNmvd5nYcoN8kvO55OcCUmE2Z.jpg",
+        "mediaType": "movie",
+        "overview": "Yuri Orlov, the world's most famous arms dealer, discovers that he has a son, Anton who is trying to outdo his father by raising an army of mercenaries to fight in America's Middle Eastern conflicts, triggering a father-son rivalry.",
+        "popularity": 1.5831
       },
       {
         "id": 458896,
@@ -46973,16 +46988,16 @@
         "posterPath": "/ghcC57Zl7qmOZWFqvc6aPBUC2fA.jpg",
         "mediaType": "movie",
         "overview": "The lives of two French sisters are torn apart by the onset of World War II.",
-        "popularity": 1.9326
+        "popularity": 2.2105
       },
       {
         "id": 1517333,
-        "title": "K-Pop Superstar",
+        "title": "K-Pop: The Debut",
         "releaseDate": "2027-02-11",
         "posterPath": null,
         "mediaType": "movie",
         "overview": "A young Korean-American woman defies her family's wishes to compete in a televised competition to find the next K-pop girl group.",
-        "popularity": 0.5086
+        "popularity": 0.8081
       },
       {
         "id": 1147572,
@@ -46991,7 +47006,7 @@
         "posterPath": "/ckKx8XP3ld8x7UGouSdnZTLYJgn.jpg",
         "mediaType": "movie",
         "overview": "The new upcoming film by Greta Gerwig.",
-        "popularity": 3.2373
+        "popularity": 4.0063
       },
       {
         "id": 1514328,
@@ -47000,7 +47015,7 @@
         "posterPath": "/36vsIO0FkNNm9CfzDQargqWjktC.jpg",
         "mediaType": "movie",
         "overview": "Follows a volatile couple who discovers their emotional state has supernatural consequences on the world around them.",
-        "popularity": 1.013
+        "popularity": 1.0395
       },
       {
         "id": 1592312,
@@ -47009,7 +47024,16 @@
         "posterPath": null,
         "mediaType": "movie",
         "overview": "On Friday the 13th, 1987, in the picture-perfect town of Belle Falls, six teens prepare for their biggest night of the year: the Sadie Hawkins dance. But when the town exhumes the body of the real Sadie Hawkins to unravel the truth behind her killing spree fifty years earlier, a malevolent force returns to the town.",
-        "popularity": 0.1475
+        "popularity": 0.1457
+      },
+      {
+        "id": 1642940,
+        "title": "Don't Kill Loretta",
+        "releaseDate": "2027-02-18",
+        "posterPath": null,
+        "mediaType": "movie",
+        "overview": "At a wellness retreat deep in Germany's forests, a group of young Americans encounter a terrifying presence after a night of partying. As fear and paranoia take hold, they must uncover the truth before it's too late.",
+        "popularity": 0.1673
       },
       {
         "id": 1397972,
@@ -47018,25 +47042,7 @@
         "posterPath": "/h8Nh8xIPUtztXxRxSBfLizwqY9.jpg",
         "mediaType": "movie",
         "overview": "Described as a paranoid thriller about a hunt for a cyber-terrorist in the vein of Mr. Robot and The Silence of the Lambs.",
-        "popularity": 1.6941
-      },
-      {
-        "id": 1573756,
-        "title": "The Hollow Season",
-        "releaseDate": "2027-02-25",
-        "posterPath": "/rhmqyB3tfr7jGM1UN9JvoAAHhyc.jpg",
-        "mediaType": "movie",
-        "overview": "In the remote mountain town of Graven Hollow, autumn is more than just a season — it’s a warning. Every thirteen years, as the harvest moon rises and the leaves turn blood-red, the town prepares for a ritual it dares not speak aloud. When a group of college friends arrives for the annual fall festival, they’re drawn into a chilling legend about the Hollow Man — a masked figure born of fire and betrayal, who returns to collect a blood debt. As the friends unravel the town’s secrets and fight to survive, they discover that tradition runs deep… and some roots are soaked in horror.",
-        "popularity": 0.1647
-      },
-      {
-        "id": 1657967,
-        "title": "Live Like That",
-        "releaseDate": "2027-02-26",
-        "posterPath": null,
-        "mediaType": "movie",
-        "overview": "Based on an inspiring story about a family whose faith is tested by an unimaginable loss, and what they choose to do next, in the midst of grief, they make a surprising decision. Instead of responding with anger, they choose forgiveness and set out to help heal a divided community. What begins as private heartbreak becomes a broader movement of hope and connection, showing how faith, love, and unity can bring light even to the darkest moments.",
-        "popularity": 0.6755
+        "popularity": 2.0707
       },
       {
         "id": 1209628,
@@ -47045,25 +47051,25 @@
         "posterPath": null,
         "mediaType": "movie",
         "overview": "Two documentarians settle into a small town and persuade a few hillbilly locals to help them find the sole survivor of a massacre.",
-        "popularity": 0.6161
+        "popularity": 0.6365
       },
       {
-        "id": 1595911,
-        "title": "Puro R.A.P.",
-        "releaseDate": "2027-03-01",
-        "posterPath": "/k1SJr0mGRSWM8MluMrtRInCwG37.jpg",
+        "id": 1657967,
+        "title": "Live Like That",
+        "releaseDate": "2027-02-26",
+        "posterPath": null,
         "mediaType": "movie",
-        "overview": "Five young Panamanian freestyle artists fight to turn their craft into a way of life, as rap becomes their only voice in a country that doesn’t always listen.",
-        "popularity": 0.1845
+        "overview": "Based on an inspiring story about a family whose faith is tested by an unimaginable loss, and what they choose to do next, in the midst of grief, they make a surprising decision. Instead of responding with anger, they choose forgiveness and set out to help heal a divided community. What begins as private heartbreak becomes a broader movement of hope and connection, showing how faith, love, and unity can bring light even to the darkest moments.",
+        "popularity": 0.5882
       },
       {
         "id": 1497464,
         "title": "Gatto",
         "releaseDate": "2027-03-03",
-        "posterPath": "/pNKkqTMh67ac8iZOyapCDsjZFL6.jpg",
+        "posterPath": "/1ckhy2o9Zv06LvnBKHaNCAjo5bD.jpg",
         "mediaType": "movie",
         "overview": "After years of maneuvering the canal-ridden, superstitious city, a black cat named Nero begins to question whether he’s lived the right lives. Indebted to a local feline mob boss, Nero finds himself in a quandary and is forced to forge a truly unexpected friendship that may finally lead him to his purpose—unless Venice gets the better of him first.",
-        "popularity": 1.6603
+        "popularity": 1.5714
       },
       {
         "id": 615121,
@@ -47072,7 +47078,7 @@
         "posterPath": null,
         "mediaType": "movie",
         "overview": "In Europe, a bored young businessman decides to plan a robbery and assigns a professional agent with the right information to the job. However, he is soon betrayed yet cannot blow his cover as he’s fallen in love.",
-        "popularity": 1.9401
+        "popularity": 1.8706
       },
       {
         "id": 1636855,
@@ -47081,7 +47087,7 @@
         "posterPath": "/wRHxxuIRubChdjdNuJfFWg6v6zC.jpg",
         "mediaType": "movie",
         "overview": "A group of friends devise a plan to avoid the workforce after graduating college. This plan however, could be detrimental to their lives.",
-        "popularity": 0.1429
+        "popularity": 0.1235
       },
       {
         "id": 1401586,
@@ -47090,7 +47096,7 @@
         "posterPath": "/a0rW7SDCG0RfLb9b5dQe6Qre6x1.jpg",
         "mediaType": "movie",
         "overview": "Sonic the Hedgehog, joined by a new hero named Amy, faces a new technological nemesis known as Metal Sonic.",
-        "popularity": 6.7569
+        "popularity": 7.3628
       },
       {
         "id": 1297467,
@@ -47099,7 +47105,7 @@
         "posterPath": "/dxgcsMjFSJkNUbSjRpRs8UYui2H.jpg",
         "mediaType": "movie",
         "overview": "A small-town rookie detective takes on a case involving inconceivable darkness.",
-        "popularity": 1.0294
+        "popularity": 1.2632
       },
       {
         "id": 1487395,
@@ -47108,7 +47114,7 @@
         "posterPath": "/qgJzrvYmpVBH6GYwnFT8N5sWhsB.jpg",
         "mediaType": "movie",
         "overview": "The sixth season finale of the popular Biblical television series, following Jesus' arrest and trial leading up to His crucifixion.",
-        "popularity": 0.3793
+        "popularity": 0.4088
       },
       {
         "id": 1495044,
@@ -47117,7 +47123,7 @@
         "posterPath": "/fzXqKE1645nqc3ncWToKUH5AkPT.jpg",
         "mediaType": "movie",
         "overview": "The phrase \"Born Sexy Yesterday\" is derived from the 1950 film \"Born Yesterday.\" However beneath this superficial portrayal of some women lies a more complex understanding , revealing deeper narratives that resonate with many.  October 1, 1985. The chilling emptiness in Michele Avila's eyes. Her murder, a savage ballet of teenage fury, ripped through the town, festering wounds exposing the venomous underbelly of a seemingly innocent friendship. Jealousy, a serpent coiled in the heart of adolescence, struck with the force of a viper, revealing the terrifying depths of envy's reach. These weren't just girls; they were predators.  Women are born with many layers, a mix between good and evil. Ironically of all the positive tropes that can validate the existence of women, why is it that \"Born Sexy Yesterday\" is a trope that resonates with our male counterparts the most?",
-        "popularity": 0.4289
+        "popularity": 0.3767
       },
       {
         "id": 1364206,
@@ -47126,7 +47132,7 @@
         "posterPath": "/aSdQbXMaQIIj6KZFTFnJrRFdAeL.jpg",
         "mediaType": "movie",
         "overview": "The final chapter.\r Balthasar turned all wimen on earth in to Merle and starts his conquest to rule the whole world.\r Nick and Luca the two only survivors of the deadly conflict angainst Balthasar, are trying to build a team that could stop the purple gigant from dominating the mordern world.\r Balthasar and the Boys are are pitted against each other in an epic battle that will determine the fate of Merle, Balthasar, the Boys and the future for even human beeing on earth.",
-        "popularity": 0.2131
+        "popularity": 0.1503
       },
       {
         "id": 1702778,
@@ -47135,7 +47141,7 @@
         "posterPath": "/5objvLeZTI5oBGHeu5D2hG0EksB.jpg",
         "mediaType": "movie",
         "overview": "",
-        "popularity": 0.1928
+        "popularity": 0.3098
       },
       {
         "id": 1398195,
@@ -47144,7 +47150,7 @@
         "posterPath": "/kYSn0aSLSvOdlwa7tx5scvc1Y3y.jpg",
         "mediaType": "movie",
         "overview": "Vignesh, a skilled swimmer, thinks winning in the pool is all he needs for success. But when his teammate Aanya quits swimming to focus on studies, he starts rethinking his choices. Struggling with school and swimming, Vignesh feels lost until his mom encourages him to find balance. With hard work, he improves in both and learns that real success comes from giving your best in all areas of life.",
-        "popularity": 0.1898
+        "popularity": 0.2335
       },
       {
         "id": 1288438,
@@ -47153,7 +47159,7 @@
         "posterPath": "/gEGDDG6QMDFZ1sV32CGxvzaVPnv.jpg",
         "mediaType": "movie",
         "overview": "As the sixth installment in the MonsterVerse film series, this movie will delve deeper into the delicate relationship of coexistence and trust between humans and prehistoric behemoths. Meanwhile, the earth-shaking monster storm triggered by the epic clash between Godzilla and Kong, the two guardians of Earth’s ecological balance, will once again sweep across the big screen!",
-        "popularity": 2.6442
+        "popularity": 3.5259
       },
       {
         "id": 1266643,
@@ -47162,7 +47168,7 @@
         "posterPath": "/ztMNpLBbUS3RnFHmc3c9djKA73m.jpg",
         "mediaType": "movie",
         "overview": "A cruise ship bartender meets a mysterious day drinker, only for both of them to find themselves entangled in a criminal underbelly and connected in unexpected ways.",
-        "popularity": 0.9007
+        "popularity": 0.978
       },
       {
         "id": 1208917,
@@ -47171,7 +47177,7 @@
         "posterPath": null,
         "mediaType": "movie",
         "overview": "Home-loving eagle Salana is forced out of her jungle bird colony to join Pirro, an intrepid swift and member of the Animal Air Force. This unlikely duo embarks on an epic, high-flying adventure to stop a malevolent AI and save the world.",
-        "popularity": 0.709
+        "popularity": 0.617
       },
       {
         "id": 1263022,
@@ -47180,7 +47186,7 @@
         "posterPath": null,
         "mediaType": "movie",
         "overview": "Saunders, a headstrong Bronx teenager, is caught between his love of Litefeet subway dancing and his strict's insistence on becoming an engineer.",
-        "popularity": 0.725
+        "popularity": 0.8745
       },
       {
         "id": 1533611,
@@ -47189,7 +47195,7 @@
         "posterPath": null,
         "mediaType": "movie",
         "overview": "A grieving mother's ancient curse targets a troubled family, forcing them to confront their own hidden past while fighting to survive her supernatural wrath.",
-        "popularity": 0.478
+        "popularity": 0.5095
       },
       {
         "id": 1536163,
@@ -47198,7 +47204,7 @@
         "posterPath": null,
         "mediaType": "movie",
         "overview": "Álvaro and his ex-wife Saffron attempt to set aside the drama of their messy divorce for the sake of their daughter Rose.",
-        "popularity": 0.2816
+        "popularity": 0.4308
       },
       {
         "id": 556682,
@@ -47207,7 +47213,7 @@
         "posterPath": null,
         "mediaType": "movie",
         "overview": "A former special forces commando, down on his luck after returning Stateside, is recruited by the DEA to lead a covert black ops team to take down CIA-protected drug dealers.",
-        "popularity": 1.4904
+        "popularity": 1.8042
       },
       {
         "id": 1702782,
@@ -47216,7 +47222,7 @@
         "posterPath": "/mZ1srJ7CdHKuJD6TdRkVVfl4QrZ.jpg",
         "mediaType": "movie",
         "overview": "",
-        "popularity": 0.1318
+        "popularity": 0.1269
       },
       {
         "id": 1306322,
@@ -47225,7 +47231,7 @@
         "posterPath": "/cb9y8JiwXoC1iss4yUjuspJcpsJ.jpg",
         "mediaType": "movie",
         "overview": "Described as \"a non-prequel non-reboot sequel part two but with reboot elements franchise expansion film\". Plot TBA.",
-        "popularity": 1.5615
+        "popularity": 1.847
       },
       {
         "id": 1548004,
@@ -47234,7 +47240,7 @@
         "posterPath": "/3TuA5sHwVg4Rmg0llFkZr2qdQTf.jpg",
         "mediaType": "movie",
         "overview": "A continuation of the events following the end of the TV series 'The Summer I Turned Pretty.\"",
-        "popularity": 0.5779
+        "popularity": 0.6281
       },
       {
         "id": 1177369,
@@ -47243,7 +47249,16 @@
         "posterPath": "/obcEXMMrwSRIloR77egWSwOjZM2.jpg",
         "mediaType": "movie",
         "overview": "A live-action adaptation of Nintendo's Legend of Zelda video game series.",
-        "popularity": 0.9183
+        "popularity": 1.2742
+      },
+      {
+        "id": 1589027,
+        "title": "Thomas",
+        "releaseDate": "2027-04-30",
+        "posterPath": "/aU5NibbctLSKpgPHjAFahFvRBiS.jpg",
+        "mediaType": "movie",
+        "overview": "In development.",
+        "popularity": 0.172
       },
       {
         "id": 532652,
@@ -47252,7 +47267,7 @@
         "posterPath": "/3whNFkaetqVQt72bcBboptuwOxU.jpg",
         "mediaType": "movie",
         "overview": "The first part of a two-part sequel to The Passion of the Christ. Plot TBA.",
-        "popularity": 3.0911
+        "popularity": 3.3374
       },
       {
         "id": 1109469,
@@ -47261,7 +47276,7 @@
         "posterPath": null,
         "mediaType": "movie",
         "overview": "January Andrews, a successful romance novelist, struggles with grief and writer’s block after her father’s death and the discovery of secrets he’s long kept hidden. While spending the summer in his Michigan beach house to prepare it for sale, she unexpectedly reconnects with Gus Everett, an author who was once her rival in college. Both creatively stuck, they agree to a writing challenge over the summer, swapping literary genres while promising that there will be no romance between them.",
-        "popularity": 0.4595
+        "popularity": 0.7439
       },
       {
         "id": 1228670,
@@ -47270,7 +47285,7 @@
         "posterPath": null,
         "mediaType": "movie",
         "overview": "The Rewind is a time-travel action movie about a man, Russel, who wakes up one day to discover that he is in a world where time plays in reverse except for him. As he tries to figure out what happened, he realizes that someone has stolen a watch that messes up time and reality. He teams up with a group of people to try to find the person who stole the watch and fix time. Along the way, he discovers the past and has to come to terms with his life and relationships.",
-        "popularity": 0.2248
+        "popularity": 0.2461
       },
       {
         "id": 1592452,
@@ -47279,7 +47294,7 @@
         "posterPath": "/5qwFilGZbYaXHLG4I1Kp82bwbGL.jpg",
         "mediaType": "movie",
         "overview": "In the 1990s, the story returns to the roots of evil to reveal the secrets hidden behind the fire at Katie and Kristi’s house, and the dark bond that would mark Hunter’s destiny forever.",
-        "popularity": 1.16
+        "popularity": 1.6523
       },
       {
         "id": 1138528,
@@ -47288,7 +47303,16 @@
         "posterPath": "/h0JbLsPVEJModp73t2Os7a3z8Ay.jpg",
         "mediaType": "movie",
         "overview": "An original musical comedy that follows a delightfully subversive gang of fairies as they shake up their magical world.",
-        "popularity": 0.7274
+        "popularity": 1.0529
+      },
+      {
+        "id": 1677482,
+        "title": "Jazz Suave",
+        "releaseDate": "2027-05-20",
+        "posterPath": "/skpQrhVGgkxqMl0dKE064omNIlj.jpg",
+        "mediaType": "movie",
+        "overview": "Amid the frenetic pace of New York City, a group of young musicians confronts the paradox of pursuing a professional career in the world of jazz while struggling for economic survival. Their experience highlights how, at times, artistic life and financial stability appear to follow irreconcilable paths.",
+        "popularity": 0.1267
       },
       {
         "id": 1273739,
@@ -47297,7 +47321,7 @@
         "posterPath": null,
         "mediaType": "movie",
         "overview": "Described as a two-hander rom com. Plot TBA.",
-        "popularity": 0.7494
+        "popularity": 0.7706
       },
       {
         "id": 1702789,
@@ -47306,16 +47330,16 @@
         "posterPath": "/eCZpBsBQhdBPCDEjX1DOtf9qcfW.jpg",
         "mediaType": "movie",
         "overview": "",
-        "popularity": 0.1442
+        "popularity": 0.3572
       },
       {
         "id": 1417668,
         "title": "Star Wars: Starfighter",
         "releaseDate": "2027-05-26",
-        "posterPath": "/dwvXFWUQzivh6mizZGKQhYOPV83.jpg",
+        "posterPath": "/aUSQtKgQ0GNKJzXXJ6fY0auadjo.jpg",
         "mediaType": "movie",
         "overview": "An original story set approximately five years after the events of Star Wars: The Rise of Skywalker.",
-        "popularity": 2.2544
+        "popularity": 2.4972
       },
       {
         "id": 1191876,
@@ -47324,7 +47348,7 @@
         "posterPath": "/aEUH2ECoZHvSmoMzJpca0STF2CZ.jpg",
         "mediaType": "movie",
         "overview": "Jailed for her husband's crime, a woman discovers that her only way out is to solve riddles from her mysterious past.",
-        "popularity": 14.9065
+        "popularity": 15.3452
       },
       {
         "id": 1150369,
@@ -47333,7 +47357,7 @@
         "posterPath": "/wOwKjgyJDcT4PqgX1WrpARQarWf.jpg",
         "mediaType": "movie",
         "overview": "The origin story of a young John Rambo during the Vietnam War.",
-        "popularity": 1.044
+        "popularity": 1.5091
       },
       {
         "id": 1458319,
@@ -47342,16 +47366,7 @@
         "posterPath": "/6VlnDSuTmBPW6a45Qxp5qeDINBq.jpg",
         "mediaType": "movie",
         "overview": "The second live-action adaptation of the animated trilogy. Plot TBA.",
-        "popularity": 1.6771
-      },
-      {
-        "id": 1623944,
-        "title": "Applause",
-        "releaseDate": "2027-06-11",
-        "posterPath": "/8IEBi5cpilFpij213y6R5fWxnG0.jpg",
-        "mediaType": "movie",
-        "overview": "Two teenagers encounter a rock that gives them the power to switch places with the clap of their hands. However, one of the boys struggles with bullying, relationship issues, and sexual identity as he tries to navigate the world as a young adolescent.",
-        "popularity": 0.1703
+        "popularity": 2.2045
       },
       {
         "id": 1690834,
@@ -47360,7 +47375,7 @@
         "posterPath": "/e9piwMFr44OzsfzDQUM4XAd0H0p.jpg",
         "mediaType": "movie",
         "overview": "We follow the day to day life of Rylee, a girl navigating the harsh realities of homelessness and addiction. Every choice becomes a matter of survival-forcing her into situations no one should have to face as she struggles to find money, meaning, and a way forward.",
-        "popularity": 0.1879
+        "popularity": 0.172
       },
       {
         "id": 911916,
@@ -47369,7 +47384,7 @@
         "posterPath": "/9PIhQqqI6Q4a5YjwMjxvzZcPJhf.jpg",
         "mediaType": "movie",
         "overview": "Hunted by Miguel O'Hara's Spider Society and betrayed by his friends, Miles finds himself in the darkest corners of the Spider-Verse in search of a way home. Knowing that his family has been not only fractured but endangered by his calling, it's a race against the clock for Miles to travel across the wildest reaches of time and space to fight for and reunite everything he holds most dear.",
-        "popularity": 4.2803
+        "popularity": 5.3338
       },
       {
         "id": 1697350,
@@ -47378,7 +47393,7 @@
         "posterPath": "/faBDXj56pGT88AMaJgYe2ldvMqm.jpg",
         "mediaType": "movie",
         "overview": "ln 1891 Arizona, a gritty frontier sheriff wages a bloody war against a murderous cult leader and his crazed followers after they kill her deputy, forging  an unlikely alliance with Apache warriors, a grizzled outlaw and a U.S. Marshal to bring retribution to the lawless outlying territory of Black Creek.",
-        "popularity": 0.287
+        "popularity": 0.3227
       },
       {
         "id": 1221973,
@@ -47387,7 +47402,7 @@
         "posterPath": null,
         "mediaType": "movie",
         "overview": "Before Danny Ocean ever stepped foot in Vegas, two masterminds taught him everything he knows — his parents. And in 1962, they pull off an epic heist during the Formula One Monaco Grand Prix.",
-        "popularity": 1.1712
+        "popularity": 0.9731
       },
       {
         "id": 1623967,
@@ -47396,7 +47411,7 @@
         "posterPath": null,
         "mediaType": "movie",
         "overview": "A lakeside bachelor party weekend devolves into chaos when the groom and his best man’s past romantic feelings reignite, entangling the wedding party in the chaotic pre-wedding drama",
-        "popularity": 0.3953
+        "popularity": 0.6725
       },
       {
         "id": 421892,
@@ -47405,7 +47420,7 @@
         "posterPath": "/8XwmMjwiQ91Rm0eU4AcxyFA3XUZ.jpg",
         "mediaType": "movie",
         "overview": "The fifth film in the Shrek franchise. Plot TBA.",
-        "popularity": 4.4748
+        "popularity": 4.7953
       },
       {
         "id": 1523140,
@@ -47414,7 +47429,7 @@
         "posterPath": "/6z8ph9ZTs1qloAKuHbEZFNz4w2v.jpg",
         "mediaType": "movie",
         "overview": "Superman and Lex Luthor team up to face a larger threat. Plot TBA.",
-        "popularity": 2.6113
+        "popularity": 2.8693
       },
       {
         "id": 656618,
@@ -47423,16 +47438,16 @@
         "posterPath": "/4ciGq6LMflg2AkmUxx5XAMmg8FN.jpg",
         "mediaType": "movie",
         "overview": "After he accidentally sparked a revolution against Gretsch, the bossy diva-owl who has banned all music from his town, a teenage squirrel named Wirral embarks on an extraordinary journey to set music free.",
-        "popularity": 1.6685
+        "popularity": 2.1177
       },
       {
         "id": 1461519,
-        "title": "A Minecraft Sequel",
+        "title": "A Minecraft Movie Squared",
         "releaseDate": "2027-07-22",
-        "posterPath": "/etAUG9KmbStyEKmbdd4wIvyJpV5.jpg",
+        "posterPath": "/dTlFgQFiILG6stHBhXMDXblgdCw.jpg",
         "mediaType": "movie",
         "overview": "The second installment in the franchise. Plot TBA.",
-        "popularity": 3.42
+        "popularity": 3.4816
       },
       {
         "id": 1528628,
@@ -47441,7 +47456,7 @@
         "posterPath": "/v2YODdeJjPtpNyUwoRYgQ246Vlg.jpg",
         "mediaType": "movie",
         "overview": "A documentary on Jaws: The Revenge (1987) that celebrates the films 40th Anniversary and its achieved fandom since its release.",
-        "popularity": 0.7535
+        "popularity": 0.9109
       },
       {
         "id": 1324923,
@@ -47450,7 +47465,7 @@
         "posterPath": "/37XcaePjgtaga0gB3dFNSc7QnuS.jpg",
         "mediaType": "movie",
         "overview": "The third installment in the franchise. Plot TBA.",
-        "popularity": 2.6214
+        "popularity": 2.438
       },
       {
         "id": 1305810,
@@ -47459,7 +47474,7 @@
         "posterPath": null,
         "mediaType": "movie",
         "overview": "The film is set at Aztec Corp., a company that auctions off ancient antiquities and semi-distinct wild exotic animals.",
-        "popularity": 0.4476
+        "popularity": 0.4932
       },
       {
         "id": 1573515,
@@ -47468,7 +47483,7 @@
         "posterPath": null,
         "mediaType": "movie",
         "overview": "Five washed-up heroes reunite to pilot their giant robot and save the world.",
-        "popularity": 0.2197
+        "popularity": 0.2145
       },
       {
         "id": 1403836,
@@ -47477,7 +47492,7 @@
         "posterPath": "/wUiL0OTK3EPRyQfdQkEU4Ma87V2.jpg",
         "mediaType": "movie",
         "overview": "Based on the TV series of the same name. Plot TBA.",
-        "popularity": 0.7927
+        "popularity": 1.0176
       },
       {
         "id": 1156621,
@@ -47486,7 +47501,7 @@
         "posterPath": "/yukp9qq3JmgatfMSGnxdyn6jtRX.jpg",
         "mediaType": "movie",
         "overview": "Donnie, Raph, Leo, and Mikey are back for their next adventure with Master Splinter, the Mutants, April, and a new villain they have to face: The Shredder.",
-        "popularity": 2.2267
+        "popularity": 2.6644
       },
       {
         "id": 1572400,
@@ -47495,16 +47510,7 @@
         "posterPath": null,
         "mediaType": "movie",
         "overview": "A ne'er-do-well smuggler finds himself in the middle of a deadly double-cross while on a job in the Caribbean Sea, resulting in him getting surrounded by bodies, hostile mercenaries and thirsty sharks alike, all while stuck in a deathly time loop and scrambling to break the cycle.",
-        "popularity": 1.1227
-      },
-      {
-        "id": 1617805,
-        "title": "Prompt: Make a Documentary",
-        "releaseDate": "2027-08-31",
-        "posterPath": "/oUCZ15Xdx1z4CchZA0nC3w6MDvq.jpg",
-        "mediaType": "movie",
-        "overview": "Prompt: Make a Documentary investigates the growing influence of artificial intelligence on the film industry.  The documentary places the rise of AI within the broader historical context of cinema’s evolution, drawing parallels with earlier technological shifts such as the introduction of sound, colour, and digital visual effects. By revisiting landmark moments in film history, the film demonstrates that disruption has always been part of cinema’s DNA, while questioning whether AI represents a fundamentally different kind of change.  Featuring insights from directors, academics, and practitioners, Prompt: Make a Documentary explores the tension between innovation and integrity, the democratisation of creative tools, and the ethical implications of automation in the arts. The film ultimately asks whether artificial intelligence will empower the next generation of storytellers or redefine creativity itself.",
-        "popularity": 0.2217
+        "popularity": 0.8287
       },
       {
         "id": 1554353,
@@ -47513,7 +47519,7 @@
         "posterPath": "/6bWJH0s0X2cTynececEJSnfbNn9.jpg",
         "mediaType": "movie",
         "overview": "The sequel to the 2007 film. Plot TBA.",
-        "popularity": 0.779
+        "popularity": 1.0863
       },
       {
         "id": 1544162,
@@ -47522,7 +47528,7 @@
         "posterPath": null,
         "mediaType": "movie",
         "overview": "A prequel in the franchise. Plot TBA.",
-        "popularity": 0.8258
+        "popularity": 0.9829
       },
       {
         "id": 1380780,
@@ -47531,7 +47537,7 @@
         "posterPath": "/xBlpO2hKSUtszLIb1Ink1kaDPn4.jpg",
         "mediaType": "movie",
         "overview": "A ruthless Roman emperor discovers a secluded Druid stronghold in the mountains of Caledonia, the last remnant of the mystical tribe. When the imperial legions threaten to annihilate the ancient civilization, a peaceful Celtic elder is forced to betray his vow of pacifism and to take up arms to defend his family from the inexorable advance of the Empire in a clash that will decide the fate of an entire culture.",
-        "popularity": 1.357
+        "popularity": 1.6369
       },
       {
         "id": 1068401,
@@ -47540,7 +47546,7 @@
         "posterPath": null,
         "mediaType": "movie",
         "overview": "The second part in the Terra trilogy.",
-        "popularity": 0.1527
+        "popularity": 0.1915
       },
       {
         "id": 806704,
@@ -47549,7 +47555,7 @@
         "posterPath": "/qv4YTyxvaujP79a5XZJ6F4G8Nyi.jpg",
         "mediaType": "movie",
         "overview": "Sequel to the 2022 film The Batman.",
-        "popularity": 2.5368
+        "popularity": 2.8289
       },
       {
         "id": 1574840,
@@ -47558,7 +47564,7 @@
         "posterPath": "/ihR2uqtz5Gn37g5gIZ2SEO2n6N1.jpg",
         "mediaType": "movie",
         "overview": "The fourth installment in franchise. Plot TBA.",
-        "popularity": 1.9466
+        "popularity": 2.0188
       },
       {
         "id": 1589394,
@@ -47567,7 +47573,7 @@
         "posterPath": "/9U47rZV70QK0v1vrZ4DjpsnOro7.jpg",
         "mediaType": "movie",
         "overview": "In development.",
-        "popularity": 0.1583
+        "popularity": 0.1848
       },
       {
         "id": 1202568,
@@ -47576,7 +47582,7 @@
         "posterPath": "/dRHVocnmLsXLxnAYZqc2fLJf4o1.jpg",
         "mediaType": "movie",
         "overview": "A student researching sleep paralysis slips into a lucid nightmare.",
-        "popularity": 0.3064
+        "popularity": 0.2594
       },
       {
         "id": 1701671,
@@ -47594,7 +47600,7 @@
         "posterPath": "/lkSJhMdNUoaKgYfSheRGzBUeYxI.jpg",
         "mediaType": "movie",
         "overview": "When a mysterious sound is heard on an exploration ship, the crew meets to discuss the problems - all while a murderer from another world picks them off one by one. Now in development.  Releases in 2027",
-        "popularity": 0.3568
+        "popularity": 0.2324
       },
       {
         "id": 1290568,
@@ -47603,7 +47609,7 @@
         "posterPath": null,
         "mediaType": "movie",
         "overview": "When Santa goes missing Christmas Eve, his wife Margie Claus has to assemble a rag-tag team of long-retired reindeer to rescue Santa and save Christmas",
-        "popularity": 0.6189
+        "popularity": 0.8391
       },
       {
         "id": 1413533,
@@ -47612,7 +47618,7 @@
         "posterPath": "/zDRwl5qTqPJgNoc8pkQkDnXRSYF.jpg",
         "mediaType": "movie",
         "overview": "A live-action film based on the video game. Plot TBA.",
-        "popularity": 1.0865
+        "popularity": 1.2925
       },
       {
         "id": 1423577,
@@ -47621,7 +47627,7 @@
         "posterPath": null,
         "mediaType": "movie",
         "overview": "The third installment in the franchise. Plot TBA.",
-        "popularity": 1.5432
+        "popularity": 1.9168
       },
       {
         "id": 1651461,
@@ -47630,7 +47636,7 @@
         "posterPath": null,
         "mediaType": "movie",
         "overview": "Described as involving global warming, time travel, and a possible superhero angle within two timelines — one set in the 1980s and one set in present day. Plot TBA.",
-        "popularity": 0.8873
+        "popularity": 0.9462
       },
       {
         "id": 1024604,
@@ -47639,7 +47645,7 @@
         "posterPath": "/1gCNk9EXATgTVmWvQgFuYC4tZQd.jpg",
         "mediaType": "movie",
         "overview": "Third installment in the Disney animated franchise. Plot TBA",
-        "popularity": 1.9975
+        "popularity": 2.389
       },
       {
         "id": 1090869,
@@ -47648,7 +47654,7 @@
         "posterPath": "/aRtIVdlgVNtvcqFUnuhR3V1RQ7o.jpg",
         "mediaType": "movie",
         "overview": "The film takes place early in the events of The Fellowship of the Ring — specifically in the gap between Bilbo’s 111th birthday celebration and Gandalf’s return to Bag End after confirming that Frodo possesses the One Ring. During this unseen period, Aragorn and Gandalf secretly hunt for Gollum before Sauron’s forces can find him first. The story centers largely on Gollum’s perspective, following his flight, paranoia, and survival as multiple powers race to track him down.",
-        "popularity": 1.9814
+        "popularity": 2.2471
       },
       {
         "id": 1003598,
@@ -47657,7 +47663,7 @@
         "posterPath": "/f0YBuh4hyiAheXhh4JnJWoKi9g5.jpg",
         "mediaType": "movie",
         "overview": "An upcoming film in Phase Six of the Marvel Cinematic Universe (MCU) and the finale of The Multiverse Saga. Plot TBA.",
-        "popularity": 4.5933
+        "popularity": 5.4364
       },
       {
         "id": 1611116,
@@ -47666,16 +47672,7 @@
         "posterPath": "/wN9UPRZ5jbL9n3wIkZSrVov1dC2.jpg",
         "mediaType": "movie",
         "overview": "Millie Calloway takes a job keeping house for a woman she's never allowed to see — only to discover the truth behind the locked door that threatens to expose secrets far darker than her own.",
-        "popularity": 1.5868
-      },
-      {
-        "id": 1189041,
-        "title": "Esther's Comet",
-        "releaseDate": "2027-12-17",
-        "posterPath": "/3UC0GtGwxVZyY8rPJ2MFwiNX9sv.jpg",
-        "mediaType": "movie",
-        "overview": "In dreams, Anthony is a villager who enjoys a fruitful lifestyle, helping his neighbourhood and creating unique friendships with the townsfolk. When he suddenly sees his long lost biological parents in one of his dreams, he journeys through his subconscious in an attempt to find them and potentially reconnect. However, throughout his journey, he crosses from his own dreamworld into an astral plane, of which he cannot return from.",
-        "popularity": 0.1509
+        "popularity": 1.5055
       },
       {
         "id": 1670080,
@@ -47684,7 +47681,7 @@
         "posterPath": "/bUwerUHi2ZbxELYs2uWo6Bsa67L.jpg",
         "mediaType": "movie",
         "overview": "A plant broke their biggest rule: “never talk to humans.”",
-        "popularity": 0.345
+        "popularity": 0.2927
       },
       {
         "id": 1211637,
@@ -47693,7 +47690,7 @@
         "posterPath": null,
         "mediaType": "movie",
         "overview": "A sadistic pedophile mall Santa is arrested after a group of kids alarm local adults and police of his activity. Years later, the pedophile escapes from prison during a blackout. Donning his Santa Claus uniform and wielding a fire axe, the pedophile begins hunting down the now grown-up children one by one.",
-        "popularity": 0.297
+        "popularity": 0.2605
       },
       {
         "id": 1702168,
@@ -47711,7 +47708,7 @@
         "posterPath": null,
         "mediaType": "movie",
         "overview": "A filmmaker and producer who were once romantic and creative partners reunite years after their breakup to make a new movie together, navigating their complicated relationship while dealing with volatile stars on their high-stakes production.",
-        "popularity": 1.3071
+        "popularity": 1.0467
       },
       {
         "id": 1299747,
@@ -47720,19 +47717,10 @@
         "posterPath": "/jgjP3Lv2qPnnpKyV8TLZmPMN3bQ.jpg",
         "mediaType": "movie",
         "overview": "Reese finds herself in the desert after a party when her drunken girlfriend hurts someone. When she wakes up, they are preparing for the same party. The time is ticking to solve the time loop, while those around her become increasingly beaten and broken, mentally and physically.",
-        "popularity": 0.2644
+        "popularity": 0.2412
       }
     ],
     "2028": [
-      {
-        "id": 1656677,
-        "title": "Ordinary Heroes",
-        "releaseDate": "2028-01-01",
-        "posterPath": null,
-        "mediaType": "movie",
-        "overview": "Ordinary Heroes follows Matthew Arnold, a free-spirited, creative father and husband who dons a superhero suit to cheer up children in crisis — only to discover that real strength lies not in the costume, but in the resilience of family and friends who teach him what it truly means to be courageous as he overcomes his greatest battle yet.",
-        "popularity": 0.2347
-      },
       {
         "id": 1643101,
         "title": "Untitled Feature Baseball Documentary",
@@ -47740,7 +47728,16 @@
         "posterPath": null,
         "mediaType": "movie",
         "overview": "An upcoming feature-length documentary on one of the most important baseball games every played.",
-        "popularity": 0.0899
+        "popularity": 0.1372
+      },
+      {
+        "id": 1656677,
+        "title": "Ordinary Heroes",
+        "releaseDate": "2028-01-01",
+        "posterPath": null,
+        "mediaType": "movie",
+        "overview": "Ordinary Heroes follows Matthew Arnold, a free-spirited, creative father and husband who dons a superhero suit to cheer up children in crisis — only to discover that real strength lies not in the costume, but in the resilience of family and friends who teach him what it truly means to be courageous as he overcomes his greatest battle yet.",
+        "popularity": 0.1216
       },
       {
         "id": 1682648,
@@ -47749,7 +47746,7 @@
         "posterPath": "/fwVf2pJf6z2Y9P4NPTPXMAiGAX2.jpg",
         "mediaType": "movie",
         "overview": "The Current is an upcoming psychological horror movie based on the real events at Lady Bird Lake. It is currenting in early production with no set release period/time.",
-        "popularity": 0.0472
+        "popularity": 0.0543
       },
       {
         "id": 1657157,
@@ -47758,7 +47755,7 @@
         "posterPath": null,
         "mediaType": "movie",
         "overview": "Two estranged brothers search Dartmoor for their father's inheritance, but end up discovering more than they bargained for.",
-        "popularity": 0.0434
+        "popularity": 0.0398
       },
       {
         "id": 1436525,
@@ -47767,7 +47764,7 @@
         "posterPath": "/bTlih7I3pqlRIQ5JcMuXOuPouPW.jpg",
         "mediaType": "movie",
         "overview": "A Metalhead makes a deal with God...  This film follows the intertwining meanderings of some typical Letterkenny residents over a few highly eventful days. Some are good, some are bad, some are morally vague. All are trapped in the same town. This film is about getting out. It's about breaking the shackles that hold you back by any means necessary, even if that means embracing utter chaos. It's about standing up to your outer demon. It's about friendship. It's about blossoming love. It's about dodgy-looking drugs. It will wreck your head. Or at the very least, it will make you question what kind of God you have.",
-        "popularity": 0.0602
+        "popularity": 0.0565
       },
       {
         "id": 1671441,
@@ -47776,7 +47773,7 @@
         "posterPath": "/5qfQvRmYCgPXHwmZAWGWgEDVNuZ.jpg",
         "mediaType": "movie",
         "overview": "Set in the Longlegs universe. Plot TBA.",
-        "popularity": 0.4485
+        "popularity": 0.486
       },
       {
         "id": 1188748,
@@ -47785,7 +47782,7 @@
         "posterPath": null,
         "mediaType": "movie",
         "overview": "A feature adaptation of the classic TV series. Plot TBA.",
-        "popularity": 0.4256
+        "popularity": 0.3147
       },
       {
         "id": 1625381,
@@ -47794,7 +47791,7 @@
         "posterPath": null,
         "mediaType": "movie",
         "overview": "The sequel to the 2025 film. Plot TBA.",
-        "popularity": 0.2223
+        "popularity": 0.2966
       },
       {
         "id": 1388496,
@@ -47803,7 +47800,7 @@
         "posterPath": null,
         "mediaType": "movie",
         "overview": "Yamazaki’s first English language film. Plot TBA.",
-        "popularity": 0.3946
+        "popularity": 0.6746
       },
       {
         "id": 1485839,
@@ -47812,7 +47809,7 @@
         "posterPath": "/3ApvUAl0aw6TKKLkJH3IrEzPpIf.jpg",
         "mediaType": "movie",
         "overview": "A live-action adaptation of the dark fantasy video game. Plot TBA.",
-        "popularity": 1.2589
+        "popularity": 1.3027
       },
       {
         "id": 1647603,
@@ -47821,7 +47818,7 @@
         "posterPath": "/6Yf4Yn1UaI3eJN6T14dvSluf56H.jpg",
         "mediaType": "movie",
         "overview": "Inspired by Asian myths about supernatural bazaars where the living & dead interact. Plot TBA.",
-        "popularity": 0.341
+        "popularity": 0.3595
       },
       {
         "id": 1696624,
@@ -47830,7 +47827,7 @@
         "posterPath": "/i3rzicrCtOe4WD2Irzyly2ZMkKs.jpg",
         "mediaType": "movie",
         "overview": "Fake animated documentary of the creation of colorful blobs, created way before dinosaurs and men. Plot TBA",
-        "popularity": 0.0239
+        "popularity": 0.0311
       },
       {
         "id": 755679,
@@ -47839,7 +47836,7 @@
         "posterPath": "/xaRzhQZ3zK5lN6vEetG8PD17KPF.jpg",
         "mediaType": "movie",
         "overview": "The eleventh and final installment in The Fast Saga. Plot TBA.",
-        "popularity": 7.1262
+        "popularity": 8.1783
       },
       {
         "id": 748865,
@@ -47848,7 +47845,7 @@
         "posterPath": "/rf0EFUEN4hV41FjaQsbaB274A3g.jpg",
         "mediaType": "movie",
         "overview": "A globetrotting animated musical which follows a young adventurer as they journey the joys and heartaches, and the peaks and the valleys of life.",
-        "popularity": 0.694
+        "popularity": 0.6905
       },
       {
         "id": 1488743,
@@ -47857,7 +47854,7 @@
         "posterPath": null,
         "mediaType": "movie",
         "overview": "The seventh season premiere of the popular Biblical television series following Jesus' crucifixion and His Resurrection will be theatrically released in 2028.",
-        "popularity": 0.233
+        "popularity": 0.2057
       },
       {
         "id": 1247603,
@@ -47866,16 +47863,7 @@
         "posterPath": "/8CYUp3jCSc86WvkLRGAQcepImeV.jpg",
         "mediaType": "movie",
         "overview": "One of four biopics, focusing on individual members of The Beatles, this one telling the story of the group from the perspective of George Harrison.",
-        "popularity": 1.3703
-      },
-      {
-        "id": 1247601,
-        "title": "The Beatles: John",
-        "releaseDate": "2028-04-05",
-        "posterPath": "/lx8XZ4HvfEZd82M2YuJUy6qNSUR.jpg",
-        "mediaType": "movie",
-        "overview": "One of four biopics, focusing on individual members of The Beatles, this one telling the story of the group from the perspective of John Lennon.",
-        "popularity": 1.208
+        "popularity": 1.6764
       },
       {
         "id": 1247605,
@@ -47884,7 +47872,16 @@
         "posterPath": "/cT39aUoRyitmhbB45w5UFKhBRIW.jpg",
         "mediaType": "movie",
         "overview": "One of four biopics, focusing on individual members of The Beatles, this one telling the story of the group from the perspective of Paul McCartney.",
-        "popularity": 1.1733
+        "popularity": 1.6754
+      },
+      {
+        "id": 1247601,
+        "title": "The Beatles: John",
+        "releaseDate": "2028-04-05",
+        "posterPath": "/lx8XZ4HvfEZd82M2YuJUy6qNSUR.jpg",
+        "mediaType": "movie",
+        "overview": "One of four biopics, focusing on individual members of The Beatles, this one telling the story of the group from the perspective of John Lennon.",
+        "popularity": 1.4142
       },
       {
         "id": 1247606,
@@ -47893,7 +47890,7 @@
         "posterPath": "/ovDjgp1ZBDvLY3Yrh6s7qS8Zxgy.jpg",
         "mediaType": "movie",
         "overview": "One of four biopics, focusing on individual members of The Beatles, this one telling the story of the group from the perspective of Ringo Starr.",
-        "popularity": 0.7052
+        "popularity": 0.7428
       },
       {
         "id": 1280608,
@@ -47902,7 +47899,7 @@
         "posterPath": "/r10fSbmxDipJG6VOyt9nkX3zEbx.jpg",
         "mediaType": "movie",
         "overview": "An original story set in Evil Dead universe. Plot TBA.",
-        "popularity": 0.8145
+        "popularity": 0.9342
       },
       {
         "id": 1566914,
@@ -47911,7 +47908,7 @@
         "posterPath": "/uhLjwIbZx4UzxwplY2oR6KxDkk7.jpg",
         "mediaType": "movie",
         "overview": "Two cowboys, both former outlaws, are forced to find their way home after their camp is raided by the Dust Devils. On their journey to a new camp in Arizona, they must evade both the law and the Dust Devils across Colorado.",
-        "popularity": 0.1648
+        "popularity": 0.1654
       },
       {
         "id": 1505252,
@@ -47920,7 +47917,7 @@
         "posterPath": "/pSyFYidTEa9mCyfXy5EWaPK9IxV.jpg",
         "mediaType": "movie",
         "overview": "The seventh installment in the Final Destination franchise. Plot TBA.",
-        "popularity": 0.7272
+        "popularity": 0.9906
       },
       {
         "id": 1597817,
@@ -47929,7 +47926,7 @@
         "posterPath": "/xQzicS5SesBbd86ySg44xyGBGns.jpg",
         "mediaType": "movie",
         "overview": "Future film based on the life of Maria Goretti.",
-        "popularity": 0.0143
+        "popularity": 0.051
       },
       {
         "id": 1467853,
@@ -47938,7 +47935,7 @@
         "posterPath": null,
         "mediaType": "movie",
         "overview": "Explores the glamour and corruption of mid-'80s Miami inspired by the pilot episode and first season Miami Vice. Plot TBA.",
-        "popularity": 1.651
+        "popularity": 1.838
       },
       {
         "id": 1615504,
@@ -47947,16 +47944,7 @@
         "posterPath": "/sjIauzvI6o1wpQJj0fQau6z4B8J.jpg",
         "mediaType": "movie",
         "overview": "Three brothers uncover a dark secret in their bay, revealing their father’s violent past as family bonds fracture and danger closes in around them.",
-        "popularity": 0.0637
-      },
-      {
-        "id": 1212489,
-        "title": "The Resurrection of the Christ: Part Two",
-        "releaseDate": "2028-05-25",
-        "posterPath": "/qx3QVH1eVqtrdvL1dndXPhCktLq.jpg",
-        "mediaType": "movie",
-        "overview": "The second part of a two-part sequel to The Passion of the Christ. Plot TBA.",
-        "popularity": 0.9533
+        "popularity": 0.1214
       },
       {
         "id": 1504349,
@@ -47965,7 +47953,16 @@
         "posterPath": "/4AtxkITOlRUQaiVa3rS1OZvZLkA.jpg",
         "mediaType": "movie",
         "overview": "The second instalment in the live-action adaptation franchise. Plot TBA.",
-        "popularity": 0.7822
+        "popularity": 1.0093
+      },
+      {
+        "id": 1212489,
+        "title": "The Resurrection of the Christ: Part Two",
+        "releaseDate": "2028-05-25",
+        "posterPath": "/qx3QVH1eVqtrdvL1dndXPhCktLq.jpg",
+        "mediaType": "movie",
+        "overview": "The second part of a two-part sequel to The Passion of the Christ. Plot TBA.",
+        "popularity": 0.8428
       },
       {
         "id": 1654623,
@@ -47983,7 +47980,7 @@
         "posterPath": "/por0sU3WKbboM2e1M6oGlPFAEiF.jpg",
         "mediaType": "movie",
         "overview": "The third installment in the Incredibles franchise. Plot TBA",
-        "popularity": 1.5565
+        "popularity": 2.1779
       },
       {
         "id": 1519227,
@@ -47992,7 +47989,7 @@
         "posterPath": "/cQHTTX5zZTgUCnDXHKydqYcPZPi.jpg",
         "mediaType": "movie",
         "overview": "Haitian-American teenager Xerxes Hughes struggles to balance his life as a student, son, and superhero. But before he can stop a new threat: a homicidal cyber-stalker named W.Z.R.D., he must first silence his inner demon.",
-        "popularity": 0.8816
+        "popularity": 1.0078
       },
       {
         "id": 1676300,
@@ -48001,7 +47998,7 @@
         "posterPath": "/pNW8SQyUozDoBjrOD4AGhML1FbO.jpg",
         "mediaType": "movie",
         "overview": "A sequel to the 2021 Gold-Verse Studios fan-film, adapting the comic book \"Modern Warfare 2: Ghost.\"",
-        "popularity": 0.0143
+        "popularity": 0.1251
       },
       {
         "id": 1540305,
@@ -48010,7 +48007,7 @@
         "posterPath": "/egCSujwhXCKYjRo4IAhWFEKXDB.jpg",
         "mediaType": "movie",
         "overview": "Based on the video game series. Plot TBA.",
-        "popularity": 0.5956
+        "popularity": 0.6512
       },
       {
         "id": 1364797,
@@ -48019,7 +48016,7 @@
         "posterPath": "/byZZQsE933kaBCq6i2yGQnJF6TN.jpg",
         "mediaType": "movie",
         "overview": "Follow the early days of Dick Grayson and Jason Todd and explore how their friendship becomes tested by their diverging ideas for what their future should be.",
-        "popularity": 1.2909
+        "popularity": 1.6359
       },
       {
         "id": 1684156,
@@ -48028,7 +48025,7 @@
         "posterPath": "/r5MxcXCjZpX2LrgqCxurpEMaqDj.jpg",
         "mediaType": "movie",
         "overview": "Reimagining the story of the 2025 short film Fingertips—revealing what was never seen… and never told.",
-        "popularity": 0.06
+        "popularity": 0.05
       },
       {
         "id": 1659924,
@@ -48037,7 +48034,7 @@
         "posterPath": "/iMT2CqQHbMAij12YBw83qcYdVv6.jpg",
         "mediaType": "movie",
         "overview": "Years after the murder of his wife, retired detective Max Payne is pulled back into a case he never truly left behind. When a series of new killings begins to mirror the past, what once seemed like a closed investigation starts to reveal cracks, pointing toward something that was long hidden. As Max investigates, he finds himself stepping outside the law again, uncovering a big secret regarding his own tragedy—while a mysterious individual moves in and out of his path, making it harder to tell who can be trusted.",
-        "popularity": 0.3112
+        "popularity": 0.333
       },
       {
         "id": 1619712,
@@ -48055,7 +48052,7 @@
         "posterPath": "/l6iNUNfU0eFooq1ZjUeyrJv7U3X.jpg",
         "mediaType": "movie",
         "overview": "An animated feature film based on the character. Plot TBA.",
-        "popularity": 0.4818
+        "popularity": 0.3521
       },
       {
         "id": 1529259,
@@ -48064,7 +48061,7 @@
         "posterPath": "/6qq6vbdMXpT91BgfPDeqbDkEWon.jpg",
         "mediaType": "movie",
         "overview": "A deep-space exploration team aboard the Spiritus Mundi pick up a strange, recurring signal from a remote planet. Captain Elena Voss leads the mission to investigate, only to discover a bizarre alien artifact that starts warping time, reality, and the crew’s minds.",
-        "popularity": 0.4205
+        "popularity": 0.7617
       },
       {
         "id": 1536556,
@@ -48073,7 +48070,7 @@
         "posterPath": "/bCfw1weZpSKC3fDzbUvo5Cev0Qo.jpg",
         "mediaType": "movie",
         "overview": "A Direct Sequel to Grave Mistakes...",
-        "popularity": 0.1002
+        "popularity": 0.0871
       },
       {
         "id": 1525218,
@@ -48082,7 +48079,7 @@
         "posterPath": "/aD3fm1iwVJjv2Uq1OnH2KKdQEDi.jpg",
         "mediaType": "movie",
         "overview": "The inner worlds are in chaos, reality is collapsing and somehow... Hitler has returned. Now, only an extremely macho and emotionally unavailable hero can save us!",
-        "popularity": 0.1236
+        "popularity": 0.2258
       },
       {
         "id": 1529266,
@@ -48091,7 +48088,7 @@
         "posterPath": "/lfGGTcq07y2fm7wvZOwI7opUH0X.jpg",
         "mediaType": "movie",
         "overview": "Prequel to the 2025 film Weapons, telling the backstory of the parasitic witch Aunt Gladys. Plot details TBA.",
-        "popularity": 0.5454
+        "popularity": 0.5779
       },
       {
         "id": 1690305,
@@ -48109,7 +48106,7 @@
         "posterPath": "/oHuw4ANN7nmVv3TIMPextHnzXoS.jpg",
         "mediaType": "movie",
         "overview": "After the Justice League vanishes into a war in space, The Young Justice steps up to investigate a series of brutal murders. As the team balances growing personal struggles with the responsibilities of saving the world, they find themselves targeted by a mysterious and deadly mastermind.",
-        "popularity": 0.1316
+        "popularity": 0.1916
       },
       {
         "id": 980571,
@@ -48118,7 +48115,7 @@
         "posterPath": "/sAJgcw31UpiMwO8CCnvEPWepefu.jpg",
         "mediaType": "movie",
         "overview": "To save the woman he loves from a human trafficking auction, a former criminal hitman must return to the violent life he deserted and dismantle the empire he once served.",
-        "popularity": 0.1663
+        "popularity": 0.1325
       },
       {
         "id": 1225335,
@@ -48127,7 +48124,7 @@
         "posterPath": null,
         "mediaType": "movie",
         "overview": "A feature adaptation and expansion of the story in \"bodybag\" (2024).",
-        "popularity": 0.2651
+        "popularity": 0.2035
       },
       {
         "id": 1608956,
@@ -48145,7 +48142,7 @@
         "posterPath": "/uHetNUxDujMrd9C4OYkmN2WidNM.jpg",
         "mediaType": "movie",
         "overview": "Once upon a time, in the future, Grimm’s heroines and heroes join forces in an epic sci-fi fairy tale that challenges everything we think we know about their stories to reframe how we face an uncertain future with hope.",
-        "popularity": 0.7908
+        "popularity": 0.6386
       },
       {
         "id": 1703965,
@@ -48154,7 +48151,7 @@
         "posterPath": "/tBSLJsTRZbdFUohSK8sIceIU7HU.jpg",
         "mediaType": "movie",
         "overview": "1797, and flashbacks of a story before it. How far can a lie go until time converges with time? How deep can the truth of the heart be clouded in delirium, in sorrow, in gold? What can ever be considered an axiom? I tell ya, I tell ya, I tell ya.",
-        "popularity": 0.3214
+        "popularity": 0.2775
       },
       {
         "id": 1639029,
@@ -48163,7 +48160,7 @@
         "posterPath": "/5zFhbzNdWlTL7vcz2rr6w5wwaEU.jpg",
         "mediaType": "movie",
         "overview": "Beyond the flatland's where the Spahn Ranch once stood a gathering of Charles Manson devotees find refuge in the woods. When a member of their group is brutally attacked they are forced to take revenge.",
-        "popularity": 0.7072
+        "popularity": 0.8159
       },
       {
         "id": 1545226,
@@ -48172,7 +48169,7 @@
         "posterPath": null,
         "mediaType": "movie",
         "overview": "A live Action/CGI hybrid film. Plot TBA.",
-        "popularity": 0.213
+        "popularity": 0.2124
       },
       {
         "id": 1357938,
@@ -48181,7 +48178,7 @@
         "posterPath": null,
         "mediaType": "movie",
         "overview": "An epic story about Joan of Arc, the young French peasant who believed God had sent her to lead an army to save her country during the Hundred Years War.",
-        "popularity": 0.3882
+        "popularity": 0.4054
       },
       {
         "id": 1664096,
@@ -48190,7 +48187,7 @@
         "posterPath": "/7reLQ4ssCH0zIc4u3ajUhbFE9Gc.jpg",
         "mediaType": "movie",
         "overview": "It's Christmas time again at the North Pole, and Mrs. Claus is not having it! The grande dame of the North Pole herself is FORCED to make cookies after being caught “dancing” by one of her elves. That is until she finds the Claus family recipe MISSING! What a catastrophe! Join Mrs. Claus on her valiant attempt to recover the lost recipe and bring justice to this thief!",
-        "popularity": 0.0713
+        "popularity": 0.1024
       },
       {
         "id": 1468313,
@@ -48199,7 +48196,7 @@
         "posterPath": null,
         "mediaType": "movie",
         "overview": "A film set in the live-action Sonic universe. Plot TBA.",
-        "popularity": 0.1611
+        "popularity": 0.1243
       },
       {
         "id": 1625852,
@@ -48208,7 +48205,7 @@
         "posterPath": "/z0lBbD64WQ0rLPrzGZLOgVPjqgs.jpg",
         "mediaType": "movie",
         "overview": "One woman's journey of self-discovery and coming to terms with her husband's sexuality. That woman? Mrs. Claus.",
-        "popularity": 0.0935
+        "popularity": 0.195
       }
     ],
     "2029": [
@@ -48219,7 +48216,7 @@
         "posterPath": null,
         "mediaType": "movie",
         "overview": "Upcoming Feature project set for release in 2029.",
-        "popularity": 0.1321
+        "popularity": 0.0923
       },
       {
         "id": 1684935,
@@ -48228,7 +48225,7 @@
         "posterPath": null,
         "mediaType": "movie",
         "overview": "Film adaptation based on Arthur Miller's 1953 play of the same name.",
-        "popularity": 0.0815
+        "popularity": 0.1154
       },
       {
         "id": 1463621,
@@ -48237,7 +48234,7 @@
         "posterPath": null,
         "mediaType": "movie",
         "overview": "A group of troubled youths plot to murder the sadistic bully who has been ruining their lives.",
-        "popularity": 0.0491
+        "popularity": 0.0629
       },
       {
         "id": 1451567,
@@ -48246,7 +48243,7 @@
         "posterPath": "/7YiB8tOQcY8ApdKkCnjQL5jGkIP.jpg",
         "mediaType": "movie",
         "overview": "The sequel to the 2017 film. Plot TBA.",
-        "popularity": 0.6969
+        "popularity": 0.8274
       },
       {
         "id": 216527,
@@ -48255,7 +48252,7 @@
         "posterPath": "/qzMYKnT4MG1d0gnhwytr4cKhUvS.jpg",
         "mediaType": "movie",
         "overview": "The fourth installment of the franchise. Plot TBA.",
-        "popularity": 3.8347
+        "popularity": 4.2832
       }
     ]
   }
