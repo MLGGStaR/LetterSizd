@@ -1,8 +1,8 @@
 {
   "version": 1,
-  "generatedAt": "2026-07-23T10:54:37.641Z",
+  "generatedAt": "2026-07-23T22:21:03.451Z",
   "dashboard": {
-    "updatedAt": 1784804074334,
+    "updatedAt": 1784845256924,
     "feed": [
       {
         "source": "letterboxd",
@@ -8963,13 +8963,13 @@
             "logo_path": "/hExO4PtimLIYn3kBOrzsejNv7cT.jpg",
             "provider_id": 582,
             "provider_name": "Paramount+ Amazon Channel",
-            "display_priority": 26
+            "display_priority": 27
           },
           {
             "logo_path": "/x9zOHTUkQzt3PgPVKbMH9CKBwLK.jpg",
             "provider_id": 2528,
             "provider_name": "YouTube TV",
-            "display_priority": 39
+            "display_priority": 40
           },
           {
             "logo_path": "/ctiRpS16dlaTXQBSsiFncMrgWmh.jpg",
@@ -9050,7 +9050,7 @@
             "logo_path": "/x9zOHTUkQzt3PgPVKbMH9CKBwLK.jpg",
             "provider_id": 2528,
             "provider_name": "YouTube TV",
-            "display_priority": 39
+            "display_priority": 40
           },
           {
             "logo_path": "/jbe4gVSfRlbPTdESXhEKpornsfu.jpg",
@@ -9101,13 +9101,13 @@
             "logo_path": "/lD7HKUmXDvUya58DceiTA809Zbf.jpg",
             "provider_id": 636,
             "provider_name": "MGM Plus Roku Premium Channel",
-            "display_priority": 33
+            "display_priority": 34
           },
           {
             "logo_path": "/x9zOHTUkQzt3PgPVKbMH9CKBwLK.jpg",
             "provider_id": 2528,
             "provider_name": "YouTube TV",
-            "display_priority": 39
+            "display_priority": 40
           },
           {
             "logo_path": "/ctiRpS16dlaTXQBSsiFncMrgWmh.jpg",
@@ -9170,19 +9170,19 @@
             "logo_path": "/hExO4PtimLIYn3kBOrzsejNv7cT.jpg",
             "provider_id": 582,
             "provider_name": "Paramount+ Amazon Channel",
-            "display_priority": 26
+            "display_priority": 27
           },
           {
             "logo_path": "/lD7HKUmXDvUya58DceiTA809Zbf.jpg",
             "provider_id": 636,
             "provider_name": "MGM Plus Roku Premium Channel",
-            "display_priority": 33
+            "display_priority": 34
           },
           {
             "logo_path": "/x9zOHTUkQzt3PgPVKbMH9CKBwLK.jpg",
             "provider_id": 2528,
             "provider_name": "YouTube TV",
-            "display_priority": 39
+            "display_priority": 40
           },
           {
             "logo_path": "/ctiRpS16dlaTXQBSsiFncMrgWmh.jpg",
@@ -9215,7 +9215,7 @@
             "logo_path": "/x9zOHTUkQzt3PgPVKbMH9CKBwLK.jpg",
             "provider_id": 2528,
             "provider_name": "YouTube TV",
-            "display_priority": 39
+            "display_priority": 40
           },
           {
             "logo_path": "/jbe4gVSfRlbPTdESXhEKpornsfu.jpg",
@@ -9242,7 +9242,7 @@
             "logo_path": "/x9zOHTUkQzt3PgPVKbMH9CKBwLK.jpg",
             "provider_id": 2528,
             "provider_name": "YouTube TV",
-            "display_priority": 39
+            "display_priority": 40
           },
           {
             "logo_path": "/jbe4gVSfRlbPTdESXhEKpornsfu.jpg",
@@ -9314,13 +9314,13 @@
             "logo_path": "/hExO4PtimLIYn3kBOrzsejNv7cT.jpg",
             "provider_id": 582,
             "provider_name": "Paramount+ Amazon Channel",
-            "display_priority": 26
+            "display_priority": 27
           },
           {
             "logo_path": "/x9zOHTUkQzt3PgPVKbMH9CKBwLK.jpg",
             "provider_id": 2528,
             "provider_name": "YouTube TV",
-            "display_priority": 39
+            "display_priority": 40
           },
           {
             "logo_path": "/ctiRpS16dlaTXQBSsiFncMrgWmh.jpg",
@@ -9380,7 +9380,7 @@
             "logo_path": "/x9zOHTUkQzt3PgPVKbMH9CKBwLK.jpg",
             "provider_id": 2528,
             "provider_name": "YouTube TV",
-            "display_priority": 39
+            "display_priority": 40
           }
         ],
         "hitsMyProviders": true
@@ -9431,13 +9431,13 @@
             "logo_path": "/hExO4PtimLIYn3kBOrzsejNv7cT.jpg",
             "provider_id": 582,
             "provider_name": "Paramount+ Amazon Channel",
-            "display_priority": 26
+            "display_priority": 27
           },
           {
             "logo_path": "/x9zOHTUkQzt3PgPVKbMH9CKBwLK.jpg",
             "provider_id": 2528,
             "provider_name": "YouTube TV",
-            "display_priority": 39
+            "display_priority": 40
           },
           {
             "logo_path": "/ctiRpS16dlaTXQBSsiFncMrgWmh.jpg",
@@ -9476,7 +9476,7 @@
             "logo_path": "/x9zOHTUkQzt3PgPVKbMH9CKBwLK.jpg",
             "provider_id": 2528,
             "provider_name": "YouTube TV",
-            "display_priority": 39
+            "display_priority": 40
           },
           {
             "logo_path": "/ohcwolMl8E743CkS8MnhmJKOlRj.jpg",
@@ -9575,7 +9575,7 @@
             "logo_path": "/hExO4PtimLIYn3kBOrzsejNv7cT.jpg",
             "provider_id": 582,
             "provider_name": "Paramount+ Amazon Channel",
-            "display_priority": 26
+            "display_priority": 27
           },
           {
             "logo_path": "/ywIoxSjoYJGUIbR6BfxUiCHdPi3.jpg",
@@ -9635,13 +9635,13 @@
             "logo_path": "/x9zOHTUkQzt3PgPVKbMH9CKBwLK.jpg",
             "provider_id": 2528,
             "provider_name": "YouTube TV",
-            "display_priority": 39
+            "display_priority": 40
           },
           {
             "logo_path": "/m4KUe3UoTnLgN4g6txYMnBqeUI5.jpg",
             "provider_id": 123,
             "provider_name": "FXNow",
-            "display_priority": 44
+            "display_priority": 45
           }
         ],
         "hitsMyProviders": true
@@ -9662,25 +9662,25 @@
             "logo_path": "/x9zOHTUkQzt3PgPVKbMH9CKBwLK.jpg",
             "provider_id": 2528,
             "provider_name": "YouTube TV",
-            "display_priority": 39
+            "display_priority": 40
           },
           {
             "logo_path": "/rcBwnERpNfPfWB5DaSTyEMCZbCA.jpg",
             "provider_id": 191,
             "provider_name": "Kanopy",
-            "display_priority": 36
+            "display_priority": 37
           },
           {
             "logo_path": "/j7D006Uy3UWwZ6G0xH6BMgIWTzH.jpg",
             "provider_id": 212,
             "provider_name": "Hoopla",
-            "display_priority": 37
+            "display_priority": 38
           },
           {
             "logo_path": "/oIXE9vJdkilIxCLAtlbtiqewgvn.jpg",
             "provider_id": 332,
             "provider_name": "Fandango at Home Free",
-            "display_priority": 41
+            "display_priority": 42
           },
           {
             "logo_path": "/4tJBhJcuF1ZstI5Yqu82G0yroLa.jpg",
@@ -9785,7 +9785,7 @@
             "logo_path": "/hExO4PtimLIYn3kBOrzsejNv7cT.jpg",
             "provider_id": 582,
             "provider_name": "Paramount+ Amazon Channel",
-            "display_priority": 26
+            "display_priority": 27
           },
           {
             "logo_path": "/ywIoxSjoYJGUIbR6BfxUiCHdPi3.jpg",
@@ -9824,13 +9824,13 @@
             "logo_path": "/x9zOHTUkQzt3PgPVKbMH9CKBwLK.jpg",
             "provider_id": 2528,
             "provider_name": "YouTube TV",
-            "display_priority": 39
+            "display_priority": 40
           },
           {
             "logo_path": "/m4KUe3UoTnLgN4g6txYMnBqeUI5.jpg",
             "provider_id": 123,
             "provider_name": "FXNow",
-            "display_priority": 44
+            "display_priority": 45
           }
         ],
         "hitsMyProviders": true
@@ -9857,7 +9857,7 @@
             "logo_path": "/x9zOHTUkQzt3PgPVKbMH9CKBwLK.jpg",
             "provider_id": 2528,
             "provider_name": "YouTube TV",
-            "display_priority": 39
+            "display_priority": 40
           }
         ],
         "hitsMyProviders": true
@@ -9905,13 +9905,13 @@
             "logo_path": "/hExO4PtimLIYn3kBOrzsejNv7cT.jpg",
             "provider_id": 582,
             "provider_name": "Paramount+ Amazon Channel",
-            "display_priority": 26
+            "display_priority": 27
           },
           {
             "logo_path": "/x9zOHTUkQzt3PgPVKbMH9CKBwLK.jpg",
             "provider_id": 2528,
             "provider_name": "YouTube TV",
-            "display_priority": 39
+            "display_priority": 40
           },
           {
             "logo_path": "/ywIoxSjoYJGUIbR6BfxUiCHdPi3.jpg",
@@ -9932,7 +9932,7 @@
             "logo_path": "/rcBwnERpNfPfWB5DaSTyEMCZbCA.jpg",
             "provider_id": 191,
             "provider_name": "Kanopy",
-            "display_priority": 36
+            "display_priority": 37
           }
         ],
         "hitsMyProviders": true
@@ -9980,13 +9980,13 @@
             "logo_path": "/hExO4PtimLIYn3kBOrzsejNv7cT.jpg",
             "provider_id": 582,
             "provider_name": "Paramount+ Amazon Channel",
-            "display_priority": 26
+            "display_priority": 27
           },
           {
             "logo_path": "/x9zOHTUkQzt3PgPVKbMH9CKBwLK.jpg",
             "provider_id": 2528,
             "provider_name": "YouTube TV",
-            "display_priority": 39
+            "display_priority": 40
           },
           {
             "logo_path": "/ywIoxSjoYJGUIbR6BfxUiCHdPi3.jpg",
@@ -9998,7 +9998,7 @@
             "logo_path": "/m4KUe3UoTnLgN4g6txYMnBqeUI5.jpg",
             "provider_id": 123,
             "provider_name": "FXNow",
-            "display_priority": 44
+            "display_priority": 45
           }
         ],
         "hitsMyProviders": true
@@ -10046,13 +10046,13 @@
             "logo_path": "/hExO4PtimLIYn3kBOrzsejNv7cT.jpg",
             "provider_id": 582,
             "provider_name": "Paramount+ Amazon Channel",
-            "display_priority": 26
+            "display_priority": 27
           },
           {
             "logo_path": "/x9zOHTUkQzt3PgPVKbMH9CKBwLK.jpg",
             "provider_id": 2528,
             "provider_name": "YouTube TV",
-            "display_priority": 39
+            "display_priority": 40
           },
           {
             "logo_path": "/ywIoxSjoYJGUIbR6BfxUiCHdPi3.jpg",
@@ -10064,7 +10064,7 @@
             "logo_path": "/m4KUe3UoTnLgN4g6txYMnBqeUI5.jpg",
             "provider_id": 123,
             "provider_name": "FXNow",
-            "display_priority": 44
+            "display_priority": 45
           }
         ],
         "hitsMyProviders": true
@@ -10085,7 +10085,7 @@
             "logo_path": "/x9zOHTUkQzt3PgPVKbMH9CKBwLK.jpg",
             "provider_id": 2528,
             "provider_name": "YouTube TV",
-            "display_priority": 39
+            "display_priority": 40
           }
         ],
         "hitsMyProviders": true
@@ -10106,7 +10106,7 @@
             "logo_path": "/x9zOHTUkQzt3PgPVKbMH9CKBwLK.jpg",
             "provider_id": 2528,
             "provider_name": "YouTube TV",
-            "display_priority": 39
+            "display_priority": 40
           },
           {
             "logo_path": "/jbe4gVSfRlbPTdESXhEKpornsfu.jpg",
@@ -10133,7 +10133,7 @@
             "logo_path": "/1C5EVCWyQD798CE1DFfcm6oAbxP.jpg",
             "provider_id": 1855,
             "provider_name": "Starz Apple TV Channel",
-            "display_priority": 23
+            "display_priority": 24
           },
           {
             "logo_path": "/dpR8r13zWDeUR0QkzWidrdMxa56.jpg",
@@ -10187,7 +10187,7 @@
             "logo_path": "/hExO4PtimLIYn3kBOrzsejNv7cT.jpg",
             "provider_id": 582,
             "provider_name": "Paramount+ Amazon Channel",
-            "display_priority": 26
+            "display_priority": 27
           },
           {
             "logo_path": "/ywIoxSjoYJGUIbR6BfxUiCHdPi3.jpg",
@@ -10199,13 +10199,13 @@
             "logo_path": "/rcBwnERpNfPfWB5DaSTyEMCZbCA.jpg",
             "provider_id": 191,
             "provider_name": "Kanopy",
-            "display_priority": 36
+            "display_priority": 37
           },
           {
             "logo_path": "/j7D006Uy3UWwZ6G0xH6BMgIWTzH.jpg",
             "provider_id": 212,
             "provider_name": "Hoopla",
-            "display_priority": 37
+            "display_priority": 38
           }
         ],
         "hitsMyProviders": true
@@ -10221,12 +10221,6 @@
             "provider_id": 8,
             "provider_name": "Netflix",
             "display_priority": 1
-          },
-          {
-            "logo_path": "/9BgaNQRMDvVlji1JBZi6tcfxpKx.jpg",
-            "provider_id": 257,
-            "provider_name": "fuboTV",
-            "display_priority": 10
           },
           {
             "logo_path": "/dpR8r13zWDeUR0QkzWidrdMxa56.jpg",
@@ -10259,7 +10253,7 @@
             "logo_path": "/hExO4PtimLIYn3kBOrzsejNv7cT.jpg",
             "provider_id": 582,
             "provider_name": "Paramount+ Amazon Channel",
-            "display_priority": 26
+            "display_priority": 27
           },
           {
             "logo_path": "/ywIoxSjoYJGUIbR6BfxUiCHdPi3.jpg",
@@ -10271,7 +10265,7 @@
             "logo_path": "/rcBwnERpNfPfWB5DaSTyEMCZbCA.jpg",
             "provider_id": 191,
             "provider_name": "Kanopy",
-            "display_priority": 36
+            "display_priority": 37
           },
           {
             "logo_path": "/dB8G41Q6tSL5NBisrIeqByfepBc.jpg",
@@ -10292,13 +10286,13 @@
             "logo_path": "/x9zOHTUkQzt3PgPVKbMH9CKBwLK.jpg",
             "provider_id": 2528,
             "provider_name": "YouTube TV",
-            "display_priority": 39
+            "display_priority": 40
           },
           {
             "logo_path": "/wQzSN83BnWVgO7xEh0SeTVqtrFv.jpg",
             "provider_id": 207,
             "provider_name": "The Roku Channel",
-            "display_priority": 29
+            "display_priority": 30
           }
         ],
         "hitsMyProviders": true
@@ -10329,12 +10323,6 @@
             "provider_id": 8,
             "provider_name": "Netflix",
             "display_priority": 1
-          },
-          {
-            "logo_path": "/9BgaNQRMDvVlji1JBZi6tcfxpKx.jpg",
-            "provider_id": 257,
-            "provider_name": "fuboTV",
-            "display_priority": 10
           },
           {
             "logo_path": "/dpR8r13zWDeUR0QkzWidrdMxa56.jpg",
@@ -10379,12 +10367,6 @@
             "display_priority": 1
           },
           {
-            "logo_path": "/9BgaNQRMDvVlji1JBZi6tcfxpKx.jpg",
-            "provider_id": 257,
-            "provider_name": "fuboTV",
-            "display_priority": 10
-          },
-          {
             "logo_path": "/dpR8r13zWDeUR0QkzWidrdMxa56.jpg",
             "provider_id": 1796,
             "provider_name": "Netflix Standard with Ads",
@@ -10409,7 +10391,7 @@
             "logo_path": "/x9zOHTUkQzt3PgPVKbMH9CKBwLK.jpg",
             "provider_id": 2528,
             "provider_name": "YouTube TV",
-            "display_priority": 39
+            "display_priority": 40
           }
         ],
         "hitsMyProviders": true
@@ -10442,7 +10424,7 @@
             "logo_path": "/lD7HKUmXDvUya58DceiTA809Zbf.jpg",
             "provider_id": 636,
             "provider_name": "MGM Plus Roku Premium Channel",
-            "display_priority": 33
+            "display_priority": 34
           }
         ],
         "hitsMyProviders": true
@@ -10463,7 +10445,7 @@
             "logo_path": "/x9zOHTUkQzt3PgPVKbMH9CKBwLK.jpg",
             "provider_id": 2528,
             "provider_name": "YouTube TV",
-            "display_priority": 39
+            "display_priority": 40
           },
           {
             "logo_path": "/jbe4gVSfRlbPTdESXhEKpornsfu.jpg",
@@ -10487,12 +10469,6 @@
             "display_priority": 1
           },
           {
-            "logo_path": "/9BgaNQRMDvVlji1JBZi6tcfxpKx.jpg",
-            "provider_id": 257,
-            "provider_name": "fuboTV",
-            "display_priority": 10
-          },
-          {
             "logo_path": "/dpR8r13zWDeUR0QkzWidrdMxa56.jpg",
             "provider_id": 1796,
             "provider_name": "Netflix Standard with Ads",
@@ -10511,7 +10487,7 @@
             "logo_path": "/1C5EVCWyQD798CE1DFfcm6oAbxP.jpg",
             "provider_id": 1855,
             "provider_name": "Starz Apple TV Channel",
-            "display_priority": 23
+            "display_priority": 24
           },
           {
             "logo_path": "/4tJBhJcuF1ZstI5Yqu82G0yroLa.jpg",
@@ -10544,7 +10520,7 @@
             "logo_path": "/x9zOHTUkQzt3PgPVKbMH9CKBwLK.jpg",
             "provider_id": 2528,
             "provider_name": "YouTube TV",
-            "display_priority": 39
+            "display_priority": 40
           },
           {
             "logo_path": "/jbe4gVSfRlbPTdESXhEKpornsfu.jpg",
@@ -10577,13 +10553,13 @@
             "logo_path": "/1C5EVCWyQD798CE1DFfcm6oAbxP.jpg",
             "provider_id": 1855,
             "provider_name": "Starz Apple TV Channel",
-            "display_priority": 23
+            "display_priority": 24
           },
           {
             "logo_path": "/hExO4PtimLIYn3kBOrzsejNv7cT.jpg",
             "provider_id": 582,
             "provider_name": "Paramount+ Amazon Channel",
-            "display_priority": 26
+            "display_priority": 27
           },
           {
             "logo_path": "/ywIoxSjoYJGUIbR6BfxUiCHdPi3.jpg",
@@ -10595,13 +10571,13 @@
             "logo_path": "/rcBwnERpNfPfWB5DaSTyEMCZbCA.jpg",
             "provider_id": 191,
             "provider_name": "Kanopy",
-            "display_priority": 36
+            "display_priority": 37
           },
           {
             "logo_path": "/j7D006Uy3UWwZ6G0xH6BMgIWTzH.jpg",
             "provider_id": 212,
             "provider_name": "Hoopla",
-            "display_priority": 37
+            "display_priority": 38
           }
         ],
         "hitsMyProviders": true
@@ -10622,7 +10598,7 @@
             "logo_path": "/x9zOHTUkQzt3PgPVKbMH9CKBwLK.jpg",
             "provider_id": 2528,
             "provider_name": "YouTube TV",
-            "display_priority": 39
+            "display_priority": 40
           },
           {
             "logo_path": "/76CvnJAKAPbJuiXYwQGN7PFqOci.jpg",
@@ -10670,7 +10646,7 @@
             "logo_path": "/x9zOHTUkQzt3PgPVKbMH9CKBwLK.jpg",
             "provider_id": 2528,
             "provider_name": "YouTube TV",
-            "display_priority": 39
+            "display_priority": 40
           }
         ],
         "hitsMyProviders": true
@@ -10718,7 +10694,7 @@
             "logo_path": "/x9zOHTUkQzt3PgPVKbMH9CKBwLK.jpg",
             "provider_id": 2528,
             "provider_name": "YouTube TV",
-            "display_priority": 39
+            "display_priority": 40
           },
           {
             "logo_path": "/ctiRpS16dlaTXQBSsiFncMrgWmh.jpg",
@@ -10778,13 +10754,13 @@
             "logo_path": "/hExO4PtimLIYn3kBOrzsejNv7cT.jpg",
             "provider_id": 582,
             "provider_name": "Paramount+ Amazon Channel",
-            "display_priority": 26
+            "display_priority": 27
           },
           {
             "logo_path": "/x9zOHTUkQzt3PgPVKbMH9CKBwLK.jpg",
             "provider_id": 2528,
             "provider_name": "YouTube TV",
-            "display_priority": 39
+            "display_priority": 40
           },
           {
             "logo_path": "/ywIoxSjoYJGUIbR6BfxUiCHdPi3.jpg",
@@ -10829,13 +10805,13 @@
             "logo_path": "/hExO4PtimLIYn3kBOrzsejNv7cT.jpg",
             "provider_id": 582,
             "provider_name": "Paramount+ Amazon Channel",
-            "display_priority": 26
+            "display_priority": 27
           },
           {
             "logo_path": "/x9zOHTUkQzt3PgPVKbMH9CKBwLK.jpg",
             "provider_id": 2528,
             "provider_name": "YouTube TV",
-            "display_priority": 39
+            "display_priority": 40
           },
           {
             "logo_path": "/4cHGd32hhEHmFjDGJcjVEAwFQg0.jpg",
@@ -10853,7 +10829,7 @@
             "logo_path": "/m4KUe3UoTnLgN4g6txYMnBqeUI5.jpg",
             "provider_id": 123,
             "provider_name": "FXNow",
-            "display_priority": 44
+            "display_priority": 45
           }
         ],
         "hitsMyProviders": true
@@ -10922,25 +10898,25 @@
             "logo_path": "/1C5EVCWyQD798CE1DFfcm6oAbxP.jpg",
             "provider_id": 1855,
             "provider_name": "Starz Apple TV Channel",
-            "display_priority": 23
+            "display_priority": 24
           },
           {
             "logo_path": "/9laPF1MAiUxlqM8T98F3Gj0bhzd.jpg",
             "provider_id": 634,
             "provider_name": "Starz Roku Premium Channel",
-            "display_priority": 30
+            "display_priority": 31
           },
           {
             "logo_path": "/x9zOHTUkQzt3PgPVKbMH9CKBwLK.jpg",
             "provider_id": 2528,
             "provider_name": "YouTube TV",
-            "display_priority": 39
+            "display_priority": 40
           },
           {
             "logo_path": "/yIKwylTLP1u8gl84Is7FItpYLGL.jpg",
             "provider_id": 43,
             "provider_name": "Starz",
-            "display_priority": 40
+            "display_priority": 41
           },
           {
             "logo_path": "/esiLBRzDUwodjfN8gA4qj7l3ZF7.jpg",
@@ -11027,13 +11003,13 @@
             "logo_path": "/x9zOHTUkQzt3PgPVKbMH9CKBwLK.jpg",
             "provider_id": 2528,
             "provider_name": "YouTube TV",
-            "display_priority": 39
+            "display_priority": 40
           },
           {
             "logo_path": "/m4KUe3UoTnLgN4g6txYMnBqeUI5.jpg",
             "provider_id": 123,
             "provider_name": "FXNow",
-            "display_priority": 44
+            "display_priority": 45
           }
         ],
         "hitsMyProviders": true
@@ -11060,7 +11036,7 @@
             "logo_path": "/hExO4PtimLIYn3kBOrzsejNv7cT.jpg",
             "provider_id": 582,
             "provider_name": "Paramount+ Amazon Channel",
-            "display_priority": 26
+            "display_priority": 27
           },
           {
             "logo_path": "/ywIoxSjoYJGUIbR6BfxUiCHdPi3.jpg",
@@ -11072,7 +11048,7 @@
             "logo_path": "/rcBwnERpNfPfWB5DaSTyEMCZbCA.jpg",
             "provider_id": 191,
             "provider_name": "Kanopy",
-            "display_priority": 36
+            "display_priority": 37
           },
           {
             "logo_path": "/dB8G41Q6tSL5NBisrIeqByfepBc.jpg",
@@ -11111,16 +11087,22 @@
         "posterPath": "/y3HOTTyM5nLsdUzXFtFCohG28qj.jpg",
         "providers": [
           {
+            "logo_path": "/9BgaNQRMDvVlji1JBZi6tcfxpKx.jpg",
+            "provider_id": 257,
+            "provider_name": "fuboTV",
+            "display_priority": 10
+          },
+          {
             "logo_path": "/rcBwnERpNfPfWB5DaSTyEMCZbCA.jpg",
             "provider_id": 191,
             "provider_name": "Kanopy",
-            "display_priority": 36
+            "display_priority": 37
           },
           {
             "logo_path": "/j7D006Uy3UWwZ6G0xH6BMgIWTzH.jpg",
             "provider_id": 212,
             "provider_name": "Hoopla",
-            "display_priority": 37
+            "display_priority": 38
           }
         ],
         "hitsMyProviders": true
@@ -11162,13 +11144,13 @@
             "logo_path": "/rcBwnERpNfPfWB5DaSTyEMCZbCA.jpg",
             "provider_id": 191,
             "provider_name": "Kanopy",
-            "display_priority": 36
+            "display_priority": 37
           },
           {
             "logo_path": "/j7D006Uy3UWwZ6G0xH6BMgIWTzH.jpg",
             "provider_id": 212,
             "provider_name": "Hoopla",
-            "display_priority": 37
+            "display_priority": 38
           }
         ],
         "hitsMyProviders": true
@@ -11189,7 +11171,7 @@
             "logo_path": "/x9zOHTUkQzt3PgPVKbMH9CKBwLK.jpg",
             "provider_id": 2528,
             "provider_name": "YouTube TV",
-            "display_priority": 39
+            "display_priority": 40
           },
           {
             "logo_path": "/4tJBhJcuF1ZstI5Yqu82G0yroLa.jpg",
@@ -11228,7 +11210,7 @@
             "logo_path": "/x9zOHTUkQzt3PgPVKbMH9CKBwLK.jpg",
             "provider_id": 2528,
             "provider_name": "YouTube TV",
-            "display_priority": 39
+            "display_priority": 40
           }
         ],
         "hitsMyProviders": true
@@ -11279,13 +11261,13 @@
             "logo_path": "/1C5EVCWyQD798CE1DFfcm6oAbxP.jpg",
             "provider_id": 1855,
             "provider_name": "Starz Apple TV Channel",
-            "display_priority": 23
+            "display_priority": 24
           },
           {
             "logo_path": "/x9zOHTUkQzt3PgPVKbMH9CKBwLK.jpg",
             "provider_id": 2528,
             "provider_name": "YouTube TV",
-            "display_priority": 39
+            "display_priority": 40
           },
           {
             "logo_path": "/drPlq5beqXtBaP7MNs8W616YRhm.jpg",
@@ -11324,7 +11306,7 @@
             "logo_path": "/hExO4PtimLIYn3kBOrzsejNv7cT.jpg",
             "provider_id": 582,
             "provider_name": "Paramount+ Amazon Channel",
-            "display_priority": 26
+            "display_priority": 27
           },
           {
             "logo_path": "/ywIoxSjoYJGUIbR6BfxUiCHdPi3.jpg",
@@ -11336,7 +11318,7 @@
             "logo_path": "/rcBwnERpNfPfWB5DaSTyEMCZbCA.jpg",
             "provider_id": 191,
             "provider_name": "Kanopy",
-            "display_priority": 36
+            "display_priority": 37
           },
           {
             "logo_path": "/dB8G41Q6tSL5NBisrIeqByfepBc.jpg",
@@ -11363,7 +11345,7 @@
             "logo_path": "/x9zOHTUkQzt3PgPVKbMH9CKBwLK.jpg",
             "provider_id": 2528,
             "provider_name": "YouTube TV",
-            "display_priority": 39
+            "display_priority": 40
           },
           {
             "logo_path": "/jbe4gVSfRlbPTdESXhEKpornsfu.jpg",
@@ -11459,7 +11441,7 @@
             "logo_path": "/m4KUe3UoTnLgN4g6txYMnBqeUI5.jpg",
             "provider_id": 123,
             "provider_name": "FXNow",
-            "display_priority": 44
+            "display_priority": 45
           }
         ],
         "hitsMyProviders": true
@@ -11504,13 +11486,13 @@
             "logo_path": "/hExO4PtimLIYn3kBOrzsejNv7cT.jpg",
             "provider_id": 582,
             "provider_name": "Paramount+ Amazon Channel",
-            "display_priority": 26
+            "display_priority": 27
           },
           {
             "logo_path": "/x9zOHTUkQzt3PgPVKbMH9CKBwLK.jpg",
             "provider_id": 2528,
             "provider_name": "YouTube TV",
-            "display_priority": 39
+            "display_priority": 40
           },
           {
             "logo_path": "/ctiRpS16dlaTXQBSsiFncMrgWmh.jpg",
@@ -11561,7 +11543,7 @@
             "logo_path": "/hExO4PtimLIYn3kBOrzsejNv7cT.jpg",
             "provider_id": 582,
             "provider_name": "Paramount+ Amazon Channel",
-            "display_priority": 26
+            "display_priority": 27
           },
           {
             "logo_path": "/ywIoxSjoYJGUIbR6BfxUiCHdPi3.jpg",
@@ -11579,7 +11561,7 @@
             "logo_path": "/rcBwnERpNfPfWB5DaSTyEMCZbCA.jpg",
             "provider_id": 191,
             "provider_name": "Kanopy",
-            "display_priority": 36
+            "display_priority": 37
           },
           {
             "logo_path": "/dB8G41Q6tSL5NBisrIeqByfepBc.jpg",
@@ -11606,7 +11588,7 @@
             "logo_path": "/x9zOHTUkQzt3PgPVKbMH9CKBwLK.jpg",
             "provider_id": 2528,
             "provider_name": "YouTube TV",
-            "display_priority": 39
+            "display_priority": 40
           },
           {
             "logo_path": "/ohcwolMl8E743CkS8MnhmJKOlRj.jpg",
@@ -11630,7 +11612,7 @@
             "logo_path": "/j7D006Uy3UWwZ6G0xH6BMgIWTzH.jpg",
             "provider_id": 212,
             "provider_name": "Hoopla",
-            "display_priority": 37
+            "display_priority": 38
           },
           {
             "logo_path": "/4tJBhJcuF1ZstI5Yqu82G0yroLa.jpg",
@@ -11663,7 +11645,7 @@
             "logo_path": "/x9zOHTUkQzt3PgPVKbMH9CKBwLK.jpg",
             "provider_id": 2528,
             "provider_name": "YouTube TV",
-            "display_priority": 39
+            "display_priority": 40
           }
         ],
         "hitsMyProviders": true
@@ -11777,13 +11759,13 @@
             "logo_path": "/hExO4PtimLIYn3kBOrzsejNv7cT.jpg",
             "provider_id": 582,
             "provider_name": "Paramount+ Amazon Channel",
-            "display_priority": 26
+            "display_priority": 27
           },
           {
             "logo_path": "/x9zOHTUkQzt3PgPVKbMH9CKBwLK.jpg",
             "provider_id": 2528,
             "provider_name": "YouTube TV",
-            "display_priority": 39
+            "display_priority": 40
           },
           {
             "logo_path": "/ywIoxSjoYJGUIbR6BfxUiCHdPi3.jpg",
@@ -11822,49 +11804,7 @@
             "logo_path": "/x9zOHTUkQzt3PgPVKbMH9CKBwLK.jpg",
             "provider_id": 2528,
             "provider_name": "YouTube TV",
-            "display_priority": 39
-          }
-        ],
-        "hitsMyProviders": true
-      },
-      {
-        "title": "Back to the Future Part III",
-        "tmdbMovieId": 196,
-        "releaseDate": "1990-05-25",
-        "posterPath": "/crzoVQnMzIrRfHtQw0tLBirNfVg.jpg",
-        "providers": [
-          {
-            "logo_path": "/ptmbGSttkyzawLbxx9MElmxKuVo.jpg",
-            "provider_id": 2383,
-            "provider_name": "Philo",
-            "display_priority": 17
-          },
-          {
-            "logo_path": "/2ino0WmHA4GROB7NYKzT6PGqLcb.jpg",
-            "provider_id": 528,
-            "provider_name": "AMC+ Amazon Channel",
-            "display_priority": 28
-          }
-        ],
-        "hitsMyProviders": true
-      },
-      {
-        "title": "Back to the Future Part II",
-        "tmdbMovieId": 165,
-        "releaseDate": "1989-11-22",
-        "posterPath": "/hQq8xZe5uLjFzSBt4LanNP7SQjl.jpg",
-        "providers": [
-          {
-            "logo_path": "/ptmbGSttkyzawLbxx9MElmxKuVo.jpg",
-            "provider_id": 2383,
-            "provider_name": "Philo",
-            "display_priority": 17
-          },
-          {
-            "logo_path": "/2ino0WmHA4GROB7NYKzT6PGqLcb.jpg",
-            "provider_id": 528,
-            "provider_name": "AMC+ Amazon Channel",
-            "display_priority": 28
+            "display_priority": 40
           }
         ],
         "hitsMyProviders": true
@@ -11903,13 +11843,13 @@
             "logo_path": "/hExO4PtimLIYn3kBOrzsejNv7cT.jpg",
             "provider_id": 582,
             "provider_name": "Paramount+ Amazon Channel",
-            "display_priority": 26
+            "display_priority": 27
           },
           {
             "logo_path": "/x9zOHTUkQzt3PgPVKbMH9CKBwLK.jpg",
             "provider_id": 2528,
             "provider_name": "YouTube TV",
-            "display_priority": 39
+            "display_priority": 40
           },
           {
             "logo_path": "/4cHGd32hhEHmFjDGJcjVEAwFQg0.jpg",
@@ -11963,7 +11903,7 @@
             "logo_path": "/x9zOHTUkQzt3PgPVKbMH9CKBwLK.jpg",
             "provider_id": 2528,
             "provider_name": "YouTube TV",
-            "display_priority": 39
+            "display_priority": 40
           },
           {
             "logo_path": "/dpR8r13zWDeUR0QkzWidrdMxa56.jpg",
@@ -12008,13 +11948,13 @@
             "logo_path": "/hExO4PtimLIYn3kBOrzsejNv7cT.jpg",
             "provider_id": 582,
             "provider_name": "Paramount+ Amazon Channel",
-            "display_priority": 26
+            "display_priority": 27
           },
           {
             "logo_path": "/x9zOHTUkQzt3PgPVKbMH9CKBwLK.jpg",
             "provider_id": 2528,
             "provider_name": "YouTube TV",
-            "display_priority": 39
+            "display_priority": 40
           },
           {
             "logo_path": "/4cHGd32hhEHmFjDGJcjVEAwFQg0.jpg",
@@ -12065,13 +12005,13 @@
             "logo_path": "/hExO4PtimLIYn3kBOrzsejNv7cT.jpg",
             "provider_id": 582,
             "provider_name": "Paramount+ Amazon Channel",
-            "display_priority": 26
+            "display_priority": 27
           },
           {
             "logo_path": "/x9zOHTUkQzt3PgPVKbMH9CKBwLK.jpg",
             "provider_id": 2528,
             "provider_name": "YouTube TV",
-            "display_priority": 39
+            "display_priority": 40
           },
           {
             "logo_path": "/4cHGd32hhEHmFjDGJcjVEAwFQg0.jpg",
@@ -12089,7 +12029,7 @@
             "logo_path": "/m4KUe3UoTnLgN4g6txYMnBqeUI5.jpg",
             "provider_id": 123,
             "provider_name": "FXNow",
-            "display_priority": 44
+            "display_priority": 45
           }
         ],
         "hitsMyProviders": true
@@ -12116,13 +12056,13 @@
             "logo_path": "/hExO4PtimLIYn3kBOrzsejNv7cT.jpg",
             "provider_id": 582,
             "provider_name": "Paramount+ Amazon Channel",
-            "display_priority": 26
+            "display_priority": 27
           },
           {
             "logo_path": "/x9zOHTUkQzt3PgPVKbMH9CKBwLK.jpg",
             "provider_id": 2528,
             "provider_name": "YouTube TV",
-            "display_priority": 39
+            "display_priority": 40
           },
           {
             "logo_path": "/ywIoxSjoYJGUIbR6BfxUiCHdPi3.jpg",
@@ -12155,13 +12095,13 @@
             "logo_path": "/hExO4PtimLIYn3kBOrzsejNv7cT.jpg",
             "provider_id": 582,
             "provider_name": "Paramount+ Amazon Channel",
-            "display_priority": 26
+            "display_priority": 27
           },
           {
             "logo_path": "/x9zOHTUkQzt3PgPVKbMH9CKBwLK.jpg",
             "provider_id": 2528,
             "provider_name": "YouTube TV",
-            "display_priority": 39
+            "display_priority": 40
           },
           {
             "logo_path": "/ywIoxSjoYJGUIbR6BfxUiCHdPi3.jpg",
@@ -12185,16 +12125,10 @@
             "display_priority": 11
           },
           {
-            "logo_path": "/ptmbGSttkyzawLbxx9MElmxKuVo.jpg",
-            "provider_id": 2383,
-            "provider_name": "Philo",
-            "display_priority": 17
-          },
-          {
             "logo_path": "/x9zOHTUkQzt3PgPVKbMH9CKBwLK.jpg",
             "provider_id": 2528,
             "provider_name": "YouTube TV",
-            "display_priority": 39
+            "display_priority": 40
           },
           {
             "logo_path": "/8SIxng8eznACvCTRsN1FZfd5Ycg.jpg",
@@ -12360,6 +12294,22 @@
         "tmdbMovieId": 769,
         "releaseDate": "1990-09-12",
         "posterPath": "/9OkCLM73MIU2CrKZbqiT8Ln1wY2.jpg",
+        "providers": [],
+        "hitsMyProviders": false
+      },
+      {
+        "title": "Back to the Future Part III",
+        "tmdbMovieId": 196,
+        "releaseDate": "1990-05-25",
+        "posterPath": "/crzoVQnMzIrRfHtQw0tLBirNfVg.jpg",
+        "providers": [],
+        "hitsMyProviders": false
+      },
+      {
+        "title": "Back to the Future Part II",
+        "tmdbMovieId": 165,
+        "releaseDate": "1989-11-22",
+        "posterPath": "/hQq8xZe5uLjFzSBt4LanNP7SQjl.jpg",
         "providers": [],
         "hitsMyProviders": false
       }
@@ -20699,7 +20649,7 @@
           }
         },
         "addedAt": 1784802840917,
-        "updatedAt": 1784803663169,
+        "updatedAt": 1784804080715,
         "name": "SpongeBob SquarePants",
         "posterPath": "/5h0EU2lqBb03dp5vtRuUHJwqzem.jpg"
       },
@@ -21364,7 +21314,7 @@
           }
         },
         "addedAt": 1784802840917,
-        "updatedAt": 1784803663169,
+        "updatedAt": 1784804080715,
         "name": "How I Met Your Mother",
         "posterPath": "/b34jPzmB0wZy7EjUZoleXOl2RRI.jpg"
       },
@@ -21578,7 +21528,7 @@
           }
         },
         "addedAt": 1784802840917,
-        "updatedAt": 1784803663169,
+        "updatedAt": 1784804080715,
         "name": "Breaking Bad",
         "posterPath": "/ztkUQFLlC19CCMYHW9o1zWhJRNq.jpg"
       },
@@ -21588,7 +21538,7 @@
         "seasons": {},
         "episodes": {},
         "addedAt": 1784802840917,
-        "updatedAt": 1784803663169,
+        "updatedAt": 1784804080715,
         "name": "Game of Thrones",
         "posterPath": "/1XS1oqL89opfnbLl8WnZY1O1uJx.jpg"
       },
@@ -22165,7 +22115,7 @@
           }
         },
         "addedAt": 1784802840917,
-        "updatedAt": 1784803663169,
+        "updatedAt": 1784804080715,
         "name": "The Walking Dead",
         "posterPath": "/s3OIDrCErUjthsnPPreY7XktQXB.jpg"
       },
@@ -22608,7 +22558,7 @@
           }
         },
         "addedAt": 1784802840917,
-        "updatedAt": 1784803663169,
+        "updatedAt": 1784804080715,
         "name": "Marvel's Agents of S.H.I.E.L.D.",
         "posterPath": "/gHUCCMy1vvj58tzE3dZqeC9SXus.jpg"
       },
@@ -22933,7 +22883,7 @@
           }
         },
         "addedAt": 1784802840917,
-        "updatedAt": 1784803663169,
+        "updatedAt": 1784804080715,
         "name": "Dexter",
         "posterPath": "/q8dWfc4JwQuv3HayIZeO84jAXED.jpg"
       },
@@ -23498,7 +23448,7 @@
           }
         },
         "addedAt": 1784802840917,
-        "updatedAt": 1784803663169,
+        "updatedAt": 1784804080715,
         "name": "House",
         "posterPath": "/3Cz7ySOQJmqiuTdrc6CY0r65yDI.jpg"
       },
@@ -24046,7 +23996,7 @@
           }
         },
         "addedAt": 1784802840917,
-        "updatedAt": 1784803663169,
+        "updatedAt": 1784804080715,
         "name": "Arrow",
         "posterPath": "/u8ZHFj1jC384JEkTt3vNg1DfWEb.jpg"
       },
@@ -24129,7 +24079,7 @@
           }
         },
         "addedAt": 1784802840917,
-        "updatedAt": 1784803663169,
+        "updatedAt": 1784804080715,
         "name": "Glee",
         "posterPath": "/62T2vsZYTje3KhdCsiLR1K1RFJW.jpg"
       },
@@ -25016,7 +24966,7 @@
           }
         },
         "addedAt": 1784802840917,
-        "updatedAt": 1784803663169,
+        "updatedAt": 1784804080715,
         "name": "The Big Bang Theory",
         "posterPath": "/an3uTx1P0XgHPylgfPV6W7yxKAo.jpg"
       },
@@ -25813,7 +25763,7 @@
           }
         },
         "addedAt": 1784802840917,
-        "updatedAt": 1784803663169,
+        "updatedAt": 1784804080715,
         "name": "Modern Family",
         "posterPath": "/k5Qg5rgPoKdh3yTJJrLtyoyYGwC.jpg"
       },
@@ -25823,7 +25773,7 @@
         "seasons": {},
         "episodes": {},
         "addedAt": 1784802840917,
-        "updatedAt": 1784803663169,
+        "updatedAt": 1784804080715,
         "name": "House of Cards",
         "posterPath": "/hKWxWjFwnMvkWQawbhvC0Y7ygQ8.jpg"
       },
@@ -27277,7 +27227,7 @@
           }
         },
         "addedAt": 1784802840917,
-        "updatedAt": 1784803663169,
+        "updatedAt": 1784804080715,
         "name": "Family Guy",
         "posterPath": "/3PFsEuAiyLkWsP4GG6dIV37Q6gu.jpg"
       },
@@ -27287,7 +27237,7 @@
         "seasons": {},
         "episodes": {},
         "addedAt": 1784802840917,
-        "updatedAt": 1784803663169,
+        "updatedAt": 1784804080715,
         "name": "Firefly",
         "posterPath": "/vZcKsy4sGAvWMVqLluwYuoi11Kj.jpg"
       },
@@ -27297,7 +27247,7 @@
         "seasons": {},
         "episodes": {},
         "addedAt": 1784802840917,
-        "updatedAt": 1784803663169,
+        "updatedAt": 1784804080715,
         "name": "The Wire",
         "posterPath": "/4lbclFySvugI51fwsyxBTOm4DqK.jpg"
       },
@@ -27307,7 +27257,7 @@
         "seasons": {},
         "episodes": {},
         "addedAt": 1784802840917,
-        "updatedAt": 1784803663169,
+        "updatedAt": 1784804080715,
         "name": "Supernatural",
         "posterPath": "/u40gJarLPlIkwouKlzGdobQOV9k.jpg"
       },
@@ -28035,7 +27985,7 @@
           }
         },
         "addedAt": 1784802840917,
-        "updatedAt": 1784803663169,
+        "updatedAt": 1784804080715,
         "name": "Friends",
         "posterPath": "/2koX1xLkpTQM4IZebYvKysFW1Nh.jpg"
       },
@@ -28729,7 +28679,7 @@
           }
         },
         "addedAt": 1784802840917,
-        "updatedAt": 1784803663169,
+        "updatedAt": 1784804080715,
         "name": "Phineas and Ferb",
         "posterPath": "/g6TidT7be954rrzPPBTIXkSmfXj.jpg"
       },
@@ -28739,7 +28689,7 @@
         "seasons": {},
         "episodes": {},
         "addedAt": 1784802840917,
-        "updatedAt": 1784803663169,
+        "updatedAt": 1784804080715,
         "name": "24",
         "posterPath": "/iq6yrZ5LEDXf1ArCOYLq8PIUBpV.jpg"
       },
@@ -29032,7 +28982,7 @@
           }
         },
         "addedAt": 1784802840917,
-        "updatedAt": 1784803663169,
+        "updatedAt": 1784804080715,
         "name": "Prison Break",
         "posterPath": "/wnmNPaLvhnMeOqnWlhNkYCZxtda.jpg"
       },
@@ -29630,7 +29580,7 @@
           }
         },
         "addedAt": 1784802840917,
-        "updatedAt": 1784803663169,
+        "updatedAt": 1784804080715,
         "name": "The Office",
         "posterPath": "/7DJKHzAi83BmQrWLrYYOqcoKfhR.jpg"
       },
@@ -29967,7 +29917,7 @@
           }
         },
         "addedAt": 1784802840917,
-        "updatedAt": 1784803663169,
+        "updatedAt": 1784804080715,
         "name": "Mr. Bean: The Animated Series",
         "posterPath": "/1V2PSez4pNZ9a4Bbomm7KZiQJ44.jpg"
       },
@@ -30226,7 +30176,7 @@
           }
         },
         "addedAt": 1784802840917,
-        "updatedAt": 1784803663169,
+        "updatedAt": 1784804080715,
         "name": "Wizards of Waverly Place",
         "posterPath": "/spVI8Zns4Ep30zzxcoO7f7nwfck.jpg"
       },
@@ -30236,7 +30186,7 @@
         "seasons": {},
         "episodes": {},
         "addedAt": 1784802840917,
-        "updatedAt": 1784803663169,
+        "updatedAt": 1784804080715,
         "name": "The X-Files",
         "posterPath": "/rcBx0p8h51LHceyhquYMxbspJQu.jpg"
       },
@@ -30246,7 +30196,7 @@
         "seasons": {},
         "episodes": {},
         "addedAt": 1784802840917,
-        "updatedAt": 1784803663169,
+        "updatedAt": 1784804080715,
         "name": "Star Wars: The Clone Wars",
         "posterPath": "/e1nWfnnCVqxS2LeTO3dwGyAsG2V.jpg"
       },
@@ -30304,7 +30254,7 @@
           }
         },
         "addedAt": 1784802840917,
-        "updatedAt": 1784803663169,
+        "updatedAt": 1784804080715,
         "name": "Mr. Bean",
         "posterPath": "/pUNQV35kDaKuejnXGNiUeEBurNE.jpg"
       },
@@ -30560,7 +30510,7 @@
           }
         },
         "addedAt": 1784802840917,
-        "updatedAt": 1784803663169,
+        "updatedAt": 1784804080715,
         "name": "That's So Raven",
         "posterPath": "/8pSH9b3XKKLBhdlsK9bz0AWYc7C.jpg"
       },
@@ -30570,7 +30520,7 @@
         "seasons": {},
         "episodes": {},
         "addedAt": 1784802840917,
-        "updatedAt": 1784803663169,
+        "updatedAt": 1784804080715,
         "name": "Lost",
         "posterPath": "/og6S0aTZU6YUJAbqxeKjCa3kY1E.jpg"
       },
@@ -30632,7 +30582,7 @@
           }
         },
         "addedAt": 1784802840917,
-        "updatedAt": 1784803663169,
+        "updatedAt": 1784804080715,
         "name": "Sherlock",
         "posterPath": "/7WTsnHkbA0FaG6R9twfFde0I9hl.jpg"
       },
@@ -30912,7 +30862,7 @@
           }
         },
         "addedAt": 1784802840917,
-        "updatedAt": 1784803663169,
+        "updatedAt": 1784804080715,
         "name": "Kickin' It",
         "posterPath": "/40qRQPoUnCx6g50NIyQBS0OdxaP.jpg"
       },
@@ -31084,7 +31034,7 @@
           }
         },
         "addedAt": 1784802840917,
-        "updatedAt": 1784803663169,
+        "updatedAt": 1784804080715,
         "name": "Shake It Up",
         "posterPath": "/oD7B9qrgqT7tUZNi3pk2onk5C2D.jpg"
       },
@@ -31415,7 +31365,7 @@
           }
         },
         "addedAt": 1784802840917,
-        "updatedAt": 1784803663169,
+        "updatedAt": 1784804080715,
         "name": "Teen Wolf",
         "posterPath": "/8Ij1O2nU8exLgwPXU8Eo6PZdCDC.jpg"
       },
@@ -31632,7 +31582,7 @@
           }
         },
         "addedAt": 1784802840917,
-        "updatedAt": 1784803663169,
+        "updatedAt": 1784804080715,
         "name": "A.N.T. Farm",
         "posterPath": "/rnO9xtMhfudmd4LBiXoYWb4ckog.jpg"
       },
@@ -31918,7 +31868,7 @@
           }
         },
         "addedAt": 1784802840917,
-        "updatedAt": 1784803663169,
+        "updatedAt": 1784804080715,
         "name": "Austin & Ally",
         "posterPath": "/73LDHDdvpKNc8RXNPciTWFTEDIV.jpg"
       },
@@ -32360,7 +32310,7 @@
           }
         },
         "addedAt": 1784802840917,
-        "updatedAt": 1784803663169,
+        "updatedAt": 1784804080715,
         "name": "Suits",
         "posterPath": "/fO0nFvGcbTHpwZGLkr98xuZ5hFs.jpg"
       },
@@ -32499,7 +32449,7 @@
           }
         },
         "addedAt": 1784802840917,
-        "updatedAt": 1784803663169,
+        "updatedAt": 1784804080715,
         "name": "Marvel's Jessica Jones",
         "posterPath": "/1ghmaDw650NuUpGI7mYq6xE2QE2.jpg"
       },
@@ -32813,7 +32763,7 @@
           }
         },
         "addedAt": 1784802840917,
-        "updatedAt": 1784803663169,
+        "updatedAt": 1784804080715,
         "name": "Lab Rats",
         "posterPath": "/lcQMvn9ZptPd3dxn0a17viRfi7Y.jpg"
       },
@@ -33133,7 +33083,7 @@
           }
         },
         "addedAt": 1784802840917,
-        "updatedAt": 1784803663169,
+        "updatedAt": 1784804080715,
         "name": "Jessie",
         "posterPath": "/tspQe0FuiaUj0U1R1norNbiYTe4.jpg"
       },
@@ -33272,7 +33222,7 @@
           }
         },
         "addedAt": 1784802840917,
-        "updatedAt": 1784803663169,
+        "updatedAt": 1784804080715,
         "name": "Gravity Falls",
         "posterPath": "/qwi3p6PzKfQZ4YXBzv3CP5pO2dE.jpg"
       },
@@ -33441,7 +33391,7 @@
           }
         },
         "addedAt": 1784802840917,
-        "updatedAt": 1784803663169,
+        "updatedAt": 1784804080715,
         "name": "Girl Meets World",
         "posterPath": "/xhU1KkPtM9fpE1HKpdghX0VlyYF.jpg"
       },
@@ -33451,7 +33401,7 @@
         "seasons": {},
         "episodes": {},
         "addedAt": 1784802840917,
-        "updatedAt": 1784803663169,
+        "updatedAt": 1784804080715,
         "name": "True Detective",
         "posterPath": "/zYqVTiHK5ZajYcNzAW7qWte5NWS.jpg"
       },
@@ -34149,7 +34099,7 @@
           }
         },
         "addedAt": 1784802840917,
-        "updatedAt": 1784803663169,
+        "updatedAt": 1784804080715,
         "name": "The Blacklist",
         "posterPath": "/4HTfd1PhgFUenJxVuBDNdLmdr0c.jpg"
       },
@@ -34483,7 +34433,7 @@
           }
         },
         "addedAt": 1784802840917,
-        "updatedAt": 1784803663169,
+        "updatedAt": 1784804080715,
         "name": "The 100",
         "posterPath": "/wcaDIAG1QdXQLRaj4vC1EFdBT2.jpg"
       },
@@ -34977,7 +34927,7 @@
           }
         },
         "addedAt": 1784802840917,
-        "updatedAt": 1784803663169,
+        "updatedAt": 1784804080715,
         "name": "Brooklyn Nine-Nine",
         "posterPath": "/A3SymGlOHefSKbz1bCOz56moupS.jpg"
       },
@@ -35071,7 +35021,7 @@
           }
         },
         "addedAt": 1784802840917,
-        "updatedAt": 1784803663169,
+        "updatedAt": 1784804080715,
         "name": "Mighty Med",
         "posterPath": "/hCUPAY96rZdKTiwMM2JRsTTtdk5.jpg"
       },
@@ -35337,7 +35287,7 @@
           }
         },
         "addedAt": 1784802840917,
-        "updatedAt": 1784803663169,
+        "updatedAt": 1784804080715,
         "name": "Liv and Maddie",
         "posterPath": "/j5iGTENbOfCHjZJ6cCrhBVdxER5.jpg"
       },
@@ -35515,7 +35465,7 @@
           }
         },
         "addedAt": 1784802840917,
-        "updatedAt": 1784803663169,
+        "updatedAt": 1784804080715,
         "name": "Better Call Saul",
         "posterPath": "/zjg4jpK1Wp2kiRvtt5ND0kznako.jpg"
       },
@@ -36015,7 +35965,7 @@
           }
         },
         "addedAt": 1784802840917,
-        "updatedAt": 1784803663169,
+        "updatedAt": 1784804080715,
         "name": "Pokémon",
         "posterPath": "/rOuGm07PxBhEsK9TaGPRQVJQm1X.jpg"
       },
@@ -36025,7 +35975,7 @@
         "seasons": {},
         "episodes": {},
         "addedAt": 1784802840917,
-        "updatedAt": 1784803663169,
+        "updatedAt": 1784804080715,
         "name": "Peaky Blinders",
         "posterPath": "/vUUqzWa2LnHIVqkaKVlVGkVcZIW.jpg"
       },
@@ -36618,7 +36568,7 @@
           }
         },
         "addedAt": 1784802840917,
-        "updatedAt": 1784803663169,
+        "updatedAt": 1784804080715,
         "name": "The Flash",
         "posterPath": "/yZevl2vHQgmosfwUdVNzviIfaWS.jpg"
       },
@@ -36691,7 +36641,7 @@
           }
         },
         "addedAt": 1784802840917,
-        "updatedAt": 1784803663169,
+        "updatedAt": 1784804080715,
         "name": "Marvel's Agent Carter",
         "posterPath": "/7kqIsjjDMZA5GRMH5VCdQYZJqc6.jpg"
       },
@@ -36779,7 +36729,7 @@
           }
         },
         "addedAt": 1784802840917,
-        "updatedAt": 1784803663169,
+        "updatedAt": 1784804080715,
         "name": "Binny and the Ghost",
         "posterPath": "/9ILkE0uWtM8Liqv7VvT15MIT6zt.jpg"
       },
@@ -36987,7 +36937,7 @@
           }
         },
         "addedAt": 1784802840917,
-        "updatedAt": 1784803663169,
+        "updatedAt": 1784804080715,
         "name": "Henry Danger",
         "posterPath": "/f3TEP5SROTpL6e520ohhSNbUv1E.jpg"
       },
@@ -37144,7 +37094,7 @@
           }
         },
         "addedAt": 1784802840917,
-        "updatedAt": 1784803663169,
+        "updatedAt": 1784804080715,
         "name": "Nicky, Ricky, Dicky & Dawn",
         "posterPath": "/nBkA2uXAaySBmlrinn5KroFZn94.jpg"
       },
@@ -37283,7 +37233,7 @@
           }
         },
         "addedAt": 1784802840917,
-        "updatedAt": 1784803663169,
+        "updatedAt": 1784804080715,
         "name": "Marvel's Daredevil",
         "posterPath": "/QWbPaDxiB6LW2LjASknzYBvjMj.jpg"
       },
@@ -37530,7 +37480,7 @@
           }
         },
         "addedAt": 1784802840917,
-        "updatedAt": 1784803663169,
+        "updatedAt": 1784804080715,
         "name": "K.C. Undercover",
         "posterPath": "/52iv1yPKYR4nezoX7lMLcK9yt6q.jpg"
       },
@@ -37585,7 +37535,7 @@
           }
         },
         "addedAt": 1784802840917,
-        "updatedAt": 1784803663169,
+        "updatedAt": 1784804080715,
         "name": "Marvel's Luke Cage",
         "posterPath": "/yzM1hMB3PUJqbISX0f421b3xOjB.jpg"
       },
@@ -37673,7 +37623,7 @@
           }
         },
         "addedAt": 1784802840917,
-        "updatedAt": 1784803663169,
+        "updatedAt": 1784804080715,
         "name": "Marvel's Iron Fist",
         "posterPath": "/4l6KD9HhtD6nCDEfg10Lp6C6zah.jpg"
       },
@@ -37713,7 +37663,7 @@
           }
         },
         "addedAt": 1784802840917,
-        "updatedAt": 1784803663169,
+        "updatedAt": 1784804080715,
         "name": "Marvel's The Defenders",
         "posterPath": "/49XzINhH4LFsgz7cx6TOPcHUJUL.jpg"
       },
@@ -37723,7 +37673,7 @@
         "seasons": {},
         "episodes": {},
         "addedAt": 1784802840917,
-        "updatedAt": 1784803663169,
+        "updatedAt": 1784804080715,
         "name": "Mr. Robot",
         "posterPath": "/kv1nRqgebSsREnd7vdC2pSGjpLo.jpg"
       },
@@ -38088,7 +38038,7 @@
           }
         },
         "addedAt": 1784802840917,
-        "updatedAt": 1784803663169,
+        "updatedAt": 1784804080715,
         "name": "DC's Legends of Tomorrow",
         "posterPath": "/AcEFDh272YVTR6B6zrrusk8BjJG.jpg"
       },
@@ -38498,7 +38448,7 @@
           }
         },
         "addedAt": 1784802840917,
-        "updatedAt": 1784803663169,
+        "updatedAt": 1784804080715,
         "name": "Supergirl",
         "posterPath": "/cFO65xb0xiXKqk5BmgHawCXB1i0.jpg"
       },
@@ -38694,7 +38644,7 @@
           }
         },
         "addedAt": 1784802840917,
-        "updatedAt": 1784803663169,
+        "updatedAt": 1784804080715,
         "name": "BUNK'D: Learning the Ropes",
         "posterPath": "/tfgcSe8o0HTuMJaMWSD5vdF8hMa.jpg"
       },
@@ -38824,7 +38774,7 @@
           }
         },
         "addedAt": 1784802840917,
-        "updatedAt": 1784803663169,
+        "updatedAt": 1784804080715,
         "name": "Gamer's Guide to Pretty Much Everything",
         "posterPath": "/y3llxLK0DgkaOMGpjeqBe5qhIDy.jpg"
       },
@@ -38978,7 +38928,7 @@
           }
         },
         "addedAt": 1784802840917,
-        "updatedAt": 1784803663169,
+        "updatedAt": 1784804080715,
         "name": "Game Shakers",
         "posterPath": "/7TMp3RMf9DCZaaR9XeAQ1N6tby4.jpg"
       },
@@ -39108,7 +39058,7 @@
           }
         },
         "addedAt": 1784802840917,
-        "updatedAt": 1784803663169,
+        "updatedAt": 1784804080715,
         "name": "Stuck in the Middle",
         "posterPath": "/phquU470KPL2XvWX0D6he5xwK3P.jpg"
       },
@@ -39280,7 +39230,7 @@
           }
         },
         "addedAt": 1784802840917,
-        "updatedAt": 1784803663169,
+        "updatedAt": 1784804080715,
         "name": "Miraculous: Tales of Ladybug & Cat Noir",
         "posterPath": "/acrtAy8gmxcsEvrDP09MpMSCeDZ.jpg"
       },
@@ -39344,7 +39294,7 @@
           }
         },
         "addedAt": 1784802840917,
-        "updatedAt": 1784803663169,
+        "updatedAt": 1784804080715,
         "name": "Lab Rats: Elite Force",
         "posterPath": "/g5zm08nb0SRS7Pra4iImrQiROzk.jpg"
       },
@@ -39423,7 +39373,7 @@
           }
         },
         "addedAt": 1784802840917,
-        "updatedAt": 1784803663169,
+        "updatedAt": 1784804080715,
         "name": "Marvel's Cloak & Dagger",
         "posterPath": "/pYnRJuBPEqZO1o4fcxBTgmKNHfy.jpg"
       },
@@ -39634,7 +39584,7 @@
           }
         },
         "addedAt": 1784802840917,
-        "updatedAt": 1784803663169,
+        "updatedAt": 1784804080715,
         "name": "Bizaardvark",
         "posterPath": "/r3zf9m6nvK55KhMukTqAg5rVEW7.jpg"
       },
@@ -39731,7 +39681,7 @@
           }
         },
         "addedAt": 1784802840917,
-        "updatedAt": 1784803663169,
+        "updatedAt": 1784804080715,
         "name": "Marvel's The Punisher",
         "posterPath": "/y6wYElX5HaPZItVGJcYGdQO7k8g.jpg"
       },
@@ -39741,7 +39691,7 @@
         "seasons": {},
         "episodes": {},
         "addedAt": 1784802840917,
-        "updatedAt": 1784803663169,
+        "updatedAt": 1784804080715,
         "name": "Marvel's Runaways",
         "posterPath": "/hnHEhbzh0F7kN3Ah1lzRjtQuW16.jpg"
       },
@@ -39781,7 +39731,7 @@
           }
         },
         "addedAt": 1784802840917,
-        "updatedAt": 1784803663169,
+        "updatedAt": 1784804080715,
         "name": "Marvel's Inhumans",
         "posterPath": "/zKfGip55oJ9tdzhyd9ayGyFFhuo.jpg"
       },
@@ -39981,7 +39931,7 @@
           }
         },
         "addedAt": 1784802840917,
-        "updatedAt": 1784803663169,
+        "updatedAt": 1784804080715,
         "name": "Black Lightning",
         "posterPath": "/h1xbvvO6oqchfLe6xh0yLNnQxeM.jpg"
       },
@@ -40325,7 +40275,7 @@
           }
         },
         "addedAt": 1784802840917,
-        "updatedAt": 1784803663169,
+        "updatedAt": 1784804080715,
         "name": "Young Sheldon",
         "posterPath": "/kidkbZRBGbsEIrX7pODRSKi9ipl.jpg"
       },
@@ -40440,7 +40390,7 @@
           }
         },
         "addedAt": 1784802840917,
-        "updatedAt": 1784803663169,
+        "updatedAt": 1784804080715,
         "name": "Tom Clancy's Jack Ryan",
         "posterPath": "/cO4py3L3q5GNPrA0qr1wVDrosK1.jpg"
       },
@@ -40663,7 +40613,7 @@
           }
         },
         "addedAt": 1784802840917,
-        "updatedAt": 1784803663169,
+        "updatedAt": 1784804080715,
         "name": "Supa Strikas",
         "posterPath": "/nx2OyMPYJZlgvK29mjovqy4WYnJ.jpg"
       },
@@ -40797,7 +40747,7 @@
           }
         },
         "addedAt": 1784802840917,
-        "updatedAt": 1784803663169,
+        "updatedAt": 1784804080715,
         "name": "The Umbrella Academy",
         "posterPath": "/qhcwrnnCnN8NE1N6XXKHFmveJR9.jpg"
       },
@@ -40903,7 +40853,7 @@
           }
         },
         "addedAt": 1784802840917,
-        "updatedAt": 1784803663169,
+        "updatedAt": 1784804080715,
         "name": "Lost in Space",
         "posterPath": "/y8NJnTXzb4rio9uvVYFVrXEMofU.jpg"
       },
@@ -41052,7 +41002,7 @@
           }
         },
         "addedAt": 1784802840917,
-        "updatedAt": 1784803663169,
+        "updatedAt": 1784804080715,
         "name": "The Boys",
         "posterPath": "/in1R2dDc421JxsoRWaIIAqVI2KE.jpg"
       },
@@ -41279,7 +41229,7 @@
           }
         },
         "addedAt": 1784802840917,
-        "updatedAt": 1784803663169,
+        "updatedAt": 1784804080715,
         "name": "Cobra Kai",
         "posterPath": "/6POBWybSBDBKjSs1VAQcnQC1qyt.jpg"
       },
@@ -41457,7 +41407,7 @@
           }
         },
         "addedAt": 1784802840917,
-        "updatedAt": 1784803663169,
+        "updatedAt": 1784804080715,
         "name": "You",
         "posterPath": "/oANi0vEE92nuijiZQgPZ88FSxqQ.jpg"
       },
@@ -41467,7 +41417,7 @@
         "seasons": {},
         "episodes": {},
         "addedAt": 1784802840917,
-        "updatedAt": 1784803663169,
+        "updatedAt": 1784804080715,
         "name": "Manifest",
         "posterPath": "/eTemCphrglLKrXOsNRhYezHA7H9.jpg"
       },
@@ -41477,7 +41427,7 @@
         "seasons": {},
         "episodes": {},
         "addedAt": 1784802840917,
-        "updatedAt": 1784803663169,
+        "updatedAt": 1784804080715,
         "name": "Watchmen",
         "posterPath": "/m8rWq3j73ZGhDuSCZWMMoE9ePH1.jpg"
       },
@@ -41562,7 +41512,7 @@
           }
         },
         "addedAt": 1784802840917,
-        "updatedAt": 1784803663169,
+        "updatedAt": 1784804080715,
         "name": "Insatiable",
         "posterPath": "/lHZ4xqGQlmyiFTOVtwnNpTcZgkd.jpg"
       },
@@ -41701,7 +41651,7 @@
           }
         },
         "addedAt": 1784802840917,
-        "updatedAt": 1784803663169,
+        "updatedAt": 1784804080715,
         "name": "DC's Stargirl",
         "posterPath": "/JJxVsQPPiuLcArALotMHsCubeo.jpg"
       },
@@ -41814,7 +41764,7 @@
           }
         },
         "addedAt": 1784802840917,
-        "updatedAt": 1784803663169,
+        "updatedAt": 1784804080715,
         "name": "Paradise PD",
         "posterPath": "/desSj4kx0y9p61vm9QBE3Wm8GxK.jpg"
       },
@@ -41908,7 +41858,7 @@
           }
         },
         "addedAt": 1784802840917,
-        "updatedAt": 1784803663169,
+        "updatedAt": 1784804080715,
         "name": "The Mandalorian",
         "posterPath": "/sWgBv7LV2PRoQgkxwlibdGXKz1S.jpg"
       },
@@ -41954,7 +41904,7 @@
           }
         },
         "addedAt": 1784802840917,
-        "updatedAt": 1784803663169,
+        "updatedAt": 1784804080715,
         "name": "Daybreak",
         "posterPath": "/AbnOGmAe7harXNwRAz7XywpHr8F.jpg"
       },
@@ -42009,7 +41959,7 @@
           }
         },
         "addedAt": 1784802840917,
-        "updatedAt": 1784803663169,
+        "updatedAt": 1784804080715,
         "name": "Loki",
         "posterPath": "/kEl2t3OhXc3Zb9FBh1AuYzRTgZp.jpg"
       },
@@ -42052,7 +42002,7 @@
           }
         },
         "addedAt": 1784802840917,
-        "updatedAt": 1784803663169,
+        "updatedAt": 1784804080715,
         "name": "WandaVision",
         "posterPath": "/frobUz2X5Pc8OiVZU8Oo5K3NKMM.jpg"
       },
@@ -42123,7 +42073,7 @@
           }
         },
         "addedAt": 1784802840917,
-        "updatedAt": 1784803663169,
+        "updatedAt": 1784804080715,
         "name": "Space Force",
         "posterPath": "/zgu3p4NvisS8CI68cUfBKbvAvu8.jpg"
       },
@@ -42220,7 +42170,7 @@
           }
         },
         "addedAt": 1784802840917,
-        "updatedAt": 1784803663169,
+        "updatedAt": 1784804080715,
         "name": "Penny on M.A.R.S.",
         "posterPath": "/aa34y9dNmEULV3UmXyyPY9Q6dRb.jpg"
       },
@@ -42251,7 +42201,7 @@
           }
         },
         "addedAt": 1784802840917,
-        "updatedAt": 1784803663169,
+        "updatedAt": 1784804080715,
         "name": "Chernobyl",
         "posterPath": "/hlLXt2tOPT6RRnjiUmoxyG1LTFi.jpg"
       },
@@ -42324,7 +42274,7 @@
           }
         },
         "addedAt": 1784802840917,
-        "updatedAt": 1784803663169,
+        "updatedAt": 1784804080715,
         "name": "Warrior Nun",
         "posterPath": "/fLP0mA7FiERZhDP1NJUaHpm6XM8.jpg"
       },
@@ -42361,7 +42311,7 @@
           }
         },
         "addedAt": 1784802840917,
-        "updatedAt": 1784803663169,
+        "updatedAt": 1784804080715,
         "name": "The Queen's Gambit",
         "posterPath": "/zU0htwkhNvBQdVSIKB9s6hgVeFK.jpg"
       },
@@ -42417,7 +42367,7 @@
           }
         },
         "addedAt": 1784802840917,
-        "updatedAt": 1784803663169,
+        "updatedAt": 1784804080715,
         "name": "Intelligence",
         "posterPath": "/xOTbJN5xHXNpxZknnJUKHK6EGK4.jpg"
       },
@@ -42451,7 +42401,7 @@
           }
         },
         "addedAt": 1784802840917,
-        "updatedAt": 1784803663169,
+        "updatedAt": 1784804080715,
         "name": "Hawkeye",
         "posterPath": "/ct5pNE5dDHryHLDnxyZPYcqO1sz.jpg"
       },
@@ -42536,7 +42486,7 @@
           }
         },
         "addedAt": 1784802840917,
-        "updatedAt": 1784803663169,
+        "updatedAt": 1784804080715,
         "name": "Mr. Iglesias",
         "posterPath": "/nRLuPKk3hKD5fiZGi5WGNdssox8.jpg"
       },
@@ -42570,7 +42520,7 @@
           }
         },
         "addedAt": 1784802840917,
-        "updatedAt": 1784803663169,
+        "updatedAt": 1784804080715,
         "name": "The Falcon and the Winter Soldier",
         "posterPath": "/6kbAMLteGO8yyewYau6bJ683sw7.jpg"
       },
@@ -42745,7 +42695,7 @@
           }
         },
         "addedAt": 1784802840917,
-        "updatedAt": 1784803663169,
+        "updatedAt": 1784804080715,
         "name": "Batwoman",
         "posterPath": "/pBpxKiitMuYXvtsXNSzya8DKKzV.jpg"
       },
@@ -42845,7 +42795,7 @@
           }
         },
         "addedAt": 1784802840917,
-        "updatedAt": 1784803663169,
+        "updatedAt": 1784804080715,
         "name": "What If...?",
         "posterPath": "/lztz5XBMG1x6Y5ubz7CxfPFsAcW.jpg"
       },
@@ -42879,7 +42829,7 @@
           }
         },
         "addedAt": 1784802840917,
-        "updatedAt": 1784803663169,
+        "updatedAt": 1784804080715,
         "name": "Moon Knight",
         "posterPath": "/YksR65as1ppF2N48TJAh2PLamX.jpg"
       },
@@ -42913,7 +42863,7 @@
           }
         },
         "addedAt": 1784802840917,
-        "updatedAt": 1784803663169,
+        "updatedAt": 1784804080715,
         "name": "Ms. Marvel",
         "posterPath": "/3HWWh92kZbD7odwJX7nKmXNZsYo.jpg"
       },
@@ -42956,7 +42906,7 @@
           }
         },
         "addedAt": 1784802840917,
-        "updatedAt": 1784803663169,
+        "updatedAt": 1784804080715,
         "name": "She-Hulk: Attorney at Law",
         "posterPath": "/5xz2orV8f0usyrfGNshcoXHmiaV.jpg"
       },
@@ -42990,7 +42940,7 @@
           }
         },
         "addedAt": 1784802840917,
-        "updatedAt": 1784803663169,
+        "updatedAt": 1784804080715,
         "name": "Obi-Wan Kenobi",
         "posterPath": "/4Lok3HBSfbQxibQZBygoVCwKKrZ.jpg"
       },
@@ -43079,7 +43029,7 @@
           }
         },
         "addedAt": 1784802840917,
-        "updatedAt": 1784803663169,
+        "updatedAt": 1784804080715,
         "name": "Squid Game",
         "posterPath": "/1QdXdRYfktUSONkl1oD5gc6Be0s.jpg"
       },
@@ -43134,7 +43084,7 @@
           }
         },
         "addedAt": 1784802840917,
-        "updatedAt": 1784803663169,
+        "updatedAt": 1784804080715,
         "name": "Into the Night",
         "posterPath": "/na6fk6WculNrUPCPPQSPNjNyjvX.jpg"
       },
@@ -43318,7 +43268,7 @@
           }
         },
         "addedAt": 1784802840917,
-        "updatedAt": 1784803663169,
+        "updatedAt": 1784804080715,
         "name": "Superman & Lois",
         "posterPath": "/vlv1gn98GqMnKHLSh0dNciqGfBl.jpg"
       },
@@ -43368,7 +43318,7 @@
           }
         },
         "addedAt": 1784802840917,
-        "updatedAt": 1784803663169,
+        "updatedAt": 1784804080715,
         "name": "Prehistoric Planet",
         "posterPath": "/9yjWMmYWQSDY2eelHECQcwSL816.jpg"
       },
@@ -43490,7 +43440,7 @@
           }
         },
         "addedAt": 1784802840917,
-        "updatedAt": 1784803663169,
+        "updatedAt": 1784804080715,
         "name": "INVINCIBLE",
         "posterPath": "/4tblBrslcKSifMVZ3TmtT2ukMor.jpg"
       },
@@ -43536,7 +43486,7 @@
           }
         },
         "addedAt": 1784802840917,
-        "updatedAt": 1784803663169,
+        "updatedAt": 1784804080715,
         "name": "Medical Police",
         "posterPath": "/6Zy5AtrKJOMnVWgDqHtnogOfI40.jpg"
       },
@@ -43661,7 +43611,7 @@
           }
         },
         "addedAt": 1784802840917,
-        "updatedAt": 1784803663169,
+        "updatedAt": 1784804080715,
         "name": "Ted Lasso",
         "posterPath": "/5fhZdwP1DVJ0FyVH6vrFdHwpXIn.jpg"
       },
@@ -43813,7 +43763,7 @@
           }
         },
         "addedAt": 1784802840917,
-        "updatedAt": 1784803663169,
+        "updatedAt": 1784804080715,
         "name": "Outer Banks",
         "posterPath": "/ovDgO2LPfwdVRfvScAqo9aMiIW.jpg"
       },
@@ -43823,7 +43773,7 @@
         "seasons": {},
         "episodes": {},
         "addedAt": 1784802840917,
-        "updatedAt": 1784803663169,
+        "updatedAt": 1784804080715,
         "name": "Percy Jackson and the Olympians",
         "posterPath": "/40eFcTzZier3DWLqldsP5VHxeoD.jpg"
       },
@@ -43869,7 +43819,7 @@
           }
         },
         "addedAt": 1784802840917,
-        "updatedAt": 1784803663169,
+        "updatedAt": 1784804080715,
         "name": "Hoops",
         "posterPath": "/3umUQ5DcZe7mSZGImCAStl2FRbm.jpg"
       },
@@ -43942,7 +43892,7 @@
           }
         },
         "addedAt": 1784802840917,
-        "updatedAt": 1784803663169,
+        "updatedAt": 1784804080715,
         "name": "The Afterparty",
         "posterPath": "/9iAxAxeX5RjB39ckhxPMDCJPpG9.jpg"
       },
@@ -44037,7 +43987,7 @@
           }
         },
         "addedAt": 1784802840917,
-        "updatedAt": 1784803663169,
+        "updatedAt": 1784804080715,
         "name": "Reacher",
         "posterPath": "/31GlRQMiDunO8cl3NxTz34U64rf.jpg"
       },
@@ -44125,7 +44075,7 @@
           }
         },
         "addedAt": 1784802840917,
-        "updatedAt": 1784803663169,
+        "updatedAt": 1784804080715,
         "name": "Alice in Borderland",
         "posterPath": "/Ac8ruycRXzgcsndTZFK6ouGA0FA.jpg"
       },
@@ -44192,7 +44142,7 @@
           }
         },
         "addedAt": 1784802840917,
-        "updatedAt": 1784803663169,
+        "updatedAt": 1784804080715,
         "name": "Peacemaker",
         "posterPath": "/eYzbGcYnOUlvj2fa76pTgIXogd7.jpg"
       },
@@ -44202,7 +44152,7 @@
         "seasons": {},
         "episodes": {},
         "addedAt": 1784802840917,
-        "updatedAt": 1784803663169,
+        "updatedAt": 1784804080715,
         "name": "Outer Range",
         "posterPath": "/9leGmIDamsWJELYz0pZkr2EXUFf.jpg"
       },
@@ -44248,7 +44198,7 @@
           }
         },
         "addedAt": 1784802840917,
-        "updatedAt": 1784803663169,
+        "updatedAt": 1784804080715,
         "name": "DAHMER - Monster: The Jeffrey Dahmer Story",
         "posterPath": "/f2PVrphK0u81ES256lw3oAZuF3x.jpg"
       },
@@ -44288,7 +44238,7 @@
           }
         },
         "addedAt": 1784802840917,
-        "updatedAt": 1784803663169,
+        "updatedAt": 1784804080715,
         "name": "Ahsoka",
         "posterPath": "/eiJeWeCAEZAmRppnXHiTWDcCd3Q.jpg"
       },
@@ -44322,7 +44272,7 @@
           }
         },
         "addedAt": 1784802840917,
-        "updatedAt": 1784803663169,
+        "updatedAt": 1784804080715,
         "name": "Ironheart",
         "posterPath": "/dOh6MJpdlQhYpLBhzhNQeYGKTZ5.jpg"
       },
@@ -44356,7 +44306,7 @@
           }
         },
         "addedAt": 1784802840917,
-        "updatedAt": 1784803663169,
+        "updatedAt": 1784804080715,
         "name": "Secret Invasion",
         "posterPath": "/f5ZMzzCvt2IzVDxr54gHPv9jlC9.jpg"
       },
@@ -44390,7 +44340,7 @@
           }
         },
         "addedAt": 1784802840917,
-        "updatedAt": 1784803663169,
+        "updatedAt": 1784804080715,
         "name": "Citadel",
         "posterPath": "/5MHtxPEfmN4b0rHzfEZRcm6v9WI.jpg"
       },
@@ -44427,7 +44377,7 @@
           }
         },
         "addedAt": 1784802840917,
-        "updatedAt": 1784803663169,
+        "updatedAt": 1784804080715,
         "name": "The Book of Boba Fett",
         "posterPath": "/gNbdjDi1HamTCrfvM9JeA94bNi2.jpg"
       },
@@ -44458,7 +44408,7 @@
           }
         },
         "addedAt": 1784802840917,
-        "updatedAt": 1784803663169,
+        "updatedAt": 1784804080715,
         "name": "Echo",
         "posterPath": "/vFyJH630cF68LohVYjQW49074Sy.jpg"
       },
@@ -44516,7 +44466,7 @@
           }
         },
         "addedAt": 1784802840917,
-        "updatedAt": 1784803663169,
+        "updatedAt": 1784804080715,
         "name": "ARK: The Animated Series",
         "posterPath": "/3qzBCXJLifxund1QMa8BiXmH3xp.jpg"
       },
@@ -44625,7 +44575,7 @@
           }
         },
         "addedAt": 1784802840917,
-        "updatedAt": 1784803663169,
+        "updatedAt": 1784804080715,
         "name": "How I Met Your Father",
         "posterPath": "/8psLGtFzTMYCXxUNMpMOCB6doPn.jpg"
       },
@@ -44717,7 +44667,7 @@
           }
         },
         "addedAt": 1784802840917,
-        "updatedAt": 1784803663169,
+        "updatedAt": 1784804080715,
         "name": "Solo Leveling",
         "posterPath": "/geCRueV3ElhRTr0xtJuEWJt6dJ1.jpg"
       },
@@ -44830,7 +44780,7 @@
           }
         },
         "addedAt": 1784802840917,
-        "updatedAt": 1784803663169,
+        "updatedAt": 1784804080715,
         "name": "The Night Agent",
         "posterPath": "/4c5yUNcaff4W4aPrkXE6zr7papX.jpg"
       },
@@ -44873,7 +44823,7 @@
           }
         },
         "addedAt": 1784802840917,
-        "updatedAt": 1784803663169,
+        "updatedAt": 1784804080715,
         "name": "Agatha All Along",
         "posterPath": "/mGsxKwXUjojitRv2E9qMTbxbBRd.jpg"
       },
@@ -44901,7 +44851,7 @@
           }
         },
         "addedAt": 1784802840917,
-        "updatedAt": 1784803663169,
+        "updatedAt": 1784804080715,
         "name": "Marvel Zombies",
         "posterPath": "/mwKj9ERGFXsWot0nXgQ5yMQf9I7.jpg"
       },
@@ -44962,7 +44912,7 @@
           }
         },
         "addedAt": 1784802840917,
-        "updatedAt": 1784803663169,
+        "updatedAt": 1784804080715,
         "name": "The Walking Dead: Dead City",
         "posterPath": "/wq3vuQzQgbS83zX3malAFWMsSwX.jpg"
       },
@@ -45008,7 +44958,7 @@
           }
         },
         "addedAt": 1784802840917,
-        "updatedAt": 1784803663169,
+        "updatedAt": 1784804080715,
         "name": "Bullsh*t The Gameshow",
         "posterPath": "/t1Il2y9l08M4JK3yB9EQiHb73rJ.jpg"
       },
@@ -45072,7 +45022,7 @@
           }
         },
         "addedAt": 1784802840917,
-        "updatedAt": 1784803663169,
+        "updatedAt": 1784804080715,
         "name": "Hijack",
         "posterPath": "/2C51clnxQdiqPDeqQlXcUx70hse.jpg"
       },
@@ -45115,7 +45065,7 @@
           }
         },
         "addedAt": 1784802840917,
-        "updatedAt": 1784803663169,
+        "updatedAt": 1784804080715,
         "name": "Wonder Man",
         "posterPath": "/6yy9nQlFt2l6UVWzrfhszFCaZ5C.jpg"
       },
@@ -45185,7 +45135,7 @@
           }
         },
         "addedAt": 1784802840917,
-        "updatedAt": 1784803663169,
+        "updatedAt": 1784804080715,
         "name": "Daredevil: Born Again",
         "posterPath": "/xDUoAsU8lQHOOoRkFiBuarmACDN.jpg"
       },
@@ -45253,7 +45203,7 @@
           }
         },
         "addedAt": 1784802840917,
-        "updatedAt": 1784803663169,
+        "updatedAt": 1784804080715,
         "name": "Gen V",
         "posterPath": "/uuot1N5AgZ7xRCKgm4ZCwOhgIJu.jpg"
       },
@@ -45287,7 +45237,7 @@
           }
         },
         "addedAt": 1784802840917,
-        "updatedAt": 1784803663169,
+        "updatedAt": 1784804080715,
         "name": "The Walking Dead: The Ones Who Live",
         "posterPath": "/ywbacot78IuNhGW4uVZPxxxVTkm.jpg"
       },
@@ -45366,7 +45316,7 @@
           }
         },
         "addedAt": 1784802840917,
-        "updatedAt": 1784803663169,
+        "updatedAt": 1784804080715,
         "name": "The Walking Dead: Daryl Dixon",
         "posterPath": "/sP5QdW9FN18XWcA4ROz3MPAQBTx.jpg"
       },
@@ -45409,7 +45359,7 @@
           }
         },
         "addedAt": 1784802840917,
-        "updatedAt": 1784803663169,
+        "updatedAt": 1784804080715,
         "name": "Creature Commandos",
         "posterPath": "/bB3G6Ug1jfsOUptb0RJsqrgMVta.jpg"
       },
@@ -45449,7 +45399,7 @@
           }
         },
         "addedAt": 1784802840917,
-        "updatedAt": 1784803663169,
+        "updatedAt": 1784804080715,
         "name": "Young Sherlock",
         "posterPath": "/h3s0Cd2JppeWA4UjTuSRauL52P7.jpg"
       },
@@ -45459,7 +45409,7 @@
         "seasons": {},
         "episodes": {},
         "addedAt": 1784802840917,
-        "updatedAt": 1784803663169,
+        "updatedAt": 1784804080715,
         "name": "Suits LA",
         "posterPath": "/3hYiNPkcLoI3QWDokOHQJIfn55O.jpg"
       }
@@ -46246,6 +46196,15 @@
         "popularity": 25.1246
       },
       {
+        "id": 1100988,
+        "title": "28 Years Later",
+        "releaseDate": "2025-06-18",
+        "posterPath": "/n5FygjEppOvac6yEaowi26nTyw3.jpg",
+        "mediaType": "movie",
+        "overview": "Twenty-eight years after the Rage virus outbreak, a heavily-defended island survives connected to the mainland by a single causeway. When one of the group leaves the island into the dark heart of the mainland, he discovers secrets, wonders, and horrors that have mutated not only the infected but other survivors as well.",
+        "popularity": 22.9294
+      },
+      {
         "id": 803796,
         "title": "KPop Demon Hunters",
         "releaseDate": "2025-06-20",
@@ -46318,6 +46277,15 @@
         "popularity": 45.8237
       },
       {
+        "id": 1078605,
+        "title": "Weapons",
+        "releaseDate": "2025-08-04",
+        "posterPath": "/cpf7vsRZ0MYRQcnLWteD5jK9ymT.jpg",
+        "mediaType": "movie",
+        "overview": "When all but one child from the same class mysteriously vanish on the same night at exactly the same time, a community is left questioning who or what is behind their disappearance.",
+        "popularity": 20.9719
+      },
+      {
         "id": 1038392,
         "title": "The Conjuring: Last Rites",
         "releaseDate": "2025-09-03",
@@ -46381,13 +46349,13 @@
         "popularity": 49.3377
       },
       {
-        "id": 1387382,
-        "title": "Hunting Season",
-        "releaseDate": "2025-12-05",
-        "posterPath": "/cbryTyaWdqrKpQCw6K7zm2jrB5v.jpg",
+        "id": 858024,
+        "title": "Hamnet",
+        "releaseDate": "2025-11-26",
+        "posterPath": "/zIcd6yuBucRNof5t9KVuGBHIhXU.jpg",
         "mediaType": "movie",
-        "overview": "When a reclusive survivalist and his daughter rescue a mysterious, wounded woman from a river, they become entangled in a deadly web of violence and revenge, forcing them to confront a brutal criminal to survive.",
-        "popularity": 18.7142
+        "overview": "The powerful story of love and loss that inspired the creation of Shakespeare's timeless masterpiece, Hamlet.",
+        "popularity": 21.0076
       },
       {
         "id": 991494,
@@ -46462,15 +46430,6 @@
         "popularity": 1.8188
       },
       {
-        "id": 1444638,
-        "title": "Blow-Off",
-        "releaseDate": "2025-12-31",
-        "posterPath": "/p6SxEY22iN68ONfZtWqmj0rvCXY.jpg",
-        "mediaType": "movie",
-        "overview": "In February of 2022, awkward high schooler George is invited to his crush's party, ostensibly as a photographer. While there, however, his night takes a turn in a different direction.",
-        "popularity": 1.3187
-      },
-      {
         "id": 1534249,
         "title": "Empty Lands",
         "releaseDate": "2025-12-31",
@@ -46478,15 +46437,6 @@
         "mediaType": "movie",
         "overview": "When a soldier and his wife move into a state-subsidized house, the mystery of a missing daughter from the family who once lived there disturbs their domestic life.",
         "popularity": 1.7183
-      },
-      {
-        "id": 1584592,
-        "title": "Distant Camera",
-        "releaseDate": "2025-12-31",
-        "posterPath": "/kIeM5MPQ4hFqjO1xPJVw75NigSN.jpg",
-        "mediaType": "movie",
-        "overview": "Andy Towers lives in his car, taking photos of an unseen woman. Pete Mauder, his friend, brings coffee to console him.",
-        "popularity": 1.2548
       },
       {
         "id": 1607989,
@@ -46498,33 +46448,6 @@
         "popularity": 1.4581
       },
       {
-        "id": 1623621,
-        "title": "Misdirection",
-        "releaseDate": "2025-12-31",
-        "posterPath": "/yXrDwrc61vGu8EoS3PFBq5i3f7Q.jpg",
-        "mediaType": "movie",
-        "overview": "Ivan, a struggling magician, gets the break of a lifetime and tries to get the life he's always wanted.",
-        "popularity": 1.1805
-      },
-      {
-        "id": 1633647,
-        "title": "Jack Falls in Love",
-        "releaseDate": "2025-12-31",
-        "posterPath": "/1a4oROn68ByqeDdVFOq3I8FBCOB.jpg",
-        "mediaType": "movie",
-        "overview": "Jack has 4 dates set up, all on ONE day, hilarity ensues",
-        "popularity": 1.0657
-      },
-      {
-        "id": 1366392,
-        "title": "The Boulder",
-        "releaseDate": "2025-12-31",
-        "posterPath": "/ek6EqAZ4K7fzFoNeiKTRSCuuI5P.jpg",
-        "mediaType": "movie",
-        "overview": "An aspiring artist repeatedly paints Sisyphus pushing the boulder, as she attempts to break into the art world, experiencing simultaneous success, failure, support and disappointment.",
-        "popularity": 1.1202
-      },
-      {
         "id": 1587667,
         "title": "Ronan Keating & Friends: A New Year’s Eve Party",
         "releaseDate": "2025-12-31",
@@ -46534,22 +46457,31 @@
         "popularity": 1.4026
       },
       {
-        "id": 1662616,
-        "title": "Making Love Songs",
+        "id": 1444638,
+        "title": "Blow-Off",
         "releaseDate": "2025-12-31",
-        "posterPath": "/wJJogQabTIfgW9kY2JbIzxOrNtS.jpg",
+        "posterPath": "/p6SxEY22iN68ONfZtWqmj0rvCXY.jpg",
         "mediaType": "movie",
-        "overview": "A teenager photographs his classmate's suicides.",
-        "popularity": 0.9755
+        "overview": "In February of 2022, awkward high schooler George is invited to his crush's party, ostensibly as a photographer. While there, however, his night takes a turn in a different direction.",
+        "popularity": 1.3187
       },
       {
-        "id": 1505500,
-        "title": "Post Obitum",
+        "id": 1584592,
+        "title": "Distant Camera",
         "releaseDate": "2025-12-31",
-        "posterPath": null,
+        "posterPath": "/kIeM5MPQ4hFqjO1xPJVw75NigSN.jpg",
         "mediaType": "movie",
-        "overview": "A bioengineered soldier is sent to execute an aging war criminal, only to discover that they both have a past together that forces him to question his identity, his mission, and the humanity he was never meant to possess.",
-        "popularity": 0.9514
+        "overview": "Andy Towers lives in his car, taking photos of an unseen woman. Pete Mauder, his friend, brings coffee to console him.",
+        "popularity": 1.2548
+      },
+      {
+        "id": 1623621,
+        "title": "Misdirection",
+        "releaseDate": "2025-12-31",
+        "posterPath": "/yXrDwrc61vGu8EoS3PFBq5i3f7Q.jpg",
+        "mediaType": "movie",
+        "overview": "Ivan, a struggling magician, gets the break of a lifetime and tries to get the life he's always wanted.",
+        "popularity": 1.1805
       },
       {
         "id": 1439726,
@@ -46561,22 +46493,22 @@
         "popularity": 1.1712
       },
       {
-        "id": 1663163,
-        "title": "My Yellow, Your Red",
+        "id": 1366392,
+        "title": "The Boulder",
         "releaseDate": "2025-12-31",
-        "posterPath": null,
+        "posterPath": "/ek6EqAZ4K7fzFoNeiKTRSCuuI5P.jpg",
         "mediaType": "movie",
-        "overview": "Lila, a woman in her late twenties, visits home for the Persian New Year. She faces intense cultural pressures from her elders to conform to traditional beauty standards. As the festivities approach, Lila must decide whether to comply with her elders' expectations or forge her own path.",
-        "popularity": 0.9874
+        "overview": "An aspiring artist repeatedly paints Sisyphus pushing the boulder, as she attempts to break into the art world, experiencing simultaneous success, failure, support and disappointment.",
+        "popularity": 1.1202
       },
       {
-        "id": 1554580,
-        "title": "Rule, Britannia",
+        "id": 1633647,
+        "title": "Jack Falls in Love",
         "releaseDate": "2025-12-31",
-        "posterPath": "/nLBUo0uIHBgkK4NJ26LkYOx5aq1.jpg",
+        "posterPath": "/1a4oROn68ByqeDdVFOq3I8FBCOB.jpg",
         "mediaType": "movie",
-        "overview": "A pair of flag waving Brits go to sea to stop the Refugee Small Boats. But their naval fantasy falls apart and they are forced to beg for rescue from the very people they set out to stop.",
-        "popularity": 0.7981
+        "overview": "Jack has 4 dates set up, all on ONE day, hilarity ensues",
+        "popularity": 1.0657
       },
       {
         "id": 1600578,
@@ -46597,49 +46529,13 @@
         "popularity": 1.0013
       },
       {
-        "id": 1320035,
-        "title": "Glint",
+        "id": 1663163,
+        "title": "My Yellow, Your Red",
         "releaseDate": "2025-12-31",
-        "posterPath": "/5tNWol2nBpp0ZSvZbtQFFKQLCt6.jpg",
+        "posterPath": null,
         "mediaType": "movie",
-        "overview": "As the fear of her impending adulthood becomes louder, a sedentary girl is asked to go to a party.",
-        "popularity": 0.8333
-      },
-      {
-        "id": 1462947,
-        "title": "A Couple Lives Together",
-        "releaseDate": "2025-12-31",
-        "posterPath": "/iMaPO42FxG0rQpkrDZYQq3i6jls.jpg",
-        "mediaType": "movie",
-        "overview": "A man and woman spend time with each other in their apartment. Presented as ten vignettes.",
-        "popularity": 0.8774
-      },
-      {
-        "id": 1663189,
-        "title": "Baby Brother",
-        "releaseDate": "2025-12-31",
-        "posterPath": "/ubIFo3lNC3yOitHUq0V7IPQSnKC.jpg",
-        "mediaType": "movie",
-        "overview": "It's the mid-eighties and six-year-old Timmy is going to be a big brother. There is nothing he wants more in life than the premiere home video game system. When his mother loses the pregnancy, Timmy offers to give up his video game savings to buy a new baby brother.",
-        "popularity": 0.9312
-      },
-      {
-        "id": 1629737,
-        "title": "Attack on Arkinboro Lane",
-        "releaseDate": "2025-12-31",
-        "posterPath": "/aisNq5lGOUXm4CON1fbtVbGQrq7.jpg",
-        "mediaType": "movie",
-        "overview": "Fred tries to bring his two best friends on a camping trip after a recent break-up changes the friends group. However, things suddenly take an unexpected turn when their chaotic trip turns into a nightmare.",
-        "popularity": 0.6904
-      },
-      {
-        "id": 1607669,
-        "title": "HOPELESS",
-        "releaseDate": "2025-12-31",
-        "posterPath": "/xMqE7QaeTBAMUn5BWuOr3Ukjmu7.jpg",
-        "mediaType": "movie",
-        "overview": "In attempt to reconcile with his past, a man writes a letter to someone named Hope.",
-        "popularity": 0.751
+        "overview": "Lila, a woman in her late twenties, visits home for the Persian New Year. She faces intense cultural pressures from her elders to conform to traditional beauty standards. As the festivities approach, Lila must decide whether to comply with her elders' expectations or forge her own path.",
+        "popularity": 0.9874
       },
       {
         "id": 1589696,
@@ -46651,31 +46547,49 @@
         "popularity": 0.9761
       },
       {
-        "id": 1402706,
-        "title": "Screw Year's Eve",
+        "id": 1662616,
+        "title": "Making Love Songs",
         "releaseDate": "2025-12-31",
-        "posterPath": "/ecUvchZH8JYj8TsrkTmp0pHrdKx.jpg",
+        "posterPath": "/wJJogQabTIfgW9kY2JbIzxOrNtS.jpg",
         "mediaType": "movie",
-        "overview": "A group of friends decide to ring in the New Year at an extravagant 80s-themed party hosted in a remote warehouse at the edge of town. As the night unfolds, they quickly realize they are not alone. Trapped in a labyrinth of neon lights and retro nostalgia, they find themselves hunted by a merciless killer hell-bent on making sure they never see another year.",
-        "popularity": 0.7249
+        "overview": "A teenager photographs his classmate's suicides.",
+        "popularity": 0.9755
       },
       {
-        "id": 1609854,
-        "title": "Here We Go: Our New Year’s Fireworks Fantasaganza",
-        "releaseDate": "2025-12-31",
-        "posterPath": "/bt40WCbHTRPcgXPBgTXo6W1rb0U.jpg",
-        "mediaType": "movie",
-        "overview": "Rachel's ambitious plans to hold a New Year party like those of old - together with Paul's determination to finally please his family after years of unimpressive fireworks displays - get corrupted; on Robin's suggestion, the family AirBNBs their own home in order to fund a New Year's Eve getaway to somewhere startlingly alike in suburban quality, with Paul's persistent boil necessitating the prerequisite of a sauna to quell it for good - which renders itself available in an unconventional method. Sue finds herself new friends in a slimmers' club whose activities seem directly antithetical to the group's aims, while Sam discovers the complexity of relationships after a mix-up results in an offensive gift to his new girlfriend.",
-        "popularity": 0.6645
-      },
-      {
-        "id": 1663182,
-        "title": "Have a Safe Trip",
+        "id": 1505500,
+        "title": "Post Obitum",
         "releaseDate": "2025-12-31",
         "posterPath": null,
         "mediaType": "movie",
-        "overview": "Carl and Michelle are going to traverse the galaxy together…without leaving the comfort of Carl’s living room.",
-        "popularity": 0.7106
+        "overview": "A bioengineered soldier is sent to execute an aging war criminal, only to discover that they both have a past together that forces him to question his identity, his mission, and the humanity he was never meant to possess.",
+        "popularity": 0.9514
+      },
+      {
+        "id": 1663189,
+        "title": "Baby Brother",
+        "releaseDate": "2025-12-31",
+        "posterPath": "/ubIFo3lNC3yOitHUq0V7IPQSnKC.jpg",
+        "mediaType": "movie",
+        "overview": "It's the mid-eighties and six-year-old Timmy is going to be a big brother. There is nothing he wants more in life than the premiere home video game system. When his mother loses the pregnancy, Timmy offers to give up his video game savings to buy a new baby brother.",
+        "popularity": 0.9312
+      },
+      {
+        "id": 1462947,
+        "title": "A Couple Lives Together",
+        "releaseDate": "2025-12-31",
+        "posterPath": "/iMaPO42FxG0rQpkrDZYQq3i6jls.jpg",
+        "mediaType": "movie",
+        "overview": "A man and woman spend time with each other in their apartment. Presented as ten vignettes.",
+        "popularity": 0.8774
+      },
+      {
+        "id": 1320035,
+        "title": "Glint",
+        "releaseDate": "2025-12-31",
+        "posterPath": "/5tNWol2nBpp0ZSvZbtQFFKQLCt6.jpg",
+        "mediaType": "movie",
+        "overview": "As the fear of her impending adulthood becomes louder, a sedentary girl is asked to go to a party.",
+        "popularity": 0.8333
       },
       {
         "id": 1609163,
@@ -46687,13 +46601,13 @@
         "popularity": 0.8214
       },
       {
-        "id": 1588125,
-        "title": "Yesterday I Lived Forever",
+        "id": 1554580,
+        "title": "Rule, Britannia",
         "releaseDate": "2025-12-31",
-        "posterPath": "/7PHiN9A1FwOhxFBXTiyfvz0Gd4V.jpg",
+        "posterPath": "/nLBUo0uIHBgkK4NJ26LkYOx5aq1.jpg",
         "mediaType": "movie",
-        "overview": "Trapped in a world of eternal light, Dracula wanders aimlessly and passive. However, after meeting The Golden Woman bathed in sunlight, and The Black Crow, he regains his hunger for blood.",
-        "popularity": 0.6986
+        "overview": "A pair of flag waving Brits go to sea to stop the Refugee Small Boats. But their naval fantasy falls apart and they are forced to beg for rescue from the very people they set out to stop.",
+        "popularity": 0.7981
       },
       {
         "id": 1622487,
@@ -46705,22 +46619,58 @@
         "popularity": 0.7645
       },
       {
-        "id": 1493536,
-        "title": "Headlines",
+        "id": 1607669,
+        "title": "HOPELESS",
         "releaseDate": "2025-12-31",
-        "posterPath": "/wszm1IFL1dBOBQS2I0l2Sz4BiRV.jpg",
+        "posterPath": "/xMqE7QaeTBAMUn5BWuOr3Ukjmu7.jpg",
         "mediaType": "movie",
-        "overview": "A fading actress and her A-List husband confront the realities of their relationship after a recent tragedy.",
-        "popularity": 0.527
+        "overview": "In attempt to reconcile with his past, a man writes a letter to someone named Hope.",
+        "popularity": 0.751
       },
       {
-        "id": 1143485,
-        "title": "Too Soon",
+        "id": 1402706,
+        "title": "Screw Year's Eve",
         "releaseDate": "2025-12-31",
-        "posterPath": "/3DLY3gkz8ztSPtuKNYwLhx9cF76.jpg",
+        "posterPath": "/ecUvchZH8JYj8TsrkTmp0pHrdKx.jpg",
         "mediaType": "movie",
-        "overview": "A Second Shot at love comes sooner than expected for a young widow and widower who meet the day of their spouses' funerals.",
-        "popularity": 0.5519
+        "overview": "A group of friends decide to ring in the New Year at an extravagant 80s-themed party hosted in a remote warehouse at the edge of town. As the night unfolds, they quickly realize they are not alone. Trapped in a labyrinth of neon lights and retro nostalgia, they find themselves hunted by a merciless killer hell-bent on making sure they never see another year.",
+        "popularity": 0.7249
+      },
+      {
+        "id": 1663182,
+        "title": "Have a Safe Trip",
+        "releaseDate": "2025-12-31",
+        "posterPath": null,
+        "mediaType": "movie",
+        "overview": "Carl and Michelle are going to traverse the galaxy together…without leaving the comfort of Carl’s living room.",
+        "popularity": 0.7106
+      },
+      {
+        "id": 1588125,
+        "title": "Yesterday I Lived Forever",
+        "releaseDate": "2025-12-31",
+        "posterPath": "/7PHiN9A1FwOhxFBXTiyfvz0Gd4V.jpg",
+        "mediaType": "movie",
+        "overview": "Trapped in a world of eternal light, Dracula wanders aimlessly and passive. However, after meeting The Golden Woman bathed in sunlight, and The Black Crow, he regains his hunger for blood.",
+        "popularity": 0.6986
+      },
+      {
+        "id": 1629737,
+        "title": "Attack on Arkinboro Lane",
+        "releaseDate": "2025-12-31",
+        "posterPath": "/aisNq5lGOUXm4CON1fbtVbGQrq7.jpg",
+        "mediaType": "movie",
+        "overview": "Fred tries to bring his two best friends on a camping trip after a recent break-up changes the friends group. However, things suddenly take an unexpected turn when their chaotic trip turns into a nightmare.",
+        "popularity": 0.6904
+      },
+      {
+        "id": 1612683,
+        "title": "Care That Comes from the Heart",
+        "releaseDate": "2025-12-31",
+        "posterPath": "/2TsplarmF2UsOPschxWqvnM1U4y.jpg",
+        "mediaType": "movie",
+        "overview": "After years of living abroad, Luisa comes home to surprising news: an engagement to the wealthy bachelor Diego, much to the dismay of her secret lover, the farm boy Anton. Can love keep them safe when everything else falls apart?  Philippine Airlines’ latest inflight safety video is a full-blown telenovela—packed with drama, heated confrontations, and heartbreaking tears—to keep you watching until the very end.",
+        "popularity": 0.6844
       },
       {
         "id": 1616634,
@@ -46732,13 +46682,31 @@
         "popularity": 0.681
       },
       {
-        "id": 1472018,
-        "title": "Paradise",
+        "id": 1609854,
+        "title": "Here We Go: Our New Year’s Fireworks Fantasaganza",
         "releaseDate": "2025-12-31",
-        "posterPath": "/ln7vT0HMF10YyXp0vjhHQod8Cyy.jpg",
+        "posterPath": "/bt40WCbHTRPcgXPBgTXo6W1rb0U.jpg",
         "mediaType": "movie",
-        "overview": "A young man visits a Buddhist temple in the hopes of quenching his thirst.",
-        "popularity": 0.4499
+        "overview": "Rachel's ambitious plans to hold a New Year party like those of old - together with Paul's determination to finally please his family after years of unimpressive fireworks displays - get corrupted; on Robin's suggestion, the family AirBNBs their own home in order to fund a New Year's Eve getaway to somewhere startlingly alike in suburban quality, with Paul's persistent boil necessitating the prerequisite of a sauna to quell it for good - which renders itself available in an unconventional method. Sue finds herself new friends in a slimmers' club whose activities seem directly antithetical to the group's aims, while Sam discovers the complexity of relationships after a mix-up results in an offensive gift to his new girlfriend.",
+        "popularity": 0.6645
+      },
+      {
+        "id": 1603561,
+        "title": "Modify",
+        "releaseDate": "2025-12-31",
+        "posterPath": "/mxr87eMRXF7USsks2ngWS2Wy2Tr.jpg",
+        "mediaType": "movie",
+        "overview": "A timeline of transformation, compiled from 8 years' worth of photos by and of transgender actress and filmmaker Robyn Adams.",
+        "popularity": 0.6149
+      },
+      {
+        "id": 698483,
+        "title": "The Strangers’ Case",
+        "releaseDate": "2025-12-31",
+        "posterPath": null,
+        "mediaType": "movie",
+        "overview": "In 1517, anti-immigrant riots broke out in London. Thomas More, then a deputy Sheriff of the city, intervened. Decades later, William Shakespeare wrote a speech for the play 'Sir Thomas More', in which More defended asylum seekers - 'the strangers'.",
+        "popularity": 0.6138
       },
       {
         "id": 1684862,
@@ -46759,15 +46727,6 @@
         "popularity": 0.6068
       },
       {
-        "id": 1603561,
-        "title": "Modify",
-        "releaseDate": "2025-12-31",
-        "posterPath": "/mxr87eMRXF7USsks2ngWS2Wy2Tr.jpg",
-        "mediaType": "movie",
-        "overview": "A timeline of transformation, compiled from 8 years' worth of photos by and of transgender actress and filmmaker Robyn Adams.",
-        "popularity": 0.6149
-      },
-      {
         "id": 1448806,
         "title": "A Dance to the Death",
         "releaseDate": "2025-12-31",
@@ -46775,42 +46734,6 @@
         "mediaType": "movie",
         "overview": "Growing old isn't a choice. Growing up is.",
         "popularity": 0.6026
-      },
-      {
-        "id": 1718665,
-        "title": "The Other Shore",
-        "releaseDate": "2025-12-31",
-        "posterPath": "/AbYEBSdmk3oCPdiRCG3qrxVr6L4.jpg",
-        "mediaType": "movie",
-        "overview": "In the late 2000s, Saigon, along a riverside working-class quarter caught between the past and the future, a worker resigned to his fate risks everything to push his young gifted best friend toward a better life. A Vietnamese remake of a scene in Good Will Hunting (1997).",
-        "popularity": 0.4115
-      },
-      {
-        "id": 1607510,
-        "title": "One Year In",
-        "releaseDate": "2025-12-31",
-        "posterPath": "/t3hiREz8x3TW7SQhQYuHOkwvz5w.jpg",
-        "mediaType": "movie",
-        "overview": "A young immigrant couple's relationship is put to the test.",
-        "popularity": 0.5367
-      },
-      {
-        "id": 1612683,
-        "title": "Care That Comes from the Heart",
-        "releaseDate": "2025-12-31",
-        "posterPath": "/2TsplarmF2UsOPschxWqvnM1U4y.jpg",
-        "mediaType": "movie",
-        "overview": "After years of living abroad, Luisa comes home to surprising news: an engagement to the wealthy bachelor Diego, much to the dismay of her secret lover, the farm boy Anton. Can love keep them safe when everything else falls apart?  Philippine Airlines’ latest inflight safety video is a full-blown telenovela—packed with drama, heated confrontations, and heartbreaking tears—to keep you watching until the very end.",
-        "popularity": 0.6844
-      },
-      {
-        "id": 1441255,
-        "title": "The Peanut Vendors",
-        "releaseDate": "2025-12-31",
-        "posterPath": "/iW1jPGYMKx8REowViORfZPwb7iQ.jpg",
-        "mediaType": "movie",
-        "overview": "Peanut Vendors - sometimes they sell, sometimes they help.",
-        "popularity": 0.4643
       },
       {
         "id": 1406014,
@@ -46822,13 +46745,22 @@
         "popularity": 0.6012
       },
       {
-        "id": 1405097,
-        "title": "GenX: the Saga of Forever Chemicals",
+        "id": 1143485,
+        "title": "Too Soon",
         "releaseDate": "2025-12-31",
-        "posterPath": "/mSogpARsz9b8GMvW8wmmLvQUhPt.jpg",
+        "posterPath": "/3DLY3gkz8ztSPtuKNYwLhx9cF76.jpg",
         "mediaType": "movie",
-        "overview": "GenX is a four-part documentary covering the complex issue of \"forever chemicals\" as a global challenge. This journey follows a team personally affected in their seven-year quest to understand the origin, depth and real solutions for this problem. This is a story of hope.  Directed by Elijah Yetter-Bowman, produced by Ethereal Films, Mark Ruffalo, Ray Ellis and made in collaboration with the Paperhand Puppet Intervention.",
-        "popularity": 0.3906
+        "overview": "A Second Shot at love comes sooner than expected for a young widow and widower who meet the day of their spouses' funerals.",
+        "popularity": 0.5519
+      },
+      {
+        "id": 1607510,
+        "title": "One Year In",
+        "releaseDate": "2025-12-31",
+        "posterPath": "/t3hiREz8x3TW7SQhQYuHOkwvz5w.jpg",
+        "mediaType": "movie",
+        "overview": "A young immigrant couple's relationship is put to the test.",
+        "popularity": 0.5367
       },
       {
         "id": 1607520,
@@ -46840,6 +46772,15 @@
         "popularity": 0.5346
       },
       {
+        "id": 1493536,
+        "title": "Headlines",
+        "releaseDate": "2025-12-31",
+        "posterPath": "/wszm1IFL1dBOBQS2I0l2Sz4BiRV.jpg",
+        "mediaType": "movie",
+        "overview": "A fading actress and her A-List husband confront the realities of their relationship after a recent tragedy.",
+        "popularity": 0.527
+      },
+      {
         "id": 1626628,
         "title": "Piranesi – Visionary of Shadow and Stone",
         "releaseDate": "2025-12-31",
@@ -46849,67 +46790,13 @@
         "popularity": 0.4954
       },
       {
-        "id": 1608950,
-        "title": "PROMISES",
+        "id": 1441255,
+        "title": "The Peanut Vendors",
         "releaseDate": "2025-12-31",
-        "posterPath": "/ksc8oPOz28k8RyI1dVhynx9MIJ6.jpg",
+        "posterPath": "/iW1jPGYMKx8REowViORfZPwb7iQ.jpg",
         "mediaType": "movie",
-        "overview": "While settling into a new house, a young man revisits an old memory tied to a promise, forcing him to confront the cost of attachment, sacrifice, and the quiet weight of expectations.",
-        "popularity": 0.3803
-      },
-      {
-        "id": 698483,
-        "title": "The Strangers’ Case",
-        "releaseDate": "2025-12-31",
-        "posterPath": null,
-        "mediaType": "movie",
-        "overview": "In 1517, anti-immigrant riots broke out in London. Thomas More, then a deputy Sheriff of the city, intervened. Decades later, William Shakespeare wrote a speech for the play 'Sir Thomas More', in which More defended asylum seekers - 'the strangers'.",
-        "popularity": 0.6138
-      },
-      {
-        "id": 1638971,
-        "title": "Echoes of a Broken Heart",
-        "releaseDate": "2025-12-31",
-        "posterPath": "/vc2a4EROZ3rBC9b2luSgFvZh7h7.jpg",
-        "mediaType": "movie",
-        "overview": "On New Year's Eve, heartbroken Beni accidentally opens a rift between worlds unleashing Dr. Frank-N-Furter into reality. With Majo, Pato, Mau, and a little help from Elphaba, he must face his pain before it destroys both universes forever.",
-        "popularity": 0.4397
-      },
-      {
-        "id": 1727805,
-        "title": "Arrogant 6-7 Mason Out For Blood",
-        "releaseDate": "2025-12-31",
-        "posterPath": "/fhT28Mh8cR4sWA6CtHLZs3Q68Sk.jpg",
-        "mediaType": "movie",
-        "overview": "Donald Mulligan, after a break-up, decides to go be a hero and save all performative males from the most arrogant 6-7 mason out for blood in the world, known as Jake Jacob Smokes, all with the help of his best friend, Henry XII...",
-        "popularity": 0.3386
-      },
-      {
-        "id": 1417590,
-        "title": "Londynek",
-        "releaseDate": "2025-12-31",
-        "posterPath": null,
-        "mediaType": "movie",
-        "overview": "Details and life of Pomorska street in Bydgoszcz",
-        "popularity": 0.3624
-      },
-      {
-        "id": 1610880,
-        "title": "Airport 2025",
-        "releaseDate": "2025-12-31",
-        "posterPath": "/kAdGMph46aN57Y8AgJGfugem0g1.jpg",
-        "mediaType": "movie",
-        "overview": "A documentary about Los Angeles International Airport in the year 2025.",
-        "popularity": 0.4134
-      },
-      {
-        "id": 1418004,
-        "title": "Rataje Ride",
-        "releaseDate": "2025-12-31",
-        "posterPath": null,
-        "mediaType": "movie",
-        "overview": "Friends ride through Rataje district in Poznań, exceeding time in Google Street Views",
-        "popularity": 0.4192
+        "overview": "Peanut Vendors - sometimes they sell, sometimes they help.",
+        "popularity": 0.4643
       },
       {
         "id": 1524403,
@@ -46921,22 +46808,58 @@
         "popularity": 0.4597
       },
       {
-        "id": 1506304,
-        "title": "Creamy, Not Crunchy",
+        "id": 1472018,
+        "title": "Paradise",
         "releaseDate": "2025-12-31",
-        "posterPath": "/oyF2Ws3nft7MN0Qc8jyAYjeOLKY.jpg",
+        "posterPath": "/ln7vT0HMF10YyXp0vjhHQod8Cyy.jpg",
         "mediaType": "movie",
-        "overview": "When Craig makes a simple but puzzling grocery request, his roommates become perplexed and hesitant to learn his true motivations.",
-        "popularity": 0.3692
+        "overview": "A young man visits a Buddhist temple in the hopes of quenching his thirst.",
+        "popularity": 0.4499
       },
       {
-        "id": 1607998,
-        "title": "Jane McDonald's New Year's Singalong",
+        "id": 1638971,
+        "title": "Echoes of a Broken Heart",
+        "releaseDate": "2025-12-31",
+        "posterPath": "/vc2a4EROZ3rBC9b2luSgFvZh7h7.jpg",
+        "mediaType": "movie",
+        "overview": "On New Year's Eve, heartbroken Beni accidentally opens a rift between worlds unleashing Dr. Frank-N-Furter into reality. With Majo, Pato, Mau, and a little help from Elphaba, he must face his pain before it destroys both universes forever.",
+        "popularity": 0.4397
+      },
+      {
+        "id": 1607063,
+        "title": "Solace",
+        "releaseDate": "2025-12-31",
+        "posterPath": "/wXI4CWDT76OOMEp6NrfrAkReXYz.jpg",
+        "mediaType": "movie",
+        "overview": "A grieving man aimlessly wanders the streets of Liverpool in search of solace.",
+        "popularity": 0.4362
+      },
+      {
+        "id": 1418004,
+        "title": "Rataje Ride",
         "releaseDate": "2025-12-31",
         "posterPath": null,
         "mediaType": "movie",
-        "overview": "Jane McDonald looks ahead to the New Year, while belting out a party playlist of floor fillers, showstoppers and toe-tapping tunes. Plus, a sing-a-long with Jane at home and a few celebrity surprises",
-        "popularity": 0.396
+        "overview": "Friends ride through Rataje district in Poznań, exceeding time in Google Street Views",
+        "popularity": 0.4192
+      },
+      {
+        "id": 1610880,
+        "title": "Airport 2025",
+        "releaseDate": "2025-12-31",
+        "posterPath": "/kAdGMph46aN57Y8AgJGfugem0g1.jpg",
+        "mediaType": "movie",
+        "overview": "A documentary about Los Angeles International Airport in the year 2025.",
+        "popularity": 0.4134
+      },
+      {
+        "id": 1718665,
+        "title": "The Other Shore",
+        "releaseDate": "2025-12-31",
+        "posterPath": "/AbYEBSdmk3oCPdiRCG3qrxVr6L4.jpg",
+        "mediaType": "movie",
+        "overview": "In the late 2000s, Saigon, along a riverside working-class quarter caught between the past and the future, a worker resigned to his fate risks everything to push his young gifted best friend toward a better life. A Vietnamese remake of a scene in Good Will Hunting (1997).",
+        "popularity": 0.4115
       },
       {
         "id": 1506331,
@@ -46948,103 +46871,40 @@
         "popularity": 0.3983
       },
       {
-        "id": 1444874,
-        "title": "Ratols & Ransom",
-        "releaseDate": "2025-12-31",
-        "posterPath": "/6ds7okPt5cXx9JOgF0xXUEBd8cf.jpg",
-        "mediaType": "movie",
-        "overview": "A bustling and average police precinct is disrupted when a frantic teenager enters with a huge problem.",
-        "popularity": 0.3448
-      },
-      {
-        "id": 1606909,
-        "title": "2025-12-14 (izzy film)",
-        "releaseDate": "2025-12-31",
-        "posterPath": "/v7rtb1v2LfNqGiaYdflvwDDLr7d.jpg",
-        "mediaType": "movie",
-        "overview": "An experiment with images I recorded and didn't record. An attempt at making a film about a film I didn't make.",
-        "popularity": 0.3535
-      },
-      {
-        "id": 1636888,
-        "title": "Richard Herring: Can I Have My Ball Back?",
-        "releaseDate": "2025-12-31",
-        "posterPath": "/9twZOesEfQoIKUrUyEVVLED0Le0.jpg",
-        "mediaType": "movie",
-        "overview": "In the lockdown of January 2021, Richard Herring went to his GP to find out why his right testicle seemed to be growing bigger. It turned out that he had testicular cancer and one month later he was lying in hospital waiting to have his murderous gonad removed. Would he survive? (No spoilers!)  For a comedian who had done a whole show about male genitalia (Talking Cock) and written a book about toxic masculinity (The Problem With Men), this seemed like a cruel twist of fate.  But because he’s a comedian, he was able to get a book and a stand-up tour out of it all. And now he’s got a DVD too! Recorded at the Gordon Craig Theatre in Stevenage (just 1.9 miles from where Richard’s knacker was excised) by the fabulous gofasterstripe.com crew.  Featuring a special appearance by Right Bollock and with extras including one of the first live performances of this material, the full audio podcast series and a commentary track from a mystery celebrity.",
-        "popularity": 0.1723
-      },
-      {
-        "id": 1418002,
-        "title": "Chartowo Tower",
+        "id": 1607998,
+        "title": "Jane McDonald's New Year's Singalong",
         "releaseDate": "2025-12-31",
         "posterPath": null,
         "mediaType": "movie",
-        "overview": "Exploration of the tilted tower of Poznań",
-        "popularity": 0.3599
+        "overview": "Jane McDonald looks ahead to the New Year, while belting out a party playlist of floor fillers, showstoppers and toe-tapping tunes. Plus, a sing-a-long with Jane at home and a few celebrity surprises",
+        "popularity": 0.396
       },
       {
-        "id": 1603550,
-        "title": "The Stray",
+        "id": 1405097,
+        "title": "GenX: the Saga of Forever Chemicals",
         "releaseDate": "2025-12-31",
-        "posterPath": "/cT00jR43Xb6kXqfuAB0RjPQvCVC.jpg",
+        "posterPath": "/mSogpARsz9b8GMvW8wmmLvQUhPt.jpg",
         "mediaType": "movie",
-        "overview": "In a quiet neighborhood where nothing ever happens, two girls have a secret.  Starring Kaylee Christmas and Khloe Christmas, The Stray is a haunting tale of friendship, control, and the blurry line between care and captivity.",
-        "popularity": 0.2533
+        "overview": "GenX is a four-part documentary covering the complex issue of \"forever chemicals\" as a global challenge. This journey follows a team personally affected in their seven-year quest to understand the origin, depth and real solutions for this problem. This is a story of hope.  Directed by Elijah Yetter-Bowman, produced by Ethereal Films, Mark Ruffalo, Ray Ellis and made in collaboration with the Paperhand Puppet Intervention.",
+        "popularity": 0.3906
       },
       {
-        "id": 1619685,
-        "title": "The Station",
+        "id": 1608950,
+        "title": "PROMISES",
         "releaseDate": "2025-12-31",
-        "posterPath": "/5DL4YybS6weheA9N0lnCF7uoxKm.jpg",
+        "posterPath": "/ksc8oPOz28k8RyI1dVhynx9MIJ6.jpg",
         "mediaType": "movie",
-        "overview": "A man from the olive lands finally going to meet his wife and see his daughter for the first time after long time defending his country in the army , what a wonderful day!",
-        "popularity": 0.2893
+        "overview": "While settling into a new house, a young man revisits an old memory tied to a promise, forcing him to confront the cost of attachment, sacrifice, and the quiet weight of expectations.",
+        "popularity": 0.3803
       },
       {
-        "id": 1605175,
-        "title": "Avenue de l'Opéra",
+        "id": 1506304,
+        "title": "Creamy, Not Crunchy",
         "releaseDate": "2025-12-31",
-        "posterPath": "/nYBIRv0pFuvtCTdTOLe9HGNUrPl.jpg",
+        "posterPath": "/oyF2Ws3nft7MN0Qc8jyAYjeOLKY.jpg",
         "mediaType": "movie",
-        "overview": "Remake of the 1900 Alice Guy-Blaché short showing a Paris street in reverse.",
-        "popularity": 0.2655
-      },
-      {
-        "id": 1604134,
-        "title": "Oasis Bandung Live Forever",
-        "releaseDate": "2025-12-31",
-        "posterPath": "/xJdn0elG87HJCctaO9ja0ADlKKm.jpg",
-        "mediaType": "movie",
-        "overview": "Oasis Bandung Live Forever tells the story of the struggle of the Oasis Bandung Community to maintain its identity and unity since its inception, overcoming internal conflicts, a lack of activities, and the impact of the pandemic.  However, thanks to the solidarity of its members and small gigs that kept the spirit alive, they rose again with a new concept that expanded the community's influence. Despite another organizational crisis, sponsor support and the principle of “from the community, to the community” became the foundation that kept Oasis Bandung alive and beloved.",
-        "popularity": 0.2666
-      },
-      {
-        "id": 1609996,
-        "title": "Driving Home for Christmas",
-        "releaseDate": "2025-12-31",
-        "posterPath": null,
-        "mediaType": "movie",
-        "overview": "𝐀 𝐂𝐡𝐫𝐢𝐬𝐭𝐦𝐚𝐬-𝐡𝐚𝐭𝐢𝐧𝐠 𝐲𝐨𝐮𝐧𝐠 𝐦𝐚𝐧 𝐦𝐮𝐬𝐭 𝐝𝐫𝐢𝐯𝐞 𝐡𝐢𝐬 𝐟𝐞𝐬𝐭𝐢𝐯𝐞 𝐲𝐨𝐮𝐧𝐠𝐞𝐫 𝐛𝐫𝐨𝐭𝐡𝐞𝐫 𝐟𝐫𝐨𝐦 𝐨𝐧𝐞 𝐩𝐚𝐫𝐞𝐧𝐭 𝐭𝐨 𝐚𝐧𝐨𝐭𝐡𝐞𝐫 𝐨𝐧 𝐂𝐡𝐫𝐢𝐬𝐭𝐦𝐚𝐬 𝐃𝐚𝐲.",
-        "popularity": 0.2796
-      },
-      {
-        "id": 1579533,
-        "title": "Amanda",
-        "releaseDate": "2025-12-31",
-        "posterPath": "/zswyBauLEcEUZ4RFJQ8wRLgygqq.jpg",
-        "mediaType": "movie",
-        "overview": "AMANDA is an upcoming crime-thriller short film about a meeting of those with vested interests with an unstoppable, silent presence on their rise to power.",
-        "popularity": 0.3374
-      },
-      {
-        "id": 1611824,
-        "title": "The Milk Carton Kids: Live From The Ryman",
-        "releaseDate": "2025-12-31",
-        "posterPath": null,
-        "mediaType": "movie",
-        "overview": "The Milk Carton Kids perform at the Ryman Auditorium in Nashville, Tennessee, on February 1, 2024.",
-        "popularity": 0.1968
+        "overview": "When Craig makes a simple but puzzling grocery request, his roommates become perplexed and hesitant to learn his true motivations.",
+        "popularity": 0.3692
       },
       {
         "id": 548275,
@@ -47056,6 +46916,87 @@
         "popularity": 0.3646
       },
       {
+        "id": 1417590,
+        "title": "Londynek",
+        "releaseDate": "2025-12-31",
+        "posterPath": null,
+        "mediaType": "movie",
+        "overview": "Details and life of Pomorska street in Bydgoszcz",
+        "popularity": 0.3624
+      },
+      {
+        "id": 1418002,
+        "title": "Chartowo Tower",
+        "releaseDate": "2025-12-31",
+        "posterPath": null,
+        "mediaType": "movie",
+        "overview": "Exploration of the tilted tower of Poznań",
+        "popularity": 0.3599
+      },
+      {
+        "id": 1606909,
+        "title": "2025-12-14 (izzy film)",
+        "releaseDate": "2025-12-31",
+        "posterPath": "/v7rtb1v2LfNqGiaYdflvwDDLr7d.jpg",
+        "mediaType": "movie",
+        "overview": "An experiment with images I recorded and didn't record. An attempt at making a film about a film I didn't make.",
+        "popularity": 0.3535
+      },
+      {
+        "id": 1444874,
+        "title": "Ratols & Ransom",
+        "releaseDate": "2025-12-31",
+        "posterPath": "/6ds7okPt5cXx9JOgF0xXUEBd8cf.jpg",
+        "mediaType": "movie",
+        "overview": "A bustling and average police precinct is disrupted when a frantic teenager enters with a huge problem.",
+        "popularity": 0.3448
+      },
+      {
+        "id": 1727805,
+        "title": "Arrogant 6-7 Mason Out For Blood",
+        "releaseDate": "2025-12-31",
+        "posterPath": "/fhT28Mh8cR4sWA6CtHLZs3Q68Sk.jpg",
+        "mediaType": "movie",
+        "overview": "Donald Mulligan, after a break-up, decides to go be a hero and save all performative males from the most arrogant 6-7 mason out for blood in the world, known as Jake Jacob Smokes, all with the help of his best friend, Henry XII...",
+        "popularity": 0.3386
+      },
+      {
+        "id": 1579533,
+        "title": "Amanda",
+        "releaseDate": "2025-12-31",
+        "posterPath": "/zswyBauLEcEUZ4RFJQ8wRLgygqq.jpg",
+        "mediaType": "movie",
+        "overview": "AMANDA is an upcoming crime-thriller short film about a meeting of those with vested interests with an unstoppable, silent presence on their rise to power.",
+        "popularity": 0.3374
+      },
+      {
+        "id": 1512132,
+        "title": "Kebab City",
+        "releaseDate": "2025-12-31",
+        "posterPath": "/4iYBkeUbHlso33o7R6SgKlL09Yk.jpg",
+        "mediaType": "movie",
+        "overview": "A glimpse into three different döner buffets in Berlin and how they are connected to the city with their own style.",
+        "popularity": 0.2931
+      },
+      {
+        "id": 1619685,
+        "title": "The Station",
+        "releaseDate": "2025-12-31",
+        "posterPath": "/5DL4YybS6weheA9N0lnCF7uoxKm.jpg",
+        "mediaType": "movie",
+        "overview": "A man from the olive lands finally going to meet his wife and see his daughter for the first time after long time defending his country in the army , what a wonderful day!",
+        "popularity": 0.2893
+      },
+      {
+        "id": 1609996,
+        "title": "Driving Home for Christmas",
+        "releaseDate": "2025-12-31",
+        "posterPath": null,
+        "mediaType": "movie",
+        "overview": "𝐀 𝐂𝐡𝐫𝐢𝐬𝐭𝐦𝐚𝐬-𝐡𝐚𝐭𝐢𝐧𝐠 𝐲𝐨𝐮𝐧𝐠 𝐦𝐚𝐧 𝐦𝐮𝐬𝐭 𝐝𝐫𝐢𝐯𝐞 𝐡𝐢𝐬 𝐟𝐞𝐬𝐭𝐢𝐯𝐞 𝐲𝐨𝐮𝐧𝐠𝐞𝐫 𝐛𝐫𝐨𝐭𝐡𝐞𝐫 𝐟𝐫𝐨𝐦 𝐨𝐧𝐞 𝐩𝐚𝐫𝐞𝐧𝐭 𝐭𝐨 𝐚𝐧𝐨𝐭𝐡𝐞𝐫 𝐨𝐧 𝐂𝐡𝐫𝐢𝐬𝐭𝐦𝐚𝐬 𝐃𝐚𝐲.",
+        "popularity": 0.2796
+      },
+      {
         "id": 1546962,
         "title": "Soothing Family Landscapes",
         "releaseDate": "2025-12-31",
@@ -47065,13 +47006,40 @@
         "popularity": 0.2773
       },
       {
-        "id": 1607309,
-        "title": "Radu Drăgușin: Life & Recovery",
+        "id": 1604134,
+        "title": "Oasis Bandung Live Forever",
         "releaseDate": "2025-12-31",
-        "posterPath": "/lxglsHIYWhgAG8bQHtGICTh1WHZ.jpg",
+        "posterPath": "/xJdn0elG87HJCctaO9ja0ADlKKm.jpg",
         "mediaType": "movie",
-        "overview": "From Elfsborg to Crystal Palace - this is the 11-month journey that Radu Drăgușin endured to return to the football pitch for Tottenham Hotspur after his ACL injury",
-        "popularity": 0.2088
+        "overview": "Oasis Bandung Live Forever tells the story of the struggle of the Oasis Bandung Community to maintain its identity and unity since its inception, overcoming internal conflicts, a lack of activities, and the impact of the pandemic.  However, thanks to the solidarity of its members and small gigs that kept the spirit alive, they rose again with a new concept that expanded the community's influence. Despite another organizational crisis, sponsor support and the principle of “from the community, to the community” became the foundation that kept Oasis Bandung alive and beloved.",
+        "popularity": 0.2666
+      },
+      {
+        "id": 1605175,
+        "title": "Avenue de l'Opéra",
+        "releaseDate": "2025-12-31",
+        "posterPath": "/nYBIRv0pFuvtCTdTOLe9HGNUrPl.jpg",
+        "mediaType": "movie",
+        "overview": "Remake of the 1900 Alice Guy-Blaché short showing a Paris street in reverse.",
+        "popularity": 0.2655
+      },
+      {
+        "id": 1419043,
+        "title": "Cost of Living",
+        "releaseDate": "2025-12-31",
+        "posterPath": "/fQMAYmEYOc90ZUNgNiec4VJYLMV.jpg",
+        "mediaType": "movie",
+        "overview": "Disgraced journalist Jayne Baghurst seeks to re-establish herself in London through the support of her daughter Robin, after being served with divorce papers from her husband. While Jayne attempts to force her once-obliging spouse to take on the substantial debt she has accrued during their year of separation, Robin begins to see the social contracts underlying her family relationships for what they are.",
+        "popularity": 0.2607
+      },
+      {
+        "id": 1603550,
+        "title": "The Stray",
+        "releaseDate": "2025-12-31",
+        "posterPath": "/cT00jR43Xb6kXqfuAB0RjPQvCVC.jpg",
+        "mediaType": "movie",
+        "overview": "In a quiet neighborhood where nothing ever happens, two girls have a secret.  Starring Kaylee Christmas and Khloe Christmas, The Stray is a haunting tale of friendship, control, and the blurry line between care and captivity.",
+        "popularity": 0.2533
       },
       {
         "id": 1480568,
@@ -47083,22 +47051,49 @@
         "popularity": 0.2468
       },
       {
-        "id": 1673504,
-        "title": "Maggie Lindemann - fate (Performance Version)",
+        "id": 1607309,
+        "title": "Radu Drăgușin: Life & Recovery",
         "releaseDate": "2025-12-31",
-        "posterPath": "/sHIyoAqsLYmYPIxzqi3Dn221Di.jpg",
+        "posterPath": "/lxglsHIYWhgAG8bQHtGICTh1WHZ.jpg",
         "mediaType": "movie",
-        "overview": "",
-        "popularity": 0.1093
+        "overview": "From Elfsborg to Crystal Palace - this is the 11-month journey that Radu Drăgușin endured to return to the football pitch for Tottenham Hotspur after his ACL injury",
+        "popularity": 0.2088
       },
       {
-        "id": 1419043,
-        "title": "Cost of Living",
+        "id": 1617815,
+        "title": "Between Pages: The Story of Marcello Pennacchio",
         "releaseDate": "2025-12-31",
-        "posterPath": "/fQMAYmEYOc90ZUNgNiec4VJYLMV.jpg",
+        "posterPath": "/j8JmrZ36vZwpDYCp4Za1QzVH8rS.jpg",
         "mediaType": "movie",
-        "overview": "Disgraced journalist Jayne Baghurst seeks to re-establish herself in London through the support of her daughter Robin, after being served with divorce papers from her husband. While Jayne attempts to force her once-obliging spouse to take on the substantial debt she has accrued during their year of separation, Robin begins to see the social contracts underlying her family relationships for what they are.",
-        "popularity": 0.2607
+        "overview": "Between the Pages focuses on lifelong educator and award-winning children's author Dr Marcello Pennacchio, exploring the creation and inspiration behind one of Australia's best-selling children's picture books, Somewhere in Australia.",
+        "popularity": 0.1969
+      },
+      {
+        "id": 1611824,
+        "title": "The Milk Carton Kids: Live From The Ryman",
+        "releaseDate": "2025-12-31",
+        "posterPath": null,
+        "mediaType": "movie",
+        "overview": "The Milk Carton Kids perform at the Ryman Auditorium in Nashville, Tennessee, on February 1, 2024.",
+        "popularity": 0.1968
+      },
+      {
+        "id": 1529624,
+        "title": "My Name is Walt",
+        "releaseDate": "2025-12-31",
+        "posterPath": null,
+        "mediaType": "movie",
+        "overview": "",
+        "popularity": 0.1756
+      },
+      {
+        "id": 1636888,
+        "title": "Richard Herring: Can I Have My Ball Back?",
+        "releaseDate": "2025-12-31",
+        "posterPath": "/9twZOesEfQoIKUrUyEVVLED0Le0.jpg",
+        "mediaType": "movie",
+        "overview": "In the lockdown of January 2021, Richard Herring went to his GP to find out why his right testicle seemed to be growing bigger. It turned out that he had testicular cancer and one month later he was lying in hospital waiting to have his murderous gonad removed. Would he survive? (No spoilers!)  For a comedian who had done a whole show about male genitalia (Talking Cock) and written a book about toxic masculinity (The Problem With Men), this seemed like a cruel twist of fate.  But because he’s a comedian, he was able to get a book and a stand-up tour out of it all. And now he’s got a DVD too! Recorded at the Gordon Craig Theatre in Stevenage (just 1.9 miles from where Richard’s knacker was excised) by the fabulous gofasterstripe.com crew.  Featuring a special appearance by Right Bollock and with extras including one of the first live performances of this material, the full audio podcast series and a commentary track from a mystery celebrity.",
+        "popularity": 0.1723
       },
       {
         "id": 1609345,
@@ -47119,6 +47114,15 @@
         "popularity": 0.1418
       },
       {
+        "id": 1591358,
+        "title": "Phantom of the Dojo",
+        "releaseDate": "2025-12-31",
+        "posterPath": "/Xdx01KB0VmqGaj7BdLaV99mN9Q.jpg",
+        "mediaType": "movie",
+        "overview": "Drew's dad owns a dojo. She's a pretty good boxer... her boyfriend, Freddie, isn't so the two sneak a practice in after hours. Drew's a tough girl but tonight she broke down into a million pieces. She became the punching bag... to thin air? Distraught she runs away and drops her keys in the process. Freddie picks them up and hides them away... she has the car started and is begging Freddie to jump ship with her. Freddie doesn't disobey - he runs after but feels goosebumps at the door. There's something there and Freddie's gonna kick its ass someway, somehow.",
+        "popularity": 0.1276
+      },
+      {
         "id": 1600686,
         "title": "Carly Rae Jepsen: The Most Beautiful Night of 2025",
         "releaseDate": "2025-12-31",
@@ -47128,76 +47132,13 @@
         "popularity": 0.1264
       },
       {
-        "id": 1617815,
-        "title": "Between Pages: The Story of Marcello Pennacchio",
+        "id": 1673504,
+        "title": "Maggie Lindemann - fate (Performance Version)",
         "releaseDate": "2025-12-31",
-        "posterPath": "/j8JmrZ36vZwpDYCp4Za1QzVH8rS.jpg",
+        "posterPath": "/sHIyoAqsLYmYPIxzqi3Dn221Di.jpg",
         "mediaType": "movie",
-        "overview": "Between the Pages focuses on lifelong educator and award-winning children's author Dr Marcello Pennacchio, exploring the creation and inspiration behind one of Australia's best-selling children's picture books, Somewhere in Australia.",
-        "popularity": 0.1969
-      },
-      {
-        "id": 1713595,
-        "title": "Anak Dara Ke Janda Baik",
-        "releaseDate": "2025-12-31",
-        "posterPath": "/c0lRfG2zq8FZdsrjS3jtilTLdP1.jpg",
-        "mediaType": "movie",
-        "overview": "Because they were each disappointed after being laid off due to the economic crisis, Fifi, Nina and Sindhu go on vacation to Janda Baik village to clear their minds. However, they do not know that they are carrying a mysterious item sent by Fifi's former boss. Because of that item, they become targets of criminals.",
-        "popularity": 0.1031
-      },
-      {
-        "id": 1483116,
-        "title": "no worries, mate",
-        "releaseDate": "2025-12-31",
-        "posterPath": "/3oY5kaUYNlGwIFvgo6CRq1CetGM.jpg",
-        "mediaType": "movie",
-        "overview": "Eliana's neighbour always keeps the top light on, the white glow spills right into her backyard, and she can see everything. So when her neighbour hangs a disturbing flag in the window in clear view of her children, she feels compelled to call the police.",
-        "popularity": 0.0854
-      },
-      {
-        "id": 1607063,
-        "title": "Solace",
-        "releaseDate": "2025-12-31",
-        "posterPath": "/wXI4CWDT76OOMEp6NrfrAkReXYz.jpg",
-        "mediaType": "movie",
-        "overview": "A grieving man aimlessly wanders the streets of Liverpool in search of solace.",
-        "popularity": 0.4362
-      },
-      {
-        "id": 1512132,
-        "title": "Kebab City",
-        "releaseDate": "2025-12-31",
-        "posterPath": "/4iYBkeUbHlso33o7R6SgKlL09Yk.jpg",
-        "mediaType": "movie",
-        "overview": "A glimpse into three different döner buffets in Berlin and how they are connected to the city with their own style.",
-        "popularity": 0.2931
-      },
-      {
-        "id": 1727560,
-        "title": "The Last Supper",
-        "releaseDate": "2025-12-31",
-        "posterPath": "/epS6KJp3BPviohZxrtZs9Xwxjop.jpg",
-        "mediaType": "movie",
-        "overview": "The Last Supper is a story about an impulsive son who confronts his ruthless father, which leads to a final supper about betrayal, legacy, and blood.",
-        "popularity": 0.0775
-      },
-      {
-        "id": 1607419,
-        "title": "JUVENiLE",
-        "releaseDate": "2025-12-31",
-        "posterPath": "/1paVA9wRU94rsIbojjRBLHg17j7.jpg",
-        "mediaType": "movie",
-        "overview": "Juvenile highlights the harsh reality of bad parenting and its irreversible impact on a child’s future. Influenced at a young age, a minor slips into alcoholism, revealing how neglect and poor guidance can turn innocence into addiction.",
-        "popularity": 0.0904
-      },
-      {
-        "id": 1607036,
-        "title": "Josh Wakes Up In Purgatory",
-        "releaseDate": "2025-12-31",
-        "posterPath": "/ulWRVDdmqR1wIvPYLuWHeoVOHCR.jpg",
-        "mediaType": "movie",
-        "overview": "A man awakes in the last place he remembers seeing before his death. This is the waiting room.",
-        "popularity": 0.0343
+        "overview": "",
+        "popularity": 0.1093
       },
       {
         "id": 1694855,
@@ -47209,13 +47150,49 @@
         "popularity": 0.1061
       },
       {
-        "id": 1591358,
-        "title": "Phantom of the Dojo",
+        "id": 1713595,
+        "title": "Anak Dara Ke Janda Baik",
         "releaseDate": "2025-12-31",
-        "posterPath": "/Xdx01KB0VmqGaj7BdLaV99mN9Q.jpg",
+        "posterPath": "/c0lRfG2zq8FZdsrjS3jtilTLdP1.jpg",
         "mediaType": "movie",
-        "overview": "Drew's dad owns a dojo. She's a pretty good boxer... her boyfriend, Freddie, isn't so the two sneak a practice in after hours. Drew's a tough girl but tonight she broke down into a million pieces. She became the punching bag... to thin air? Distraught she runs away and drops her keys in the process. Freddie picks them up and hides them away... she has the car started and is begging Freddie to jump ship with her. Freddie doesn't disobey - he runs after but feels goosebumps at the door. There's something there and Freddie's gonna kick its ass someway, somehow.",
-        "popularity": 0.1276
+        "overview": "Because they were each disappointed after being laid off due to the economic crisis, Fifi, Nina and Sindhu go on vacation to Janda Baik village to clear their minds. However, they do not know that they are carrying a mysterious item sent by Fifi's former boss. Because of that item, they become targets of criminals.",
+        "popularity": 0.1031
+      },
+      {
+        "id": 1650011,
+        "title": "The Candidate",
+        "releaseDate": "2025-12-31",
+        "posterPath": "/faAn4RX1oN0RanXhTROAS56SQdp.jpg",
+        "mediaType": "movie",
+        "overview": "\"The Candidate\" is a sports drama about a university chess player (Taishan) defending his spot in the team against a higher rated junior opponent (Schwaas). Taishan must rise above mind games, challenge the arrogant Schwaas and prepare for a final, dramatic showdown that will determine who gets to represent the chess team in university tournaments.",
+        "popularity": 0.0929
+      },
+      {
+        "id": 1607419,
+        "title": "JUVENiLE",
+        "releaseDate": "2025-12-31",
+        "posterPath": "/1paVA9wRU94rsIbojjRBLHg17j7.jpg",
+        "mediaType": "movie",
+        "overview": "Juvenile highlights the harsh reality of bad parenting and its irreversible impact on a child’s future. Influenced at a young age, a minor slips into alcoholism, revealing how neglect and poor guidance can turn innocence into addiction.",
+        "popularity": 0.0904
+      },
+      {
+        "id": 1607505,
+        "title": "The Midnight Special",
+        "releaseDate": "2025-12-31",
+        "posterPath": "/t6Fkqb1HBvxGv3sTbRIluMucqhW.jpg",
+        "mediaType": "movie",
+        "overview": "When a cryptic note appears at his apartment promising a midnight revelation, a paranoid college student spirals into chaos trying to uncover the sender, only to discover that the truth might be worse than the mystery.",
+        "popularity": 0.0886
+      },
+      {
+        "id": 1483116,
+        "title": "no worries, mate",
+        "releaseDate": "2025-12-31",
+        "posterPath": "/3oY5kaUYNlGwIFvgo6CRq1CetGM.jpg",
+        "mediaType": "movie",
+        "overview": "Eliana's neighbour always keeps the top light on, the white glow spills right into her backyard, and she can see everything. So when her neighbour hangs a disturbing flag in the window in clear view of her children, she feels compelled to call the police.",
+        "popularity": 0.0854
       },
       {
         "id": 1640134,
@@ -47227,22 +47204,13 @@
         "popularity": 0.0847
       },
       {
-        "id": 1529624,
-        "title": "My Name is Walt",
+        "id": 1727560,
+        "title": "The Last Supper",
         "releaseDate": "2025-12-31",
-        "posterPath": null,
+        "posterPath": "/epS6KJp3BPviohZxrtZs9Xwxjop.jpg",
         "mediaType": "movie",
-        "overview": "",
-        "popularity": 0.1756
-      },
-      {
-        "id": 1607123,
-        "title": "untitled recording",
-        "releaseDate": "2025-12-31",
-        "posterPath": "/yKaYXjRpC3AsKW8ZTeyaCRgaKTV.jpg",
-        "mediaType": "movie",
-        "overview": "After her sister's suicide, a girl records herself talking and trying to get through the days without her.",
-        "popularity": 0.0571
+        "overview": "The Last Supper is a story about an impulsive son who confronts his ruthless father, which leads to a final supper about betrayal, legacy, and blood.",
+        "popularity": 0.0775
       },
       {
         "id": 1607126,
@@ -47252,15 +47220,6 @@
         "mediaType": "movie",
         "overview": "Surya, a 20-year-old drug addict, felt anxious on the final day of his rehabilitation. The urge to use illegal drugs still loomed large within him, making him reflect on his former life as an addict and feel fearful and anxious about his uncertain future. Until hope arrived and took him boldly into a new life.",
         "popularity": 0.0749
-      },
-      {
-        "id": 1607505,
-        "title": "The Midnight Special",
-        "releaseDate": "2025-12-31",
-        "posterPath": "/t6Fkqb1HBvxGv3sTbRIluMucqhW.jpg",
-        "mediaType": "movie",
-        "overview": "When a cryptic note appears at his apartment promising a midnight revelation, a paranoid college student spirals into chaos trying to uncover the sender, only to discover that the truth might be worse than the mystery.",
-        "popularity": 0.0886
       },
       {
         "id": 1654635,
@@ -47281,6 +47240,15 @@
         "popularity": 0.0571
       },
       {
+        "id": 1607123,
+        "title": "untitled recording",
+        "releaseDate": "2025-12-31",
+        "posterPath": "/yKaYXjRpC3AsKW8ZTeyaCRgaKTV.jpg",
+        "mediaType": "movie",
+        "overview": "After her sister's suicide, a girl records herself talking and trying to get through the days without her.",
+        "popularity": 0.0571
+      },
+      {
         "id": 1326415,
         "title": "The Tell-Tale Heart",
         "releaseDate": "2025-12-31",
@@ -47290,24 +47258,6 @@
         "popularity": 0.0571
       },
       {
-        "id": 1480630,
-        "title": "Firewalk",
-        "releaseDate": "2025-12-31",
-        "posterPath": "/nwK2cwBXoLMnXMVusHX0A3BukIV.jpg",
-        "mediaType": "movie",
-        "overview": "A pre-apocalyptic midnight walk takes you through a burning forest to witness a looming destruction. A fire in the forest either marks an impending doom or serves as a metaphysical gateway between realities.",
-        "popularity": 0.0389
-      },
-      {
-        "id": 1650011,
-        "title": "The Candidate",
-        "releaseDate": "2025-12-31",
-        "posterPath": "/faAn4RX1oN0RanXhTROAS56SQdp.jpg",
-        "mediaType": "movie",
-        "overview": "\"The Candidate\" is a sports drama about a university chess player (Taishan) defending his spot in the team against a higher rated junior opponent (Schwaas). Taishan must rise above mind games, challenge the arrogant Schwaas and prepare for a final, dramatic showdown that will determine who gets to represent the chess team in university tournaments.",
-        "popularity": 0.0929
-      },
-      {
         "id": 1600549,
         "title": "Refractions in Green",
         "releaseDate": "2025-12-31",
@@ -47315,6 +47265,24 @@
         "mediaType": "movie",
         "overview": "A garden in autumn.",
         "popularity": 0.0502
+      },
+      {
+        "id": 1607531,
+        "title": "TURN THE OTHER WAY",
+        "releaseDate": "2025-12-31",
+        "posterPath": "/hwd8Ed9EXszdXEbGEnO4OAhjvCO.jpg",
+        "mediaType": "movie",
+        "overview": "A short noise film with soundtrack by UNNATURAL BODY.",
+        "popularity": 0.0461
+      },
+      {
+        "id": 1541215,
+        "title": "The Queen is Dead",
+        "releaseDate": "2025-12-31",
+        "posterPath": "/6hNKX9y1jl5ABST0nncCGEMjQZt.jpg",
+        "mediaType": "movie",
+        "overview": "The final chapter of the musical trilogy from the epic Smiths album",
+        "popularity": 0.0461
       },
       {
         "id": 840464,
@@ -47479,15 +47447,6 @@
         "popularity": 25.4474
       },
       {
-        "id": 999136,
-        "title": "Do Not Enter",
-        "releaseDate": "2026-03-19",
-        "posterPath": "/stM9N7eJmHKLmFR59JG4tLdN7Wk.jpg",
-        "mediaType": "movie",
-        "overview": "A group of young explorers investigates an old abandoned hotel, only to encounter a strange supernatural being and a competing group looking for a legendary hidden treasure.",
-        "popularity": 18.9585
-      },
-      {
         "id": 1292695,
         "title": "They Will Kill You",
         "releaseDate": "2026-03-25",
@@ -47509,7 +47468,7 @@
         "id": 1325734,
         "title": "The Drama",
         "releaseDate": "2026-04-01",
-        "posterPath": "/qhGCY6DIemLoCi7x1GuEt98m4JF.jpg",
+        "posterPath": "/rnIOUhzwJDfgQakx8EjoNyItKgs.jpg",
         "mediaType": "movie",
         "overview": "A happily engaged couple is put to the test when an unexpected turn sends their wedding week off the rails.",
         "popularity": 40.5184
@@ -47704,15 +47663,6 @@
         "popularity": 38.6216
       },
       {
-        "id": 1318413,
-        "title": "Pressure",
-        "releaseDate": "2026-05-25",
-        "posterPath": "/gFjEggtrejCN79r6SXRjM269OtG.jpg",
-        "mediaType": "movie",
-        "overview": "In the tense 72 hours before D-Day, and the fate of the free world hanging in the balance, General Dwight D. Eisenhower and Captain James Stagg face an impossible choice—launch the largest and most dangerous seaborne invasion in history or risk losing the war altogether.",
-        "popularity": 20.6558
-      },
-      {
         "id": 1083381,
         "title": "Backrooms",
         "releaseDate": "2026-05-27",
@@ -47725,7 +47675,7 @@
         "id": 1694978,
         "title": "Chum",
         "releaseDate": "2026-05-27",
-        "posterPath": "/uJOW6pWxJ0i5sji9VXRR6Y1wXyE.jpg",
+        "posterPath": "/eKUYfLzpb6nIxz2OnzoAmxIMFFX.jpg",
         "mediaType": "movie",
         "overview": "A newlywed couple joins friends on a Mediterranean yacht excursion, only to find themselves caught between a predatory shark and a psychopathic killer in their midst-transforming a sun-drenched escape into a fight for survival.",
         "popularity": 20.8816
@@ -47794,6 +47744,15 @@
         "popularity": 27.2925
       },
       {
+        "id": 1284465,
+        "title": "The Death of Robin Hood",
+        "releaseDate": "2026-06-18",
+        "posterPath": "/13MmRwmG5NmaMfU8qNrtgGXisiD.jpg",
+        "mediaType": "movie",
+        "overview": "Grappling with his past after a life of crime and murder, Robin Hood finds himself gravely injured after a battle he thought would be his last. In the hands of a mysterious woman, he is offered a chance at salvation.",
+        "popularity": 92.5001
+      },
+      {
         "id": 1279493,
         "title": "The Get Out",
         "releaseDate": "2026-06-18",
@@ -47810,15 +47769,6 @@
         "mediaType": "movie",
         "overview": "A tightly wound realtor's picture-perfect life gets an extreme makeover when his lovably chaotic \"little brother\" suddenly reappears.",
         "popularity": 40.7573
-      },
-      {
-        "id": 1284465,
-        "title": "The Death of Robin Hood",
-        "releaseDate": "2026-06-18",
-        "posterPath": "/13MmRwmG5NmaMfU8qNrtgGXisiD.jpg",
-        "mediaType": "movie",
-        "overview": "Grappling with his past after a life of crime and murder, Robin Hood finds himself gravely injured after a battle he thought would be his last. In the hands of a mysterious woman, he is offered a chance at salvation.",
-        "popularity": 92.5001
       },
       {
         "id": 1397485,
@@ -47932,7 +47882,7 @@
         "id": 1468683,
         "title": "Heartstopper Forever",
         "releaseDate": "2026-07-14",
-        "posterPath": "/r4lVJVO1BeBb11cBcXBdbHc9e9k.jpg",
+        "posterPath": "/uKlc5Vrn9k7lnTx2XRcjOm1cgjz.jpg",
         "mediaType": "movie",
         "overview": "It's a new school year for the Truham-Higgs gang. As Nick and Charlie's relationship deepens, their thoughts turn to life after the last bell rings.",
         "popularity": 54.8856
@@ -48042,7 +47992,7 @@
         "id": 680493,
         "title": "Return to Silent Hill",
         "releaseDate": "2026-01-21",
-        "posterPath": "/mdw7bSnE11WpwWf3ViXtnavuqiT.jpg",
+        "posterPath": "/tF7WPnFs109CwY9AvLCyI6ZYhEZ.jpg",
         "mediaType": "movie",
         "overview": "When James receives a mysterious letter from his lost love Mary, he is drawn to Silent Hill—a once-familiar town now consumed by darkness. As he searches for her, James faces monstrous creatures and unravels a terrifying truth that will push him to the edge of his sanity.",
         "popularity": 16.4278
@@ -48055,6 +48005,15 @@
         "mediaType": "movie",
         "overview": "Two colleagues become stranded on a deserted island, the only survivors of a plane crash. On the island, they must overcome past grievances and work together to survive, but ultimately, it's a battle of wills and wits to make it out alive.",
         "popularity": 35.2196
+      },
+      {
+        "id": 696393,
+        "title": "Cold Storage",
+        "releaseDate": "2026-01-22",
+        "posterPath": "/3HA2iiq982e01EKXJvPFyfMADVM.jpg",
+        "mediaType": "movie",
+        "overview": "When a mutating, highly contagious fungus escapes a sealed facility, two employees – joined by a grizzled bioterror operative – must survive the wildest night shift ever to save humanity from extinction.",
+        "popularity": 15.2701
       },
       {
         "id": 1290821,
@@ -48201,15 +48160,6 @@
         "popularity": 42.9789
       },
       {
-        "id": 1381027,
-        "title": "Good Boy",
-        "releaseDate": "2026-03-06",
-        "posterPath": "/eWb841fMkSNly5gfL9J1N0xzVYI.jpg",
-        "mediaType": "movie",
-        "overview": "Tommy, a volatile 19-year-old, revels in drugs, parties and violence. After getting separated from his friends on a drunken bender, he is abducted by a shadowy figure. He wakes to find himself imprisoned in the basement of a remote Yorkshire house, inhabited by a very strange family. But what unfolds is not what he could possibly expect.",
-        "popularity": 12.1863
-      },
-      {
         "id": 1480387,
         "title": "undertone",
         "releaseDate": "2026-03-12",
@@ -48303,7 +48253,7 @@
         "id": 1325734,
         "title": "The Drama",
         "releaseDate": "2026-04-01",
-        "posterPath": "/qhGCY6DIemLoCi7x1GuEt98m4JF.jpg",
+        "posterPath": "/rnIOUhzwJDfgQakx8EjoNyItKgs.jpg",
         "mediaType": "movie",
         "overview": "A happily engaged couple is put to the test when an unexpected turn sends their wedding week off the rails.",
         "popularity": 40.5184
@@ -48600,7 +48550,7 @@
         "id": 1694978,
         "title": "Chum",
         "releaseDate": "2026-05-27",
-        "posterPath": "/uJOW6pWxJ0i5sji9VXRR6Y1wXyE.jpg",
+        "posterPath": "/eKUYfLzpb6nIxz2OnzoAmxIMFFX.jpg",
         "mediaType": "movie",
         "overview": "A newlywed couple joins friends on a Mediterranean yacht excursion, only to find themselves caught between a predatory shark and a psychopathic killer in their midst-transforming a sun-drenched escape into a fight for survival.",
         "popularity": 20.8816
@@ -48631,15 +48581,6 @@
         "mediaType": "movie",
         "overview": "After being separated for 15 years, the Sword of Power leads Prince Adam back to Eternia, where he discovers his home shattered under the fiendish rule of Skeletor. To save his family and his world, Adam must join forces with his closest allies, Teela and Duncan/Man-At-Arms, and embrace his true destiny as He-Man — the most powerful man in the universe.",
         "popularity": 234.7251
-      },
-      {
-        "id": 1358005,
-        "title": "Office Romance",
-        "releaseDate": "2026-06-04",
-        "posterPath": "/1HRUTqEVDmJC4L6tp6zd85MI6uH.jpg",
-        "mediaType": "movie",
-        "overview": "Jackie, President and CEO of Air Cruz, runs a tight ship in her business, including a rigid anti-fraternization policy for all her employees. When a new sexy lawyer begins working for her, that policy becomes very tested.",
-        "popularity": 13.059
       },
       {
         "id": 1275779,
@@ -48678,6 +48619,24 @@
         "popularity": 27.2925
       },
       {
+        "id": 1716513,
+        "title": "Extreme Makeover: Homer Edition",
+        "releaseDate": "2026-06-17",
+        "posterPath": "/vim76mMXig00YRxN2iGYJASoGkP.jpg",
+        "mediaType": "movie",
+        "overview": "Homer and Marge's fun couples' date night goes off the rails when Marge learns Homer left the kids unsupervised with only the doorbell camera as a babysitter. Frustrated with her imperfect husband, a tipsy Marge stirs up a trilogy of fantasies of a different Homer.",
+        "popularity": 13.2488
+      },
+      {
+        "id": 1284465,
+        "title": "The Death of Robin Hood",
+        "releaseDate": "2026-06-18",
+        "posterPath": "/13MmRwmG5NmaMfU8qNrtgGXisiD.jpg",
+        "mediaType": "movie",
+        "overview": "Grappling with his past after a life of crime and murder, Robin Hood finds himself gravely injured after a battle he thought would be his last. In the hands of a mysterious woman, he is offered a chance at salvation.",
+        "popularity": 92.5001
+      },
+      {
         "id": 1279493,
         "title": "The Get Out",
         "releaseDate": "2026-06-18",
@@ -48694,15 +48653,6 @@
         "mediaType": "movie",
         "overview": "A tightly wound realtor's picture-perfect life gets an extreme makeover when his lovably chaotic \"little brother\" suddenly reappears.",
         "popularity": 40.7573
-      },
-      {
-        "id": 1284465,
-        "title": "The Death of Robin Hood",
-        "releaseDate": "2026-06-18",
-        "posterPath": "/13MmRwmG5NmaMfU8qNrtgGXisiD.jpg",
-        "mediaType": "movie",
-        "overview": "Grappling with his past after a life of crime and murder, Robin Hood finds himself gravely injured after a battle he thought would be his last. In the hands of a mysterious woman, he is offered a chance at salvation.",
-        "popularity": 92.5001
       },
       {
         "id": 1397485,
@@ -48834,7 +48784,7 @@
         "id": 1468683,
         "title": "Heartstopper Forever",
         "releaseDate": "2026-07-14",
-        "posterPath": "/r4lVJVO1BeBb11cBcXBdbHc9e9k.jpg",
+        "posterPath": "/uKlc5Vrn9k7lnTx2XRcjOm1cgjz.jpg",
         "mediaType": "movie",
         "overview": "It's a new school year for the Truham-Higgs gang. As Nick and Charlie's relationship deepens, their thoughts turn to life after the last bell rings.",
         "popularity": 54.8856
@@ -48885,15 +48835,6 @@
         "popularity": 4.3497
       },
       {
-        "id": 1669263,
-        "title": "Fake Hundreds",
-        "releaseDate": "2026-07-23",
-        "posterPath": "/cCT3ksqE9lS8Xu2BwZ0etmzvPfU.jpg",
-        "mediaType": "movie",
-        "overview": "After a cancer diagnosis, a man tries to confront God.",
-        "popularity": 2.6518
-      },
-      {
         "id": 980431,
         "title": "Avatar Aang: The Last Airbender",
         "releaseDate": "2026-07-24",
@@ -48901,15 +48842,6 @@
         "mediaType": "movie",
         "overview": "Avatar Aang, the world's last Airbender, learns of an ancient power that could save his culture from extinction. With the help of his friends, he embarks on a global quest to find it before it falls into the wrong hands and threatens to upend the peace they sacrificed everything to achieve.",
         "popularity": 72.5442
-      },
-      {
-        "id": 1725909,
-        "title": "Asesino Perfecto",
-        "releaseDate": "2026-07-24",
-        "posterPath": "/3cYidNGENPU8Izh0V7ikkEt0Egw.jpg",
-        "mediaType": "movie",
-        "overview": "A peaceful town is gripped by fear when a series of mysterious murders leaves investigators with no witnesses, no evidence, and no clear suspect. As each new victim is discovered, Captain Rocio Cortes and Detective Soto race to stop a killer who always seems one step ahead. Their investigation uncovers hidden secrets, broken family ties, and painful events from the past that connect several lives in unexpected ways. As suspicion shifts from one person to another, two brothers, Leo and Elias, find themselves at the center of a mystery that will test their loyalty and force them to confront the truth. With fear spreading throughout the community and trust quickly fading, the search for justice becomes a dangerous race against time in this suspenseful Mexican crime thriller filled with mystery, psychological tension, and unexpected twists.",
-        "popularity": 2.8943
       },
       {
         "id": 1384040,
@@ -48921,13 +48853,22 @@
         "popularity": 3.5969
       },
       {
-        "id": 949838,
-        "title": "72 HOURS",
+        "id": 1725909,
+        "title": "Asesino Perfecto",
         "releaseDate": "2026-07-24",
-        "posterPath": "/9Bu1PW2R1XayqRqnl0aDOgMcrdS.jpg",
+        "posterPath": "/3cYidNGENPU8Izh0V7ikkEt0Egw.jpg",
         "mediaType": "movie",
-        "overview": "To save his career, a 40-year-old ad exec joins a crew of twentysomethings for a wild Miami bachelor party after they mistakenly add him to a group chat.",
-        "popularity": 2.7231
+        "overview": "A peaceful town is gripped by fear when a series of mysterious murders leaves investigators with no witnesses, no evidence, and no clear suspect. As each new victim is discovered, Captain Rocio Cortes and Detective Soto race to stop a killer who always seems one step ahead. Their investigation uncovers hidden secrets, broken family ties, and painful events from the past that connect several lives in unexpected ways. As suspicion shifts from one person to another, two brothers, Leo and Elias, find themselves at the center of a mystery that will test their loyalty and force them to confront the truth. With fear spreading throughout the community and trust quickly fading, the search for justice becomes a dangerous race against time in this suspenseful Mexican crime thriller filled with mystery, psychological tension, and unexpected twists.",
+        "popularity": 2.8943
+      },
+      {
+        "id": 1185806,
+        "title": "PAW Patrol: The Dino Movie",
+        "releaseDate": "2026-07-25",
+        "posterPath": "/mVx2O7ikolw0lQC3XEIM4C2uYwd.jpg",
+        "mediaType": "movie",
+        "overview": "The Paw Patrol lands on a mysterious dinosaur island after a storm, where they meet Rex, a stranded pup. When Humdinger's reckless mining triggers a volcano, the team faces their biggest rescue mission yet to save the island.",
+        "popularity": 9.9448
       },
       {
         "id": 1728862,
@@ -48951,7 +48892,7 @@
         "id": 1726743,
         "title": "The Unmaking",
         "releaseDate": "2026-07-26",
-        "posterPath": "/f1tTyUuVuaGcol5dR68SoG4oUI9.jpg",
+        "posterPath": "/migUl4Dnut50zem6J5mwRfBZeQk.jpg",
         "mediaType": "movie",
         "overview": "Esteemed genius and award-winning arthouse filmmaker Josef Balée's attempt at crafting the most ambitious and pretentious film of his career.",
         "popularity": 3.002
@@ -48984,15 +48925,6 @@
         "popularity": 6.5718
       },
       {
-        "id": 1713706,
-        "title": "Love/Bug",
-        "releaseDate": "2026-07-29",
-        "posterPath": "/jS9C9zLCTYC1OAy6JfjMvHhyUdU.jpg",
-        "mediaType": "movie",
-        "overview": "A couple, affectionately naming each other Love and Bug, test the limits of their love living with each other for fifteen months.",
-        "popularity": 2.9194
-      },
-      {
         "id": 1307118,
         "title": "Soulm8te",
         "releaseDate": "2026-07-29",
@@ -49002,22 +48934,13 @@
         "popularity": 3.0015
       },
       {
-        "id": 1185806,
-        "title": "PAW Patrol: The Dino Movie",
-        "releaseDate": "2026-07-31",
-        "posterPath": "/mVx2O7ikolw0lQC3XEIM4C2uYwd.jpg",
+        "id": 1713706,
+        "title": "Love/Bug",
+        "releaseDate": "2026-07-29",
+        "posterPath": "/jS9C9zLCTYC1OAy6JfjMvHhyUdU.jpg",
         "mediaType": "movie",
-        "overview": "The Paw Patrol lands on a mysterious dinosaur island after a storm, where they meet Rex, a stranded pup. When Humdinger's reckless mining triggers a volcano, the team faces their biggest rescue mission yet to save the island.",
-        "popularity": 9.9448
-      },
-      {
-        "id": 1458215,
-        "title": "The Gentleman Thief",
-        "releaseDate": "2026-07-31",
-        "posterPath": "/k4mdrRKo0cvddfePekCuPyEKC3N.jpg",
-        "mediaType": "movie",
-        "overview": "A retired master thief is forced to protect his reckless brother from harm when a daring yacht heist worth 100 million dollars culminates in a complex and dangerous web of intrigue and deceit. As tensions mount and old enemies from the past resurface, he faces a life-or-death struggle. To survive, he must draw upon all the skills, experience, and cunning tricks that once made him the best in his field. As the stakes rise, a compelling story of loyalty, betrayal, and the will to survive unfolds.",
-        "popularity": 3.5833
+        "overview": "A couple, affectionately naming each other Love and Bug, test the limits of their love living with each other for fifteen months.",
+        "popularity": 2.9194
       },
       {
         "id": 1729328,
@@ -49029,13 +48952,13 @@
         "popularity": 3.6947
       },
       {
-        "id": 1722995,
-        "title": "Doomed",
+        "id": 1458215,
+        "title": "The Gentleman Thief",
         "releaseDate": "2026-07-31",
-        "posterPath": "/3bQlrNwIsohGNghP6lO2x1bFbEN.jpg",
+        "posterPath": "/k4mdrRKo0cvddfePekCuPyEKC3N.jpg",
         "mediaType": "movie",
-        "overview": "A psyhological thriller story about a boy who is trying to find himself",
-        "popularity": 2.7226
+        "overview": "A retired master thief is forced to protect his reckless brother from harm when a daring yacht heist worth 100 million dollars culminates in a complex and dangerous web of intrigue and deceit. As tensions mount and old enemies from the past resurface, he faces a life-or-death struggle. To survive, he must draw upon all the skills, experience, and cunning tricks that once made him the best in his field. As the stakes rise, a compelling story of loyalty, betrayal, and the will to survive unfolds.",
+        "popularity": 3.5833
       },
       {
         "id": 1650162,
@@ -49065,6 +48988,15 @@
         "popularity": 4.9322
       },
       {
+        "id": 1432474,
+        "title": "Nimrods",
+        "releaseDate": "2026-08-06",
+        "posterPath": "/bKxQrc3FvQVtz8pi4ELb51CHOS3.jpg",
+        "mediaType": "movie",
+        "overview": "Three friends journey from Kansas City to Los Angeles, mistakenly believing that their band is opening for Green Day on New Year’s Eve.",
+        "popularity": 3.8248
+      },
+      {
         "id": 675871,
         "title": "Super Troopers 3",
         "releaseDate": "2026-08-06",
@@ -49072,15 +49004,6 @@
         "mediaType": "movie",
         "overview": "When Farva’s wildly over-the-top Indian engagement to Thorny’s sister spirals into chaos, the Super Troopers must navigate Thorny’s schemes to break up the relationship, while trying to crack a pernicious new drug ring  — all to save the day and maybe the wedding itself.",
         "popularity": 3.6622
-      },
-      {
-        "id": 1432474,
-        "title": "Nimrods",
-        "releaseDate": "2026-08-06",
-        "posterPath": "/aebmSpFu1lUV78PtOpqMUn4d82B.jpg",
-        "mediaType": "movie",
-        "overview": "Three friends journey from Kansas City to Los Angeles, mistakenly believing that their band is opening for Green Day on New Year’s Eve.",
-        "popularity": 3.8248
       },
       {
         "id": 1729559,
@@ -49092,40 +49015,13 @@
         "popularity": 3.5147
       },
       {
-        "id": 1729667,
-        "title": "Small Talk",
-        "releaseDate": "2026-08-06",
-        "posterPath": "/zbuHLi1NyR1Lub2QYcNLV8DAuAu.jpg",
-        "mediaType": "movie",
-        "overview": "Hoping to launch a career in the world of luxury, Charlie enrolls at the last finishing school in Switzerland.",
-        "popularity": 2.7338
-      },
-      {
         "id": 1284041,
         "title": "The Last House",
         "releaseDate": "2026-08-07",
-        "posterPath": "/ivmUB2djVH6HQrQfV0qEekdJWWf.jpg",
+        "posterPath": "/tz3Afb8yxSrYmbfHGGRsJ6HvwRO.jpg",
         "mediaType": "movie",
         "overview": "A family suddenly sealed inside their home must work together to survive against dwindling resources and the ominous threat keeping them trapped.",
         "popularity": 3.6795
-      },
-      {
-        "id": 1329016,
-        "title": "Tony",
-        "releaseDate": "2026-08-07",
-        "posterPath": "/z39nccQLIc9LnhJOusvN03KvMpb.jpg",
-        "mediaType": "movie",
-        "overview": "A 19-year-old Anthony Bourdain travels to Provincetown and stumbles into the chaotic world of a restaurant kitchen, setting off a summer that will shape the course of his life.",
-        "popularity": 2.7298
-      },
-      {
-        "id": 1573757,
-        "title": "The Latcher",
-        "releaseDate": "2026-08-08",
-        "posterPath": "/lJZNPGtVW3uvcs9nxHJgixZi18V.jpg",
-        "mediaType": "movie",
-        "overview": "An overworked midwife, hollowed by an unspoken personal tragedy, is haunted by waking nightmares of an eerie presence that creeps from the shadowy bushland into the home where she lost everything.",
-        "popularity": 2.7385
       },
       {
         "id": 1233883,
@@ -49164,6 +49060,15 @@
         "popularity": 3.5407
       },
       {
+        "id": 1280015,
+        "title": "Sunny Dancer",
+        "releaseDate": "2026-08-12",
+        "posterPath": "/d7yOPcBc099HHhmZGS9eMzMruAL.jpg",
+        "mediaType": "movie",
+        "overview": "Ivy is a teenager in remission from cancer, whose mum and dad insist she attend Children Run Free Camp, a summer retreat for young adults affected by cancer. However, as Ivy is reluctantly dragged through camp experience, she discovers new feelings with new friends.",
+        "popularity": 2.8927
+      },
+      {
         "id": 1493400,
         "title": "Camp Rock 3",
         "releaseDate": "2026-08-13",
@@ -49200,6 +49105,24 @@
         "popularity": 3.7281
       },
       {
+        "id": 1509968,
+        "title": "We, Brothers",
+        "releaseDate": "2026-08-18",
+        "posterPath": "/h8hsQT3ROv3woYPtov6nbxD7RIH.jpg",
+        "mediaType": "movie",
+        "overview": "Two old fellow mobsters meet up at hideout to discuss their next job. They plunge into a conversation recollecting their past deeds together, which leads them into argument and rivalry, until one of them realizes something is quite wrong.",
+        "popularity": 3.6453
+      },
+      {
+        "id": 1726015,
+        "title": "Cartografía",
+        "releaseDate": "2026-08-18",
+        "posterPath": "/755FaibGNaDNbK34EOP96SvDr5Y.jpg",
+        "mediaType": "movie",
+        "overview": "An intuitive self-portrait and esoteric geographic exploration of the filmmaker's astrocartography line of Venus and Midheaven in Los Angeles, a prominent point in her birth chart for creativity and harmony.  With each version of herself comes a distinct relationship with the city and cinema, and each version shares an unavoidable fate: the passing of her grandmother. ",
+        "popularity": 3.0368
+      },
+      {
         "id": 1291595,
         "title": "Insidious: Out of the Further",
         "releaseDate": "2026-08-19",
@@ -49212,7 +49135,7 @@
         "id": 1288445,
         "title": "Mutiny",
         "releaseDate": "2026-08-19",
-        "posterPath": "/aAnTt6KpmbbHbd6xH3FQFlppZjc.jpg",
+        "posterPath": "/shEmWVyZUyENEJaJ3Br83LFFrk0.jpg",
         "mediaType": "movie",
         "overview": "After witnessing his billionaire boss' murder and being framed for the crime, Cole Reed boards a cargo ship on a one-man crusade to avenge his boss' death only to discover an international conspiracy.",
         "popularity": 7.1539
@@ -49228,7 +49151,7 @@
       },
       {
         "id": 1204680,
-        "title": "Coyote vs ACME",
+        "title": "Coyote vs. Acme",
         "releaseDate": "2026-08-21",
         "posterPath": "/7zNmJP6z6mDAp4LouacYkGSBUQv.jpg",
         "mediaType": "movie",
@@ -49281,13 +49204,13 @@
         "popularity": 3.692
       },
       {
-        "id": 860508,
-        "title": "The Whisper Man",
-        "releaseDate": "2026-08-28",
-        "posterPath": "/6UqflU8Qqkz7Dq4swJPqs0ZJjY4.jpg",
+        "id": 1588765,
+        "title": "Brandon & Haider",
+        "releaseDate": "2026-08-31",
+        "posterPath": "/bMxc9jsafqlUdWUp5ewUyx0t6Gr.jpg",
         "mediaType": "movie",
-        "overview": "When his young son vanishes, a widower enlists help from his estranged father, a retired detective who put away the serial killer now linked to the case.",
-        "popularity": 2.3228
+        "overview": "When the enigmatic allure of two ancient artifacts is unleashed, two students are bestowed with unparalleled powers. Yet, a relentless collector, driven by an insatiable thirst for dominion, will stop at nothing to seize them, igniting a cataclysmic battle that will determine the fate of worlds",
+        "popularity": 3.0189
       },
       {
         "id": 1696152,
@@ -49317,24 +49240,6 @@
         "popularity": 5.3637
       },
       {
-        "id": 1386315,
-        "title": "The Runner",
-        "releaseDate": "2026-09-03",
-        "posterPath": "/uxCaBoYXsDC4A0SqTm3SISj0OwK.jpg",
-        "mediaType": "movie",
-        "overview": "A high-powered attorney must race through London, following the cryptic commands of a mysterious caller, as she fights against time to save her abducted son.",
-        "popularity": 2.6392
-      },
-      {
-        "id": 1437511,
-        "title": "How to Rob a Bank",
-        "releaseDate": "2026-09-04",
-        "posterPath": "/oUt2f6qHRZDnprG16ELimRhDGDV.jpg",
-        "mediaType": "movie",
-        "overview": "A crew of social media-savvy bank robbers broadcasts their daring heists, unaware that their growing viral fame has put them in the crosshairs of a veteran FBI agent and a brilliant software engineer. Despite the unlikely duo closing in, the crime ring pushes past their limits, putting everything on the line for their most ambitious heist yet.",
-        "popularity": 3.0243
-      },
-      {
         "id": 1596326,
         "title": "Barbara Forever",
         "releaseDate": "2026-09-04",
@@ -49351,6 +49256,15 @@
         "mediaType": "movie",
         "overview": "On an Orkney isle, siblings Isla and Sandy hunt birds and talk to mythical beings while fighting off outsiders. Their lives change when Daniel, an awkward official, arrives to relocate them.",
         "popularity": 3.3407
+      },
+      {
+        "id": 1437511,
+        "title": "How to Rob a Bank",
+        "releaseDate": "2026-09-04",
+        "posterPath": "/oUt2f6qHRZDnprG16ELimRhDGDV.jpg",
+        "mediaType": "movie",
+        "overview": "A crew of social media-savvy bank robbers broadcasts their daring heists, unaware that their growing viral fame has put them in the crosshairs of a veteran FBI agent and a brilliant software engineer. Despite the unlikely duo closing in, the crime ring pushes past their limits, putting everything on the line for their most ambitious heist yet.",
+        "popularity": 3.0243
       },
       {
         "id": 1302904,
@@ -49389,15 +49303,6 @@
         "popularity": 8.2483
       },
       {
-        "id": 1465063,
-        "title": "Forgotten Island",
-        "releaseDate": "2026-09-16",
-        "posterPath": "/kW1fH2jZZM5tVHwNaDdUOUXJvWU.jpg",
-        "mediaType": "movie",
-        "overview": "While celebrating their last night together, high school graduates and best friends Jo and Raissa stumble upon a mysterious portal that transports them to the fantastical island of Nakali. When they discover that the memories of their entire friendship are the price for returning home, Jo and Raissa will race to find a way to leave the island before they forget each other forever.",
-        "popularity": 7.1667
-      },
-      {
         "id": 1423191,
         "title": "Resident Evil",
         "releaseDate": "2026-09-16",
@@ -49407,6 +49312,15 @@
         "popularity": 7.5978
       },
       {
+        "id": 1465063,
+        "title": "Forgotten Island",
+        "releaseDate": "2026-09-16",
+        "posterPath": "/kW1fH2jZZM5tVHwNaDdUOUXJvWU.jpg",
+        "mediaType": "movie",
+        "overview": "While celebrating their last night together, high school graduates and best friends Jo and Raissa stumble upon a mysterious portal that transports them to the fantastical island of Nakali. When they discover that the memories of their entire friendship are the price for returning home, Jo and Raissa will race to find a way to leave the island before they forget each other forever.",
+        "popularity": 7.1667
+      },
+      {
         "id": 1727650,
         "title": "Ibadah & Cinta",
         "releaseDate": "2026-09-17",
@@ -49414,6 +49328,15 @@
         "mediaType": "movie",
         "overview": "Rico, a young man raised in Melbourne, and Santun, the pious daughter of a respected Islamic boarding school leader (Kiai Umar), fall deeply in love despite coming from different worlds. Through Santun, Rico learns to appreciate religious values, and they both view their relationship as a form of worship. However, their romance faces a major obstacle: Santun's father has already betrothed her to Ustad Salman, the man her parents chose for her.",
         "popularity": 4.0166
+      },
+      {
+        "id": 1336166,
+        "title": "Rolling Loud",
+        "releaseDate": "2026-09-18",
+        "posterPath": "/z2EwfMhkGIHhF337c19fd1NNjN1.jpg",
+        "mediaType": "movie",
+        "overview": "A father makes a bad parenting choice by taking his young son to a wild hip-hop festival, leading to chaos as they navigate crowds, security, and family dynamics with eccentric companions.",
+        "popularity": 3.0017
       },
       {
         "id": 1670548,
@@ -49450,6 +49373,15 @@
         "mediaType": "movie",
         "overview": "In 1858, an eccentric young governess named Winifred Notty arrives at the remote gothic manor known as Ensor House. As Winifred assimilates into life at Ensor House, staff members begin to inexplicably disappear, and the owners of the estate begin to wonder if there is something amiss about their new governess.",
         "popularity": 4.5736
+      },
+      {
+        "id": 1711124,
+        "title": "The Intro",
+        "releaseDate": "2026-09-25",
+        "posterPath": "/mhnEKCjqyOBoBKRUupTCVhjkUO7.jpg",
+        "mediaType": "movie",
+        "overview": "This film chronicles the beginning of R&B/Pop icon Zaire Bloomfield's music career through the music videos leading up to the release of his first album",
+        "popularity": 3.4196
       },
       {
         "id": 1248832,
@@ -49493,7 +49425,7 @@
         "releaseDate": "2026-10-08",
         "posterPath": "/8CXwxpyvQiz9COMLZov4Oae8NKb.jpg",
         "mediaType": "movie",
-        "overview": "A young girl, her family and their home are haunted by a sinister entity that is determined to take up residence inside her. But first, it needs to persuade her to let it in…",
+        "overview": "a young girl, Bela, forms a relationship with a sinister entity in her home who looks uncannily like her own mother.",
         "popularity": 24.0594
       },
       {
@@ -49533,6 +49465,24 @@
         "popularity": 3.8902
       },
       {
+        "id": 1255833,
+        "title": "Whalefall",
+        "releaseDate": "2026-10-14",
+        "posterPath": "/wse4S4EuVHSNk9yzsjhdRLmipXk.jpg",
+        "mediaType": "movie",
+        "overview": "Following the death of his father, Jay Gardiner goes diving off the central Coast of California in search of his remains, but is swallowed by a massive sperm whale. While trapped inside its belly with only one hour of oxygen left, Jay comes to realize that the hard-earned lessons his father imparted may be the key to his escape.",
+        "popularity": 2.8007
+      },
+      {
+        "id": 1561726,
+        "title": "Masterplan",
+        "releaseDate": "2026-10-16",
+        "posterPath": null,
+        "mediaType": "movie",
+        "overview": "A legendary thief sets his sights on the Mona Lisa, da Vinci’s iconic painting residing at Le Louvre museum in Paris. He recruits two young strangers to help him — a sharp Italian cybercrime expert and a swaggering French explosives specialist — before revealing they are long-lost siblings and that he is their father. Thrown into a chaotic reunion they never asked for, this new family must learn to work together — and try not to kill each other — if they want any chance at pulling off the heist of the century.",
+        "popularity": 3.0514
+      },
+      {
         "id": 1715257,
         "title": "B-Town",
         "releaseDate": "2026-10-16",
@@ -49563,19 +49513,10 @@
         "id": 791523,
         "title": "Wildwood",
         "releaseDate": "2026-10-22",
-        "posterPath": "/feyEk59rpGXZHKqej9HkUHOnIg2.jpg",
+        "posterPath": "/2nHPVmDxSZhtjdJWtl4G0CaVORj.jpg",
         "mediaType": "movie",
         "overview": "Prue and her classmate Curtis are drawn into a forbidden magical forest filled with enchanted creatures, loyal allies, and formidable adversaries as they embark on a desperate quest to save Prue’s kidnapped baby brother, Mac, from the crows led by a mysterious woman named Alexandra.",
         "popularity": 8.327
-      },
-      {
-        "id": 1646901,
-        "title": "Proposal",
-        "releaseDate": "2026-10-30",
-        "posterPath": "/t3j5PdXha72wFPrwGhWNLGE2CtV.jpg",
-        "mediaType": "movie",
-        "overview": "When a brother tries to stop his sister from proposing to her girlfriend, the siblings peel back the layers of their relationship in real time.",
-        "popularity": 2.5807
       },
       {
         "id": 1562642,
@@ -49585,6 +49526,15 @@
         "mediaType": "movie",
         "overview": "Reclusive government asset Henry Fitzgerald is living off the grid in Wyoming, designing new systems for a weapons research agency. When a multi trillion dollar investment management firm begins employing corrupt police and foreign mercenaries to force farmers off their ranches, the Green Beret veteran decides to employ his weapon prototypes to assist his neighbors.",
         "popularity": 3.3889
+      },
+      {
+        "id": 891621,
+        "title": "Wild Horse Nine",
+        "releaseDate": "2026-11-04",
+        "posterPath": "/dNJFRtVg3xLQ7dbNIQ55cmmIniD.jpg",
+        "mediaType": "movie",
+        "overview": "Shortly before the 1973 Chilean coup, CIA agents Chris and Lee are dispatched from Santiago to Easter Island by their bureau chief, MJ. Amongst the Island's iconic statues, and as the longtime partners wrestle with their dark pasts and present conspiracies, Chris's newfound bond with a pair of rebellious students threatens to send everyone’s trip to this remote paradise sideways.",
+        "popularity": 3.0681
       },
       {
         "id": 1286656,
@@ -49621,6 +49571,15 @@
         "mediaType": "movie",
         "overview": "Return to the world of Panem 24 years before the events of The Hunger Games, starting on the morning of the reaping of the 50th Hunger Games, also known as the Second Quarter Quell.",
         "popularity": 6.1597
+      },
+      {
+        "id": 1241478,
+        "title": "Jimmy",
+        "releaseDate": "2026-11-20",
+        "posterPath": "/c3fWnsg5VEP5EhYZ4oY2NpFrrU1.jpg",
+        "mediaType": "movie",
+        "overview": "A look into the life of American actor James Stewart, whose inspiring tale of valor, purpose and faith will win over everyone.",
+        "popularity": 2.912
       },
       {
         "id": 1538497,
@@ -49707,7 +49666,7 @@
         "id": 1260649,
         "title": "Jumanji: Open World",
         "releaseDate": "2026-12-25",
-        "posterPath": "/aUJg1QoAenZ7GodF38OrfyiOtKu.jpg",
+        "posterPath": null,
         "mediaType": "movie",
         "overview": "Our heroes have escaped the ever-changing jungles of Jumanji before, but this time the game comes to us - as Jumanji breaks free of its console, unleashing its chaos into our world.",
         "popularity": 5.1231
@@ -49747,15 +49706,6 @@
         "mediaType": "movie",
         "overview": "It's Grand Final Day and in a suburban police station about to be replaced by an AI 'Terminal', the two remaining cops (Nicolette Minster and Ray O'Leary) are tasked with babysitting a drug dealer for 24 hours.",
         "popularity": 3.2031
-      },
-      {
-        "id": 1729162,
-        "title": "Hatchling",
-        "releaseDate": "2026-12-31",
-        "posterPath": null,
-        "mediaType": "movie",
-        "overview": "Two blacksmiths discover a mysterious egg—and as the egg hatches—they must deal with the monster that comes out from inside.",
-        "popularity": 2.6576
       }
     ],
     "2027": [
@@ -49796,6 +49746,15 @@
         "popularity": 1.2339
       },
       {
+        "id": 1566727,
+        "title": "Zac Power",
+        "releaseDate": "2027-01-07",
+        "posterPath": "/z64ZWd9vMKTCWpVH5EfPJBTDWnn.jpg",
+        "mediaType": "movie",
+        "overview": "Zac Power’s position as the top teenage spy is compromised after a brilliant new agent arrives. When his recklessness allows an ostentatious supervillain to steal a high-tech weapon, Zac is forced to confront his own flaws and team up with his rival.",
+        "popularity": 1.1522
+      },
+      {
         "id": 1440769,
         "title": "The Beekeeper 2",
         "releaseDate": "2027-01-14",
@@ -49832,13 +49791,13 @@
         "popularity": 2.1009
       },
       {
-        "id": 1609274,
-        "title": "The Education of Jane Cumming",
-        "releaseDate": "2027-01-21",
-        "posterPath": "/4nQl6PXqrb3unkhP95WqIk7JO7i.jpg",
+        "id": 1206628,
+        "title": "The Third Parent",
+        "releaseDate": "2027-01-22",
+        "posterPath": "/IGPqX9Lk9bPvUKBkh54QAE01jP.jpg",
         "mediaType": "movie",
-        "overview": "Edinburgh, 1810. Two female teachers find themselves at the centre of a scandal when one of their pupils accuses them of having a love affair. A drama about prejudice, survival and the courage to stand up for the truth.",
-        "popularity": 1.0029
+        "overview": "A neighborhood Fourth of July celebration is interrupted by a ferociously bizarre anomaly who overpowers a family in order to teach them how to become better people and more compliant citizens.",
+        "popularity": 1.929
       },
       {
         "id": 1518403,
@@ -49848,15 +49807,6 @@
         "mediaType": "movie",
         "overview": "12-year-old Jacob is an aspiring basketball player coping with the recent loss of his father. After he and his mother move to his dad’s childhood home in Fernfield, Jacob discovers a VHS tape of his old man playing basketball on the same court as a hoops-shooting golden retriever. Soon, Jacob begins his own adventure with a neglected golden retriever that he names Buddy.",
         "popularity": 1.7883
-      },
-      {
-        "id": 1206628,
-        "title": "The Third Parent",
-        "releaseDate": "2027-01-22",
-        "posterPath": "/IGPqX9Lk9bPvUKBkh54QAE01jP.jpg",
-        "mediaType": "movie",
-        "overview": "A neighborhood Fourth of July celebration is interrupted by a ferociously bizarre anomaly who overpowers a family in order to teach them how to become better people and more compliant citizens.",
-        "popularity": 1.929
       },
       {
         "id": 1482558,
@@ -49895,13 +49845,13 @@
         "popularity": 7.3861
       },
       {
-        "id": 1466228,
-        "title": "The Comeback King",
-        "releaseDate": "2027-02-03",
-        "posterPath": "/eulMF0veRTe7jtDHEqaCAjrO6jY.jpg",
+        "id": 1425859,
+        "title": "Remain",
+        "releaseDate": "2027-02-04",
+        "posterPath": "/ayaZ9kKsmdk1EaH99qxpp6SEpIU.jpg",
         "mediaType": "movie",
-        "overview": "A country western star experiences a dramatic downfall and must navigate their career in free fall.",
-        "popularity": 0.8969
+        "overview": "Architect Tate Donovan arrives in Cape Cod to design a client’s summer home. Struggling with the loss of his family, he moves into a historic home where he meets Wren, a mysterious young woman who challenges Tate’s perception of the world.",
+        "popularity": 2.4403
       },
       {
         "id": 1480503,
@@ -49913,15 +49863,6 @@
         "popularity": 2.3111
       },
       {
-        "id": 1425859,
-        "title": "Remain",
-        "releaseDate": "2027-02-04",
-        "posterPath": "/ayaZ9kKsmdk1EaH99qxpp6SEpIU.jpg",
-        "mediaType": "movie",
-        "overview": "Architect Tate Donovan arrives in Cape Cod to design a client’s summer home. Struggling with the loss of his family, he moves into a historic home where he meets Wren, a mysterious young woman who challenges Tate’s perception of the world.",
-        "popularity": 2.4403
-      },
-      {
         "id": 1139422,
         "title": "The Riders",
         "releaseDate": "2027-02-04",
@@ -49931,13 +49872,13 @@
         "popularity": 1.1455
       },
       {
-        "id": 1124006,
-        "title": "Lords of War",
-        "releaseDate": "2027-02-05",
-        "posterPath": "/w1nNmvd5nYcoN8kvO55OcCUmE2Z.jpg",
+        "id": 1607121,
+        "title": "Triple Bluff",
+        "releaseDate": "2027-02-09",
+        "posterPath": null,
         "mediaType": "movie",
-        "overview": "Yuri Orlov, the world's most famous arms dealer, discovers that he has a son, Anton who is trying to outdo his father by raising an army of mercenaries to fight in America's Middle Eastern conflicts, triggering a father-son rivalry.",
-        "popularity": 1.0497
+        "overview": "Sequel to the 2024 film Double Bluff. Plot TBA.",
+        "popularity": 1.1136
       },
       {
         "id": 1147572,
@@ -49947,6 +49888,15 @@
         "mediaType": "movie",
         "overview": "The new upcoming film by Greta Gerwig.",
         "popularity": 3.3687
+      },
+      {
+        "id": 1731115,
+        "title": "De bovenburen",
+        "releaseDate": "2027-02-11",
+        "posterPath": null,
+        "mediaType": "movie",
+        "overview": "A seemingly ordinary dinner invitation sets the stage for an evening in which boundaries are pushed, secrets are revealed, and relationships are tested in both hilarious and heartwarming ways.",
+        "popularity": 1.1338
       },
       {
         "id": 1592312,
@@ -50057,6 +50007,15 @@
         "popularity": 2.7419
       },
       {
+        "id": 1487395,
+        "title": "The Chosen: Crucifixion",
+        "releaseDate": "2027-03-11",
+        "posterPath": "/qgJzrvYmpVBH6GYwnFT8N5sWhsB.jpg",
+        "mediaType": "movie",
+        "overview": "The sixth season finale of the popular Biblical television series, following Jesus' arrest and trial leading up to His crucifixion.",
+        "popularity": 1.2039
+      },
+      {
         "id": 1718699,
         "title": "Not Alone",
         "releaseDate": "2027-03-18",
@@ -50075,15 +50034,6 @@
         "popularity": 2.4673
       },
       {
-        "id": 1120556,
-        "title": "Cliffhanger",
-        "releaseDate": "2027-03-19",
-        "posterPath": "/92cL0rfm6eK6cUU8UciorsX0Fpg.jpg",
-        "mediaType": "movie",
-        "overview": "During a weekend trip with a billionaire's son, seasoned mountaineer Ray Cooper and his daughter Sydney are targeted by a gang of kidnappers. Ray’s other daughter Naomi, still haunted by a past climbing accident, witnesses the attack and escapes. To save her family, she must confront her fears and fight for survival.",
-        "popularity": 1.477
-      },
-      {
         "id": 347196,
         "title": "Wolf Creek: Legacy",
         "releaseDate": "2027-03-19",
@@ -50091,6 +50041,15 @@
         "mediaType": "movie",
         "overview": "A family of American tourists wander innocently into Taylor's hunting grounds. When the parents sacrifice themselves to save their children, the kids find themselves alone, lost and hunted in the vast Australian wilderness.",
         "popularity": 1.4963
+      },
+      {
+        "id": 1120556,
+        "title": "Cliffhanger",
+        "releaseDate": "2027-03-19",
+        "posterPath": "/92cL0rfm6eK6cUU8UciorsX0Fpg.jpg",
+        "mediaType": "movie",
+        "overview": "During a weekend trip with a billionaire's son, seasoned mountaineer Ray Cooper and his daughter Sydney are targeted by a gang of kidnappers. Ray’s other daughter Naomi, still haunted by a past climbing accident, witnesses the attack and escapes. To save her family, she must confront her fears and fight for survival.",
+        "popularity": 1.477
       },
       {
         "id": 1288438,
@@ -50109,6 +50068,15 @@
         "mediaType": "movie",
         "overview": "A suburban couple whose life spirals out of control when they rent their garage to mysterious tenants.",
         "popularity": 1.4782
+      },
+      {
+        "id": 1669970,
+        "title": "After Hours",
+        "releaseDate": "2027-04-02",
+        "posterPath": "/kTIbFErtMyglWkQFP2Gaw1Lh0pL.jpg",
+        "mediaType": "movie",
+        "overview": "Two brothers trapped in poverty gamble on day trading as ambition turns to addiction. When one final all-in bet collapses, their home becomes a pressure cooker where love, pride, and survival collide.",
+        "popularity": 1.1069
       },
       {
         "id": 1208917,
@@ -50165,15 +50133,6 @@
         "popularity": 3.4914
       },
       {
-        "id": 1177369,
-        "title": "The Legend of Zelda",
-        "releaseDate": "2027-04-30",
-        "posterPath": "/obcEXMMrwSRIloR77egWSwOjZM2.jpg",
-        "mediaType": "movie",
-        "overview": "A live-action adaptation of Nintendo's Legend of Zelda video game series.",
-        "popularity": 1.5731
-      },
-      {
         "id": 1589027,
         "title": "Thomas",
         "releaseDate": "2027-04-30",
@@ -50181,6 +50140,15 @@
         "mediaType": "movie",
         "overview": "In development.",
         "popularity": 1.7936
+      },
+      {
+        "id": 1177369,
+        "title": "The Legend of Zelda",
+        "releaseDate": "2027-04-30",
+        "posterPath": "/obcEXMMrwSRIloR77egWSwOjZM2.jpg",
+        "mediaType": "movie",
+        "overview": "A live-action adaptation of Nintendo's Legend of Zelda video game series.",
+        "popularity": 1.5731
       },
       {
         "id": 532652,
@@ -50354,15 +50322,6 @@
         "popularity": 2.5892
       },
       {
-        "id": 1268053,
-        "title": "Winnie the Pooh: Blood and Honey 3",
-        "releaseDate": "2027-07-09",
-        "posterPath": "/ygkhevPstQuu65Aqea03sfxdCoW.jpg",
-        "mediaType": "movie",
-        "overview": "A prequel to the Twisted Childhood Universe (TCU) Exploring what happened between Christopher Robin going to college and his return to the Hundred Acre Wood. In this installment, Winnie the Pooh, Tigger, and Rabbit are trapped in a circus created by Balthazar Von Woozle, and the three attempt to escape.",
-        "popularity": 3.6047
-      },
-      {
         "id": 1458578,
         "title": "Nexus: 3001",
         "releaseDate": "2027-07-09",
@@ -50408,6 +50367,15 @@
         "popularity": 1.4666
       },
       {
+        "id": 1305810,
+        "title": "The Auction",
+        "releaseDate": "2027-08-01",
+        "posterPath": null,
+        "mediaType": "movie",
+        "overview": "The film is set at Aztec Corp., a company that auctions off ancient antiquities and semi-distinct wild exotic animals.",
+        "popularity": 2.4469
+      },
+      {
         "id": 1573515,
         "title": "Gargantuan",
         "releaseDate": "2027-08-01",
@@ -50426,15 +50394,6 @@
         "popularity": 1.3791
       },
       {
-        "id": 1634942,
-        "title": "Jason Statham Stole My Bike",
-        "releaseDate": "2027-08-06",
-        "posterPath": null,
-        "mediaType": "movie",
-        "overview": "Jason Statham in the role of a lifetime, playing global action superstar Jason Statham. Plot TBA.",
-        "popularity": 1.52
-      },
-      {
         "id": 1477483,
         "title": "Snoop",
         "releaseDate": "2027-08-06",
@@ -50442,6 +50401,15 @@
         "mediaType": "movie",
         "overview": "The rise of the artist, mogul and gangsta rap icon that we know as Snoop Dogg. ",
         "popularity": 1.7552
+      },
+      {
+        "id": 1634942,
+        "title": "Jason Statham Stole My Bike",
+        "releaseDate": "2027-08-06",
+        "posterPath": null,
+        "mediaType": "movie",
+        "overview": "Jason Statham in the role of a lifetime, playing global action superstar Jason Statham. Plot TBA.",
+        "popularity": 1.52
       },
       {
         "id": 1572400,
@@ -50534,15 +50502,6 @@
         "popularity": 1.0569
       },
       {
-        "id": 1723919,
-        "title": "Desencuentro 2",
-        "releaseDate": "2027-10-20",
-        "posterPath": "/7U5iGTegPAsEGBBbb1c3BJmyr6l.jpg",
-        "mediaType": "movie",
-        "overview": "The sequel to the critically acclaimed 2025 short film Desencuentro",
-        "popularity": 0.7977
-      },
-      {
         "id": 1202568,
         "title": "shuteye",
         "releaseDate": "2027-10-29",
@@ -50550,15 +50509,6 @@
         "mediaType": "movie",
         "overview": "A student researching sleep paralysis slips into a lucid nightmare.",
         "popularity": 1.3609
-      },
-      {
-        "id": 1701671,
-        "title": "Intrigued",
-        "releaseDate": "2027-10-29",
-        "posterPath": "/9ecKadrOlPMdOVxORTwzNJfHrdp.jpg",
-        "mediaType": "movie",
-        "overview": "A doctor and a run-down detective come together to stop and capture the one who causes trauma",
-        "popularity": 1.0165
       },
       {
         "id": 1564414,
@@ -50833,15 +50783,6 @@
         "popularity": 1.7179
       },
       {
-        "id": 1247605,
-        "title": "The Beatles: Paul",
-        "releaseDate": "2028-04-05",
-        "posterPath": "/cT39aUoRyitmhbB45w5UFKhBRIW.jpg",
-        "mediaType": "movie",
-        "overview": "One of four biopics, focusing on individual members of The Beatles, this one telling the story of the group from the perspective of Paul McCartney.",
-        "popularity": 1.5016
-      },
-      {
         "id": 1247603,
         "title": "The Beatles: George",
         "releaseDate": "2028-04-05",
@@ -50849,6 +50790,15 @@
         "mediaType": "movie",
         "overview": "One of four biopics, focusing on individual members of The Beatles, this one telling the story of the group from the perspective of George Harrison.",
         "popularity": 1.5899
+      },
+      {
+        "id": 1247605,
+        "title": "The Beatles: Paul",
+        "releaseDate": "2028-04-05",
+        "posterPath": "/cT39aUoRyitmhbB45w5UFKhBRIW.jpg",
+        "mediaType": "movie",
+        "overview": "One of four biopics, focusing on individual members of The Beatles, this one telling the story of the group from the perspective of Paul McCartney.",
+        "popularity": 1.5016
       },
       {
         "id": 1247606,
@@ -50869,15 +50819,6 @@
         "popularity": 0.461
       },
       {
-        "id": 1732850,
-        "title": "Charmed Lives: A Family Romance",
-        "releaseDate": "2028-05-11",
-        "posterPath": null,
-        "mediaType": "movie",
-        "overview": "Sir Alexander Korda, one of the world's most flamboyant movie tycoons, rose from obscurity in rural Hungary to become a legendary filmmaker. With him were his brothers, Zoltan and Vincent, all living charmed lives in circles that included Vivien Leigh, Sir Laurence Olivier, Marlene Dietrich, H.G. Wells and Merle Oberon, who was soon to be Alex's wife. But along with Alex's flair for success lies an equally powerful impulse for destruction.",
-        "popularity": 0.8458
-      },
-      {
         "id": 1505252,
         "title": "Final Destination 7",
         "releaseDate": "2028-05-11",
@@ -50885,6 +50826,15 @@
         "mediaType": "movie",
         "overview": "The seventh installment in the Final Destination franchise. Plot TBA.",
         "popularity": 0.9713
+      },
+      {
+        "id": 1732850,
+        "title": "Charmed Lives: A Family Romance",
+        "releaseDate": "2028-05-11",
+        "posterPath": null,
+        "mediaType": "movie",
+        "overview": "Sir Alexander Korda, one of the world's most flamboyant movie tycoons, rose from obscurity in rural Hungary to become a legendary filmmaker. With him were his brothers, Zoltan and Vincent, all living charmed lives in circles that included Vivien Leigh, Sir Laurence Olivier, Marlene Dietrich, H.G. Wells and Merle Oberon, who was soon to be Alex's wife. But along with Alex's flair for success lies an equally powerful impulse for destruction.",
+        "popularity": 0.8458
       },
       {
         "id": 1467853,
