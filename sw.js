@@ -17,6 +17,8 @@ self.addEventListener('activate', (e) => {
 self.addEventListener('fetch', (e) => {
   const url = new URL(e.request.url);
   if (e.request.method !== 'GET' || url.origin !== location.origin) return;
+  // version.json must always hit the network (drives auto-update)
+  if (url.pathname.endsWith('/version.json')) return;
 
   // dashboard.json (legacy fallback data): network-first
   if (url.pathname.endsWith('/dashboard.json')) {
