@@ -7,12 +7,10 @@ jobs:
       - name: probe
         run: |
           UA="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36"
-          for p in "films/" "films/page/2/" "films/page/5/" "watchlist/" "watchlist/page/2/" "films/by/rated-date/"; do
-            for i in 1 2 3; do
-              code=$(curl -s -o /tmp/page -w "%{http_code}" -A "$UA" -H "Accept-Language: en-US,en;q=0.9" "https://letterboxd.com/mlggstar/$p")
-              n=$(grep -c griditem /tmp/page || true)
-              echo "RESULT $p try$i -> HTTP $code griditems=$n"
-              [ "$code" = "200" ] && break
-              sleep $((i*3))
-            done
+          for p in "" "films/diary/" "film/home-2015/"; do
+            code=$(curl -s -o /tmp/page -w "%{http_code}" -A "$UA" -H "Accept-Language: en-US,en;q=0.9" "https://letterboxd.com/mlggstar/$p")
+            hist=$(grep -o "histogram" /tmp/page | head -1)
+            tips=$(grep -oE "[0-9,]+ .{0,3}[★½]" /tmp/page | head -3 | tr "
+" ";")
+            echo "RESULT [$p] HTTP $code hist=$hist tips=$tips"
           done
