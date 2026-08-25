@@ -9,8 +9,8 @@ jobs:
           UA="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36"
           for p in "" "films/diary/" "film/home-2015/"; do
             code=$(curl -s -o /tmp/page -w "%{http_code}" -A "$UA" -H "Accept-Language: en-US,en;q=0.9" "https://letterboxd.com/mlggstar/$p")
-            hist=$(grep -o "histogram" /tmp/page | head -1)
-            tips=$(grep -oE "[0-9,]+ .{0,3}[★½]" /tmp/page | head -3 | tr "
-" ";")
-            echo "RESULT [$p] HTTP $code hist=$hist tips=$tips"
+            hist=$(grep -c istogram /tmp/page || true)
+            tips=$(grep -oE "[0-9,]+ .{0,4}[Xx×] ?[0-9]?" /tmp/page | head -3 | paste -sd";" -)
+            stars=$(grep -oE "ratingValue.:[0-9.]+" /tmp/page | head -2 | paste -sd";" -)
+            echo "RESULT [$p] HTTP $code hist=$hist tips=$tips stars=$stars"
           done
