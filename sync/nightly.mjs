@@ -35555,7 +35555,7 @@ for (const p of targets) {
     failed++;
     console.log(`\u2717 ${p.username}: ${e.message}`);
   } finally {
-    await supabase2.auth.signOut().catch(() => {
+    await supabase2.auth.signOut({ scope: "local" }).catch(() => {
     });
   }
 }
