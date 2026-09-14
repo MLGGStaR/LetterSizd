@@ -35540,6 +35540,10 @@ for (const p of targets) {
     if (otpErr) throw new Error(otpErr.message);
     let last = "";
     const snap = await cloudRefresh2({
+      // re-fetch show details like a phone refresh does: accounts that never
+      // open the app otherwise keep stale season lists, and "New seasons"
+      // (plus upcoming episodes) would never learn a season came out
+      freshTv: true,
       onProgress: (stage) => {
         if (stage !== last) {
           last = stage;
