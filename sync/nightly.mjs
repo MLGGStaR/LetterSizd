@@ -35614,11 +35614,6 @@ var DOMParser2 = class _DOMParser {
 var { parse: parse4 } = JSON;
 
 // web/node_modules/linkedom/esm/index.js
-var parseHTML = (html, globals = null) => new DOMParser2().parseFromString(
-  html,
-  "text/html",
-  globals
-).defaultView;
 function Document4() {
   illegalConstructor();
 }
@@ -35627,8 +35622,8 @@ setPrototypeOf(Document4, Document2).prototype = Document2.prototype;
 // web/scripts/nightly.ts
 init_dist4();
 globalThis.DOMParser = class {
-  parseFromString(html) {
-    return parseHTML(html).document;
+  parseFromString(text, mime) {
+    return new DOMParser2().parseFromString(text, mime === "text/xml" ? "text/xml" : "text/html");
   }
 };
 var { supabase: supabase2 } = await Promise.resolve().then(() => (init_supabase(), supabase_exports));
