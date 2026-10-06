@@ -24530,8 +24530,12 @@ async function loadLibraryRows(userId) {
   }));
 }
 async function loadFavorites(userId) {
-  const { data } = await supabase.from("favorites").select("movies, shows").eq("user_id", userId).maybeSingle();
-  return { movies: data?.movies ?? [], shows: data?.shows ?? [] };
+  const { data } = await supabase.from("favorites").select("movies, shows, mixed").eq("user_id", userId).maybeSingle();
+  return {
+    movies: data?.movies ?? [],
+    shows: data?.shows ?? [],
+    mixed: data?.mixed ?? []
+  };
 }
 async function cloudRefresh(opts) {
   const progress = opts.onProgress ?? (() => {
