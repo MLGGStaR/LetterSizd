@@ -24098,26 +24098,63 @@ function buildSnapshot(input) {
   const watchYearCounts = /* @__PURE__ */ new Map();
   let lbMinutesAll = 0;
   let lbMinutesYear = 0;
-  const filmsThisYear = /* @__PURE__ */ new Set();
-  let rewatchesAllTime = 0;
-  let rewatchesThisYear = 0;
+  const parent = /* @__PURE__ */ new Map();
+  const find3 = (k) => {
+    let r = k;
+    while (parent.get(r) !== r) r = parent.get(r) ?? (parent.set(r, r), r);
+    parent.set(k, r);
+    return r;
+  };
+  const viewingDays = /* @__PURE__ */ new Map();
+  const localDay = (ts) => {
+    const d = new Date(ts);
+    return `${d.getFullYear()}-${String(d.getMonth() + 1).padStart(2, "0")}-${String(d.getDate()).padStart(2, "0")}`;
+  };
   const ratedEntries = lbEntries.filter((e) => typeof e.rating === "number");
   for (const e of lbEntries) {
     const id = entryMovieId(e, resolveCache);
     const m = id ? movieCache[id] : void 0;
     const rt = m?.runtime ?? 0;
     lbMinutesAll += rt;
-    if (e.rewatch) rewatchesAllTime++;
     if (e.watchedAt > 0) {
       const wy = new Date(e.watchedAt).getFullYear();
       watchYearCounts.set(wy, (watchYearCounts.get(wy) ?? 0) + 1);
       if (wy === thisYear) {
         lbMinutesYear += rt;
-        if (e.rewatch) rewatchesThisYear++;
-        else filmsThisYear.add(id != null ? `i:${id}` : `n:${squash(e.title)}|${e.year ?? ""}`);
       }
     }
     for (const g of m?.genres ?? []) lbGenres.set(g.name, (lbGenres.get(g.name) ?? 0) + 1);
+    if (e.watchedAt > 0) {
+      const idTrusted = id != null && m && squash(m.title) === squash(e.title);
+      const keys2 = [
+        idTrusted ? `i:${id}` : null,
+        e.slug ? `s:${e.slug}` : null,
+        e.year != null ? `n:${squash(e.title)}|${e.year}` : null
+      ].filter((k) => k != null);
+      if (!keys2.length) keys2.push(`g:${e.guid}`);
+      const root = find3(keys2[0]);
+      for (const k of keys2.slice(1)) {
+        const r = find3(k);
+        if (r !== root) {
+          parent.set(r, root);
+          const moved = viewingDays.get(r);
+          if (moved) {
+            viewingDays.set(root, [...viewingDays.get(root) ?? [], ...moved]);
+            viewingDays.delete(r);
+          }
+        }
+      }
+      viewingDays.set(root, [...viewingDays.get(root) ?? [], localDay(e.watchedAt)]);
+    }
+  }
+  let filmsThisYear = 0;
+  let rewatchesAllTime = 0;
+  let rewatchesThisYear = 0;
+  for (const days of viewingDays.values()) {
+    const sorted = [...new Set(days)].sort();
+    if (Number(sorted[0].slice(0, 4)) === thisYear) filmsThisYear++;
+    rewatchesAllTime += sorted.length - 1;
+    for (const d of sorted.slice(1)) if (Number(d.slice(0, 4)) === thisYear) rewatchesThisYear++;
   }
   const topYearEntry = [...watchYearCounts.entries()].sort((a, b) => b[1] - a[1])[0];
   const topGenresOf = (m) => [...m.entries()].sort((a, b) => b[1] - a[1]).slice(0, 6).map(([name, count]) => ({ name, count }));
@@ -24293,7 +24330,7 @@ function buildSnapshot(input) {
   const combinedGenres = /* @__PURE__ */ new Map();
   for (const [k, v] of lbGenres) combinedGenres.set(k, (combinedGenres.get(k) ?? 0) + v);
   for (const [k, v] of tvGenres) combinedGenres.set(k, (combinedGenres.get(k) ?? 0) + v);
-  const moviesThisYear = filmsThisYear.size;
+  const moviesThisYear = filmsThisYear;
   let tvRewatches = 0;
   let tvRewatchedShows = 0;
   for (const ls of libraryShows) {
