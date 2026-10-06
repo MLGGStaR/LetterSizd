@@ -23417,9 +23417,11 @@ async function lbFetch(path) {
     () => fetch(`https://api.allorigins.win/raw?url=${encodeURIComponent(target)}`)
   ];
   let lastErr = "all proxies failed";
-  for (const attempt of attempts) {
+  for (let i = 0; i < attempts.length; i++) {
+    const attempt = attempts[i];
     try {
       const res = await attempt();
+      if (i === 0 && res.status === 404) throw new LbNotFoundError(path);
       if (res.ok) {
         const text = await res.text();
         if (text.length > 100) return text;
@@ -23428,6 +23430,7 @@ async function lbFetch(path) {
         lastErr = `HTTP ${res.status}`;
       }
     } catch (e) {
+      if (e instanceof LbNotFoundError) throw e;
       lastErr = String(e.message ?? e);
     }
   }
@@ -23524,12 +23527,14 @@ async function fetchRatingUpdates(username) {
     return { hits: [] };
   }
   const out = [];
+  const slugs = [];
   const blocks = html.split(/<li[^>]*class="[^"]*griditem/);
   for (let i = 1; i < blocks.length; i++) {
     const b = blocks[i].slice(0, 3e3);
     const slug = b.match(/data-item-slug="([^"]+)"/)?.[1];
     const rawName = b.match(/data-item-name="([^"]+)"/)?.[1];
     const rated = b.match(/rated-(\d+)\b/)?.[1];
+    if (slug) slugs.push(slug);
     if (!slug || !rated) continue;
     const name = decodeEntities(rawName ?? "");
     const ym = name.match(/\((\d{4})\)\s*$/);
@@ -23540,20 +23545,21 @@ async function fetchRatingUpdates(username) {
       rating: Number(rated) / 2
     });
   }
-  return { hits: out, total: parseGridTotal(html) };
+  return { hits: out, total: parseGridTotal(html), slugs };
 }
 function lbSlugify(title, year) {
   const base = title.toLowerCase().normalize("NFKD").replace(/[̀-ͯ]/g, "").replace(/&/g, "and").replace(/[^a-z0-9]+/g, "-").replace(/^-+|-+$/g, "");
   return year ? [base, `${base}-${year}`] : [base];
 }
-async function fetchFilmRating(username, slugCandidates) {
+async function fetchFilmRating(username, slugCandidates, opts = {}) {
   const lc = username.toLowerCase();
   for (const slug of slugCandidates) {
     if (!slug) continue;
     let html;
     try {
       html = await lbFetch(`/${lc}/film/${slug}/`);
-    } catch {
+    } catch (e) {
+      if (opts.knownSlug && e instanceof LbNotFoundError) return { slug, rating: null, noPage: true };
       continue;
     }
     const m = html.match(/"reviewRating":\{[^}]*"ratingValue":([\d.]+)/);
@@ -23738,13 +23744,18 @@ function parseExportZip(zipBytes) {
   if (!entries2.length) throw new Error("ZIP did not contain a Letterboxd export (no diary.csv/watched.csv)");
   return { entries: entries2, watchlist, source: "export" };
 }
-var decodeEntities;
+var decodeEntities, LbNotFoundError;
 var init_lb = __esm({
   "web/src/lib/lb.ts"() {
     "use strict";
     init_esm();
     init_supabase();
     decodeEntities = (s) => s.replace(/&#(\d+);/g, (_, n) => String.fromCharCode(Number(n))).replace(/&quot;/g, '"').replace(/&amp;/g, "&");
+    LbNotFoundError = class extends Error {
+      constructor(path) {
+        super(`Letterboxd 404: ${path}`);
+      }
+    };
   }
 });
 
@@ -24087,19 +24098,23 @@ function buildSnapshot(input) {
   const watchYearCounts = /* @__PURE__ */ new Map();
   let lbMinutesAll = 0;
   let lbMinutesYear = 0;
-  let moviesThisYear = 0;
+  const filmsThisYear = /* @__PURE__ */ new Set();
+  let rewatchesAllTime = 0;
+  let rewatchesThisYear = 0;
   const ratedEntries = lbEntries.filter((e) => typeof e.rating === "number");
   for (const e of lbEntries) {
     const id = entryMovieId(e, resolveCache);
     const m = id ? movieCache[id] : void 0;
     const rt = m?.runtime ?? 0;
     lbMinutesAll += rt;
+    if (e.rewatch) rewatchesAllTime++;
     if (e.watchedAt > 0) {
       const wy = new Date(e.watchedAt).getFullYear();
       watchYearCounts.set(wy, (watchYearCounts.get(wy) ?? 0) + 1);
       if (wy === thisYear) {
         lbMinutesYear += rt;
-        moviesThisYear++;
+        if (e.rewatch) rewatchesThisYear++;
+        else filmsThisYear.add(id != null ? `i:${id}` : `n:${squash(e.title)}|${e.year ?? ""}`);
       }
     }
     for (const g of m?.genres ?? []) lbGenres.set(g.name, (lbGenres.get(g.name) ?? 0) + 1);
@@ -24278,8 +24293,20 @@ function buildSnapshot(input) {
   const combinedGenres = /* @__PURE__ */ new Map();
   for (const [k, v] of lbGenres) combinedGenres.set(k, (combinedGenres.get(k) ?? 0) + v);
   for (const [k, v] of tvGenres) combinedGenres.set(k, (combinedGenres.get(k) ?? 0) + v);
+  const moviesThisYear = filmsThisYear.size;
+  let tvRewatches = 0;
+  let tvRewatchedShows = 0;
+  for (const ls of libraryShows) {
+    const times = ls.timesWatched ?? (ls.status === "watched" ? 1 : 0);
+    if (times > 1) {
+      tvRewatches += times - 1;
+      tvRewatchedShows++;
+    }
+  }
   const stats = {
     letterboxd: {
+      rewatchesAllTime,
+      rewatchesThisYear,
       moviesThisYear,
       moviesAllTime: uniqueFilms,
       minutesAllTime: lbMinutesAll,
@@ -24295,6 +24322,8 @@ function buildSnapshot(input) {
       // everything in library (excl. watchlist) that isn't fully watched
       showsWatching: libraryShows.filter((ls) => ls.status !== "watchlist").length - fullyWatchedCount,
       showsWatched: fullyWatchedCount,
+      rewatches: tvRewatches,
+      rewatchedShows: tvRewatchedShows,
       minutesAllTime: Math.round(tvMinutesAll),
       minutesThisYear: Math.round(tvMinutesYear),
       avgRating: tvAvg,
@@ -24623,6 +24652,9 @@ async function cloudRefresh(opts) {
     ...prev?.lbCounts ?? {},
     at: Date.now()
   };
+  let lbPage1 = prev?.lbPage1 ?? [];
+  let pageSweepAt = prev?.pageSweepAt;
+  let lbRemoved = prev?.lbRemoved ?? [];
   let entries2 = mergeEntries(prevEntries, []);
   if (opts.skipLb) {
   } else if (opts.zipBytes) {
@@ -24672,6 +24704,7 @@ async function cloudRefresh(opts) {
       progress("Checking rating updates");
       const scan = await fetchRatingUpdates(lbUser);
       if (scan.total != null) lbCounts.films = scan.total;
+      if (scan.slugs?.length) lbPage1 = scan.slugs;
       const hits = scan.hits;
       if (hits.length) {
         const bySlug = new Map(hits.map((h) => [h.slug, h.rating]));
@@ -24711,6 +24744,36 @@ async function cloudRefresh(opts) {
     entries2 = restoreFromArchive(entries2, archived, ambiguous, caches);
   } else {
     backfillYears(entries2, caches, ambiguous);
+  }
+  const keyOf = (e) => e.slug ?? `${normTitle(e.title)}|${e.year ?? ""}`;
+  if (opts.removeFilms?.length) {
+    const drop = new Set(opts.removeFilms);
+    const now = Date.now();
+    for (const e of entries2) {
+      const k = keyOf(e);
+      if (String(e.guid).startsWith("site-movie-") || !drop.has(k)) continue;
+      if (lbRemoved.some((r) => r.key === k)) continue;
+      lbRemoved.push({ key: k, title: e.title, year: e.year, tmdbMovieId: e.tmdbMovieId, at: now });
+    }
+  }
+  if (lbRemoved.length) {
+    const removedHit = (e) => lbRemoved.find(
+      (r) => r.key === keyOf(e) || // same title AND (same id or same year) — never id alone: archive
+      // rows have carried the wrong same-titled film's id before
+      normTitle(r.title) === normTitle(e.title) && (e.tmdbMovieId != null && r.tmdbMovieId === e.tmdbMovieId || r.year != null && r.year === e.year)
+    );
+    const relogged = /* @__PURE__ */ new Set();
+    entries2 = entries2.filter((e) => {
+      if (String(e.guid).startsWith("site-movie-")) return true;
+      const r = removedHit(e);
+      if (!r) return true;
+      if (e.watchedAt > r.at) {
+        relogged.add(r.key);
+        return true;
+      }
+      return false;
+    });
+    if (relogged.size) lbRemoved = lbRemoved.filter((r) => !relogged.has(r.key));
   }
   let siteMovies = [];
   try {
@@ -24787,9 +24850,12 @@ async function cloudRefresh(opts) {
       (a, b) => (a[0].slug ?? a[0].title).localeCompare(b[0].slug ?? b[0].title)
     );
     let targets2;
-    if (opts.deepRatings) {
+    const drift = lbCounts.films != null ? films.length - lbCounts.films : 0;
+    const sweep = !!opts.deepRatings || !!opts.sweepOnDrift && drift > 0;
+    if (sweep) {
       targets2 = films;
       ratingCursor = 0;
+      pageSweepAt = Date.now();
     } else {
       if (ratingCursor >= films.length) ratingCursor = 0;
       targets2 = films.slice(ratingCursor, ratingCursor + 30);
@@ -24816,10 +24882,15 @@ async function cloudRefresh(opts) {
               candidates = c;
             }
           }
-          const hit = await fetchFilmRating(lbUser, candidates);
+          const hit = await fetchFilmRating(lbUser, candidates, { knownSlug: !!first.slug });
           if (hit) {
             for (const e of group) {
               if (!e.slug) e.slug = hit.slug;
+              if (hit.noPage) {
+                e.noPage = true;
+                continue;
+              }
+              delete e.noPage;
               if (hit.rating != null && !ratingProtected(e, Date.now())) {
                 e.rating = hit.rating;
                 e.ratingSrc = "diary";
@@ -24945,6 +25016,9 @@ async function cloudRefresh(opts) {
   snapshot.builtBy = "phone";
   snapshot.ratingCursor = ratingCursor;
   snapshot.lbCounts = lbCounts;
+  snapshot.lbPage1 = lbPage1;
+  snapshot.pageSweepAt = pageSweepAt;
+  snapshot.lbRemoved = lbRemoved;
   progress("Saving to cloud");
   const { error: error2 } = await supabase.from("snapshots").upsert({ user_id: uid, data: snapshot, generated_at: snapshot.generatedAt });
   if (error2) throw new Error(`save: ${error2.message}`);
@@ -35548,6 +35622,9 @@ for (const p of targets) {
       // open the app otherwise keep stale season lists, and "New seasons"
       // (plus upcoming episodes) would never learn a season came out
       freshTv: true,
+      // if the site has more films than Letterboxd counts, check every film page
+      // so the removal suspects shown in Settings are current
+      sweepOnDrift: true,
       onProgress: (stage) => {
         if (stage !== last) {
           last = stage;
